@@ -52,9 +52,11 @@ class ApiSource:
     def _auth_params(self) -> dict:
         return {
             "format": "json",
-            "api_key": self._api_key,
-            "api_secret": self._api_secret,
+            "rsu_api_key": self._api_key,
         }
+
+    def _auth_headers(self) -> dict:
+        return {"X-RSU-API-Secret": self._api_secret}
 
     def _get(self, path: str, params: dict) -> object:
         """GET with retry: 3 retries, exponential backoff on 5xx and connection errors."""
@@ -62,7 +64,7 @@ class ApiSource:
         all_params = {**self._auth_params(), **params}
         for attempt in range(MAX_RETRIES + 1):
             try:
-                resp = self._session.get(url, params=all_params, timeout=30)
+                resp = self._session.get(url, params=all_params, headers=self._auth_headers(), timeout=30)
                 if resp.status_code >= 500:
                     if attempt < MAX_RETRIES:
                         delay = RETRY_DELAYS[attempt]
