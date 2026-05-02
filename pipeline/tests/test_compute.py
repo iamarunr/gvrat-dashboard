@@ -72,16 +72,18 @@ def leaderboard():
     )
 
 
-def test_jenna_dagger_is_leader(leaderboard):
-    leader = leaderboard.runners[0]
+def test_jenna_dagger_is_real_leader(leaderboard):
+    # GBM now occupies rank 1 overall; Jenna is the top real runner
+    real_runners = [r for r in leaderboard.runners if not r.virtual]
+    leader = real_runners[0]
     assert leader.bib == 4
     assert leader.firstName == "Jenna"
     assert leader.lastName == "Dagger"
 
 
 def test_jenna_dagger_miles(leaderboard):
-    leader = leaderboard.runners[0]
-    assert leader.miles == pytest.approx(26.3, rel=1e-4)
+    jenna = next(r for r in leaderboard.runners if r.bib == 4)
+    assert jenna.miles == pytest.approx(26.3, rel=1e-4)
 
 
 def test_ranking_is_descending(leaderboard):
@@ -105,14 +107,15 @@ def test_derive_home_us_in_leaderboard(leaderboard):
     assert steve.home == "US-NC"
 
 
-def test_no_virtual_bibs_in_output(leaderboard):
+def test_virtual_bibs_in_output(leaderboard):
+    # Session 3: virtual characters ARE inserted into the leaderboard
     bibs = {r.bib for r in leaderboard.runners}
-    assert 9998 not in bibs  # Buzzard
-    assert 9999 not in bibs  # Gingerbread Man
+    assert 9998 in bibs  # Buzzard
+    assert 9999 in bibs  # Gingerbread Man
 
 
 def test_runners_with_zero_miles_present(leaderboard):
-    zero_miles = [r for r in leaderboard.runners if r.miles == 0.0]
+    zero_miles = [r for r in leaderboard.runners if r.miles == 0.0 and not r.virtual]
     assert len(zero_miles) > 0  # fixture has participants who didn't log May 1
 
 
@@ -127,3 +130,37 @@ def test_multi_activity_bib_summed(leaderboard):
     bib19 = next((r for r in leaderboard.runners if r.bib == 19), None)
     if bib19 is not None:
         assert bib19.miles > 0
+
+
+# --- Session 3: new field assertions ---
+
+def test_jenna_dagger_comp_percent(leaderboard):
+    jenna = next(r for r in leaderboard.runners if r.bib == 4)
+    # round(26.3 / 679 * 100, 2) = 3.87
+    assert jenna.compPercent == pytest.approx(3.87, rel=1e-3)
+
+
+def test_jenna_dagger_km(leaderboard):
+    jenna = next(r for r in leaderboard.runners if r.bib == 4)
+    # round(26.3 * 1.60934, 2) = 42.33
+    assert jenna.km == pytest.approx(42.33, rel=1e-3)
+
+
+def test_jenna_dagger_projected_finish(leaderboard):
+    jenna = next(r for r in leaderboard.runners if r.bib == 4)
+    # daily_pace = 26.3; days = 679/26.3 ≈ 25.8 → date(2026-05-01) + 25 days = 2026-05-26
+    assert jenna.projectedFinish == "2026-05-26"
+    assert jenna.projectedFinishDate == "2026-05-26"
+
+
+def test_zero_mile_runner_projected_finish(leaderboard):
+    zero_runners = [r for r in leaderboard.runners if r.miles == 0.0 and not r.virtual]
+    assert len(zero_runners) > 0
+    for r in zero_runners:
+        assert r.projectedFinish == "—"
+        assert r.projectedFinishDate is None
+
+
+def test_jenna_dagger_rank_display(leaderboard):
+    jenna = next(r for r in leaderboard.runners if r.bib == 4)
+    assert jenna.rankDisplay == "#1"  # top real runner
