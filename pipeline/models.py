@@ -46,6 +46,7 @@ class Participant(BaseModel):
     country: str
     event: str
     status: str
+    eventId: Optional[int] = None  # numeric event ID from RunSignup API (None for CSV source)
 
 
 class Activity(BaseModel):

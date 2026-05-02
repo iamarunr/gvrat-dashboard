@@ -35,4 +35,5 @@ def load_descriptions(race_id: str) -> DescriptionMap:
     if not path.exists():
         return DescriptionMap({})
     data = json.loads(path.read_text(encoding="utf-8"))
-    return DescriptionMap({int(k): v for k, v in data.items()})
+    # Keys are usually integer strings; float strings like "0.1" are truncated to int.
+    return DescriptionMap({int(float(k)): v for k, v in data.items()})

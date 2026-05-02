@@ -1,6 +1,8 @@
-"""CLI entry point: python -m pipeline.main --race gvrat-2026 [--from-csv path/] [--as-of-date YYYY-MM-DD]"""
+"""CLI entry point: python -m pipeline.main --race gvrat-2026 [--from-csv path/] [--as-of-date YYYY-MM-DD] [--max-runners N]"""
 import argparse
 import json
+import logging
+import os
 import sys
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
@@ -10,6 +12,13 @@ from pipeline.compute import build_leaderboard
 from pipeline.descriptions import load_descriptions
 from pipeline.snapshots import save_snapshot
 from pipeline.waypoints import parse_gpx
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s %(levelname)s %(name)s: %(message)s",
+    datefmt="%H:%M:%S",
+)
+log = logging.getLogger(__name__)
 
 
 def _build_meta(leaderboard, config, participants) -> dict:
@@ -42,8 +51,10 @@ def _build_meta(leaderboard, config, participants) -> dict:
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="GVRAT pipeline")
     parser.add_argument("--race", required=True, help="Race ID, e.g. gvrat-2026")
-    parser.add_argument("--from-csv", metavar="DIR", help="Load data from CSVs in DIR instead of the RunSignup API")
+    parser.add_argument("--from-csv", metavar="DIR", help="Load data from CSVs in DIR (skips live API)")
     parser.add_argument("--as-of-date", metavar="YYYY-MM-DD", help="Override the as-of date (for testing)")
+    parser.add_argument("--max-runners", metavar="N", type=int, default=None,
+                        help="Fetch activities for at most N runners (development/testing)")
     args = parser.parse_args(argv)
 
     config = load_race_config(args.race)
@@ -52,7 +63,7 @@ def main(argv: list[str] | None = None) -> int:
 
     gpx_path = Path("races") / args.race / "route.gpx"
     waypoints = parse_gpx(gpx_path)
-    print(f"Loaded {len(waypoints)} waypoints from {gpx_path}")
+    log.info("Loaded %d waypoints from %s", len(waypoints), gpx_path)
 
     # Fairness cutoff: asOfDate = yesterday UTC. See SPEC §1.
     if args.as_of_date:
@@ -62,17 +73,47 @@ def main(argv: list[str] | None = None) -> int:
     day_number = (as_of_date - config.startDate).days + 1
 
     if day_number < 1:
-        print(f"WARNING: as_of_date {as_of_date} is before race start {config.startDate}; day_number={day_number}")
+        log.warning("as_of_date %s is before race start %s; day_number=%d", as_of_date, config.startDate, day_number)
 
     if args.from_csv:
-        from pipeline.csv_source import load_activities, load_participants
-        csv_dir = Path(args.from_csv)
-        participants = load_participants(csv_dir)
-        activities = load_activities(csv_dir)
-        print(f"Loaded {len(participants)} participants, {len(activities)} activities from {csv_dir}")
+        from pipeline.ingestion.csv_source import CsvSource
+        source = CsvSource(Path(args.from_csv))
+        participants = source.load_participants()
+        activities = source.load_activities()
+        log.info("Loaded %d participants, %d activities from %s", len(participants), len(activities), args.from_csv)
     else:
-        print("ERROR: --from-csv is required in Session 2-3. RunSignup API client is Session 4.", file=sys.stderr)
-        return 1
+        api_key = os.environ.get("RUNSIGNUP_API_KEY", "")
+        api_secret = os.environ.get("RUNSIGNUP_API_SECRET", "")
+        if not api_key or not api_secret:
+            print(
+                "ERROR: RUNSIGNUP_API_KEY and RUNSIGNUP_API_SECRET must be set, "
+                "or use --from-csv for CSV mode.",
+                file=sys.stderr,
+            )
+            return 1
+
+        from pipeline.runsignup import ApiSource
+        api = ApiSource(max_runners=args.max_runners)
+
+        # Fetch participants for both event IDs (separate paginated calls per event)
+        participants = api.load_participants(config.runsignup.raceId, config.runsignup.eventIds)
+        log.info("Loaded %d participants from RunSignup API", len(participants))
+
+        # Confirm activity types before fetching activities
+        api.fetch_activity_types(config.runsignup.raceId, config.runsignup.eventIds[0])
+
+        # Skip virtual character bibs when fetching activities
+        virtual_bibs = {
+            config.virtualCharacters.gingerbreadMan.bib,
+            config.virtualCharacters.buzzard.bib,
+        }
+        activities = api.load_activities(
+            config.runsignup.raceId,
+            participants,
+            event_ids=config.runsignup.eventIds,
+            virtual_bibs=virtual_bibs,
+        )
+        log.info("Loaded %d activity records from RunSignup API", len(activities))
 
     leaderboard = build_leaderboard(
         participants=participants,
@@ -106,12 +147,19 @@ def main(argv: list[str] | None = None) -> int:
     snap_path = save_snapshot(leaderboard, args.race, as_of_date)
 
     real_runners = [r for r in leaderboard.runners if not r.virtual]
-    print(f"Written {len(leaderboard.runners)} runners ({len(real_runners)} real) to {lb_path}")
-    print(f"Snapshot: {snap_path}")
-    print(f"Meta: {out_dir / 'meta.json'}")
+    log.info("Written %d runners (%d real) to %s", len(leaderboard.runners), len(real_runners), lb_path)
+    log.info("Snapshot: %s", snap_path)
+    log.info("Meta: %s", out_dir / "meta.json")
     if real_runners:
         leader = real_runners[0]
-        print(f"Leader: {leader.displayName} (bib {leader.bib}) — {leader.miles} miles")
+        log.info("Leader: %s (bib %d) — %.4f miles", leader.displayName, leader.bib, leader.miles)
+
+    # Print top-5 for quick review
+    print(f"\nTop 5 runners (as of {as_of_date}):")
+    for r in leaderboard.runners[:5]:
+        label = f"[virtual:{r.virtualType}]" if r.virtual else ""
+        print(f"  rank={r.rank} bib={r.bib} {r.displayName} {r.miles:.4f} mi {label}")
+
     return 0
 
 

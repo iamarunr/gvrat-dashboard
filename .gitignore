@@ -23,3 +23,6 @@ frontend/out/
 # OS
 .DS_Store
 Thumbs.db
+
+# Downloaded API specs (not source code)
+_apispecs/

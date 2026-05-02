@@ -8,8 +8,8 @@
   "endDate": "2026-09-30",
   "totalDays": 153,
   "runsignup": {
-    "raceId": null,
-    "eventIds": []
+  "raceId": 90457,
+  "eventIds": [1142660, 1142661]
   },
   "virtualCharacters": {
     "gingerbreadMan": { "bib": 9999, "registeredInRunSignup": true },
