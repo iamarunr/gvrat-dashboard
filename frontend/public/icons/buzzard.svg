@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Body -->
+  <ellipse cx="16" cy="17" rx="4" ry="5.5" fill="#2a2a2a"/>
+  <!-- Head/neck -->
+  <ellipse cx="16" cy="9" rx="2.5" ry="3" fill="#e05522"/>
+  <ellipse cx="16" cy="12" rx="1.5" ry="2" fill="#2a2a2a"/>
+  <!-- Beak -->
+  <path d="M15 8 Q16 6 17 8 Q16 9.5 15 8Z" fill="#d4a017"/>
+  <!-- Left wing -->
+  <path d="M12 15 Q4 10 2 14 Q4 18 8 17 Q10 20 12 19Z" fill="#2a2a2a"/>
+  <!-- Right wing -->
+  <path d="M20 15 Q28 10 30 14 Q28 18 24 17 Q22 20 20 19Z" fill="#2a2a2a"/>
+  <!-- Wing highlights -->
+  <path d="M3 14 Q6 12 9 15" fill="none" stroke="#555" stroke-width="0.7"/>
+  <path d="M29 14 Q26 12 23 15" fill="none" stroke="#555" stroke-width="0.7"/>
+  <!-- Tail -->
+  <path d="M14 22 Q16 26 18 22" fill="#2a2a2a" stroke="#1a1a1a" stroke-width="0.5"/>
+  <!-- Talons -->
+  <line x1="14" y1="23" x2="12" y2="27" stroke="#2a2a2a" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="18" y1="23" x2="20" y2="27" stroke="#2a2a2a" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

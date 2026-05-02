@@ -55,6 +55,8 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--as-of-date", metavar="YYYY-MM-DD", help="Override the as-of date (for testing)")
     parser.add_argument("--max-runners", metavar="N", type=int, default=None,
                         help="Fetch activities for at most N runners (development/testing)")
+    parser.add_argument("--rebuild-course", action="store_true",
+                        help="(Re)generate course.geojson from the GPX file and exit")
     args = parser.parse_args(argv)
 
     config = load_race_config(args.race)
@@ -62,6 +64,14 @@ def main(argv: list[str] | None = None) -> int:
     descriptions = load_descriptions(args.race)
 
     gpx_path = Path("races") / args.race / "route.gpx"
+
+    if args.rebuild_course:
+        from pipeline.course import build_course_geojson
+        out_dir = Path("data") / args.race
+        out_dir.mkdir(parents=True, exist_ok=True)
+        build_course_geojson(gpx_path, out_dir / "course.json")
+        return 0
+
     waypoints = parse_gpx(gpx_path)
     log.info("Loaded %d waypoints from %s", len(waypoints), gpx_path)
 

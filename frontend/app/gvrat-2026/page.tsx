@@ -1,7 +1,21 @@
-import { leaderboardData, metaData } from "@/lib/data";
+import { leaderboardData, metaData, courseData } from "@/lib/data";
 import AsOfBanner from "@/components/AsOfBanner";
 import DayCounter from "@/components/DayCounter";
 import Leaderboard from "@/components/Leaderboard";
+import RaceMap from "@/components/RaceMap";
+
+// Convert GeoJSON [lon, lat] → Leaflet [lat, lon]
+function getCourseCoords(): [number, number][] {
+  const route = courseData.features.find(
+    (f) => f.geometry.type === "LineString"
+  );
+  if (!route) return [];
+  return (route.geometry.coordinates as [number, number][]).map(
+    ([lon, lat]) => [lat, lon]
+  );
+}
+
+const courseCoords = getCourseCoords();
 
 export default function GvratDashboard() {
   return (
@@ -21,6 +35,8 @@ export default function GvratDashboard() {
         </div>
 
         <AsOfBanner text={metaData.asOfBannerText} />
+
+        <RaceMap runners={leaderboardData.runners} courseCoords={courseCoords} />
 
         <div className="text-sm text-slate-500 space-x-3">
           <span>{metaData.totalRunnersActive.toLocaleString()} active runners</span>
