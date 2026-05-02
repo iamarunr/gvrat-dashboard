@@ -1,0 +1,18 @@
+{
+  "id": "gvrat-2026",
+  "name": "The Great Virtual Race Across The States 2026",
+  "shortName": "GVRAT 2026",
+  "abbreviation": "RAT",
+  "totalMiles": 679,
+  "startDate": "2026-05-01",
+  "endDate": "2026-09-30",
+  "totalDays": 153,
+  "runsignup": {
+    "raceId": null,
+    "eventIds": []
+  },
+  "virtualCharacters": {
+    "gingerbreadMan": { "bib": 9999, "registeredInRunSignup": true },
+    "buzzard": { "bib": 9998, "registeredInRunSignup": false }
+  }
+}

@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gvrat-pipeline"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "pydantic>=2.7",
+    "requests>=2.32",
+    "gpxpy>=1.6",
+    "python-dateutil>=2.9",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.2"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["pipeline*"]
+
+[tool.pytest.ini_options]
+testpaths = ["pipeline/tests"]
