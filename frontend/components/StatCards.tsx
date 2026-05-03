@@ -1,51 +1,107 @@
 import type { MetaData } from "@/lib/data";
 
-function Card({ label, children }: { label: string; children: React.ReactNode }) {
-  return (
-    <div className="bg-white rounded-lg shadow-sm border border-slate-200 p-4 flex flex-col min-w-0">
-      <span
-        className="text-xs uppercase tracking-wide font-medium"
-        style={{ color: "#6B7280" }}
-      >
-        {label}
-      </span>
-      {children}
-    </div>
-  );
-}
+const DISPLAY = "var(--font-display)";
+const NAVY = "#1B3F6E";
+const GOLD = "#F4A623";
+
+const LABEL: React.CSSProperties = {
+  fontFamily: DISPLAY,
+  fontWeight: 400,
+  fontSize: 9,
+  color: "rgba(0,0,0,0.32)",
+  letterSpacing: "0.18em",
+  textTransform: "uppercase",
+  marginBottom: 3,
+};
+
+const BIG_NUM: React.CSSProperties = {
+  fontFamily: DISPLAY,
+  fontWeight: 800,
+  fontSize: 30,
+  color: NAVY,
+  lineHeight: 1,
+  fontVariantNumeric: "tabular-nums",
+};
+
+const SUBTEXT: React.CSSProperties = {
+  fontSize: 11,
+  color: "rgba(0,0,0,0.28)",
+  marginTop: 3,
+};
+
+const BASE_CARD: React.CSSProperties = {
+  background: "#ffffff",
+  borderRadius: 10,
+  border: "1px solid rgba(0,0,0,0.06)",
+  borderTop: "2px solid transparent",
+  padding: "14px 16px 12px",
+  display: "flex",
+  flexDirection: "column",
+  minWidth: 0,
+};
 
 export default function StatCards({ meta }: { meta: MetaData }) {
   return (
-    <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
-      <Card label="Race Day">
-        <span className="text-3xl font-bold mt-1 tabular-nums" style={{ color: "#1A1A2E" }}>
-          {meta.dayNumber}
-        </span>
-        <span className="text-xs mt-0.5" style={{ color: "#6B7280" }}>
-          of {meta.totalDays} days
-        </span>
-      </Card>
+    <div
+      className="grid grid-cols-2 md:grid-cols-4"
+      style={{
+        gap: 10,
+        background: "#f5f5f3",
+        padding: 14,
+      }}
+    >
+      {/* Race Day */}
+      <div style={BASE_CARD}>
+        <span style={LABEL}>Race Day</span>
+        <span className="stat-value" style={BIG_NUM}>{meta.dayNumber}</span>
+        <span style={SUBTEXT}>of {meta.totalDays} days</span>
+      </div>
 
-      <Card label="Active Runners">
-        <span className="text-3xl font-bold mt-1 tabular-nums" style={{ color: "#1A1A2E" }}>
-          {meta.totalRunnersActive.toLocaleString()}
-        </span>
-      </Card>
+      {/* Active Runners */}
+      <div style={BASE_CARD}>
+        <span style={LABEL}>Active Runners</span>
+        <span className="stat-value" style={BIG_NUM}>{meta.totalRunnersActive.toLocaleString()}</span>
+      </div>
 
-      <Card label="Miles Logged">
-        <span className="text-3xl font-bold mt-1 tabular-nums" style={{ color: "#F4A623" }}>
+      {/* Miles Logged — gold top border */}
+      <div style={{ ...BASE_CARD, borderTop: `2px solid ${GOLD}` }}>
+        <span style={LABEL}>Miles Logged</span>
+        <span className="stat-value" style={{ ...BIG_NUM, color: GOLD }}>
           {meta.totalMilesLogged.toLocaleString()}
         </span>
-      </Card>
+      </div>
 
-      <Card label="Current Leader">
-        <span className="text-base font-bold mt-1 truncate" style={{ color: "#1A1A2E" }}>
+      {/* Current Leader */}
+      <div style={BASE_CARD}>
+        <span style={LABEL}>Current Leader</span>
+        <span
+          className="stat-value name"
+          style={{
+            fontFamily: DISPLAY,
+            fontWeight: 800,
+            fontSize: 18,
+            color: NAVY,
+            lineHeight: 1.2,
+            paddingTop: 4,
+            overflow: "hidden",
+            textOverflow: "ellipsis",
+            whiteSpace: "nowrap",
+          }}
+        >
           {meta.leaderName}
         </span>
-        <span className="text-sm font-semibold tabular-nums" style={{ color: "#F4A623" }}>
+        <span
+          style={{
+            fontFamily: DISPLAY,
+            fontWeight: 500,
+            fontSize: 13,
+            color: GOLD,
+            marginTop: 2,
+          }}
+        >
           {meta.leaderMiles} mi
         </span>
-      </Card>
+      </div>
     </div>
   );
 }

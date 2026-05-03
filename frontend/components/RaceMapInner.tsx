@@ -172,14 +172,20 @@ export default function RaceMapInner({ runners, courseCoords, selectedRunner }: 
       <MapController selectedRunner={selectedRunner} courseCoords={courseCoords} />
 
       <TileLayer
-        url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-        attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-        maxZoom={19}
+        url="https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png"
+        attribution='&copy; <a href="https://stadiamaps.com/">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        maxZoom={20}
       />
 
+      {/* Glow layer beneath the route */}
       <Polyline
         positions={courseCoords}
-        pathOptions={{ color: "#7c3aed", weight: 3, opacity: 0.8 }}
+        pathOptions={{ color: "#F4A623", weight: 14, opacity: 0.15 }}
+      />
+      {/* Main route line */}
+      <Polyline
+        positions={courseCoords}
+        pathOptions={{ color: "#F4A623", weight: 4, opacity: 1 }}
       />
 
       <MarkerClusterGroup chunkedLoading maxClusterRadius={40}>

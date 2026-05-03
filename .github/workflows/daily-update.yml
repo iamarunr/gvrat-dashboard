@@ -1,0 +1,41 @@
+name: Daily Race Update
+
+on:
+  schedule:
+    - cron: '0 12 * * *'  # 12:00 UTC daily — fairness cutoff
+                            # = 7:00 AM CDT in summer
+                            # See SPEC §1 for why this time matters
+  workflow_dispatch:        # allow manual trigger from GitHub UI
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Python dependencies
+        run: pip install -e .
+
+      - name: Run pipeline
+        env:
+          RUNSIGNUP_API_KEY: ${{ secrets.RUNSIGNUP_API_KEY }}
+          RUNSIGNUP_API_SECRET: ${{ secrets.RUNSIGNUP_API_SECRET }}
+        run: |
+          python -m pipeline.main --race gvrat-2026
+
+      - name: Commit updated data
+        run: |
+          git config user.name "GVRAT Bot"
+          git config user.email "bot@gvrat.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "Daily update: $(date -u +%Y-%m-%d)"
+          git push
