@@ -15,12 +15,17 @@ const RaceMapInner = dynamic(() => import("./RaceMapInner"), {
 type Props = {
   runners: Runner[];
   courseCoords: [number, number][];
+  selectedRunner?: Runner | null;
 };
 
-export default function RaceMap({ runners, courseCoords }: Props) {
+export default function RaceMap({ runners, courseCoords, selectedRunner = null }: Props) {
   return (
-    <div className="h-[300px] md:h-[500px] rounded-lg overflow-hidden border border-slate-200 shadow-sm">
-      <RaceMapInner runners={runners} courseCoords={courseCoords} />
+    <div className="h-full w-full">
+      <RaceMapInner
+        runners={runners}
+        courseCoords={courseCoords}
+        selectedRunner={selectedRunner}
+      />
     </div>
   );
 }
