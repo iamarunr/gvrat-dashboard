@@ -1,0 +1,43 @@
+{
+  "bib": 167,
+  "firstName": "Geoffrey",
+  "lastName": "Pedder",
+  "displayName": "Geoffrey Pedder",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 4.02,
+      "km": 6.47,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 2.07,
+      "km": 3.33,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 5.16,
+      "km": 8.3,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 1.57,
+      "km": 2.53,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 4,
+  "activeDays": 2,
+  "restDays": 0
+}

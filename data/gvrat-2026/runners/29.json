@@ -1,0 +1,27 @@
+{
+  "bib": 29,
+  "firstName": "Perky",
+  "lastName": "Garcia",
+  "displayName": "Perky Garcia",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "run",
+      "time": null,
+      "comment": "Morning Doggie Woggie -- Dragon Princess' route choice"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 13.2,
+      "km": 21.24,
+      "type": "run",
+      "time": null,
+      "comment": "Shiprock Half Marathon"
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}

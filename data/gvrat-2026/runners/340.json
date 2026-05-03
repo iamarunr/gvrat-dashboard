@@ -1,0 +1,35 @@
+{
+  "bib": 340,
+  "firstName": "Adam",
+  "lastName": "Korona",
+  "displayName": "Adam Korona",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 1.07,
+      "km": 1.72,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 2.1,
+      "km": 3.38,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 1,
+  "restDays": 1
+}

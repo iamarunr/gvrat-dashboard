@@ -1,0 +1,27 @@
+{
+  "bib": 325,
+  "firstName": "Donna",
+  "lastName": "Burkhart",
+  "displayName": "Donna Burkhart",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 5.71,
+      "km": 9.19,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 5.73,
+      "km": 9.22,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}

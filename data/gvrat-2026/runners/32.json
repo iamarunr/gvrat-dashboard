@@ -1,0 +1,35 @@
+{
+  "bib": 32,
+  "firstName": "AJ",
+  "lastName": "Johnson",
+  "displayName": "AJ Johnson",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 4.79,
+      "km": 7.71,
+      "type": "run",
+      "time": null,
+      "comment": "Extra walking at work."
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 5.19,
+      "km": 8.35,
+      "type": "run",
+      "time": null,
+      "comment": "Trails in Seaville."
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 12.03,
+      "km": 19.36,
+      "type": "run",
+      "time": null,
+      "comment": "Bridge loop with Phil and Tim."
+    }
+  ],
+  "totalActivities": 3,
+  "activeDays": 2,
+  "restDays": 0
+}

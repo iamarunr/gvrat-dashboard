@@ -1,0 +1,35 @@
+{
+  "bib": 128,
+  "firstName": "Tammy",
+  "lastName": "Phillips",
+  "displayName": "Tammy Phillips",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 4.9,
+      "km": 7.89,
+      "type": "run",
+      "time": null,
+      "comment": "1st Day!!"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 2.45,
+      "km": 3.94,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 3.4,
+      "km": 5.47,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 3,
+  "activeDays": 2,
+  "restDays": 0
+}

@@ -1,0 +1,35 @@
+{
+  "bib": 372,
+  "firstName": "Robert",
+  "lastName": "Brand",
+  "displayName": "Robert Brand",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 5.52,
+      "km": 8.88,
+      "type": "run",
+      "time": null,
+      "comment": "Here we go again!"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 4.45,
+      "km": 7.16,
+      "type": "run",
+      "time": null,
+      "comment": "Shopping!"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 9.67,
+      "km": 15.56,
+      "type": "run",
+      "time": null,
+      "comment": "A run in thee parts"
+    }
+  ],
+  "totalActivities": 3,
+  "activeDays": 2,
+  "restDays": 0
+}

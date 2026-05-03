@@ -1,0 +1,27 @@
+{
+  "bib": 99,
+  "firstName": "Matthew",
+  "lastName": "Worden",
+  "displayName": "Matthew Worden",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 6.24,
+      "km": 10.04,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 1,
+  "activeDays": 1,
+  "restDays": 1
+}

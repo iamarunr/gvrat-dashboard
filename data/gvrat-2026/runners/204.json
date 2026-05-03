@@ -1,0 +1,67 @@
+{
+  "bib": 204,
+  "firstName": "Staci",
+  "lastName": "Warden",
+  "displayName": "Staci Warden",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 1.05,
+      "km": 1.69,
+      "type": "run",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 2.19,
+      "km": 3.52,
+      "type": "run",
+      "time": null,
+      "comment": "Walk with Kaileen"
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 0.56,
+      "km": 0.9,
+      "type": "run",
+      "time": null,
+      "comment": "Sniff Trail walk with Cutie"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 0.37,
+      "km": 0.6,
+      "type": "run",
+      "time": null,
+      "comment": "Sniff Trail walk with Cutie"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 1.05,
+      "km": 1.69,
+      "type": "run",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 3.05,
+      "km": 4.91,
+      "type": "run",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 0.7,
+      "km": 1.13,
+      "type": "run",
+      "time": null,
+      "comment": "Sniff Trail walk with Cutie"
+    }
+  ],
+  "totalActivities": 7,
+  "activeDays": 2,
+  "restDays": 0
+}

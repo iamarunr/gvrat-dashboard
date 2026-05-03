@@ -1,0 +1,27 @@
+{
+  "bib": 23,
+  "firstName": "Peggy",
+  "lastName": "Maschino",
+  "displayName": "Peggy Maschino",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 4.03,
+      "km": 6.49,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 4.06,
+      "km": 6.53,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}

@@ -1,0 +1,35 @@
+{
+  "bib": 37,
+  "firstName": "Stefan",
+  "lastName": "Sj\u00f6stedt",
+  "displayName": "Stefan Sj\u00f6stedt",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 9.55,
+      "km": 15.37,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 2.85,
+      "km": 4.59,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 1.76,
+      "km": 2.83,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 3,
+  "activeDays": 2,
+  "restDays": 0
+}

@@ -1,0 +1,27 @@
+{
+  "bib": 64,
+  "firstName": "Siri",
+  "lastName": "Khalsa",
+  "displayName": "Siri Khalsa",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 0,
+  "activeDays": 0,
+  "restDays": 2
+}

@@ -1,0 +1,27 @@
+{
+  "bib": 28,
+  "firstName": "Julie",
+  "lastName": "Berger",
+  "displayName": "Julie Berger",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 3.51,
+      "km": 5.65,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 5.27,
+      "km": 8.48,
+      "type": "run",
+      "time": null,
+      "comment": "Walk with hubby"
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}

@@ -1,0 +1,27 @@
+{
+  "bib": 122,
+  "firstName": "Tim",
+  "lastName": "Reichard",
+  "displayName": "Tim Reichard",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 4.18,
+      "km": 6.73,
+      "type": "run",
+      "time": null,
+      "comment": "Here we go, fingers crossed for consecutive days.  Nice to be tracking you again.  Goal is 4 per day for a week then increase."
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 4.02,
+      "km": 6.47,
+      "type": "run",
+      "time": null,
+      "comment": "Morning, catched full moon under 37 degrees"
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}

@@ -1,0 +1,27 @@
+{
+  "bib": 216,
+  "firstName": "Cheryl",
+  "lastName": "Smith",
+  "displayName": "Cheryl Smith",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 3.45,
+      "km": 5.55,
+      "type": "run",
+      "time": null,
+      "comment": "Treadmill 2% incline"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 1,
+  "activeDays": 1,
+  "restDays": 1
+}

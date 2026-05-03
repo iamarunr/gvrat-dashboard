@@ -1,0 +1,43 @@
+{
+  "bib": 95,
+  "firstName": "Steven",
+  "lastName": "Tuttle",
+  "displayName": "Steven Tuttle",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 4.07,
+      "km": 6.55,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 5.55,
+      "km": 8.93,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 8.2,
+      "km": 13.2,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 2.51,
+      "km": 4.04,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 4,
+  "activeDays": 2,
+  "restDays": 0
+}

@@ -1,0 +1,43 @@
+{
+  "bib": 97,
+  "firstName": "Heidi",
+  "lastName": "Groeger",
+  "displayName": "Heidi Groeger",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 3.04,
+      "km": 4.89,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 1.25,
+      "km": 2.01,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 1.06,
+      "km": 1.71,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 1.23,
+      "km": 1.98,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 4,
+  "activeDays": 2,
+  "restDays": 0
+}

@@ -1,0 +1,35 @@
+{
+  "bib": 237,
+  "firstName": "Bobbi",
+  "lastName": "Ludwig",
+  "displayName": "Bobbi Ludwig",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 4.02,
+      "km": 6.47,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 4.8,
+      "km": 7.72,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 1.01,
+      "km": 1.63,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 3,
+  "activeDays": 2,
+  "restDays": 0
+}

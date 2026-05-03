@@ -1,0 +1,59 @@
+{
+  "bib": 66,
+  "firstName": "Andrew",
+  "lastName": "Pavey",
+  "displayName": "Andrew Pavey",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 1.97,
+      "km": 3.17,
+      "type": "run",
+      "time": null,
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 1.53,
+      "km": 2.46,
+      "type": "run",
+      "time": null,
+      "comment": "Walking the dog."
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 1.03,
+      "km": 1.66,
+      "type": "run",
+      "time": null,
+      "comment": "Neighborhood loop."
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 2.04,
+      "km": 3.28,
+      "type": "run",
+      "time": null,
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 2.03,
+      "km": 3.27,
+      "type": "run",
+      "time": null,
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 0.54,
+      "km": 0.87,
+      "type": "run",
+      "time": null,
+      "comment": "Neighborhood loop."
+    }
+  ],
+  "totalActivities": 6,
+  "activeDays": 2,
+  "restDays": 0
+}

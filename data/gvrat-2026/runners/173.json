@@ -1,0 +1,35 @@
+{
+  "bib": 173,
+  "firstName": "George",
+  "lastName": "Christopher",
+  "displayName": "George Christopher",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 2.05,
+      "km": 3.3,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 1,
+  "restDays": 1
+}

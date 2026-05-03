@@ -1,0 +1,67 @@
+{
+  "bib": 116,
+  "firstName": "Uwe",
+  "lastName": "Hollerbach",
+  "displayName": "Uwe Hollerbach",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 0.58,
+      "km": 0.93,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 5.06,
+      "km": 8.14,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 1.15,
+      "km": 1.85,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 0.56,
+      "km": 0.9,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 3.67,
+      "km": 5.91,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 1.31,
+      "km": 2.11,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 15.16,
+      "km": 24.4,
+      "type": "run",
+      "time": null,
+      "comment": "Sweep last part of Miwok 100K! What an awesome day!"
+    }
+  ],
+  "totalActivities": 7,
+  "activeDays": 2,
+  "restDays": 0
+}

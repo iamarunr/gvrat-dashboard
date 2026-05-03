@@ -1,0 +1,51 @@
+{
+  "bib": 254,
+  "firstName": "Aaron",
+  "lastName": "Francey",
+  "displayName": "Aaron Francey",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 13.81,
+      "km": 22.22,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 0.72,
+      "km": 1.16,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 3.13,
+      "km": 5.04,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 1.91,
+      "km": 3.07,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 1.4,
+      "km": 2.25,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 5,
+  "activeDays": 2,
+  "restDays": 0
+}

@@ -1,0 +1,27 @@
+{
+  "bib": 134,
+  "firstName": "Susan",
+  "lastName": "Erdmann",
+  "displayName": "Susan Erdmann",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 3.1,
+      "km": 4.99,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 14.1,
+      "km": 22.69,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}

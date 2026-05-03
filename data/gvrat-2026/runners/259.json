@@ -1,0 +1,27 @@
+{
+  "bib": 259,
+  "firstName": "Jeff",
+  "lastName": "Russell",
+  "displayName": "Jeff Russell",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 5.07,
+      "km": 8.16,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 8.2,
+      "km": 13.2,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}

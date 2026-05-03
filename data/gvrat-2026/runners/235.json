@@ -1,0 +1,27 @@
+{
+  "bib": 235,
+  "firstName": "Nancy",
+  "lastName": "Emerson",
+  "displayName": "Nancy Emerson",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "run",
+      "time": null,
+      "comment": "2 walks combined- one with Shirley before CF and the other one on our road"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "run",
+      "time": null,
+      "comment": "A beautiful morning on the canal"
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}

@@ -1,0 +1,27 @@
+{
+  "bib": 396,
+  "firstName": "Ann",
+  "lastName": "Dowdy",
+  "displayName": "Ann Dowdy",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 3.6,
+      "km": 5.79,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}

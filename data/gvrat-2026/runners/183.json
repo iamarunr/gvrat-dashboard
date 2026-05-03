@@ -1,0 +1,35 @@
+{
+  "bib": 183,
+  "firstName": "Colleen",
+  "lastName": "Lawrence",
+  "displayName": "Colleen Lawrence",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 2.3,
+      "km": 3.7,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 6.8,
+      "km": 10.94,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 3,
+  "activeDays": 2,
+  "restDays": 0
+}

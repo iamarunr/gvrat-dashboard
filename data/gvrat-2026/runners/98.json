@@ -1,0 +1,43 @@
+{
+  "bib": 98,
+  "firstName": "Jason",
+  "lastName": "Boyle",
+  "displayName": "Jason Boyle",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 3.95,
+      "km": 6.36,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 4.08,
+      "km": 6.57,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 7.35,
+      "km": 11.83,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 3.39,
+      "km": 5.46,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 4,
+  "activeDays": 2,
+  "restDays": 0
+}

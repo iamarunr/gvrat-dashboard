@@ -1,0 +1,59 @@
+{
+  "bib": 177,
+  "firstName": "Ken",
+  "lastName": "Bohn",
+  "displayName": "Ken Bohn",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "run",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 1.12,
+      "km": 1.8,
+      "type": "run",
+      "time": null,
+      "comment": "Walked happy"
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "run",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "run",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "run",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "run",
+      "time": null,
+      "comment": "Walked happy"
+    }
+  ],
+  "totalActivities": 6,
+  "activeDays": 2,
+  "restDays": 0
+}

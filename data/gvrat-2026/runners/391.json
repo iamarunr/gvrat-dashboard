@@ -1,0 +1,35 @@
+{
+  "bib": 391,
+  "firstName": "Ralph",
+  "lastName": "Arvizu",
+  "displayName": "Ralph Arvizu",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 5.02,
+      "km": 8.08,
+      "type": "run",
+      "time": null,
+      "comment": "1.02 Dog 4.00 Treadmill"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 4.17,
+      "km": 6.71,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 1.17,
+      "km": 1.88,
+      "type": "run",
+      "time": null,
+      "comment": "Dog walk"
+    }
+  ],
+  "totalActivities": 3,
+  "activeDays": 2,
+  "restDays": 0
+}

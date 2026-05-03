@@ -1,0 +1,35 @@
+{
+  "bib": 362,
+  "firstName": "Karri",
+  "lastName": "Rozario",
+  "displayName": "Karri Rozario",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 5.2,
+      "km": 8.37,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 3,
+  "activeDays": 2,
+  "restDays": 0
+}

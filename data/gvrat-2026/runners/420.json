@@ -1,0 +1,27 @@
+{
+  "bib": 420,
+  "firstName": "Andrew",
+  "lastName": "Hoyt",
+  "displayName": "Andrew Hoyt",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 6.41,
+      "km": 10.32,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 11.54,
+      "km": 18.57,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}

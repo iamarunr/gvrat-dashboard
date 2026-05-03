@@ -1,0 +1,43 @@
+{
+  "bib": 401,
+  "firstName": "Deb",
+  "lastName": "Bahr",
+  "displayName": "Deb Bahr",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "run",
+      "time": null,
+      "comment": "First mile of GVRAT2026!"
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 2.6,
+      "km": 4.18,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 2.56,
+      "km": 4.12,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 4,
+  "activeDays": 2,
+  "restDays": 0
+}

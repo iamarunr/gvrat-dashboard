@@ -1,0 +1,35 @@
+{
+  "bib": 433,
+  "firstName": "Rebecca",
+  "lastName": "LeBard",
+  "displayName": "Rebecca LeBard",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 6.21,
+      "km": 9.99,
+      "type": "run",
+      "time": null,
+      "comment": "parkrun + commute"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 4.35,
+      "km": 7.0,
+      "type": "run",
+      "time": null,
+      "comment": "Dog walk"
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 1,
+  "restDays": 1
+}

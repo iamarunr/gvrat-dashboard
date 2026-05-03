@@ -1,0 +1,59 @@
+{
+  "bib": 398,
+  "firstName": "Ruth",
+  "lastName": "Thomas",
+  "displayName": "Ruth Thomas",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 0.44,
+      "km": 0.71,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 1.11,
+      "km": 1.79,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 2.06,
+      "km": 3.32,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 1.34,
+      "km": 2.16,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 1.63,
+      "km": 2.62,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 4.61,
+      "km": 7.42,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 6,
+  "activeDays": 2,
+  "restDays": 0
+}

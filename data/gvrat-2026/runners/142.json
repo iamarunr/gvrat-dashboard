@@ -1,0 +1,27 @@
+{
+  "bib": 142,
+  "firstName": "Randy",
+  "lastName": "Bartel",
+  "displayName": "Randy Bartel",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 3.1,
+      "km": 4.99,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 10.0,
+      "km": 16.09,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}
