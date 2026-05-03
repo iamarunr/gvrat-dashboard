@@ -1,0 +1,27 @@
+{
+  "bib": 31,
+  "firstName": "Karen",
+  "lastName": "Maas",
+  "displayName": "Karen Maas",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 12.0,
+      "km": 19.31,
+      "type": "run",
+      "time": null,
+      "comment": "4 and 4 and 4"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}

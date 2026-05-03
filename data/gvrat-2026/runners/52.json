@@ -1,0 +1,51 @@
+{
+  "bib": 52,
+  "firstName": "Diana",
+  "lastName": "Hiatt",
+  "displayName": "Diana Hiatt",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 1.8,
+      "km": 2.9,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 5.1,
+      "km": 8.21,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 5,
+  "activeDays": 2,
+  "restDays": 0
+}

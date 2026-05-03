@@ -1,0 +1,35 @@
+{
+  "bib": 405,
+  "firstName": "Kelly",
+  "lastName": "Remus",
+  "displayName": "Kelly Remus",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 5.34,
+      "km": 8.59,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 3,
+  "activeDays": 2,
+  "restDays": 0
+}

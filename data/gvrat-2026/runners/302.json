@@ -1,0 +1,35 @@
+{
+  "bib": 302,
+  "firstName": "Beth",
+  "lastName": "Rice",
+  "displayName": "Beth Rice",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 3.75,
+      "km": 6.04,
+      "type": "run",
+      "time": null,
+      "comment": "Ran with Merry. She set the pace! Good effort!"
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 1,
+  "restDays": 1
+}

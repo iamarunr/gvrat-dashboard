@@ -1,0 +1,27 @@
+{
+  "bib": 399,
+  "firstName": "Curt",
+  "lastName": "Johnston",
+  "displayName": "Curt Johnston",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 6.2,
+      "km": 9.98,
+      "type": "run",
+      "time": null,
+      "comment": "Rucked 20# 3.0, walked with Izzy 3.2"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 6.23,
+      "km": 10.03,
+      "type": "run",
+      "time": null,
+      "comment": "Ruck 20# 2.15, walk with Izzy in the Arb 4.08"
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}

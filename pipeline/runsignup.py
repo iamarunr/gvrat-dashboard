@@ -300,10 +300,15 @@ def _parse_activity(raw: dict, bib: int) -> Activity:
     # activity type is a numeric ID; store as string
     activity_type = str(raw.get("virtual_race_activity_type_id", "")).strip()
 
+    # tally_split_comment is the runner's note; API doesn't expose duration as a time string
+    comment = str(raw.get("tally_split_comment", "") or "").strip()
+
     return Activity(
         registrationId=str(raw.get("registration_id", "")),
         bib=bib,
         activityDate=act_date,
         tallyValue=tally_str,
         activityType=activity_type,
+        time=None,
+        comment=comment,
     )

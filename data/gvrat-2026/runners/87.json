@@ -1,0 +1,27 @@
+{
+  "bib": 87,
+  "firstName": "Allen",
+  "lastName": "Frost",
+  "displayName": "Allen Frost",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 3.27,
+      "km": 5.26,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 4.05,
+      "km": 6.52,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}

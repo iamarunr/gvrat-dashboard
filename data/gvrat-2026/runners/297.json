@@ -1,0 +1,27 @@
+{
+  "bib": 297,
+  "firstName": "Jamie",
+  "lastName": "Kirby",
+  "displayName": "Jamie Kirby",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 3.09,
+      "km": 4.97,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 1,
+  "activeDays": 1,
+  "restDays": 1
+}

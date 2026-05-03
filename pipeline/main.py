@@ -10,6 +10,7 @@ from pathlib import Path
 from pipeline.config import load_overrides, load_race_config
 from pipeline.compute import build_leaderboard
 from pipeline.descriptions import load_descriptions
+from pipeline.runner_files import save_runner_files
 from pipeline.snapshots import save_snapshot
 from pipeline.waypoints import parse_gpx
 
@@ -156,8 +157,20 @@ def main(argv: list[str] | None = None) -> int:
     # Write snapshot
     snap_path = save_snapshot(leaderboard, args.race, as_of_date)
 
+    # Write per-runner activity files
+    runner_file_count = save_runner_files(
+        participants=participants,
+        activities=activities,
+        leaderboard=leaderboard,
+        config=config,
+        as_of_date=as_of_date,
+        day_number=day_number,
+        race_id=args.race,
+    )
+
     real_runners = [r for r in leaderboard.runners if not r.virtual]
     log.info("Written %d runners (%d real) to %s", len(leaderboard.runners), len(real_runners), lb_path)
+    log.info("Runner files: %d files written to data/%s/runners/", runner_file_count, args.race)
     log.info("Snapshot: %s", snap_path)
     log.info("Meta: %s", out_dir / "meta.json")
     if real_runners:

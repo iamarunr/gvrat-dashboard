@@ -1,0 +1,27 @@
+{
+  "bib": 273,
+  "firstName": "Alison",
+  "lastName": "Phillips",
+  "displayName": "Alison Phillips",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "run",
+      "time": null,
+      "comment": "Downtown Cincinnati"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 1.1,
+      "km": 1.77,
+      "type": "run",
+      "time": null,
+      "comment": "Pup walk"
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}

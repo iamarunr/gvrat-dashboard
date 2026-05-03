@@ -1,0 +1,27 @@
+{
+  "bib": 281,
+  "firstName": "Mercedes",
+  "lastName": "Acosta",
+  "displayName": "Mercedes Acosta",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 16.37,
+      "km": 26.34,
+      "type": "run",
+      "time": null,
+      "comment": "Cam\u00ed Ignasi\u00e0"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 9.94,
+      "km": 16.0,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}

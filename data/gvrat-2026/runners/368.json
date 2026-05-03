@@ -1,0 +1,51 @@
+{
+  "bib": 368,
+  "firstName": "Brian",
+  "lastName": "Nash",
+  "displayName": "Brian Nash",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 3.3,
+      "km": 5.31,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 1.33,
+      "km": 2.14,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 2.12,
+      "km": 3.41,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 6.57,
+      "km": 10.57,
+      "type": "run",
+      "time": null,
+      "comment": "Flying Pig 10k"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 2.1,
+      "km": 3.38,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 5,
+  "activeDays": 2,
+  "restDays": 0
+}

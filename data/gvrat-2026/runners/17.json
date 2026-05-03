@@ -1,0 +1,27 @@
+{
+  "bib": 17,
+  "firstName": "Mary",
+  "lastName": "Crider",
+  "displayName": "Mary Crider",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 13.07,
+      "km": 21.03,
+      "type": "run",
+      "time": null,
+      "comment": "Hometown Half Rochester, MN"
+    }
+  ],
+  "totalActivities": 1,
+  "activeDays": 1,
+  "restDays": 1
+}

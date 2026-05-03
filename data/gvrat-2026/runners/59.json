@@ -1,0 +1,35 @@
+{
+  "bib": 59,
+  "firstName": "Sue",
+  "lastName": "Dionian",
+  "displayName": "Sue Dionian",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 5.05,
+      "km": 8.13,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 3.45,
+      "km": 5.55,
+      "type": "run",
+      "time": null,
+      "comment": "K9 tracking"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 9.92,
+      "km": 15.96,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 3,
+  "activeDays": 2,
+  "restDays": 0
+}

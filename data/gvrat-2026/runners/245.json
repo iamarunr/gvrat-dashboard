@@ -1,0 +1,27 @@
+{
+  "bib": 245,
+  "firstName": "ANDREA",
+  "lastName": "SIMMONSEN",
+  "displayName": "ANDREA SIMMONSEN",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 3.01,
+      "km": 4.84,
+      "type": "run",
+      "time": null,
+      "comment": "Run/walk. Hot & humid. Donkeys, goats, random toddler in a diaper"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 3.71,
+      "km": 5.97,
+      "type": "run",
+      "time": null,
+      "comment": "Hips said no run. Donkeys and parrots out."
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}

@@ -1,0 +1,27 @@
+{
+  "bib": 144,
+  "firstName": "Kevin",
+  "lastName": "Tucker",
+  "displayName": "Kevin Tucker",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 6.9,
+      "km": 11.1,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 1,
+  "activeDays": 1,
+  "restDays": 1
+}

@@ -1,0 +1,27 @@
+{
+  "bib": 298,
+  "firstName": "Julie",
+  "lastName": "White",
+  "displayName": "Julie White",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 9.0,
+      "km": 14.48,
+      "type": "run",
+      "time": null,
+      "comment": "Treadmill and work hood walk"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 7.5,
+      "km": 12.07,
+      "type": "run",
+      "time": null,
+      "comment": "Bear Canyon to Mesa and up"
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}

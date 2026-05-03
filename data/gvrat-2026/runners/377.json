@@ -1,0 +1,43 @@
+{
+  "bib": 377,
+  "firstName": "Dottie",
+  "lastName": "Duncan",
+  "displayName": "Dottie Duncan",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 5.04,
+      "km": 8.11,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 5.67,
+      "km": 9.12,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 4,
+  "activeDays": 2,
+  "restDays": 0
+}

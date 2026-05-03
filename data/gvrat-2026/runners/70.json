@@ -1,0 +1,51 @@
+{
+  "bib": 70,
+  "firstName": "Karice",
+  "lastName": "Scott",
+  "displayName": "Karice Scott",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "run",
+      "time": null,
+      "comment": "Run"
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 10.0,
+      "km": 16.09,
+      "type": "run",
+      "time": null,
+      "comment": "Walk with Helen"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 5,
+  "activeDays": 2,
+  "restDays": 0
+}

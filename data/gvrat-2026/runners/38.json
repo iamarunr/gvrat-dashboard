@@ -1,0 +1,75 @@
+{
+  "bib": 38,
+  "firstName": "Greg",
+  "lastName": "Bisset",
+  "displayName": "Greg Bisset",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 0.45,
+      "km": 0.72,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 3.82,
+      "km": 6.15,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 2.61,
+      "km": 4.2,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 5.39,
+      "km": 8.67,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 0.19,
+      "km": 0.31,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 0.3,
+      "km": 0.48,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 0.41,
+      "km": 0.66,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 1.31,
+      "km": 2.11,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 8,
+  "activeDays": 2,
+  "restDays": 0
+}

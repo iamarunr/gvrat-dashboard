@@ -1,0 +1,27 @@
+{
+  "bib": 150,
+  "firstName": "Joan",
+  "lastName": "Topham",
+  "displayName": "Joan Topham",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 5.75,
+      "km": 9.25,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 4.3,
+      "km": 6.92,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}

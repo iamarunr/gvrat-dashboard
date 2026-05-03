@@ -1,0 +1,43 @@
+{
+  "bib": 162,
+  "firstName": "Benji",
+  "lastName": "Durden",
+  "displayName": "Benji Durden",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 14.0,
+      "km": 22.53,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 1.75,
+      "km": 2.82,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 7.0,
+      "km": 11.27,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 1.66,
+      "km": 2.67,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 4,
+  "activeDays": 2,
+  "restDays": 0
+}

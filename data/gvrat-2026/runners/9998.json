@@ -1,0 +1,30 @@
+{
+  "bib": 9998,
+  "firstName": "Buzzard",
+  "lastName": "",
+  "displayName": "Buzzard",
+  "virtual": true,
+  "virtualType": "buzzard",
+  "dailyPace": 4.4379,
+  "projectedFinish": "2026-09-30",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 4.44,
+      "km": 7.15,
+      "type": "buzzard",
+      "time": null,
+      "comment": "Flying at race pace"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 4.44,
+      "km": 7.15,
+      "type": "buzzard",
+      "time": null,
+      "comment": "Flying at race pace"
+    }
+  ],
+  "runnersAhead": 220,
+  "runnersBehind": 224
+}

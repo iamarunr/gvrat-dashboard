@@ -1,0 +1,27 @@
+{
+  "bib": 89,
+  "firstName": "Aaron",
+  "lastName": "Rathbone",
+  "displayName": "Aaron Rathbone",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 7.5,
+      "km": 12.07,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 6.5,
+      "km": 10.46,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}

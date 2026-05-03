@@ -1,0 +1,27 @@
+{
+  "bib": 408,
+  "firstName": "Thomas",
+  "lastName": "Mangan",
+  "displayName": "Thomas Mangan",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 40.0,
+      "km": 64.37,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 1,
+  "activeDays": 1,
+  "restDays": 1
+}

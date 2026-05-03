@@ -1,0 +1,27 @@
+{
+  "bib": 61,
+  "firstName": "Caroline",
+  "lastName": "Underwood",
+  "displayName": "Caroline Underwood",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 1.11,
+      "km": 1.79,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 34.18,
+      "km": 55.01,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}

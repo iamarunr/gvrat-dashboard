@@ -1,0 +1,35 @@
+{
+  "bib": 46,
+  "firstName": "Teresa",
+  "lastName": "Vincent",
+  "displayName": "Teresa Vincent",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 1.02,
+      "km": 1.64,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 0.51,
+      "km": 0.82,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 19.45,
+      "km": 31.3,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 3982 Sasquatch \ud83e\udec8 Shuffle 30k Trail Run in Mission Tejas State Park"
+    }
+  ],
+  "totalActivities": 3,
+  "activeDays": 2,
+  "restDays": 0
+}

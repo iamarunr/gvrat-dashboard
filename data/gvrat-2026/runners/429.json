@@ -1,0 +1,27 @@
+{
+  "bib": 429,
+  "firstName": "Randy",
+  "lastName": "Cocek",
+  "displayName": "Randy Cocek",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 4.97,
+      "km": 8.0,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 7.21,
+      "km": 11.6,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}

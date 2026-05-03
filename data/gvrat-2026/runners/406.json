@@ -1,0 +1,27 @@
+{
+  "bib": 406,
+  "firstName": "Bob",
+  "lastName": "Peacock",
+  "displayName": "Bob Peacock",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 7.31,
+      "km": 11.76,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 1,
+  "activeDays": 1,
+  "restDays": 1
+}

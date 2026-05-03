@@ -1,0 +1,35 @@
+{
+  "bib": 174,
+  "firstName": "Mattias",
+  "lastName": "Pehrsson",
+  "displayName": "Mattias Pehrsson",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 4.35,
+      "km": 7.0,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 3.73,
+      "km": 6.0,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 18.64,
+      "km": 30.0,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 3,
+  "activeDays": 2,
+  "restDays": 0
+}

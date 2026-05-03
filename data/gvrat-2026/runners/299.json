@@ -1,0 +1,27 @@
+{
+  "bib": 299,
+  "firstName": "Ashley",
+  "lastName": "Brucato",
+  "displayName": "Ashley Brucato",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 1.35,
+      "km": 2.17,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 0.77,
+      "km": 1.24,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}

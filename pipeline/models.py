@@ -55,6 +55,8 @@ class Activity(BaseModel):
     activityDate: date
     tallyValue: str
     activityType: str
+    time: Optional[str] = None   # HH:MM:SS duration string; null for API-sourced activities
+    comment: str = ""             # runner's note; never null
 
 
 class Waypoint(BaseModel):

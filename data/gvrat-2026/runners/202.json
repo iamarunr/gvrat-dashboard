@@ -1,0 +1,35 @@
+{
+  "bib": 202,
+  "firstName": "Christian",
+  "lastName": "McMahon",
+  "displayName": "Christian McMahon",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 1.47,
+      "km": 2.37,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 6.15,
+      "km": 9.9,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 3,
+  "activeDays": 2,
+  "restDays": 0
+}

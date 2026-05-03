@@ -1,0 +1,51 @@
+{
+  "bib": 239,
+  "firstName": "Dean",
+  "lastName": "Livingston",
+  "displayName": "Dean Livingston",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 6.87,
+      "km": 11.06,
+      "type": "run",
+      "time": null,
+      "comment": "Morning run"
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 6.09,
+      "km": 9.8,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 3.31,
+      "km": 5.33,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 8.54,
+      "km": 13.74,
+      "type": "run",
+      "time": null,
+      "comment": "Trail run nose hill"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 3.48,
+      "km": 5.6,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 5,
+  "activeDays": 2,
+  "restDays": 0
+}

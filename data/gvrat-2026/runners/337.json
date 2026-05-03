@@ -1,0 +1,27 @@
+{
+  "bib": 337,
+  "firstName": "Gwen",
+  "lastName": "Van Ark",
+  "displayName": "Gwen Van Ark",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 10.4,
+      "km": 16.74,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 1,
+  "activeDays": 1,
+  "restDays": 1
+}

@@ -1,0 +1,43 @@
+{
+  "bib": 246,
+  "firstName": "Markus",
+  "lastName": "Gipner",
+  "displayName": "Markus Gipner",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 4.24,
+      "km": 6.82,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 1.19,
+      "km": 1.92,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 4.16,
+      "km": 6.69,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 2.62,
+      "km": 4.22,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 4,
+  "activeDays": 2,
+  "restDays": 0
+}

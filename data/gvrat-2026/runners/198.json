@@ -1,0 +1,43 @@
+{
+  "bib": 198,
+  "firstName": "Lars",
+  "lastName": "Kronf\u00e4lt",
+  "displayName": "Lars Kronf\u00e4lt",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 3.42,
+      "km": 5.5,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 1.12,
+      "km": 1.8,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 3.28,
+      "km": 5.28,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 5.82,
+      "km": 9.37,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 4,
+  "activeDays": 2,
+  "restDays": 0
+}

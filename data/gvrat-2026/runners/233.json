@@ -1,0 +1,27 @@
+{
+  "bib": 233,
+  "firstName": "Tommy",
+  "lastName": "Holder",
+  "displayName": "Tommy Holder",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 34.1,
+      "km": 54.88,
+      "type": "run",
+      "time": null,
+      "comment": "3"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 1,
+  "activeDays": 1,
+  "restDays": 1
+}

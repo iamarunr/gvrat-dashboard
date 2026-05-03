@@ -1,0 +1,27 @@
+{
+  "bib": 446,
+  "firstName": "Anastasia",
+  "lastName": "Vadera",
+  "displayName": "Anastasia Vadera",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 2.59,
+      "km": 4.17,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 4.86,
+      "km": 7.82,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}

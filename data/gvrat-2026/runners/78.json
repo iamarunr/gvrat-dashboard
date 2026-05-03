@@ -1,0 +1,27 @@
+{
+  "bib": 78,
+  "firstName": "Robert",
+  "lastName": "Leigh",
+  "displayName": "Robert Leigh",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 4.85,
+      "km": 7.81,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 5.4,
+      "km": 8.69,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}

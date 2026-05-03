@@ -1,0 +1,27 @@
+{
+  "bib": 187,
+  "firstName": "Claire",
+  "lastName": "Dee",
+  "displayName": "Claire Dee",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 6.66,
+      "km": 10.72,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 7.64,
+      "km": 12.3,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}

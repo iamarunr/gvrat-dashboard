@@ -1,0 +1,83 @@
+{
+  "bib": 115,
+  "firstName": "Eric",
+  "lastName": "Jannon",
+  "displayName": "Eric Jannon",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 2.13,
+      "km": 3.43,
+      "type": "run",
+      "time": null,
+      "comment": "Morning walk."
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 4.72,
+      "km": 7.6,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 0.87,
+      "km": 1.4,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 15.21,
+      "km": 24.48,
+      "type": "run",
+      "time": null,
+      "comment": "sunset beach run"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 10.73,
+      "km": 17.27,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 3.3,
+      "km": 5.31,
+      "type": "run",
+      "time": null,
+      "comment": "Run following Elliot on bike"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 1.01,
+      "km": 1.63,
+      "type": "run",
+      "time": null,
+      "comment": "Warm up (with E)"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 1.82,
+      "km": 2.93,
+      "type": "run",
+      "time": null,
+      "comment": "Evening run with Elliot"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 1.19,
+      "km": 1.92,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 9,
+  "activeDays": 2,
+  "restDays": 0
+}

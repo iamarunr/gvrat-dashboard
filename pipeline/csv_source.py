@@ -46,11 +46,14 @@ def load_activities(csv_dir: Path) -> list[Activity]:
                 raw_date = row.get("Activity Date", "").strip()
                 if not raw_date:
                     continue
+                raw_time = row.get("Time", "").strip()
                 activities.append(Activity(
                     registrationId=row["Registration ID"].strip(),
                     bib=int(row["Bib No."].strip()),
                     activityDate=_parse_date(raw_date),
                     tallyValue=row["Tally Value"].strip(),
                     activityType=row.get("Activity Type", "").strip(),
+                    time=raw_time or None,
+                    comment=row.get("Comment", "").strip(),
                 ))
     return activities

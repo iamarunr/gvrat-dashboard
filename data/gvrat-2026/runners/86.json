@@ -1,0 +1,43 @@
+{
+  "bib": 86,
+  "firstName": "Damaris",
+  "lastName": "Rosich-Schwartz",
+  "displayName": "Damaris Rosich-Schwartz",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 1.41,
+      "km": 2.27,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 3.01,
+      "km": 4.84,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 4,
+  "activeDays": 2,
+  "restDays": 0
+}

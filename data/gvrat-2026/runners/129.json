@@ -1,0 +1,27 @@
+{
+  "bib": 129,
+  "firstName": "Nancy",
+  "lastName": "Warden",
+  "displayName": "Nancy Warden",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 1,
+  "activeDays": 1,
+  "restDays": 1
+}

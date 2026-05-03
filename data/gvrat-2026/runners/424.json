@@ -1,0 +1,27 @@
+{
+  "bib": 424,
+  "firstName": "Kim",
+  "lastName": "Beerhorst",
+  "displayName": "Kim Beerhorst",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 6.23,
+      "km": 10.03,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 13.42,
+      "km": 21.6,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 0
+}

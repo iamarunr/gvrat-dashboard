@@ -1,0 +1,27 @@
+{
+  "bib": 10,
+  "firstName": "Malisa",
+  "lastName": "Anderson-Strait",
+  "displayName": "Malisa Anderson-Strait",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 28.8,
+      "km": 46.35,
+      "type": "run",
+      "time": null,
+      "comment": "State 45 NM -Shiprock marathon!"
+    }
+  ],
+  "totalActivities": 1,
+  "activeDays": 1,
+  "restDays": 1
+}

@@ -1,0 +1,35 @@
+{
+  "bib": 312,
+  "firstName": "Pamela",
+  "lastName": "Blackmon",
+  "displayName": "Pamela Blackmon",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 6.15,
+      "km": 9.9,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 5.02,
+      "km": 8.08,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 5.02,
+      "km": 8.08,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 3,
+  "activeDays": 2,
+  "restDays": 0
+}

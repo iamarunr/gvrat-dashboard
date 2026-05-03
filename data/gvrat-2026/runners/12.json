@@ -1,0 +1,27 @@
+{
+  "bib": 12,
+  "firstName": "Dorothy",
+  "lastName": "Jonas",
+  "displayName": "Dorothy Jonas",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 4.5,
+      "km": 7.24,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 1,
+  "activeDays": 1,
+  "restDays": 1
+}
