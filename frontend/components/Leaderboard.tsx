@@ -15,6 +15,7 @@ const NAVY = "#1B3F6E";
 const GOLD = "#F4A623";
 const RED = "#C0392B";
 const GREEN = "#27AE60";
+const DISPLAY = "var(--font-display)";
 
 function getCountry(home: string): string {
   return home.startsWith("US-") ? "US" : home;
@@ -50,14 +51,14 @@ function sortRunners(rows: Runner[], sort: SortKey): Runner[] {
 type ColDef = {
   id: string;
   header: string;
-  mobile: boolean;
+  cssClass?: string;
   align?: "right";
   render: (r: Runner) => React.ReactNode;
 };
 
 const COLS: ColDef[] = [
   {
-    id: "pos", header: "Pos", mobile: true, align: "right",
+    id: "pos", header: "Pos", cssClass: "", align: "right",
     render: (r) => (
       <span
         className="tabular-nums font-bold"
@@ -68,11 +69,11 @@ const COLS: ColDef[] = [
     ),
   },
   {
-    id: "bib", header: "Bib", mobile: true, align: "right",
+    id: "bib", header: "Bib", cssClass: "col-bib", align: "right",
     render: (r) => <span className="tabular-nums">{r.bib}</span>,
   },
   {
-    id: "name", header: "Participant's Name", mobile: true,
+    id: "name", header: "Participant's Name", cssClass: "",
     render: (r) => {
       const icon =
         r.virtualType === "gingerbread" ? (
@@ -90,23 +91,23 @@ const COLS: ColDef[] = [
     },
   },
   {
-    id: "event", header: "Event", mobile: false,
+    id: "event", header: "Event", cssClass: "col-event",
     render: (r) => r.event,
   },
   {
-    id: "home", header: "Home", mobile: true,
+    id: "home", header: "Home", cssClass: "col-home",
     render: (r) => r.home,
   },
   {
-    id: "gender", header: "G", mobile: true,
+    id: "gender", header: "G", cssClass: "col-g",
     render: (r) => r.gender,
   },
   {
-    id: "age", header: "A", mobile: true, align: "right",
+    id: "age", header: "A", cssClass: "col-a", align: "right",
     render: (r) => <span className="tabular-nums">{r.age}</span>,
   },
   {
-    id: "miles", header: "Miles", mobile: true, align: "right",
+    id: "miles", header: "Miles", cssClass: "", align: "right",
     render: (r) =>
       r.miles >= FINISH_MILES ? (
         <span className="font-semibold" style={{ color: GREEN }}>FINISHED 🎉</span>
@@ -115,24 +116,24 @@ const COLS: ColDef[] = [
       ),
   },
   {
-    id: "km", header: "KM", mobile: false, align: "right",
+    id: "km", header: "KM", cssClass: "col-km", align: "right",
     render: (r) => <span className="tabular-nums">{formatKm(r.km)}</span>,
   },
   {
-    id: "comp", header: "Comp%", mobile: true, align: "right",
+    id: "comp", header: "Comp%", cssClass: "col-comp", align: "right",
     render: (r) => <span className="tabular-nums">{formatCompPercent(r.compPercent)}</span>,
   },
   {
-    id: "proj", header: "Proj Fin", mobile: true,
+    id: "proj", header: "Proj Fin", cssClass: "",
     render: (r) => formatProjFinish(r.projectedFinish),
   },
   {
-    id: "genderPlace", header: "Gender Place", mobile: false, align: "right",
+    id: "genderPlace", header: "Gender Place", cssClass: "col-genderplace", align: "right",
     render: (r) =>
       r.genderRank != null ? <span className="tabular-nums">#{r.genderRank}</span> : "—",
   },
   {
-    id: "eventGen", header: "Event Gen", mobile: false,
+    id: "eventGen", header: "Event Gen", cssClass: "col-eventgen",
     render: (r) => r.eventGen,
   },
 ];
@@ -143,18 +144,18 @@ function rowStyle(
   selectedBib: number | undefined
 ): React.CSSProperties {
   if (r.virtualType === "gingerbread")
-    return { background: "#FFF8E7", borderLeft: `4px solid ${GOLD}` };
+    return { background: "#fffbf0", borderLeft: `3px solid ${GOLD}` };
   if (r.virtualType === "buzzard")
-    return { background: "#FFF5F5", borderLeft: `4px solid ${RED}` };
+    return { background: "#fff5f5", borderLeft: `3px solid ${RED}` };
   if (selectedBib !== undefined && r.bib === selectedBib)
     return {
-      background: "#E8F4FD",
-      borderLeft: `4px solid ${NAVY}`,
+      background: "#e8f4fd",
+      borderLeft: `3px solid ${NAVY}`,
       animation: "borderPulse 2s ease-in-out infinite",
     };
   if (r.rank === 1 && !r.virtual)
-    return { background: "#FFFDF0", borderLeft: `4px solid ${GOLD}` };
-  return { background: idx % 2 === 0 ? "#ffffff" : "#FAFAFA" };
+    return { background: "#FFFDF0", borderLeft: `3px solid ${GOLD}` };
+  return { background: idx % 2 === 0 ? "#ffffff" : "#fafafa" };
 }
 
 type RowProps = {
@@ -170,7 +171,7 @@ function DataRow({ r, idx, selectedBib, onRowClick }: RowProps) {
     <tr
       onClick={() => !r.virtual && onRowClick(r)}
       style={{ ...rowStyle(r, idx, selectedBib), cursor: r.virtual ? "default" : "pointer" }}
-      className={!r.virtual ? "hover:bg-blue-50 transition-colors" : ""}
+      className={!r.virtual ? "hover:bg-[#f0f7ff] transition-colors" : ""}
       title={
         isBuzzard
           ? "Stay ahead of the Buzzard to finish by Sep 30! Runners below this line may not finish in time."
@@ -180,9 +181,7 @@ function DataRow({ r, idx, selectedBib, onRowClick }: RowProps) {
       {COLS.map((col) => (
         <td
           key={col.id}
-          className={`px-3 py-2 whitespace-nowrap text-sm ${
-            col.align === "right" ? "text-right" : ""
-          } ${col.mobile ? "" : "hidden md:table-cell"}`}
+          className={`lb-cell ${col.align === "right" ? "text-right" : ""} ${col.cssClass || ""}`}
         >
           {col.render(r)}
         </td>
@@ -204,7 +203,6 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
   const [sort, setSort] = useState<SortKey>({ col: "pos", dir: "asc" });
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
 
-  // Stable ref avoids stale onSelect in the auto-select effect
   const onSelectRef = useRef(onSelect);
   useEffect(() => {
     onSelectRef.current = onSelect;
@@ -240,7 +238,6 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
     });
   }, [realRunners, searchQuery, genderFilter, countryFilter]);
 
-  // Auto-select when exactly one runner matches search
   useEffect(() => {
     if (searchQuery && realFiltered.length === 1) {
       onSelectRef.current(realFiltered[0]);
@@ -248,7 +245,6 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [realFiltered, searchQuery]);
 
-  // Pool for sort: real filtered + buzzard (buzzard always participates in sorting)
   const pool = useMemo(
     () => (buzzard ? [...realFiltered, buzzard] : realFiltered),
     [realFiltered, buzzard]
@@ -283,76 +279,101 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
     onSelect(selectedRunner?.bib === r.bib ? null : r);
   }
 
+  const pillBase: React.CSSProperties = {
+    fontFamily: DISPLAY,
+    fontSize: 11,
+    textTransform: "uppercase",
+    padding: "4px 12px",
+    borderRadius: 12,
+    lineHeight: 1.4,
+  };
+
   return (
-    <div className="space-y-4">
-      {/* Search bar */}
-      <div className="space-y-3">
-        <div className="relative">
-          <span className="absolute left-4 top-1/2 -translate-y-1/2 text-lg select-none pointer-events-none">
-            🔍
-          </span>
-          <input
-            type="text"
-            placeholder="Search by name or bib number…"
-            value={searchQuery}
-            onChange={(e) => handleSearch(e.target.value)}
-            className="w-full pl-11 pr-4 py-3 rounded-full text-sm focus:outline-none transition-all"
-            style={{ border: `2px solid ${NAVY}`, boxShadow: "0 1px 4px rgba(27,63,110,0.08)" }}
-            onFocus={(e) =>
-              (e.target.style.boxShadow = "0 0 0 3px rgba(244,166,35,0.35)")
-            }
-            onBlur={(e) =>
-              (e.target.style.boxShadow = "0 1px 4px rgba(27,63,110,0.08)")
-            }
-          />
-        </div>
-        <div className="flex flex-wrap items-center gap-3">
-          <div className="flex gap-1">
-            {(["All", "M", "F"] as const).map((g) => (
-              <button
-                key={g}
-                onClick={() => setGenderFilter(g)}
-                className="px-3 py-1 rounded-full text-xs font-medium transition-all"
-                style={
-                  genderFilter === g
-                    ? { background: NAVY, color: "white" }
-                    : { background: "#E5E7EB", color: "#374151" }
-                }
-              >
-                {g === "All" ? "All genders" : g}
-              </button>
-            ))}
-          </div>
-          <select
-            value={countryFilter}
-            onChange={(e) => setCountryFilter(e.target.value)}
-            className="border border-slate-300 rounded-full px-3 py-1 text-xs focus:outline-none bg-white"
-            aria-label="Filter by country"
+    <div className="space-y-3">
+      {/* Search input */}
+      <div style={{ position: "relative" }}>
+        <span
+          style={{
+            position: "absolute",
+            left: 14,
+            top: "50%",
+            transform: "translateY(-50%)",
+            fontSize: 16,
+            pointerEvents: "none",
+            userSelect: "none",
+            lineHeight: 1,
+            zIndex: 1,
+          }}
+        >
+          🔍
+        </span>
+        <input
+          type="text"
+          placeholder="Search by name or bib number…"
+          value={searchQuery}
+          onChange={(e) => handleSearch(e.target.value)}
+          className="search-input"
+          onFocus={(e) => (e.target.style.boxShadow = "0 0 0 3px rgba(244,166,35,0.35)")}
+          onBlur={(e) => (e.target.style.boxShadow = "none")}
+        />
+      </div>
+
+      {/* Filter row */}
+      <div className="flex flex-wrap items-center" style={{ gap: 8 }}>
+        {(["All", "M", "F"] as const).map((g) => (
+          <button
+            key={g}
+            onClick={() => setGenderFilter(g)}
+            className="filter-pill transition-all"
+            style={{
+              ...pillBase,
+              ...(genderFilter === g
+                ? { background: NAVY, color: "#fff" }
+                : { background: "#fff", border: "1px solid rgba(0,0,0,0.12)", color: "rgba(0,0,0,0.6)" }),
+            }}
           >
-            {countries.map((c) => (
-              <option key={c} value={c}>
-                {c === "All" ? "All countries" : c}
-              </option>
-            ))}
-          </select>
-          <span className="text-xs ml-auto" style={{ color: "#6B7280" }}>
-            Showing {visibleRealCount} of {totalRealFiltered} runners
-          </span>
-        </div>
+            {g === "All" ? "All genders" : g}
+          </button>
+        ))}
+        <select
+          value={countryFilter}
+          onChange={(e) => setCountryFilter(e.target.value)}
+          style={{
+            ...pillBase,
+            border: "1px solid rgba(0,0,0,0.12)",
+            background: "#fff",
+            color: "rgba(0,0,0,0.6)",
+            outline: "none",
+            cursor: "pointer",
+          }}
+          aria-label="Filter by country"
+        >
+          {countries.map((c) => (
+            <option key={c} value={c}>
+              {c === "All" ? "All countries" : c}
+            </option>
+          ))}
+        </select>
+        <span
+          className="hidden sm:block"
+          style={{ fontSize: 11, color: "rgba(0,0,0,0.3)", marginLeft: "auto" }}
+        >
+          Showing {visibleRealCount} of {totalRealFiltered} runners
+        </span>
       </div>
 
       {/* Table */}
-      <div className="overflow-x-auto rounded-lg border border-slate-200 shadow-sm">
-        <table className="min-w-full text-sm">
+      <div className="table-wrap rounded-lg border border-slate-200 shadow-sm">
+        <table className="min-w-full">
           <thead>
             <tr>
               {COLS.map((col) => (
                 <th
                   key={col.id}
                   onClick={() => handleSort(col.id)}
-                  className={`px-3 py-2.5 text-xs font-semibold uppercase tracking-wider whitespace-nowrap cursor-pointer select-none transition-opacity hover:opacity-80 ${
+                  className={`lb-header transition-opacity hover:opacity-80 ${
                     col.align === "right" ? "text-right" : "text-left"
-                  } ${col.mobile ? "" : "hidden md:table-cell"}`}
+                  } ${col.cssClass || ""}`}
                   style={{ background: NAVY, color: "white" }}
                 >
                   {col.header}
@@ -366,7 +387,7 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
             </tr>
           </thead>
           <tbody>
-            {/* Gingerbread — always pinned first, not paginated */}
+            {/* Gingerbread — always pinned first */}
             {gingerbread && (
               <DataRow
                 r={gingerbread}
@@ -386,7 +407,7 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
               />
             ))}
 
-            {/* Pinned buzzard separator when outside the current page */}
+            {/* Pinned buzzard separator when outside current page */}
             {showPinnedBuzzard && buzzard && (
               <>
                 <tr>
@@ -420,7 +441,7 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
         <div className="flex justify-center">
           <button
             onClick={() => setVisibleCount((c) => c + PAGE_SIZE)}
-            className="w-full sm:w-auto px-8 py-2.5 rounded-full text-sm font-semibold transition-all hover:opacity-90 active:scale-95"
+            className="show-btn px-8 rounded-full text-sm font-semibold transition-all hover:opacity-90 active:scale-95"
             style={{ background: GOLD, color: "white" }}
           >
             Show next {PAGE_SIZE} ▼

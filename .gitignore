@@ -26,3 +26,6 @@ Thumbs.db
 
 # Downloaded API specs (not source code)
 _apispecs/
+
+# Pipeline cache (future)
+data/gvrat-2026/_cache/

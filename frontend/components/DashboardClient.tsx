@@ -4,10 +4,13 @@ import { useState, useCallback } from "react";
 import type { Runner, MetaData } from "@/lib/data";
 import AsOfBanner from "@/components/AsOfBanner";
 import RaceMap from "@/components/RaceMap";
+import RaceProgress from "@/components/RaceProgress";
 import StatCards from "@/components/StatCards";
 import Leaderboard from "@/components/Leaderboard";
 
 const NAVY = "#1B3F6E";
+const GOLD = "#F4A623";
+const DISPLAY = "var(--font-display)";
 
 type Props = {
   runners: Runner[];
@@ -23,53 +26,94 @@ export default function DashboardClient({ runners, courseCoords, meta }: Props) 
   }, []);
 
   return (
-    <div className="flex flex-col min-h-screen" style={{ background: "#F8F9FA" }}>
-      {/* Header */}
+    <div className="flex flex-col min-h-screen" style={{ background: "#f5f5f3" }}>
+      {/* 1. Title block */}
       <header
-        className="flex items-center px-4 md:px-8 flex-shrink-0"
-        style={{ background: NAVY, height: 64 }}
+        style={{
+          background: "#ffffff",
+          borderBottom: "1px solid rgba(0,0,0,0.05)",
+          padding: "22px 28px 18px",
+          textAlign: "center",
+          flexShrink: 0,
+        }}
       >
-        <div className="flex items-center justify-between w-full">
-          <div>
-            <h1 className="text-xl md:text-2xl font-bold text-white leading-tight">
-              GVRAT 2026
-            </h1>
-            <p className="text-blue-200 text-xs hidden sm:block leading-tight">
-              Great Virtual Race Across The States
-            </p>
-          </div>
-          <div className="text-right">
-            <div
-              className="text-2xl md:text-3xl font-bold tabular-nums leading-tight"
-              style={{ color: "#F4A623" }}
-            >
-              Day {meta.dayNumber}
-            </div>
-            <div className="text-xs text-blue-200 leading-tight">
-              of {meta.totalDays} days
-            </div>
-          </div>
-        </div>
+        <h1
+          className="race-title"
+          style={{
+            fontFamily: DISPLAY,
+            fontWeight: 800,
+            fontSize: 40,
+            color: NAVY,
+            letterSpacing: "0.1em",
+            textTransform: "uppercase",
+            lineHeight: 1,
+            margin: 0,
+          }}
+        >
+          GVRAT 2026
+        </h1>
+        <p
+          className="race-subtitle"
+          style={{
+            fontFamily: DISPLAY,
+            fontWeight: 400,
+            fontSize: 10,
+            color: "rgba(0,0,0,0.35)",
+            letterSpacing: "0.28em",
+            textTransform: "uppercase",
+            marginTop: 5,
+            marginBottom: 0,
+          }}
+        >
+          Great Virtual Race Across The States
+        </p>
+        <div
+          style={{
+            width: 40,
+            height: 2,
+            background: GOLD,
+            margin: "8px auto 0",
+            borderRadius: 2,
+          }}
+        />
       </header>
 
-      {/* As-of banner */}
-      <AsOfBanner text={meta.asOfBannerText} />
+      {/* 2. Stat cards */}
+      <div className="max-w-7xl mx-auto w-full">
+        <StatCards meta={meta} />
+      </div>
 
-      {/* Map — full width, edge to edge */}
+      {/* 3. Map — full bleed, edge to edge */}
       <div
-        className="w-full flex-shrink-0 h-[300px] md:h-[60vh]"
-        style={{ minHeight: 300, boxShadow: "0 4px 16px rgba(0,0,0,0.10)" }}
+        className="map-wrap w-full flex-shrink-0 h-[200px] sm:h-[250px] lg:h-[40vh] relative"
+        style={{
+          borderTop: "1px solid rgba(0,0,0,0.05)",
+          borderBottom: "1px solid rgba(0,0,0,0.05)",
+        }}
       >
         <RaceMap
           runners={runners}
           courseCoords={courseCoords}
           selectedRunner={selectedRunner}
         />
+        <div
+          className="absolute inset-0 pointer-events-none"
+          style={{
+            zIndex: 1000,
+            background:
+              "linear-gradient(to bottom, transparent 65%, rgba(245,245,243,0.45) 100%)",
+          }}
+        />
       </div>
 
-      {/* Main content */}
-      <div className="max-w-7xl mx-auto w-full px-4 md:px-6 py-6 space-y-6 flex-1">
-        <StatCards meta={meta} />
+      {/* 4. Progress bar */}
+      <RaceProgress dayNumber={meta.dayNumber} totalDays={meta.totalDays} />
+
+      {/* 5. Info strip */}
+      <AsOfBanner text={meta.asOfBannerText} />
+
+      {/* 6 + 7. Search + Leaderboard */}
+      <div className="max-w-7xl mx-auto w-full px-4 md:px-6 py-5 flex-1">
         <Leaderboard
           runners={runners}
           selectedRunner={selectedRunner}
@@ -77,7 +121,7 @@ export default function DashboardClient({ runners, courseCoords, meta }: Props) 
         />
       </div>
 
-      {/* Footer */}
+      {/* 8. Footer */}
       <footer
         className="w-full py-4 text-center text-xs flex-shrink-0"
         style={{ background: NAVY, color: "rgba(255,255,255,0.55)" }}

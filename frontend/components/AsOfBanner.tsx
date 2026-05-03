@@ -1,16 +1,60 @@
+const DISPLAY = "var(--font-display)";
+
+// Split text to bold the date and "12:00 UTC"
+const BOLD_RE =
+  /((?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s+\d{4}|12:00 UTC)/;
+const BOLD_TEST =
+  /^(?:(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s+\d{4}|12:00 UTC)$/;
+
+function formatText(text: string): React.ReactNode {
+  return text.split(BOLD_RE).map((part, i) =>
+    BOLD_TEST.test(part) ? (
+      <span key={i} style={{ color: "rgba(0,0,0,0.55)", fontWeight: 500 }}>
+        {part}
+      </span>
+    ) : (
+      <span key={i}>{part}</span>
+    )
+  );
+}
+
 export default function AsOfBanner({ text }: { text: string }) {
   return (
     <div
-      className="px-4 md:px-8 py-2.5 text-sm flex items-start gap-2"
-      style={{ background: "#FFF8E7", borderLeft: "4px solid #F4A623", color: "#92400E" }}
+      style={{
+        background: "white",
+        borderBottom: "1px solid rgba(0,0,0,0.05)",
+        padding: "7px 20px",
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "center",
+        gap: 8,
+      }}
     >
-      <span
-        className="shrink-0 cursor-help"
-        title="Results are locked at midnight UTC so every runner in every time zone has a full day recorded equally — ensuring fairness regardless of where you live."
+      <div
+        aria-hidden="true"
+        style={{
+          width: 13,
+          height: 13,
+          borderRadius: "50%",
+          border: "1px solid rgba(27,63,110,0.3)",
+          color: "#1B3F6E",
+          fontFamily: DISPLAY,
+          fontWeight: 700,
+          fontSize: 8,
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+          flexShrink: 0,
+          lineHeight: 1,
+          userSelect: "none",
+        }}
       >
-        ℹ️
-      </span>
-      <p className="leading-snug">{text}</p>
+        i
+      </div>
+      <p style={{ fontSize: 11, color: "rgba(0,0,0,0.38)", lineHeight: 1.4, margin: 0 }}>
+        {formatText(text)}
+      </p>
     </div>
   );
 }
