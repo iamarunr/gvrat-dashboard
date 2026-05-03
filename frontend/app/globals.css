@@ -36,7 +36,7 @@ body {
 
 /* Leaderboard column responsive visibility */
 @media (max-width: 768px) {
-  .col-km, .col-event, .col-eventgen { display: none; }
+  .col-km, .col-event, .col-eventgen, .col-map { display: none; }
 }
 @media (max-width: 480px) {
   .col-bib, .col-home, .col-g, .col-a, .col-comp, .col-genderplace { display: none; }
@@ -99,9 +99,10 @@ body {
 .runner-stats {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  gap: 12px;
+  gap: 10px;
+  margin-bottom: 12px;
 }
-@media (max-width: 480px) {
+@media (max-width: 640px) {
   .runner-stats { grid-template-columns: repeat(3, 1fr); }
 }
 
@@ -140,3 +141,18 @@ body {
   .filter-pill { min-height: 36px; display: flex !important; align-items: center; }
   .show-btn { min-height: 44px; width: 100%; }
 }
+
+/* Leaderboard map pin button */
+.map-pin-btn:hover { background: #1B3F6E !important; border-color: #1B3F6E !important; }
+
+/* Runner profile back button */
+.back-btn { transition: opacity 0.12s; }
+.back-btn:hover { opacity: 0.85; }
+
+/* Runner profile mini map image */
+.runner-map-img { height: 220px; width: 100%; object-fit: cover; display: block; }
+@media (max-width: 480px) { .runner-map-img { height: 160px; } }
+
+/* Runner profile container */
+.runner-container { max-width: 780px; margin: 0 auto; padding: 0 20px; }
+@media (max-width: 480px) { .runner-container { padding: 0 12px; } }
