@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useMemo, useEffect, useRef } from "react";
+import Link from "next/link";
 import type { Runner } from "@/lib/data";
 import {
   formatMiles,
@@ -83,10 +84,21 @@ const COLS: ColDef[] = [
           // eslint-disable-next-line @next/next/no-img-element
           <img src="/icons/buzzard.svg" width={16} height={16} className="inline -mt-0.5 mr-1" alt="" />
         ) : null;
-      return (
+      const inner = (
         <span className={r.rank === 1 && !r.virtual ? "font-bold" : ""}>
           {icon}{r.displayName}
         </span>
+      );
+      if (r.virtualType === "gingerbread") return inner;
+      return (
+        <Link
+          href={`/gvrat-2026/runner/${r.bib}`}
+          style={{ color: "inherit", textDecoration: "none" }}
+          className="runner-name-link"
+          onClick={(e) => e.stopPropagation()}
+        >
+          {inner}
+        </Link>
       );
     },
   },
