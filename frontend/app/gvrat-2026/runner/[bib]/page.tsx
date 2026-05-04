@@ -285,6 +285,189 @@ function ProgressBar({
   );
 }
 
+function CumulativeChart({
+  activities,
+  pace,
+  isBuzzard,
+}: {
+  activities: ActivityEntry[];
+  pace: number;
+  isBuzzard: boolean;
+}) {
+  if (activities.length === 0) return null;
+
+  const sorted = [...activities].sort(
+    (a, b) => new Date(a.date).getTime() - new Date(b.date).getTime()
+  );
+  const startDate = new Date(sorted[0].date).getTime();
+
+  let cum = 0;
+  const data = sorted.map((a) => {
+    cum += a.miles;
+    const dayIndex = Math.round(
+      (new Date(a.date).getTime() - startDate) / 86400000
+    );
+    return { dayIndex, cum, dateStr: a.date };
+  });
+
+  if (data.length > 0 && data[0].dayIndex !== 0) {
+    data.unshift({ dayIndex: 0, cum: 0, dateStr: sorted[0].date });
+  }
+
+  const maxDays = Math.max(1, data[data.length - 1].dayIndex);
+  const maxMiles = Math.max(cum, maxDays * pace, 10);
+
+  const W = 732;
+  const H = 220;
+  const padX = 10;
+  const padTop = 20;
+  const padBottom = 24; // increased for X axis labels
+
+  const getX = (d: number) => padX + (d / maxDays) * (W - padX * 2);
+  const getY = (m: number) => H - padBottom - (m / maxMiles) * (H - padTop - padBottom);
+
+  const runnerPath =
+    "M " + data.map((d) => `${getX(d.dayIndex)},${getY(d.cum)}`).join(" L ");
+  const buzzardPath = `M ${getX(0)},${getY(0)} L ${getX(maxDays)},${getY(maxDays * pace)}`;
+
+  return (
+    <div
+      style={{
+        paddingTop: 24,
+        paddingBottom: 24,
+        borderTop: "1px solid rgba(0,0,0,0.06)",
+      }}
+    >
+      <div
+        style={{
+          display: "flex",
+          justifyContent: "space-between",
+          alignItems: "baseline",
+          marginBottom: 16,
+        }}
+      >
+        <span
+          style={{
+            fontFamily: DISPLAY,
+            fontWeight: 700,
+            fontSize: 15,
+            color: NAVY,
+            textTransform: "uppercase",
+            letterSpacing: "0.1em",
+          }}
+        >
+          Cumulative Progress
+        </span>
+        <div style={{ display: "flex", gap: 16, fontSize: 11, color: "rgba(0,0,0,0.5)" }}>
+          <span style={{ display: "flex", alignItems: "center", gap: 6 }}>
+            <span style={{ width: 12, height: 3, background: NAVY, borderRadius: 2 }} />
+            Runner
+          </span>
+          {!isBuzzard && (
+            <span style={{ display: "flex", alignItems: "center", gap: 6 }}>
+              <span style={{ width: 12, height: 3, background: "#fca5a5", borderRadius: 2 }} />
+              Buzzard Pace
+            </span>
+          )}
+        </div>
+      </div>
+
+      <div
+        style={{
+          width: "100%",
+          background: "#f8fafc",
+          borderRadius: 8,
+          padding: "16px 0 8px",
+          overflow: "hidden",
+          border: "1px solid rgba(0,0,0,0.04)"
+        }}
+      >
+        <svg viewBox={`0 0 ${W} ${H}`} style={{ width: "100%", height: "auto", display: "block" }}>
+          {[0, 0.25, 0.5, 0.75, 1].map((p) => {
+            const y = getY(maxMiles * p);
+            return (
+              <g key={p}>
+                <line
+                  x1={padX}
+                  y1={y}
+                  x2={W - padX}
+                  y2={y}
+                  stroke="rgba(0,0,0,0.05)"
+                  strokeWidth="1"
+                />
+                <text
+                  x={padX + 4}
+                  y={y - 4}
+                  fill="rgba(0,0,0,0.3)"
+                  fontSize="10"
+                  fontFamily="sans-serif"
+                >
+                  {Math.round(maxMiles * p)} mi
+                </text>
+              </g>
+            );
+          })}
+
+          {!isBuzzard && (
+            <path
+              d={buzzardPath}
+              fill="none"
+              stroke="#fca5a5"
+              strokeWidth="2"
+              strokeDasharray="4 4"
+            />
+          )}
+
+          <path
+            d={`${runnerPath} L ${getX(data[data.length - 1].dayIndex)},${getY(0)} L ${getX(0)},${getY(0)} Z`}
+            fill="rgba(27, 63, 110, 0.08)"
+          />
+          <path
+            d={runnerPath}
+            fill="none"
+            stroke={NAVY}
+            strokeWidth="3"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+          />
+
+          <circle
+            cx={getX(data[data.length - 1].dayIndex)}
+            cy={getY(data[data.length - 1].cum)}
+            r="4"
+            fill={NAVY}
+          />
+          
+          {/* X Axis Labels */}
+          <text
+            x={padX + 4}
+            y={H - 4}
+            fill="rgba(0,0,0,0.4)"
+            fontSize="10"
+            fontFamily="sans-serif"
+            fontWeight="bold"
+          >
+            {shortDate(data[0].dateStr)}
+          </text>
+          {maxDays > 0 && (
+            <text
+              x={W - padX - 4}
+              y={H - 4}
+              fill="rgba(0,0,0,0.4)"
+              fontSize="10"
+              fontFamily="sans-serif"
+              fontWeight="bold"
+              textAnchor="end"
+            >
+              {shortDate(data[data.length - 1].dateStr)}
+            </text>
+          )}
+        </svg>
+      </div>
+    </div>
+  );
+}
+
 export default async function RunnerPage({
   params,
 }: {
@@ -656,117 +839,7 @@ export default async function RunnerPage({
 
       {/* ── BODY SECTIONS ── */}
       <div style={{ maxWidth: 780, margin: "0 auto", padding: "0 24px 32px" }}>
-        {/* Daily Mileage */}
-        <div
-          style={{
-            paddingTop: 24,
-            paddingBottom: 24,
-            borderTop: "1px solid rgba(0,0,0,0.06)",
-          }}
-        >
-          <SectionHead
-            title="Daily Mileage"
-            sub={
-              isBuzzard
-                ? `${pace.toFixed(2)} mi/day · relentless`
-                : `${rf.activeDays > 0 ? (runnerMiles / rf.activeDays).toFixed(2) : "0.00"} mi avg · ${rf.activeDays} active days`
-            }
-          />
-          {rf.activities.map((act, i) => {
-            const isRest = act.type === "rest";
-            const barColor = isBuzzard ? "#dc2626" : act.type === "walk" ? "#93c5fd" : NAVY;
-            const pct = isRest ? 0 : (act.miles / maxDayMiles) * 100;
-            return (
-              <div
-                key={`${act.date}-${i}`}
-                style={{
-                  display: "grid",
-                  gridTemplateColumns: "52px 1fr 64px",
-                  gap: 12,
-                  alignItems: "center",
-                  marginBottom: 10,
-                }}
-              >
-                <div
-                  style={{
-                    fontFamily: DISPLAY,
-                    fontSize: 13,
-                    color: "rgba(0,0,0,0.5)",
-                  }}
-                >
-                  {shortDate(act.date)}
-                </div>
-                <div
-                  className="runner-bar-track"
-                  style={{ background: "#f1f5f9", overflow: "hidden" }}
-                >
-                  {!isRest && (
-                    <div
-                      style={{
-                        width: `${pct}%`,
-                        height: "100%",
-                        background: barColor,
-                        borderRadius: 6,
-                        minWidth: 2,
-                      }}
-                    />
-                  )}
-                </div>
-                <div
-                  style={{
-                    fontFamily: isRest ? "inherit" : DISPLAY,
-                    fontWeight: isRest ? 400 : 700,
-                    fontSize: isRest ? 11 : 14,
-                    color: isRest ? "rgba(0,0,0,0.2)" : NAVY,
-                    fontStyle: isRest ? "italic" : "normal",
-                    textAlign: "right",
-                  }}
-                >
-                  {isRest ? "rest" : act.miles.toFixed(2)}
-                </div>
-              </div>
-            );
-          })}
-
-          {hasWalk && !isBuzzard && (
-            <div
-              style={{
-                display: "flex",
-                gap: 16,
-                marginTop: 14,
-                fontSize: 11,
-                color: "rgba(0,0,0,0.4)",
-              }}
-            >
-              <span style={{ display: "flex", alignItems: "center", gap: 5 }}>
-                <span
-                  style={{
-                    width: 10,
-                    height: 10,
-                    borderRadius: 2,
-                    background: NAVY,
-                    display: "inline-block",
-                    flexShrink: 0,
-                  }}
-                />
-                Run
-              </span>
-              <span style={{ display: "flex", alignItems: "center", gap: 5 }}>
-                <span
-                  style={{
-                    width: 10,
-                    height: 10,
-                    borderRadius: 2,
-                    background: "#93c5fd",
-                    display: "inline-block",
-                    flexShrink: 0,
-                  }}
-                />
-                Walk
-              </span>
-            </div>
-          )}
-        </div>
+        <CumulativeChart activities={rf.activities} pace={pace} isBuzzard={isBuzzard} />
 
         {/* Activity Log */}
         {(() => {
