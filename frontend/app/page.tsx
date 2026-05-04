@@ -27,8 +27,9 @@ export default function Home() {
 
   return (
     <main
+      className="landing-main"
       style={{
-        height: "100vh",
+        minHeight: "100vh",
         backgroundImage: "linear-gradient(to bottom, rgba(13, 17, 28, 0.8), rgba(13, 17, 28, 0.9)), url('/bg-topo.webp')",
         backgroundSize: "cover",
         backgroundPosition: "center",
@@ -36,9 +37,26 @@ export default function Home() {
         flexDirection: "column",
         fontFamily: DISPLAY,
         position: "relative",
-        overflow: "hidden",
       }}
     >
+      <style>{`
+        /* Use svh (small viewport height) on browsers that support it.
+           svh excludes the browser chrome (URL bar, bottom bar) unlike vh,
+           which fixes the iOS Safari scroll trap on landing page. */
+        @supports (min-height: 100svh) {
+          .landing-main { min-height: 100svh !important; }
+        }
+        .landing-logo { width: 160px; height: 160px; }
+        .landing-hero { padding: 0 24px 60px; }
+        @media (max-height: 780px) {
+          .landing-logo { width: 110px !important; height: 110px !important; }
+          .landing-hero { padding: 0 24px 24px !important; }
+        }
+        @media (max-height: 700px) {
+          .landing-logo { width: 80px !important; height: 80px !important; }
+          .landing-hero { padding: 0 20px 16px !important; }
+        }
+      `}</style>
       {/* NAV */}
       <nav
         style={{
@@ -83,6 +101,7 @@ export default function Home() {
 
       {/* HERO */}
       <div
+        className="landing-hero"
         style={{
           position: "relative",
           zIndex: 1,
@@ -91,7 +110,6 @@ export default function Home() {
           flexDirection: "column",
           alignItems: "center",
           justifyContent: "center",
-          padding: "0 24px 60px",
           textAlign: "center",
         }}
       >
@@ -112,6 +130,7 @@ export default function Home() {
             width={160}
             height={160}
             priority
+            className="landing-logo"
             style={{ mixBlendMode: "lighten" }}
           />
         </div>

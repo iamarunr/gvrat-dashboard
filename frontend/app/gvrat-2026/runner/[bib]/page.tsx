@@ -265,18 +265,7 @@ function ProgressBar({
           <div style={{ width: 3, height: 16, background: "rgba(255,255,255,0.8)", borderRadius: 2, transform: "translateY(-14px)" }} />
         </div>
       </div>
-      <div
-        style={{
-          display: "flex",
-          justifyContent: "space-between",
-          fontSize: 12,
-          fontFamily: DISPLAY,
-          fontWeight: 600,
-          textTransform: "uppercase",
-          color: "rgba(255,255,255,0.5)",
-          letterSpacing: "0.14em",
-        }}
-      >
+      <div className="runner-route-labels">
         <span>Start · Baxter Springs, KS</span>
         <span>Finish · Pueblo, CO · 679 mi</span>
       </div>
@@ -740,11 +729,8 @@ export default async function RunnerPage({
                 }}
               >
                 <div
+                  className="runner-loc-item"
                   style={{
-                    display: "flex",
-                    alignItems: "center",
-                    gap: 5,
-                    fontSize: 13,
                     padding: "0 16px 0 0",
                     borderRight: "1px solid rgba(255,255,255,0.12)",
                   }}
@@ -755,11 +741,8 @@ export default async function RunnerPage({
                   </span>
                 </div>
                 <div
+                  className="runner-loc-item"
                   style={{
-                    display: "flex",
-                    alignItems: "center",
-                    gap: 5,
-                    fontSize: 13,
                     padding: "0 16px",
                     borderRight: "1px solid rgba(255,255,255,0.12)",
                   }}

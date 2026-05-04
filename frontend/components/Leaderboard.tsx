@@ -129,7 +129,7 @@ function DataRow({ r, idx, selectedBib, onMapPin, onNavigate }: RowProps) {
       </div>
 
       {/* Col 3: Location pin */}
-      <div style={{ display: "flex", justifyContent: "center" }}>
+      <div className="hide-mobile" style={{ display: "flex", justifyContent: "center" }}>
         <button
           onClick={(e) => {
             e.stopPropagation();
@@ -601,7 +601,7 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
           </span>
           Click runner to view profile
         </span>
-        <span style={{ display: "flex", alignItems: "center", gap: 5 }}>
+        <span className="hide-mobile" style={{ display: "flex", alignItems: "center", gap: 5 }}>
           <span style={{ fontSize: 13 }}>📍</span>
           Click pin to zoom map
         </span>
