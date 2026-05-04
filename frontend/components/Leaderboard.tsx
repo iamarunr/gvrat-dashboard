@@ -463,7 +463,7 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
               background: "#ffffff",
               border: "1px solid rgba(0,0,0,0.1)",
               borderRadius: "22px",
-              padding: "0 16px 0 36px",
+              padding: "0 40px 0 36px",
               fontSize: "14px",
               outline: "none",
               transition: "border-color 0.2s, box-shadow 0.2s",
@@ -477,6 +477,40 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
               e.target.style.boxShadow = "none";
             }}
           />
+          {searchQuery.length > 0 && (
+            <button
+              onClick={() => handleSearch("")}
+              aria-label="Clear search"
+              style={{
+                position: "absolute",
+                right: 12,
+                top: "50%",
+                transform: "translateY(-50%)",
+                background: "rgba(0,0,0,0.08)",
+                color: "rgba(0,0,0,0.5)",
+                border: "none",
+                borderRadius: "50%",
+                width: 20,
+                height: 20,
+                display: "flex",
+                alignItems: "center",
+                justifyContent: "center",
+                cursor: "pointer",
+                padding: 0,
+                zIndex: 1,
+              }}
+              onMouseEnter={(e) => {
+                e.currentTarget.style.background = "rgba(0,0,0,0.15)";
+                e.currentTarget.style.color = "rgba(0,0,0,0.8)";
+              }}
+              onMouseLeave={(e) => {
+                e.currentTarget.style.background = "rgba(0,0,0,0.08)";
+                e.currentTarget.style.color = "rgba(0,0,0,0.5)";
+              }}
+            >
+              <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
+            </button>
+          )}
         </div>
 
         {/* Filters */}
