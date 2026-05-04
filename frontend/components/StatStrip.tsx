@@ -130,11 +130,15 @@ export default function StatStrip({ meta }: { meta: MetaData }) {
               grid-template-columns: repeat(2, 1fr) !important;
             }
             .stat-strip-grid > div {
-              border-bottom: 1px solid rgba(0,0,0,0.07);
+              border-bottom: 1px solid rgba(0,0,0,0.07) !important;
+              border-right: 1px solid rgba(0,0,0,0.07) !important;
+            }
+            .stat-strip-grid > div:nth-child(2n) {
+              border-right: none !important;
             }
             .stat-strip-grid > div:nth-child(3),
             .stat-strip-grid > div:nth-child(4) {
-              border-bottom: none;
+              border-bottom: none !important;
             }
           }
         `}</style>

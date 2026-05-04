@@ -253,6 +253,7 @@ export default function Home() {
 
         {/* Mini Leaderboard Table */}
         <div
+          className="mini-lb-container"
           style={{
             position: "relative",
             zIndex: 2,
@@ -271,6 +272,26 @@ export default function Home() {
             boxShadow: "0 8px 32px rgba(0,0,0,0.3)",
           }}
         >
+          <style>{`
+            @media (max-width: 640px) {
+              .mini-lb-container {
+                flex-direction: column !important;
+                gap: 24px !important;
+                padding: 24px 20px !important;
+              }
+              .mini-lb-divider {
+                width: 100% !important;
+                height: 1px !important;
+              }
+              .mini-lb-name {
+                font-size: 15px !important;
+              }
+              .mini-lb-miles {
+                font-size: 15px !important;
+                white-space: nowrap;
+              }
+            }
+          `}</style>
           {/* Top Women */}
           <div style={{ flex: 1 }}>
             <h3
@@ -291,13 +312,13 @@ export default function Home() {
             <div style={{ display: "flex", flexDirection: "column", gap: 14 }}>
               {topWomen.map((r, i) => (
                 <div key={r.bib} style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
-                  <div style={{ display: "flex", alignItems: "baseline", gap: 12 }}>
+                  <div style={{ display: "flex", alignItems: "baseline", gap: 10 }}>
                     <span style={{ color: "rgba(255,255,255,0.25)", fontSize: 13, fontWeight: 600 }}>{i + 1}</span>
-                    <span style={{ color: "rgba(255,255,255,0.95)", fontSize: 17, fontWeight: 500, letterSpacing: "0.02em" }}>
+                    <span className="mini-lb-name" style={{ color: "rgba(255,255,255,0.95)", fontSize: 17, fontWeight: 500, letterSpacing: "0.02em" }}>
                       {r.displayName.split(" ")[0]} {r.displayName.split(" ").length > 1 ? r.displayName.split(" ")[1][0] + "." : ""}
                     </span>
                   </div>
-                  <span style={{ color: GOLD, fontSize: 17, fontWeight: 700, fontVariantNumeric: "tabular-nums" }}>
+                  <span className="mini-lb-miles" style={{ color: GOLD, fontSize: 17, fontWeight: 700, fontVariantNumeric: "tabular-nums" }}>
                     {r.miles.toFixed(1)} <span style={{ fontSize: 11, color: "rgba(244,166,35,0.6)", fontWeight: 800 }}>MI</span>
                   </span>
                 </div>
@@ -306,7 +327,7 @@ export default function Home() {
           </div>
 
           {/* Vertical Divider */}
-          <div style={{ width: 1, background: "rgba(255,255,255,0.08)" }} />
+          <div className="mini-lb-divider" style={{ width: 1, background: "rgba(255,255,255,0.08)" }} />
 
           {/* Top Men */}
           <div style={{ flex: 1 }}>
@@ -328,13 +349,13 @@ export default function Home() {
             <div style={{ display: "flex", flexDirection: "column", gap: 14 }}>
               {topMen.map((r, i) => (
                 <div key={r.bib} style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
-                  <div style={{ display: "flex", alignItems: "baseline", gap: 12 }}>
+                  <div style={{ display: "flex", alignItems: "baseline", gap: 10 }}>
                     <span style={{ color: "rgba(255,255,255,0.25)", fontSize: 13, fontWeight: 600 }}>{i + 1}</span>
-                    <span style={{ color: "rgba(255,255,255,0.95)", fontSize: 17, fontWeight: 500, letterSpacing: "0.02em" }}>
+                    <span className="mini-lb-name" style={{ color: "rgba(255,255,255,0.95)", fontSize: 17, fontWeight: 500, letterSpacing: "0.02em" }}>
                       {r.displayName.split(" ")[0]} {r.displayName.split(" ").length > 1 ? r.displayName.split(" ")[1][0] + "." : ""}
                     </span>
                   </div>
-                  <span style={{ color: GOLD, fontSize: 17, fontWeight: 700, fontVariantNumeric: "tabular-nums" }}>
+                  <span className="mini-lb-miles" style={{ color: GOLD, fontSize: 17, fontWeight: 700, fontVariantNumeric: "tabular-nums" }}>
                     {r.miles.toFixed(1)} <span style={{ fontSize: 11, color: "rgba(244,166,35,0.6)", fontWeight: 800 }}>MI</span>
                   </span>
                 </div>

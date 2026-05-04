@@ -272,7 +272,7 @@ function DataRow({ r, idx, selectedBib, onMapPin, onNavigate }: RowProps) {
 const HEADER_COLS = [
   { id: "pos",         label: "Pos",                hide: "",            noSort: false },
   { id: "bib",         label: "Bib",                hide: "hide-tablet", noSort: false },
-  { id: "location",    label: "Location",           hide: "",            noSort: true  },
+  { id: "location",    label: "Location",           hide: "hide-mobile", noSort: true  },
   { id: "name",        label: "Participant's Name", hide: "",            noSort: false },
   { id: "gender",      label: "G",                  hide: "",            noSort: false },
   { id: "miles",       label: "Miles",              hide: "",            noSort: false },
@@ -401,7 +401,6 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
   return (
     <div className="space-y-4 max-w-5xl mx-auto w-full">
       <style>{`
-        /* Changed Name column from 220px to 1fr to fill space dynamically */
           .lb-grid-row {
             display: grid;
             grid-template-columns: 40px 36px 50px 1fr 24px 72px 60px 54px 70px 70px;
@@ -416,9 +415,20 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
           }
           @media (max-width: 768px) {
             .lb-grid-row {
-              grid-template-columns: 40px 50px 1fr 24px 72px 70px;
+              grid-template-columns: 40px 1fr 24px 72px 64px;
+              padding: 10px 12px;
+              gap: 8px;
             }
-            .hide-tablet { display: none !important; }
+            .hide-tablet, .hide-mobile { display: none !important; }
+            .lb-header { font-size: 7.5px !important; letter-spacing: 0.1em !important; }
+          }
+          @media (max-width: 430px) {
+            .lb-grid-row {
+              grid-template-columns: 32px 1fr 24px 64px 60px;
+              padding: 10px 8px;
+              gap: 4px;
+            }
+            .lb-header { font-size: 7px !important; }
           }
       `}</style>
 
@@ -604,7 +614,7 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
           {HEADER_COLS.map(({ id, label, hide, noSort }) => (
             <div
               key={id}
-              className={hide}
+              className={`${hide} lb-header`}
               onClick={noSort ? undefined : () => handleSort(id)}
               title={noSort ? undefined : `Sort by ${label}`}
               style={{
