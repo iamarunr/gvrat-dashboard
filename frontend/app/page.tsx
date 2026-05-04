@@ -412,7 +412,7 @@ export default function Home() {
               textAlign: "center",
             }}
           >
-            Updated daily · 12:00 UTC
+            Updated daily · 07:00 CDT (12:00 UTC)
           </p>
         </div>
       </div>
