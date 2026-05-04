@@ -40,11 +40,11 @@ export default function DashboardClient({ runners, courseCoords, meta }: Props) 
           flexShrink: 0,
         }}
       >
-        <img 
-          src="/gvrat-logo-transparent.png" 
-          alt="GVRAT Logo" 
-          width={70} 
-          height={70} 
+        <img
+          src="/gvrat-logo-transparent.png"
+          alt="GVRAT Logo"
+          width={70}
+          height={70}
           style={{ objectFit: "contain", flexShrink: 0 }}
         />
         <div style={{ textAlign: "left", display: "flex", flexDirection: "column" }}>
@@ -138,7 +138,7 @@ export default function DashboardClient({ runners, courseCoords, meta }: Props) 
         className="w-full py-4 text-center text-xs flex-shrink-0"
         style={{ background: NAVY, color: "rgba(255,255,255,0.85)" }}
       >
-        GVRAT 2026 &middot; Updated daily at 12:00 UTC &middot; dashboard.gvrat.com
+        GVRAT 2026 &middot; Updated daily at 07:00 CDT (12:00 UTC) &middot; dashboard.gvrat.racing
       </footer>
     </div>
   );
