@@ -81,11 +81,14 @@ function DataRow({ r, idx, selectedBib, onMapPin, onNavigate }: RowProps) {
   return (
     <div
       className="lb-grid-row"
+      tabIndex={isGingerbread ? undefined : 0}
+      role={isGingerbread ? "row" : "button"}
+      onKeyDown={!isGingerbread ? (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); onNavigate(r); } } : undefined}
       style={{
         background: rowBg,
         borderBottom: "1px solid rgba(0,0,0,0.04)",
         cursor: isGingerbread ? "default" : "pointer",
-        transition: "background 0.1s",
+        transition: "background 0.1s, outline 0.1s",
       }}
       onClick={() => !isGingerbread && onNavigate(r)}
       onMouseEnter={
@@ -120,7 +123,7 @@ function DataRow({ r, idx, selectedBib, onMapPin, onNavigate }: RowProps) {
       {/* Col 2: Bib */}
       <div
         className="hide-tablet"
-        style={{ fontSize: 11, color: "rgba(0,0,0,0.3)", textAlign: "right" }}
+        style={{ fontSize: 12, color: "rgba(0,0,0,0.3)", textAlign: "right" }}
       >
         {r.bib}
       </div>
@@ -159,7 +162,7 @@ function DataRow({ r, idx, selectedBib, onMapPin, onNavigate }: RowProps) {
       <div style={{ display: "flex", alignItems: "center", gap: 5, minWidth: 0 }}>
         {r.virtualType === "gingerbread" && (
           // eslint-disable-next-line @next/next/no-img-element
-          <img src="/icons/gingerbread.svg" width={14} height={14} alt="" style={{ flexShrink: 0 }} />
+          <img src="/icons/gingerbread.svg" width={12} height={12} alt="" style={{ flexShrink: 0 }} />
         )}
         {r.virtualType === "buzzard" && (
           // eslint-disable-next-line @next/next/no-img-element
@@ -193,13 +196,13 @@ function DataRow({ r, idx, selectedBib, onMapPin, onNavigate }: RowProps) {
               flexShrink: 0,
             }}
           >
-            ↗
+            <svg width="8" height="8" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round"><path d="M7 17L17 7"/><path d="M7 7h10v10"/></svg>
           </div>
         )}
       </div>
 
       {/* Col 5: G */}
-      <div style={{ fontSize: 11, color: "rgba(0,0,0,0.4)", textAlign: "center" }}>
+      <div style={{ fontSize: 12, color: "rgba(0,0,0,0.4)", textAlign: "center" }}>
         {r.gender}
       </div>
 
@@ -237,7 +240,7 @@ function DataRow({ r, idx, selectedBib, onMapPin, onNavigate }: RowProps) {
       {/* Col 7: KM */}
       <div
         className="hide-tablet tabular-nums"
-        style={{ fontSize: 11, color: "rgba(0,0,0,0.4)", textAlign: "right" }}
+        style={{ fontSize: 12, color: "rgba(0,0,0,0.4)", textAlign: "right" }}
       >
         {r.km.toFixed(2)}
       </div>
@@ -245,20 +248,20 @@ function DataRow({ r, idx, selectedBib, onMapPin, onNavigate }: RowProps) {
       {/* Col 8: Comp% */}
       <div
         className="hide-tablet tabular-nums"
-        style={{ fontSize: 11, color: "rgba(0,0,0,0.4)", textAlign: "right" }}
+        style={{ fontSize: 12, color: "rgba(0,0,0,0.4)", textAlign: "right" }}
       >
         {r.compPercent.toFixed(2)}%
       </div>
 
       {/* Col 9: Proj Fin */}
-      <div style={{ fontSize: 11, color: "rgba(0,0,0,0.5)" }}>
+      <div style={{ fontSize: 12, color: "rgba(0,0,0,0.5)" }}>
         {formatProjFinShort(r.projectedFinish)}
       </div>
 
       {/* Col 10: Gender Place */}
       <div
         className="hide-tablet tabular-nums"
-        style={{ fontSize: 11, color: "rgba(0,0,0,0.5)", textAlign: "right" }}
+        style={{ fontSize: 12, color: "rgba(0,0,0,0.5)", textAlign: "right" }}
       >
         {r.genderRank != null ? `#${r.genderRank}` : "—"}
       </div>
@@ -375,16 +378,20 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
 
   const pillBase: React.CSSProperties = {
     fontFamily: DISPLAY,
-    fontSize: 11,
+    fontSize: 12,
     textTransform: "uppercase",
-    padding: "6px 14px",
-    borderRadius: 16,
-    lineHeight: 1.4,
+    padding: "0 16px",
+    minHeight: 44,
+    borderRadius: 22,
+    display: "inline-flex",
+    alignItems: "center",
+    justifyContent: "center",
+    lineHeight: 1,
   };
 
   const thBase: React.CSSProperties = {
     fontFamily: DISPLAY,
-    fontSize: 9,
+    fontSize: 11,
     color: "rgba(255,255,255,0.6)",
     letterSpacing: "0.15em",
     textTransform: "uppercase",
@@ -395,19 +402,24 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
     <div className="space-y-4 max-w-5xl mx-auto w-full">
       <style>{`
         /* Changed Name column from 220px to 1fr to fill space dynamically */
-        .lb-grid-row {
-          display: grid;
-          grid-template-columns: 40px 36px 50px 1fr 24px 72px 60px 54px 70px 70px;
-          gap: 12px;
-          padding: 10px 18px;
-          align-items: center;
-        }
-        @media (max-width: 768px) {
           .lb-grid-row {
-            grid-template-columns: 40px 50px 1fr 24px 72px 70px;
+            display: grid;
+            grid-template-columns: 40px 36px 50px 1fr 24px 72px 60px 54px 70px 70px;
+            gap: 12px;
+            padding: 10px 18px;
+            align-items: center;
           }
-          .hide-tablet { display: none !important; }
-        }
+          .lb-grid-row:focus-visible {
+            outline: 2px solid #1B3F6E;
+            outline-offset: -2px;
+            border-radius: 4px;
+          }
+          @media (max-width: 768px) {
+            .lb-grid-row {
+              grid-template-columns: 40px 50px 1fr 24px 72px 70px;
+            }
+            .hide-tablet { display: none !important; }
+          }
       `}</style>
 
       {/* Toolbar: Search + Filters */}
@@ -434,23 +446,25 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
               lineHeight: 1,
               zIndex: 1,
               opacity: 0.5,
+              display: "flex"
             }}
           >
-            🔍
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
           </span>
           <input
             type="text"
             placeholder="Search runners…"
+            aria-label="Search runners by name or bib"
             value={searchQuery}
             onChange={(e) => handleSearch(e.target.value)}
             style={{
               width: "100%",
-              height: "36px",
+              height: "44px",
               background: "#ffffff",
               border: "1px solid rgba(0,0,0,0.1)",
-              borderRadius: "18px",
+              borderRadius: "22px",
               padding: "0 16px 0 36px",
-              fontSize: "13px",
+              fontSize: "14px",
               outline: "none",
               transition: "border-color 0.2s, box-shadow 0.2s",
             }}
@@ -471,6 +485,7 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
             <button
               key={g}
               onClick={() => setGenderFilter(g)}
+              aria-pressed={genderFilter === g}
               className="transition-all"
               style={{
                 ...pillBase,
@@ -517,7 +532,7 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
         style={{
           display: "flex",
           gap: 20,
-          fontSize: 11,
+          fontSize: 12,
           color: "rgba(0,0,0,0.4)",
           padding: "4px 4px 0",
           flexWrap: "wrap",
@@ -538,7 +553,7 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
               fontWeight: 700,
             }}
           >
-            ↗
+            <svg width="8" height="8" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round"><path d="M7 17L17 7"/><path d="M7 7h10v10"/></svg>
           </span>
           Click runner to view profile
         </span>
@@ -632,10 +647,23 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
         <div className="flex justify-center pt-2">
           <button
             onClick={() => setVisibleCount((c) => c + PAGE_SIZE)}
-            className="show-btn px-8 py-2 rounded-full text-sm font-semibold transition-all hover:opacity-90 active:scale-95 shadow-sm"
-            style={{ background: GOLD, color: NAVY }}
+            className="show-btn transition-all hover:opacity-90 active:scale-95 shadow-sm"
+            style={{ 
+              background: GOLD, 
+              color: NAVY,
+              minHeight: 44,
+              padding: "0 32px",
+              borderRadius: 22,
+              fontSize: 14,
+              fontWeight: 600,
+              display: "inline-flex",
+              alignItems: "center"
+            }}
           >
-            Show next {PAGE_SIZE} ▼
+            <span style={{ display: "flex", alignItems: "center", gap: 6, justifyContent: "center" }}>
+              Show next {PAGE_SIZE}
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+            </span>
           </button>
         </div>
       )}

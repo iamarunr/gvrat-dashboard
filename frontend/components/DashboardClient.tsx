@@ -84,6 +84,7 @@ export default function DashboardClient({ runners, courseCoords, meta }: Props) 
       {/* 3. Map — full bleed, edge to edge */}
       <div
         className="map-wrap w-full flex-shrink-0 h-[200px] sm:h-[250px] lg:h-[40vh] relative"
+        aria-label="Interactive race map showing runner locations"
         style={{
           borderTop: "1px solid rgba(0,0,0,0.05)",
           borderBottom: "1px solid rgba(0,0,0,0.05)",
@@ -122,7 +123,7 @@ export default function DashboardClient({ runners, courseCoords, meta }: Props) 
       {/* 8. Footer */}
       <footer
         className="w-full py-4 text-center text-xs flex-shrink-0"
-        style={{ background: NAVY, color: "rgba(255,255,255,0.55)" }}
+        style={{ background: NAVY, color: "rgba(255,255,255,0.85)" }}
       >
         GVRAT 2026 &middot; Updated daily at 12:00 UTC &middot; dashboard.gvrat.com
       </footer>

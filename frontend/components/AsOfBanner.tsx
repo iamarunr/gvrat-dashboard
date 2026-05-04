@@ -34,14 +34,14 @@ export default function AsOfBanner({ text }: { text: string }) {
       <div
         aria-hidden="true"
         style={{
-          width: 13,
-          height: 13,
+          width: 16,
+          height: 16,
           borderRadius: "50%",
-          border: "1px solid rgba(27,63,110,0.3)",
+          border: "1.5px solid rgba(27,63,110,0.5)",
           color: "#1B3F6E",
           fontFamily: DISPLAY,
-          fontWeight: 700,
-          fontSize: 8,
+          fontWeight: 800,
+          fontSize: 10,
           display: "flex",
           alignItems: "center",
           justifyContent: "center",
