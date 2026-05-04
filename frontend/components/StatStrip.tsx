@@ -1,8 +1,4 @@
-/**
- * PROTOTYPE — StatStrip (replaces StatCards for P1 review)
- * Unboxed horizontal stat strip. No card borders, no SaaS template.
- * Numbers are proud and large. Dividers separate, not boxes.
- */
+
 import type { MetaData } from "@/lib/data";
 
 const DISPLAY = "var(--font-display)";
