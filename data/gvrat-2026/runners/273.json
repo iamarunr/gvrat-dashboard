@@ -19,9 +19,25 @@
       "type": "run",
       "time": null,
       "comment": "Pup walk"
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 13.3,
+      "km": 21.4,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 4.5,
+      "km": 7.24,
+      "type": "run",
+      "time": null,
+      "comment": "Walk to and from run dog walk and walk before and after for bibs and bag drop"
     }
   ],
-  "totalActivities": 2,
-  "activeDays": 2,
+  "totalActivities": 4,
+  "activeDays": 3,
   "restDays": 0
 }

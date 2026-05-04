@@ -19,9 +19,17 @@
       "type": "run",
       "time": null,
       "comment": "Morning, catched full moon under 37 degrees"
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 4.18,
+      "km": 6.73,
+      "type": "run",
+      "time": null,
+      "comment": "Bowser lake around dam loop."
     }
   ],
-  "totalActivities": 2,
-  "activeDays": 2,
+  "totalActivities": 3,
+  "activeDays": 3,
   "restDays": 0
 }

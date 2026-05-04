@@ -19,9 +19,17 @@
       "type": "run",
       "time": null,
       "comment": "Daily total on Saturday"
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 11.0,
+      "km": 17.7,
+      "type": "run",
+      "time": null,
+      "comment": "Big day Sunday - lots of back and forth in the yard"
     }
   ],
-  "totalActivities": 2,
-  "activeDays": 2,
+  "totalActivities": 3,
+  "activeDays": 3,
   "restDays": 0
 }

@@ -14,14 +14,30 @@
     },
     {
       "date": "2026-05-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.8,
+      "km": 6.12,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Cincinnati"
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 26.52,
+      "km": 42.68,
+      "type": "run",
+      "time": null,
+      "comment": "Flying Pig Marathon"
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 1.54,
+      "km": 2.48,
+      "type": "run",
+      "time": null,
+      "comment": "Post marathon walk"
     }
   ],
-  "totalActivities": 0,
-  "activeDays": 0,
-  "restDays": 2
+  "totalActivities": 3,
+  "activeDays": 2,
+  "restDays": 1
 }

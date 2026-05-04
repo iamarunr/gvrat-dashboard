@@ -19,9 +19,17 @@
       "type": "run",
       "time": null,
       "comment": "Santa Clarita Trail Race- 60k, 7683 ft in elevation!"
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 3.23,
+      "km": 5.2,
+      "type": "run",
+      "time": null,
+      "comment": "Recovery day"
     }
   ],
-  "totalActivities": 2,
-  "activeDays": 2,
+  "totalActivities": 3,
+  "activeDays": 3,
   "restDays": 0
 }

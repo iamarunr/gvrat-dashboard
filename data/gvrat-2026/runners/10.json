@@ -6,9 +6,9 @@
   "activities": [
     {
       "date": "2026-05-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.8,
+      "km": 4.51,
+      "type": "run",
       "time": null,
       "comment": ""
     },
@@ -19,9 +19,17 @@
       "type": "run",
       "time": null,
       "comment": "State 45 NM -Shiprock marathon!"
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 4.2,
+      "km": 6.76,
+      "type": "run",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 1,
-  "activeDays": 1,
-  "restDays": 1
+  "totalActivities": 3,
+  "activeDays": 3,
+  "restDays": 0
 }
