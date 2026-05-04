@@ -5,9 +5,6 @@ export const metadata: Metadata = {
   title: "GVRAT 2026 — Race Dashboard",
   description:
     "Great Virtual Race Across The States · Live leaderboard and interactive race map",
-  icons: {
-    icon: "https://gvrat.racing/wp-content/uploads/2026/04/cropped-GVRAT-2026-logo-1.png",
-  },
 };
 
 export default function RootLayout({
@@ -16,6 +13,11 @@ export default function RootLayout({
   return (
     <html lang="en" className="h-full">
       <head>
+        <link
+          rel="icon"
+          href="/favicon.png"
+          type="image/png"
+        />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link
