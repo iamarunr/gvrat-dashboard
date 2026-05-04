@@ -521,8 +521,8 @@ export default async function RunnerPage({
   const hasWalk = rf.activities.some((a) => a.type === "walk");
 
   const heroBackground = isBuzzard
-    ? "linear-gradient(to bottom, rgba(69, 10, 10, 0.85), rgba(107, 15, 15, 0.95)), url('/bg-topo.png')"
-    : "linear-gradient(to bottom, rgba(13, 17, 28, 0.85), rgba(13, 17, 28, 0.95)), url('/bg-topo.png')";
+    ? "linear-gradient(to bottom, rgba(69, 10, 10, 0.85), rgba(107, 15, 15, 0.95)), url('/bg-topo.webp')"
+    : "linear-gradient(to bottom, rgba(13, 17, 28, 0.85), rgba(13, 17, 28, 0.95)), url('/bg-topo.webp')";
 
   function SectionHead({ title, sub }: { title: string; sub: string }) {
     return (

@@ -29,7 +29,7 @@ export default function Home() {
     <main
       style={{
         height: "100vh",
-        backgroundImage: "linear-gradient(to bottom, rgba(13, 17, 28, 0.8), rgba(13, 17, 28, 0.9)), url('/bg-topo.png')",
+        backgroundImage: "linear-gradient(to bottom, rgba(13, 17, 28, 0.8), rgba(13, 17, 28, 0.9)), url('/bg-topo.webp')",
         backgroundSize: "cover",
         backgroundPosition: "center",
         display: "flex",
