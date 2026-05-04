@@ -600,21 +600,33 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
       {/* Leaderboard Table */}
       <div className="table-wrap shadow-sm" style={{ borderRadius: 10, overflow: "hidden", border: "1px solid rgba(0,0,0,0.05)" }}>
         {/* Header */}
-        <div className="lb-grid-row" style={{ background: HEADER_BG }}>
+        <div className="lb-grid-row" style={{ background: HEADER_BG, borderRadius: "10px 10px 0 0" }}>
           {HEADER_COLS.map(({ id, label, hide, noSort }) => (
             <div
               key={id}
               className={hide}
               onClick={noSort ? undefined : () => handleSort(id)}
+              title={noSort ? undefined : `Sort by ${label}`}
               style={{
                 ...thBase,
                 cursor: noSort ? "default" : "pointer",
+                display: "flex",
+                alignItems: "center",
+                justifyContent: id === "bib" || id === "km" || id === "comp" || id === "genderPlace" ? "flex-end" : (id === "location" || id === "gender" ? "center" : "flex-start"),
+                gap: 4,
               }}
             >
               {label}
-              {sort.col === id && !noSort && (
-                <span style={{ marginLeft: 3, opacity: 0.6 }}>
-                  {sort.dir === "asc" ? "↑" : "↓"}
+              {!noSort && (
+                <span 
+                  style={{ 
+                    opacity: sort.col === id ? 0.9 : 0.3,
+                    fontSize: sort.col === id ? 12 : 10,
+                    transition: "opacity 0.2s"
+                  }}
+                  className={sort.col !== id ? "hover:opacity-100" : ""}
+                >
+                  {sort.col === id ? (sort.dir === "asc" ? "↑" : "↓") : "↕"}
                 </span>
               )}
             </div>
