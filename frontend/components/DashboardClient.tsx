@@ -5,7 +5,7 @@ import type { Runner, MetaData } from "@/lib/data";
 import AsOfBanner from "@/components/AsOfBanner";
 import RaceMap from "@/components/RaceMap";
 import RaceProgress from "@/components/RaceProgress";
-import StatCards from "@/components/StatCards";
+import StatStrip from "@/components/StatStrip";
 import Leaderboard from "@/components/Leaderboard";
 
 const NAVY = "#1B3F6E";
@@ -26,11 +26,11 @@ export default function DashboardClient({ runners, courseCoords, meta }: Props) 
   }, []);
 
   return (
-    <div className="flex flex-col min-h-screen" style={{ background: "#f5f5f3" }}>
+    <div className="flex flex-col min-h-screen" style={{ background: "var(--surface-bg)" }}>
       {/* 1. Title block */}
       <header
         style={{
-          background: "#ffffff",
+          background: "var(--surface-panel)",
           borderBottom: "1px solid rgba(0,0,0,0.05)",
           padding: "22px 28px 18px",
           textAlign: "center",
@@ -78,10 +78,8 @@ export default function DashboardClient({ runners, courseCoords, meta }: Props) 
         />
       </header>
 
-      {/* 2. Stat cards */}
-      <div className="max-w-7xl mx-auto w-full">
-        <StatCards meta={meta} />
-      </div>
+      {/* 2. Stat strip — unboxed, full bleed */}
+      <StatStrip meta={meta} />
 
       {/* 3. Map — full bleed, edge to edge */}
       <div
@@ -113,7 +111,7 @@ export default function DashboardClient({ runners, courseCoords, meta }: Props) 
       <AsOfBanner text={meta.asOfBannerText} />
 
       {/* 6 + 7. Search + Leaderboard */}
-      <div className="max-w-7xl mx-auto w-full px-4 md:px-6 py-5 flex-1">
+      <div className="mx-auto w-full px-4 md:px-6 py-6 flex-1">
         <Leaderboard
           runners={runners}
           selectedRunner={selectedRunner}

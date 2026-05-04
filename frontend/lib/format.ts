@@ -18,5 +18,5 @@ export function formatProjFinish(proj: string): string {
   if (!proj || proj === "—" || proj === "FINISHED") return proj;
   const d = new Date(proj + "T00:00:00");
   if (isNaN(d.getTime())) return proj;
-  return d.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
+  return d.toLocaleDateString("en-US", { month: "short", day: "numeric" });
 }

@@ -3,12 +3,6 @@
 import { useState, useMemo, useEffect, useRef } from "react";
 import { useRouter } from "next/navigation";
 import type { Runner } from "@/lib/data";
-import {
-  formatMiles,
-  formatKm,
-  formatCompPercent,
-  formatProjFinish,
-} from "@/lib/format";
 
 const PAGE_SIZE = 10;
 const FINISH_MILES = 679;
@@ -19,10 +13,20 @@ const GREEN = "#27AE60";
 const DISPLAY = "var(--font-display)";
 
 const HEADER_BG = "linear-gradient(180deg, #1B3F6E 0%, #163558 100%)";
-const HEADER_COLOR = "rgba(255,255,255,0.6)";
 
 function getCountry(home: string): string {
   return home.startsWith("US-") ? "US" : home;
+}
+
+function formatProjFinShort(projFin: string): string {
+  if (!projFin || projFin === "—") return "—";
+  if (projFin === "FINISHED") return "🎉";
+  try {
+    const date = new Date(projFin + "T00:00:00");
+    return date.toLocaleDateString("en-US", { month: "short", day: "numeric" });
+  } catch {
+    return projFin;
+  }
 }
 
 type SortKey = { col: string; dir: "asc" | "desc" };
@@ -35,14 +39,12 @@ function sortRunners(rows: Runner[], sort: SortKey): Runner[] {
       case "pos": av = a.rank; bv = b.rank; break;
       case "bib": av = a.bib; bv = b.bib; break;
       case "name": av = a.displayName; bv = b.displayName; break;
-      case "home": av = a.home; bv = b.home; break;
       case "gender": av = a.gender; bv = b.gender; break;
       case "miles": av = a.miles; bv = b.miles; break;
       case "km": av = a.km; bv = b.km; break;
       case "comp": av = a.compPercent; bv = b.compPercent; break;
       case "proj": av = a.projectedFinish; bv = b.projectedFinish; break;
       case "genderPlace": av = a.genderRank ?? Infinity; bv = b.genderRank ?? Infinity; break;
-      case "eventGen": av = a.eventGen; bv = b.eventGen; break;
     }
     if (av < bv) return sort.dir === "asc" ? -1 : 1;
     if (av > bv) return sort.dir === "asc" ? 1 : -1;
@@ -50,127 +52,17 @@ function sortRunners(rows: Runner[], sort: SortKey): Runner[] {
   });
 }
 
-type ColDef = {
-  id: string;
-  header: string;
-  cssClass?: string;
-  align?: "right";
-  render: (r: Runner) => React.ReactNode;
-};
+function getPosColor(r: Runner): string {
+  if (r.virtualType === "buzzard") return RED;
+  if (r.rankDisplay === "#1" && !r.virtual) return GOLD;
+  return NAVY;
+}
 
-const COLS: ColDef[] = [
-  {
-    id: "pos", header: "Pos", cssClass: "", align: "right",
-    render: (r) => (
-      <span
-        className="tabular-nums"
-        style={{
-          fontFamily: DISPLAY,
-          fontWeight: 800,
-          fontSize: 16,
-          color: r.rank === 1 && !r.virtual ? GOLD : r.rank <= 3 && !r.virtual ? NAVY : "rgba(0,0,0,0.45)",
-        }}
-      >
-        {r.rankDisplay}
-      </span>
-    ),
-  },
-  {
-    id: "bib", header: "Bib", cssClass: "col-bib", align: "right",
-    render: (r) => <span className="tabular-nums">{r.bib}</span>,
-  },
-  {
-    id: "name", header: "Participant's Name", cssClass: "",
-    render: (r) => r.displayName,
-  },
-  {
-    id: "home", header: "Home", cssClass: "col-home",
-    render: (r) => r.home,
-  },
-  {
-    id: "gender", header: "G", cssClass: "col-g",
-    render: (r) => r.gender,
-  },
-  {
-    id: "miles", header: "Miles", cssClass: "", align: "right",
-    render: (r) =>
-      r.miles >= FINISH_MILES ? (
-        <span className="font-semibold" style={{ color: GREEN }}>FINISHED 🎉</span>
-      ) : (
-        <div style={{ display: "flex", flexDirection: "column", alignItems: "flex-end" }}>
-          <span
-            className="tabular-nums"
-            style={{ fontFamily: DISPLAY, fontWeight: 700, fontSize: 14 }}
-          >
-            {formatMiles(r.miles)}
-          </span>
-          <div
-            className="lb-miles-bar"
-            style={{
-              width: 52,
-              height: 3,
-              background: "#eeece8",
-              borderRadius: 2,
-              marginTop: 4,
-              overflow: "hidden",
-            }}
-          >
-            <div
-              style={{
-                width: `${Math.min(100, r.compPercent)}%`,
-                height: "100%",
-                background: GOLD,
-                borderRadius: 2,
-              }}
-            />
-          </div>
-        </div>
-      ),
-  },
-  {
-    id: "km", header: "KM", cssClass: "col-km", align: "right",
-    render: (r) => <span className="tabular-nums">{formatKm(r.km)}</span>,
-  },
-  {
-    id: "comp", header: "Comp%", cssClass: "col-comp", align: "right",
-    render: (r) => <span className="tabular-nums">{formatCompPercent(r.compPercent)}</span>,
-  },
-  {
-    id: "proj", header: "Proj Fin", cssClass: "",
-    render: (r) => formatProjFinish(r.projectedFinish),
-  },
-  {
-    id: "genderPlace", header: "Gender Place", cssClass: "col-genderplace", align: "right",
-    render: (r) =>
-      r.genderRank != null ? <span className="tabular-nums">#{r.genderRank}</span> : "—",
-  },
-  {
-    id: "eventGen", header: "Event Gen", cssClass: "col-eventgen",
-    render: (r) => r.eventGen,
-  },
-  {
-    id: "map", header: "📍", cssClass: "col-map",
-    render: () => null,
-  },
-];
-
-function rowStyle(
-  r: Runner,
-  idx: number,
-  selectedBib: number | undefined
-): React.CSSProperties {
-  const base: React.CSSProperties = {
-    borderBottom: "0.5px solid rgba(0,0,0,0.06)",
-  };
-  if (r.virtualType === "gingerbread")
-    return { ...base, background: "linear-gradient(90deg, #fffbf0 0%, #ffffff 60%)" };
-  if (r.virtualType === "buzzard")
-    return { ...base, background: "linear-gradient(90deg, #fff5f5 0%, #ffffff 60%)" };
-  if (selectedBib !== undefined && r.bib === selectedBib)
-    return { ...base, background: "#e8f4fd" };
-  if (r.rank === 1 && !r.virtual)
-    return { ...base, background: "#fffdf0" };
-  return { ...base, background: idx % 2 === 0 ? "#ffffff" : "#fafafa" };
+function getRowBg(r: Runner, idx: number, selectedBib: number | undefined): string {
+  if (r.virtualType === "gingerbread") return "linear-gradient(90deg, #fffbf0, #ffffff)";
+  if (r.virtualType === "buzzard") return "linear-gradient(90deg, #fff5f5, #ffffff)";
+  if (selectedBib !== undefined && r.bib === selectedBib) return "#e8f4fd";
+  return idx % 2 === 0 ? "#ffffff" : "#fafafa";
 }
 
 type RowProps = {
@@ -184,121 +76,208 @@ type RowProps = {
 function DataRow({ r, idx, selectedBib, onMapPin, onNavigate }: RowProps) {
   const isGingerbread = r.virtualType === "gingerbread";
   const isBuzzard = r.virtualType === "buzzard";
-  const isClickable = !isGingerbread;
+  const rowBg = getRowBg(r, idx, selectedBib);
 
   return (
-    <tr
-      onClick={() => isClickable && onNavigate(r)}
+    <div
+      className="lb-grid-row"
       style={{
-        ...rowStyle(r, idx, selectedBib),
-        cursor: isClickable ? "pointer" : "default",
+        background: rowBg,
+        borderBottom: "1px solid rgba(0,0,0,0.04)",
+        cursor: isGingerbread ? "default" : "pointer",
+        transition: "background 0.1s",
       }}
-      className={isClickable ? "hover:bg-[#f0f5ff] transition-colors" : ""}
+      onClick={() => !isGingerbread && onNavigate(r)}
+      onMouseEnter={
+        isGingerbread
+          ? undefined
+          : (e) => { (e.currentTarget as HTMLElement).style.background = "#f0f5ff"; }
+      }
+      onMouseLeave={
+        isGingerbread
+          ? undefined
+          : (e) => { (e.currentTarget as HTMLElement).style.background = rowBg; }
+      }
       title={
         isBuzzard
           ? "Stay ahead of the Buzzard to finish by Sep 30! Runners below this line may not finish in time."
           : undefined
       }
     >
-      {COLS.map((col) => {
-        if (col.id === "name") {
-          const icon =
-            r.virtualType === "gingerbread" ? (
-              // eslint-disable-next-line @next/next/no-img-element
-              <img src="/icons/gingerbread.svg" width={16} height={16} className="inline -mt-0.5 mr-1" alt="" />
-            ) : r.virtualType === "buzzard" ? (
-              // eslint-disable-next-line @next/next/no-img-element
-              <img src="/icons/buzzard.svg" width={16} height={16} className="inline -mt-0.5 mr-1" alt="" />
-            ) : null;
+      {/* Col 1: Pos */}
+      <div
+        style={{
+          fontFamily: DISPLAY,
+          fontWeight: 800,
+          fontSize: 14,
+          color: getPosColor(r),
+          textAlign: "right",
+        }}
+      >
+        {r.rankDisplay}
+      </div>
 
-          const badge = !isGingerbread ? (
+      {/* Col 2: Bib */}
+      <div
+        className="hide-tablet"
+        style={{ fontSize: 11, color: "rgba(0,0,0,0.3)", textAlign: "right" }}
+      >
+        {r.bib}
+      </div>
+
+      {/* Col 3: Location pin */}
+      <div style={{ display: "flex", justifyContent: "center" }}>
+        <button
+          onClick={(e) => {
+            e.stopPropagation();
+            onMapPin(r);
+          }}
+          title="Zoom to this runner on the map"
+          style={{
+            width: "24px",
+            height: "24px",
+            borderRadius: "50%",
+            border: "1px solid rgba(0,0,0,0.1)",
+            background: "#ffffff",
+            fontSize: "11px",
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+            cursor: "pointer",
+            flexShrink: 0,
+            padding: 0,
+            margin: "0 auto",
+          }}
+          onMouseEnter={(e) => { (e.currentTarget as HTMLElement).style.background = "#1B3F6E"; }}
+          onMouseLeave={(e) => { (e.currentTarget as HTMLElement).style.background = "#ffffff"; }}
+        >
+          📍
+        </button>
+      </div>
+
+      {/* Col 4: Name */}
+      <div style={{ display: "flex", alignItems: "center", gap: 5, minWidth: 0 }}>
+        {r.virtualType === "gingerbread" && (
+          // eslint-disable-next-line @next/next/no-img-element
+          <img src="/icons/gingerbread.svg" width={14} height={14} alt="" style={{ flexShrink: 0 }} />
+        )}
+        {r.virtualType === "buzzard" && (
+          // eslint-disable-next-line @next/next/no-img-element
+          <img src="/icons/buzzard.svg" width={14} height={14} alt="" style={{ flexShrink: 0 }} />
+        )}
+        <span
+          style={{
+            fontSize: 13,
+            fontWeight: 500,
+            color: isBuzzard ? RED : "#1A1A2E",
+            whiteSpace: "nowrap",
+            overflow: "hidden",
+            textOverflow: "ellipsis",
+          }}
+        >
+          {r.displayName}
+        </span>
+        {!isGingerbread && (
+          <div
+            style={{
+              width: 13,
+              height: 13,
+              borderRadius: 3,
+              background: isBuzzard ? "rgba(192,57,43,0.08)" : "rgba(27,63,110,0.08)",
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "center",
+              fontSize: 8,
+              color: isBuzzard ? RED : NAVY,
+              fontWeight: 700,
+              flexShrink: 0,
+            }}
+          >
+            ↗
+          </div>
+        )}
+      </div>
+
+      {/* Col 5: G */}
+      <div style={{ fontSize: 11, color: "rgba(0,0,0,0.4)", textAlign: "center" }}>
+        {r.gender}
+      </div>
+
+      {/* Col 6: Miles + progress bar */}
+      <div style={{ display: "flex", flexDirection: "column", gap: 3 }}>
+        {r.miles >= FINISH_MILES ? (
+          <span style={{ fontSize: 12, fontWeight: 600, color: GREEN }}>🎉</span>
+        ) : (
+          <>
             <span
+              className="tabular-nums"
               style={{
-                display: "inline-flex",
-                alignItems: "center",
-                justifyContent: "center",
-                width: 14,
-                height: 14,
-                borderRadius: 3,
-                background: isBuzzard
-                  ? "rgba(192,57,43,0.1)"
-                  : "rgba(27,63,110,0.1)",
-                color: isBuzzard ? RED : NAVY,
-                fontSize: 9,
+                fontFamily: DISPLAY,
                 fontWeight: 700,
-                marginLeft: 5,
-                flexShrink: 0,
-                verticalAlign: "middle",
+                fontSize: 13,
+                color: isBuzzard ? RED : "#1A1A2E",
               }}
             >
-              ↗
+              {r.miles.toFixed(2)}
             </span>
-          ) : null;
+            <div style={{ height: 2, background: "#eeece8", borderRadius: 2, width: "100%" }}>
+              <div
+                style={{
+                  height: "100%",
+                  background: isBuzzard ? RED : GOLD,
+                  borderRadius: 2,
+                  width: `${Math.min(r.compPercent, 100)}%`,
+                }}
+              />
+            </div>
+          </>
+        )}
+      </div>
 
-          return (
-            <td key={col.id} className={`lb-cell ${col.cssClass || ""}`}>
-              <span
-                className={r.rank === 1 && !r.virtual ? "font-bold" : ""}
-                style={{ display: "inline-flex", alignItems: "center" }}
-              >
-                {icon}
-                {r.displayName}
-              </span>
-              {badge}
-            </td>
-          );
-        }
+      {/* Col 7: KM */}
+      <div
+        className="hide-tablet tabular-nums"
+        style={{ fontSize: 11, color: "rgba(0,0,0,0.4)", textAlign: "right" }}
+      >
+        {r.km.toFixed(2)}
+      </div>
 
-        if (col.id === "map") {
-          return (
-            <td
-              key={col.id}
-              className="lb-cell col-map"
-              style={{ textAlign: "center", padding: "6px 10px" }}
-            >
-              {!isGingerbread && (
-                <button
-                  onClick={(e) => {
-                    e.stopPropagation();
-                    onMapPin(r);
-                  }}
-                  className="map-pin-btn"
-                  title="Zoom to this runner on the map"
-                  style={{
-                    width: 30,
-                    height: 30,
-                    borderRadius: "50%",
-                    border: "0.5px solid rgba(0,0,0,0.12)",
-                    background: "#ffffff",
-                    fontSize: 13,
-                    cursor: "pointer",
-                    display: "inline-flex",
-                    alignItems: "center",
-                    justifyContent: "center",
-                    padding: 0,
-                    lineHeight: 1,
-                    flexShrink: 0,
-                  }}
-                >
-                  📍
-                </button>
-              )}
-            </td>
-          );
-        }
+      {/* Col 8: Comp% */}
+      <div
+        className="hide-tablet tabular-nums"
+        style={{ fontSize: 11, color: "rgba(0,0,0,0.4)", textAlign: "right" }}
+      >
+        {r.compPercent.toFixed(2)}%
+      </div>
 
-        return (
-          <td
-            key={col.id}
-            className={`lb-cell ${col.align === "right" ? "text-right" : ""} ${col.cssClass || ""}`}
-          >
-            {col.render(r)}
-          </td>
-        );
-      })}
-    </tr>
+      {/* Col 9: Proj Fin */}
+      <div style={{ fontSize: 11, color: "rgba(0,0,0,0.5)" }}>
+        {formatProjFinShort(r.projectedFinish)}
+      </div>
+
+      {/* Col 10: Gender Place */}
+      <div
+        className="hide-tablet tabular-nums"
+        style={{ fontSize: 11, color: "rgba(0,0,0,0.5)", textAlign: "right" }}
+      >
+        {r.genderRank != null ? `#${r.genderRank}` : "—"}
+      </div>
+    </div>
   );
 }
+
+const HEADER_COLS = [
+  { id: "pos",         label: "Pos",                hide: "",            noSort: false },
+  { id: "bib",         label: "Bib",                hide: "hide-tablet", noSort: false },
+  { id: "location",    label: "Location",           hide: "",            noSort: true  },
+  { id: "name",        label: "Participant's Name", hide: "",            noSort: false },
+  { id: "gender",      label: "G",                  hide: "",            noSort: false },
+  { id: "miles",       label: "Miles",              hide: "",            noSort: false },
+  { id: "km",          label: "KM",                 hide: "hide-tablet", noSort: false },
+  { id: "comp",        label: "Comp%",              hide: "hide-tablet", noSort: false },
+  { id: "proj",        label: "Proj Fin",           hide: "",            noSort: false },
+  { id: "genderPlace", label: "Gender Place",       hide: "hide-tablet", noSort: false },
+];
 
 type Props = {
   runners: Runner[];
@@ -398,13 +377,141 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
     fontFamily: DISPLAY,
     fontSize: 11,
     textTransform: "uppercase",
-    padding: "4px 12px",
-    borderRadius: 12,
+    padding: "6px 14px",
+    borderRadius: 16,
     lineHeight: 1.4,
   };
 
+  const thBase: React.CSSProperties = {
+    fontFamily: DISPLAY,
+    fontSize: 9,
+    color: "rgba(255,255,255,0.6)",
+    letterSpacing: "0.15em",
+    textTransform: "uppercase",
+    userSelect: "none",
+  };
+
   return (
-    <div className="space-y-3">
+    <div className="space-y-4 max-w-5xl mx-auto w-full">
+      <style>{`
+        /* Changed Name column from 220px to 1fr to fill space dynamically */
+        .lb-grid-row {
+          display: grid;
+          grid-template-columns: 40px 36px 50px 1fr 24px 72px 60px 54px 70px 70px;
+          gap: 12px;
+          padding: 10px 18px;
+          align-items: center;
+        }
+        @media (max-width: 768px) {
+          .lb-grid-row {
+            grid-template-columns: 40px 50px 1fr 24px 72px 70px;
+          }
+          .hide-tablet { display: none !important; }
+        }
+      `}</style>
+
+      {/* Toolbar: Search + Filters */}
+      <div
+        style={{
+          display: "flex",
+          gap: 16,
+          alignItems: "center",
+          flexWrap: "wrap",
+          padding: "0 4px",
+        }}
+      >
+        {/* Search input - now bounded and inline */}
+        <div style={{ position: "relative", flex: "1 1 280px", maxWidth: "340px" }}>
+          <span
+            style={{
+              position: "absolute",
+              left: 14,
+              top: "50%",
+              transform: "translateY(-50%)",
+              fontSize: 14,
+              pointerEvents: "none",
+              userSelect: "none",
+              lineHeight: 1,
+              zIndex: 1,
+              opacity: 0.5,
+            }}
+          >
+            🔍
+          </span>
+          <input
+            type="text"
+            placeholder="Search runners…"
+            value={searchQuery}
+            onChange={(e) => handleSearch(e.target.value)}
+            style={{
+              width: "100%",
+              height: "36px",
+              background: "#ffffff",
+              border: "1px solid rgba(0,0,0,0.1)",
+              borderRadius: "18px",
+              padding: "0 16px 0 36px",
+              fontSize: "13px",
+              outline: "none",
+              transition: "border-color 0.2s, box-shadow 0.2s",
+            }}
+            onFocus={(e) => {
+              e.target.style.borderColor = NAVY;
+              e.target.style.boxShadow = `0 0 0 2px rgba(27,63,110,0.15)`;
+            }}
+            onBlur={(e) => {
+              e.target.style.borderColor = "rgba(0,0,0,0.1)";
+              e.target.style.boxShadow = "none";
+            }}
+          />
+        </div>
+
+        {/* Filters */}
+        <div className="flex flex-wrap items-center" style={{ gap: 6 }}>
+          {(["All", "M", "F"] as const).map((g) => (
+            <button
+              key={g}
+              onClick={() => setGenderFilter(g)}
+              className="transition-all"
+              style={{
+                ...pillBase,
+                ...(genderFilter === g
+                  ? { background: NAVY, color: "#fff", border: `1px solid ${NAVY}` }
+                  : { background: "#fff", border: "1px solid rgba(0,0,0,0.12)", color: "rgba(0,0,0,0.6)" }),
+              }}
+            >
+              {g === "All" ? "All genders" : g}
+            </button>
+          ))}
+          <select
+            value={countryFilter}
+            onChange={(e) => setCountryFilter(e.target.value)}
+            style={{
+              ...pillBase,
+              border: "1px solid rgba(0,0,0,0.12)",
+              background: "#fff",
+              color: "rgba(0,0,0,0.6)",
+              outline: "none",
+              cursor: "pointer",
+            }}
+            aria-label="Filter by country"
+          >
+            {countries.map((c) => (
+              <option key={c} value={c}>
+                {c === "All" ? "All countries" : c}
+              </option>
+            ))}
+          </select>
+        </div>
+
+        {/* Results count */}
+        <span
+          className="hidden md:block"
+          style={{ fontSize: 11, color: "rgba(0,0,0,0.3)", marginLeft: "auto" }}
+        >
+          Showing {visibleRealCount} of {totalRealFiltered}
+        </span>
+      </div>
+
       {/* Legend */}
       <div
         style={{
@@ -412,7 +519,7 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
           gap: 20,
           fontSize: 11,
           color: "rgba(0,0,0,0.4)",
-          padding: "8px 0 4px",
+          padding: "4px 4px 0",
           flexWrap: "wrap",
         }}
       >
@@ -441,152 +548,78 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
         </span>
       </div>
 
-      {/* Search input */}
-      <div style={{ position: "relative" }}>
-        <span
-          style={{
-            position: "absolute",
-            left: 14,
-            top: "50%",
-            transform: "translateY(-50%)",
-            fontSize: 16,
-            pointerEvents: "none",
-            userSelect: "none",
-            lineHeight: 1,
-            zIndex: 1,
-          }}
-        >
-          🔍
-        </span>
-        <input
-          type="text"
-          placeholder="Search by name or bib number…"
-          value={searchQuery}
-          onChange={(e) => handleSearch(e.target.value)}
-          className="search-input"
-          onFocus={(e) => (e.target.style.boxShadow = "0 0 0 3px rgba(244,166,35,0.35)")}
-          onBlur={(e) => (e.target.style.boxShadow = "none")}
-        />
-      </div>
-
-      {/* Filter row */}
-      <div className="flex flex-wrap items-center" style={{ gap: 8 }}>
-        {(["All", "M", "F"] as const).map((g) => (
-          <button
-            key={g}
-            onClick={() => setGenderFilter(g)}
-            className="filter-pill transition-all"
-            style={{
-              ...pillBase,
-              ...(genderFilter === g
-                ? { background: NAVY, color: "#fff" }
-                : { background: "#fff", border: "1px solid rgba(0,0,0,0.12)", color: "rgba(0,0,0,0.6)" }),
-            }}
-          >
-            {g === "All" ? "All genders" : g}
-          </button>
-        ))}
-        <select
-          value={countryFilter}
-          onChange={(e) => setCountryFilter(e.target.value)}
-          style={{
-            ...pillBase,
-            border: "1px solid rgba(0,0,0,0.12)",
-            background: "#fff",
-            color: "rgba(0,0,0,0.6)",
-            outline: "none",
-            cursor: "pointer",
-          }}
-          aria-label="Filter by country"
-        >
-          {countries.map((c) => (
-            <option key={c} value={c}>
-              {c === "All" ? "All countries" : c}
-            </option>
+      {/* Leaderboard Table */}
+      <div className="table-wrap shadow-sm" style={{ borderRadius: 10, overflow: "hidden", border: "1px solid rgba(0,0,0,0.05)" }}>
+        {/* Header */}
+        <div className="lb-grid-row" style={{ background: HEADER_BG }}>
+          {HEADER_COLS.map(({ id, label, hide, noSort }) => (
+            <div
+              key={id}
+              className={hide}
+              onClick={noSort ? undefined : () => handleSort(id)}
+              style={{
+                ...thBase,
+                cursor: noSort ? "default" : "pointer",
+              }}
+            >
+              {label}
+              {sort.col === id && !noSort && (
+                <span style={{ marginLeft: 3, opacity: 0.6 }}>
+                  {sort.dir === "asc" ? "↑" : "↓"}
+                </span>
+              )}
+            </div>
           ))}
-        </select>
-        <span
-          className="hidden sm:block"
-          style={{ fontSize: 11, color: "rgba(0,0,0,0.3)", marginLeft: "auto" }}
-        >
-          Showing {visibleRealCount} of {totalRealFiltered} runners
-        </span>
-      </div>
+        </div>
 
-      {/* Table — no outer border, sits on the grey background */}
-      <div className="table-wrap" style={{ borderRadius: 8, overflow: "hidden" }}>
-        <table className="min-w-full">
-          <thead>
-            <tr>
-              {COLS.map((col) => (
-                <th
-                  key={col.id}
-                  onClick={col.id !== "map" ? () => handleSort(col.id) : undefined}
-                  className={`lb-header transition-opacity hover:opacity-80 ${
-                    col.align === "right" ? "text-right" : "text-left"
-                  } ${col.cssClass || ""}`}
-                  style={{
-                    background: HEADER_BG,
-                    color: HEADER_COLOR,
-                    cursor: col.id === "map" ? "default" : "pointer",
-                  }}
-                >
-                  {col.header}
-                  {sort.col === col.id && col.id !== "map" && (
-                    <span className="ml-1 opacity-60">
-                      {sort.dir === "asc" ? "↑" : "↓"}
-                    </span>
-                  )}
-                </th>
-              ))}
-            </tr>
-          </thead>
-          <tbody>
-            {/* Gingerbread — always pinned first */}
-            {gingerbread && (
-              <DataRow
-                r={gingerbread}
-                idx={-1}
-                selectedBib={selectedBib}
-                onMapPin={handleMapPin}
-                onNavigate={handleNavigate}
-              />
-            )}
+        {/* Gingerbread — always pinned first */}
+        {gingerbread && (
+          <DataRow
+            r={gingerbread}
+            idx={-1}
+            selectedBib={selectedBib}
+            onMapPin={handleMapPin}
+            onNavigate={handleNavigate}
+          />
+        )}
 
-            {visibleRows.map((r, i) => (
-              <DataRow
-                key={r.bib}
-                r={r}
-                idx={i}
-                selectedBib={selectedBib}
-                onMapPin={handleMapPin}
-                onNavigate={handleNavigate}
-              />
-            ))}
+        {/* Visible rows */}
+        {visibleRows.map((r, i) => (
+          <DataRow
+            key={r.bib}
+            r={r}
+            idx={i}
+            selectedBib={selectedBib}
+            onMapPin={handleMapPin}
+            onNavigate={handleNavigate}
+          />
+        ))}
 
-            {/* Pinned buzzard separator when outside current page */}
-            {showPinnedBuzzard && buzzard && (
-              <>
-                <tr>
-                  <td
-                    colSpan={COLS.length}
-                    className="py-1 text-center text-xs font-medium"
-                    style={{ color: RED, background: "#FFF0EE" }}
-                  >
-                    ── 🦅 Buzzard is at position #{buzzard.rank} ──
-                  </td>
-                </tr>
-                <DataRow
-                  r={buzzard}
-                  idx={-2}
-                  selectedBib={selectedBib}
-                  onMapPin={handleMapPin}
-                  onNavigate={handleNavigate}
-                />
-              </>
-            )}
-          </tbody>
-        </table>
+        {/* Pinned Buzzard separator when outside current page */}
+        {showPinnedBuzzard && buzzard && (
+          <>
+            <div
+              style={{
+                textAlign: "center",
+                fontSize: 12,
+                fontWeight: 500,
+                color: RED,
+                background: "#FFF0EE",
+                padding: "8px 14px",
+                borderBottom: "1px solid rgba(0,0,0,0.04)",
+              }}
+            >
+              ── 🦅 Buzzard is at position #{buzzard.rank} ──
+            </div>
+            <DataRow
+              r={buzzard}
+              idx={-2}
+              selectedBib={selectedBib}
+              onMapPin={handleMapPin}
+              onNavigate={handleNavigate}
+            />
+          </>
+        )}
       </div>
 
       {totalRealFiltered === 0 && (
@@ -595,25 +628,12 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
         </p>
       )}
 
-      {totalRealFiltered > 0 && (
-        <div
-          style={{
-            padding: "6px 0",
-            fontSize: 10,
-            color: "rgba(0,0,0,0.28)",
-            fontStyle: "italic",
-          }}
-        >
-          Click any runner to view their profile · Click 📍 to zoom the map to their location
-        </div>
-      )}
-
       {hasMore && (
-        <div className="flex justify-center">
+        <div className="flex justify-center pt-2">
           <button
             onClick={() => setVisibleCount((c) => c + PAGE_SIZE)}
-            className="show-btn px-8 rounded-full text-sm font-semibold transition-all hover:opacity-90 active:scale-95"
-            style={{ background: GOLD, color: "white" }}
+            className="show-btn px-8 py-2 rounded-full text-sm font-semibold transition-all hover:opacity-90 active:scale-95 shadow-sm"
+            style={{ background: GOLD, color: NAVY }}
           >
             Show next {PAGE_SIZE} ▼
           </button>

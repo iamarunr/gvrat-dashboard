@@ -90,27 +90,6 @@ function longDate(iso: string): string {
   return d.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
 }
 
-function TopoTexture() {
-  const rings = [
-    { rx: 390, ry: 120,  stroke: "rgba(255,255,255,0.06)" },
-    { rx: 300, ry: 90,   stroke: "rgba(255,255,255,0.05)" },
-    { rx: 210, ry: 63,   stroke: "rgba(255,255,255,0.04)" },
-    { rx: 130, ry: 40,   stroke: "rgba(255,255,255,0.035)" },
-    { rx: 65,  ry: 20,   stroke: "rgba(255,255,255,0.03)" },
-  ];
-  return (
-    <svg
-      aria-hidden="true"
-      viewBox="0 0 800 300"
-      preserveAspectRatio="xMidYMid slice"
-      style={{ position: "absolute", inset: 0, width: "100%", height: "100%", pointerEvents: "none", zIndex: 0 }}
-    >
-      {rings.map((r, i) => (
-        <ellipse key={i} cx="400" cy="130" rx={r.rx} ry={r.ry} fill="none" stroke={r.stroke} strokeWidth="1" />
-      ))}
-    </svg>
-  );
-}
 
 function DotSep() {
   return (
@@ -222,30 +201,32 @@ function ProgressBar({
 }) {
   const fillPct = Math.min(100, (runnerMiles / TOTAL_MILES) * 100);
   const milesLeft = Math.max(0, TOTAL_MILES - runnerMiles);
+  const markerLabel = markerTitle.split("—")[0].trim();
+  
   return (
-    <div style={{ marginBottom: 14 }}>
+    <div style={{ marginBottom: 16 }}>
       <div
         style={{
           display: "flex",
           justifyContent: "space-between",
           alignItems: "baseline",
-          marginBottom: 8,
+          marginBottom: 32, // Increased from 10 to 32 to clear the pill marker
         }}
       >
-        <span style={{ fontSize: 15, fontWeight: 600, color: "#ffffff" }}>
+        <span style={{ fontSize: 16, fontWeight: 600, color: "#ffffff", letterSpacing: "0.01em" }}>
           {runnerMiles.toFixed(2)} miles completed
         </span>
-        <span style={{ fontSize: 13, color: "rgba(255,255,255,0.5)" }}>
+        <span style={{ fontSize: 14, color: "rgba(255,255,255,0.6)", fontWeight: 500 }}>
           {milesLeft.toFixed(2)} mi remaining
         </span>
       </div>
       <div
         style={{
           position: "relative",
-          height: 8,
-          background: "rgba(255,255,255,0.12)",
-          borderRadius: 4,
-          marginBottom: 5,
+          height: 10,
+          background: "rgba(255,255,255,0.15)",
+          borderRadius: 5,
+          marginBottom: 12,
         }}
       >
         <div
@@ -256,34 +237,45 @@ function ProgressBar({
             width: `${fillPct}%`,
             height: "100%",
             background: GOLD,
-            borderRadius: 4,
+            borderRadius: 5,
           }}
         />
+        {/* Competitor / Buzzard Marker */}
         <div
           style={{
             position: "absolute",
-            left: `${Math.min(98, markerPct)}%`,
-            top: -12,
-            transform: "translateX(-50%)",
-            fontSize: 15,
-            lineHeight: 1,
-            cursor: "default",
-            userSelect: "none",
+            left: `${Math.min(99, Math.max(1, markerPct))}%`,
+            top: "50%",
+            transform: "translate(-50%, -50%)",
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
+            pointerEvents: "none",
           }}
           title={markerTitle}
         >
-          {markerEmoji}
+          <div
+            style={{
+              fontSize: 18,
+              transform: "scaleX(-1) translateY(-14px)",
+              filter: "brightness(0) invert(1) drop-shadow(0px 2px 4px rgba(0,0,0,0.5))",
+            }}
+          >
+            {markerEmoji}
+          </div>
+          <div style={{ width: 3, height: 16, background: "rgba(255,255,255,0.8)", borderRadius: 2, transform: "translateY(-14px)" }} />
         </div>
       </div>
       <div
         style={{
           display: "flex",
           justifyContent: "space-between",
-          fontSize: 10,
+          fontSize: 12,
           fontFamily: DISPLAY,
+          fontWeight: 600,
           textTransform: "uppercase",
-          color: "rgba(255,255,255,0.35)",
-          letterSpacing: "0.12em",
+          color: "rgba(255,255,255,0.5)",
+          letterSpacing: "0.14em",
         }}
       >
         <span>Start · Baxter Springs, KS</span>
@@ -346,8 +338,8 @@ export default async function RunnerPage({
   const hasWalk = rf.activities.some((a) => a.type === "walk");
 
   const heroBackground = isBuzzard
-    ? "linear-gradient(160deg, #450a0a 0%, #991b1b 60%, #6b0f0f 100%)"
-    : "linear-gradient(160deg, #0a1628 0%, #1a3a6b 60%, #0f2548 100%)";
+    ? "linear-gradient(to bottom, rgba(69, 10, 10, 0.85), rgba(107, 15, 15, 0.95)), url('/bg-topo.png')"
+    : "linear-gradient(to bottom, rgba(13, 17, 28, 0.85), rgba(13, 17, 28, 0.95)), url('/bg-topo.png')";
 
   function SectionHead({ title, sub }: { title: string; sub: string }) {
     return (
@@ -379,17 +371,18 @@ export default async function RunnerPage({
   }
 
   return (
-    <main style={{ background: "#f0f2f5", minHeight: "100vh" }}>
+    <main style={{ background: "var(--surface-bg)", minHeight: "100vh" }}>
       {/* ── HERO ── */}
       <div
         style={{
-          background: heroBackground,
+          backgroundImage: heroBackground,
+          backgroundSize: "cover",
+          backgroundPosition: "center",
           position: "relative",
           padding: "16px 0 28px",
           overflow: "hidden",
         }}
       >
-        <TopoTexture />
         <div
           style={{
             maxWidth: 780,
@@ -624,7 +617,7 @@ export default async function RunnerPage({
       {/* ── STATS STRIP — outer full-width, inner centered grid ── */}
       <div
         style={{
-          background: "#ffffff",
+          background: "var(--surface-panel)",
           borderBottom: "1px solid rgba(0,0,0,0.06)",
           padding: "0 24px",
         }}
