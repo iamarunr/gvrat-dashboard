@@ -51,9 +51,7 @@ def compute_projected_finish(
     days_to_finish = config.totalMiles / daily_pace
     finish_date = config.startDate + timedelta(days=days_to_finish)
     finish_iso = finish_date.isoformat()
-    if finish_date <= config.endDate:
-        return finish_iso, finish_iso
-    return f"{int(days_to_finish):03d} days", finish_iso
+    return finish_iso, finish_iso
 
 
 def build_leaderboard(

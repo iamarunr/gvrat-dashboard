@@ -21,14 +21,6 @@
       "comment": "30th Street Station to my hotel"
     },
     {
-      "date": "2026-05-01",
-      "miles": 1.5,
-      "km": 2.41,
-      "type": "run",
-      "time": null,
-      "comment": "30th Street Station to my hotel"
-    },
-    {
       "date": "2026-05-02",
       "miles": 1.5,
       "km": 2.41,
@@ -37,7 +29,7 @@
       "comment": "To and from race expo"
     }
   ],
-  "totalActivities": 4,
+  "totalActivities": 3,
   "activeDays": 2,
   "restDays": 0
 }

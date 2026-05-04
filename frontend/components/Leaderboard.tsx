@@ -18,6 +18,9 @@ const RED = "#C0392B";
 const GREEN = "#27AE60";
 const DISPLAY = "var(--font-display)";
 
+const HEADER_BG = "linear-gradient(180deg, #1B3F6E 0%, #163558 100%)";
+const HEADER_COLOR = "rgba(255,255,255,0.6)";
+
 function getCountry(home: string): string {
   return home.startsWith("US-") ? "US" : home;
 }
@@ -60,8 +63,13 @@ const COLS: ColDef[] = [
     id: "pos", header: "Pos", cssClass: "", align: "right",
     render: (r) => (
       <span
-        className="tabular-nums font-bold"
-        style={r.rank <= 3 && !r.virtual ? { color: NAVY } : {}}
+        className="tabular-nums"
+        style={{
+          fontFamily: DISPLAY,
+          fontWeight: 800,
+          fontSize: 16,
+          color: r.rank === 1 && !r.virtual ? GOLD : r.rank <= 3 && !r.virtual ? NAVY : "rgba(0,0,0,0.45)",
+        }}
       >
         {r.rankDisplay}
       </span>
@@ -89,7 +97,34 @@ const COLS: ColDef[] = [
       r.miles >= FINISH_MILES ? (
         <span className="font-semibold" style={{ color: GREEN }}>FINISHED 🎉</span>
       ) : (
-        <span className="tabular-nums">{formatMiles(r.miles)}</span>
+        <div style={{ display: "flex", flexDirection: "column", alignItems: "flex-end" }}>
+          <span
+            className="tabular-nums"
+            style={{ fontFamily: DISPLAY, fontWeight: 700, fontSize: 14 }}
+          >
+            {formatMiles(r.miles)}
+          </span>
+          <div
+            className="lb-miles-bar"
+            style={{
+              width: 52,
+              height: 3,
+              background: "#eeece8",
+              borderRadius: 2,
+              marginTop: 4,
+              overflow: "hidden",
+            }}
+          >
+            <div
+              style={{
+                width: `${Math.min(100, r.compPercent)}%`,
+                height: "100%",
+                background: GOLD,
+                borderRadius: 2,
+              }}
+            />
+          </div>
+        </div>
       ),
   },
   {
@@ -124,19 +159,18 @@ function rowStyle(
   idx: number,
   selectedBib: number | undefined
 ): React.CSSProperties {
+  const base: React.CSSProperties = {
+    borderBottom: "0.5px solid rgba(0,0,0,0.06)",
+  };
   if (r.virtualType === "gingerbread")
-    return { background: "#fffbf0", borderLeft: `3px solid ${GOLD}` };
+    return { ...base, background: "linear-gradient(90deg, #fffbf0 0%, #ffffff 60%)" };
   if (r.virtualType === "buzzard")
-    return { background: "#fff5f5", borderLeft: `3px solid ${RED}` };
+    return { ...base, background: "linear-gradient(90deg, #fff5f5 0%, #ffffff 60%)" };
   if (selectedBib !== undefined && r.bib === selectedBib)
-    return {
-      background: "#e8f4fd",
-      borderLeft: `3px solid ${NAVY}`,
-      animation: "borderPulse 2s ease-in-out infinite",
-    };
+    return { ...base, background: "#e8f4fd" };
   if (r.rank === 1 && !r.virtual)
-    return { background: "#FFFDF0", borderLeft: `3px solid ${GOLD}` };
-  return { background: idx % 2 === 0 ? "#ffffff" : "#fafafa" };
+    return { ...base, background: "#fffdf0" };
+  return { ...base, background: idx % 2 === 0 ? "#ffffff" : "#fafafa" };
 }
 
 type RowProps = {
@@ -231,8 +265,8 @@ function DataRow({ r, idx, selectedBib, onMapPin, onNavigate }: RowProps) {
                   className="map-pin-btn"
                   title="Zoom to this runner on the map"
                   style={{
-                    width: 26,
-                    height: 26,
+                    width: 30,
+                    height: 30,
                     borderRadius: "50%",
                     border: "0.5px solid rgba(0,0,0,0.12)",
                     background: "#ffffff",
@@ -479,104 +513,100 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
         </span>
       </div>
 
-      {/* Table */}
-      <div className="rounded-lg border border-slate-200 shadow-sm overflow-hidden">
-        <div className="table-wrap">
-          <table className="min-w-full">
-            <thead>
-              <tr>
-                {COLS.map((col) => (
-                  <th
-                    key={col.id}
-                    onClick={col.id !== "map" ? () => handleSort(col.id) : undefined}
-                    className={`lb-header transition-opacity hover:opacity-80 ${
-                      col.align === "right" ? "text-right" : "text-left"
-                    } ${col.cssClass || ""}`}
-                    style={{
-                      background: NAVY,
-                      color: "white",
-                      cursor: col.id === "map" ? "default" : "pointer",
-                    }}
-                  >
-                    {col.header}
-                    {sort.col === col.id && col.id !== "map" && (
-                      <span className="ml-1 opacity-75">
-                        {sort.dir === "asc" ? "↑" : "↓"}
-                      </span>
-                    )}
-                  </th>
-                ))}
-              </tr>
-            </thead>
-            <tbody>
-              {/* Gingerbread — always pinned first */}
-              {gingerbread && (
-                <DataRow
-                  r={gingerbread}
-                  idx={-1}
-                  selectedBib={selectedBib}
-                  onMapPin={handleMapPin}
-                  onNavigate={handleNavigate}
-                />
-              )}
-
-              {visibleRows.map((r, i) => (
-                <DataRow
-                  key={r.bib}
-                  r={r}
-                  idx={i}
-                  selectedBib={selectedBib}
-                  onMapPin={handleMapPin}
-                  onNavigate={handleNavigate}
-                />
+      {/* Table — no outer border, sits on the grey background */}
+      <div className="table-wrap" style={{ borderRadius: 8, overflow: "hidden" }}>
+        <table className="min-w-full">
+          <thead>
+            <tr>
+              {COLS.map((col) => (
+                <th
+                  key={col.id}
+                  onClick={col.id !== "map" ? () => handleSort(col.id) : undefined}
+                  className={`lb-header transition-opacity hover:opacity-80 ${
+                    col.align === "right" ? "text-right" : "text-left"
+                  } ${col.cssClass || ""}`}
+                  style={{
+                    background: HEADER_BG,
+                    color: HEADER_COLOR,
+                    cursor: col.id === "map" ? "default" : "pointer",
+                  }}
+                >
+                  {col.header}
+                  {sort.col === col.id && col.id !== "map" && (
+                    <span className="ml-1 opacity-60">
+                      {sort.dir === "asc" ? "↑" : "↓"}
+                    </span>
+                  )}
+                </th>
               ))}
+            </tr>
+          </thead>
+          <tbody>
+            {/* Gingerbread — always pinned first */}
+            {gingerbread && (
+              <DataRow
+                r={gingerbread}
+                idx={-1}
+                selectedBib={selectedBib}
+                onMapPin={handleMapPin}
+                onNavigate={handleNavigate}
+              />
+            )}
 
-              {/* Pinned buzzard separator when outside current page */}
-              {showPinnedBuzzard && buzzard && (
-                <>
-                  <tr>
-                    <td
-                      colSpan={COLS.length}
-                      className="py-1 text-center text-xs font-medium"
-                      style={{ color: RED, background: "#FFF0EE" }}
-                    >
-                      ── 🦅 Buzzard is at position #{buzzard.rank} ──
-                    </td>
-                  </tr>
-                  <DataRow
-                    r={buzzard}
-                    idx={-2}
-                    selectedBib={selectedBib}
-                    onMapPin={handleMapPin}
-                    onNavigate={handleNavigate}
-                  />
-                </>
-              )}
-            </tbody>
-          </table>
-        </div>
+            {visibleRows.map((r, i) => (
+              <DataRow
+                key={r.bib}
+                r={r}
+                idx={i}
+                selectedBib={selectedBib}
+                onMapPin={handleMapPin}
+                onNavigate={handleNavigate}
+              />
+            ))}
 
-        {totalRealFiltered === 0 && (
-          <p className="text-center py-10" style={{ color: "#6B7280" }}>
-            No runners match the current filters.
-          </p>
-        )}
-
-        {totalRealFiltered > 0 && (
-          <div
-            style={{
-              padding: "8px 14px",
-              fontSize: 10,
-              color: "rgba(0,0,0,0.32)",
-              fontStyle: "italic",
-              borderTop: "0.5px solid rgba(0,0,0,0.05)",
-              background: "#fafafa",
-            }}
-          >
-            Click any runner to view their profile · Click 📍 to zoom the map to their location
-          </div>
-        )}
+            {/* Pinned buzzard separator when outside current page */}
+            {showPinnedBuzzard && buzzard && (
+              <>
+                <tr>
+                  <td
+                    colSpan={COLS.length}
+                    className="py-1 text-center text-xs font-medium"
+                    style={{ color: RED, background: "#FFF0EE" }}
+                  >
+                    ── 🦅 Buzzard is at position #{buzzard.rank} ──
+                  </td>
+                </tr>
+                <DataRow
+                  r={buzzard}
+                  idx={-2}
+                  selectedBib={selectedBib}
+                  onMapPin={handleMapPin}
+                  onNavigate={handleNavigate}
+                />
+              </>
+            )}
+          </tbody>
+        </table>
       </div>
+
+      {totalRealFiltered === 0 && (
+        <p className="text-center py-10" style={{ color: "#6B7280" }}>
+          No runners match the current filters.
+        </p>
+      )}
+
+      {totalRealFiltered > 0 && (
+        <div
+          style={{
+            padding: "6px 0",
+            fontSize: 10,
+            color: "rgba(0,0,0,0.28)",
+            fontStyle: "italic",
+          }}
+        >
+          Click any runner to view their profile · Click 📍 to zoom the map to their location
+        </div>
+      )}
 
       {hasMore && (
         <div className="flex justify-center">

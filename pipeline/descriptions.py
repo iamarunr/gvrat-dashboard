@@ -15,17 +15,22 @@ class DescriptionMap:
         preceding = [k for k in self._keys if k < mile]
         following = [k for k in self._keys if k > mile]
 
+        _prefixed = ('past ', 'approaching ')
+
         # Within 2 of the preceding labeled mile → "past X"
         if preceding and mile - preceding[-1] <= 2:
-            return f"past {self._data[preceding[-1]]}"
+            desc = self._data[preceding[-1]]
+            return desc if desc.lower().startswith(_prefixed) else f"past {desc}"
 
         # Within 2 of the following labeled mile → "approaching Y"
         if following and following[0] - mile <= 2:
-            return f"approaching {self._data[following[0]]}"
+            desc = self._data[following[0]]
+            return desc if desc.lower().startswith(_prefixed) else f"approaching {desc}"
 
         # Default: fall back to nearest preceding
         if preceding:
-            return f"past {self._data[preceding[-1]]}"
+            desc = self._data[preceding[-1]]
+            return desc if desc.lower().startswith(_prefixed) else f"past {desc}"
 
         return ""
 
