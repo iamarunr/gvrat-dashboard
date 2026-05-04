@@ -192,19 +192,16 @@ function ProgressBar({
   runnerMiles,
   markerPct,
   markerEmoji,
-  markerIcon,
   markerTitle,
 }: {
   runnerMiles: number;
   markerPct: number;
   markerEmoji?: string;
-  markerIcon?: string;
   markerTitle: string;
 }) {
   const fillPct = Math.min(100, (runnerMiles / TOTAL_MILES) * 100);
   const milesLeft = Math.max(0, TOTAL_MILES - runnerMiles);
   const markerLabel = markerTitle.split("—")[0].trim();
-  
   return (
     <div style={{ marginBottom: 16 }}>
       <div
@@ -212,7 +209,7 @@ function ProgressBar({
           display: "flex",
           justifyContent: "space-between",
           alignItems: "baseline",
-          marginBottom: 32, // Increased from 10 to 32 to clear the pill marker
+          marginBottom: 32,
         }}
       >
         <span style={{ fontSize: 16, fontWeight: 600, color: "#ffffff", letterSpacing: "0.01em" }}>
