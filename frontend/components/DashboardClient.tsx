@@ -32,50 +32,63 @@ export default function DashboardClient({ runners, courseCoords, meta }: Props) 
         style={{
           background: "var(--surface-panel)",
           borderBottom: "1px solid rgba(0,0,0,0.05)",
-          padding: "22px 28px 18px",
-          textAlign: "center",
+          padding: "20px 28px 16px",
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
+          gap: "24px",
           flexShrink: 0,
         }}
       >
-        <h1
-          className="race-title"
-          style={{
-            fontFamily: DISPLAY,
-            fontWeight: 800,
-            fontSize: 40,
-            color: NAVY,
-            letterSpacing: "0.1em",
-            textTransform: "uppercase",
-            lineHeight: 1,
-            margin: 0,
-          }}
-        >
-          GVRAT 2026
-        </h1>
-        <p
-          className="race-subtitle"
-          style={{
-            fontFamily: DISPLAY,
-            fontWeight: 400,
-            fontSize: 10,
-            color: "rgba(0,0,0,0.35)",
-            letterSpacing: "0.28em",
-            textTransform: "uppercase",
-            marginTop: 5,
-            marginBottom: 0,
-          }}
-        >
-          Great Virtual Race Across The States
-        </p>
-        <div
-          style={{
-            width: 40,
-            height: 2,
-            background: GOLD,
-            margin: "8px auto 0",
-            borderRadius: 2,
-          }}
+        <img 
+          src="/gvrat-logo-transparent.png" 
+          alt="GVRAT Logo" 
+          width={70} 
+          height={70} 
+          style={{ objectFit: "contain", flexShrink: 0 }}
         />
+        <div style={{ textAlign: "left", display: "flex", flexDirection: "column" }}>
+          <h1
+            className="race-title"
+            style={{
+              fontFamily: DISPLAY,
+              fontWeight: 800,
+              fontSize: 40,
+              color: NAVY,
+              letterSpacing: "0.1em",
+              textTransform: "uppercase",
+              lineHeight: 1,
+              margin: 0,
+            }}
+          >
+            GVRAT 2026
+          </h1>
+          <p
+            className="race-subtitle"
+            style={{
+              fontFamily: DISPLAY,
+              fontWeight: 700,
+              fontSize: 11,
+              color: NAVY,
+              opacity: 0.75,
+              letterSpacing: "0.2em",
+              textTransform: "uppercase",
+              marginTop: 6,
+              marginBottom: 0,
+            }}
+          >
+            Great Virtual Race Across The States
+          </p>
+          <div
+            style={{
+              width: 48,
+              height: 3,
+              background: GOLD,
+              margin: "10px 0 0 0",
+              borderRadius: 2,
+            }}
+          />
+        </div>
       </header>
 
       {/* 2. Stat strip — unboxed, full bleed */}
