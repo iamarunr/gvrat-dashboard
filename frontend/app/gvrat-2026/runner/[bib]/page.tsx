@@ -192,11 +192,13 @@ function ProgressBar({
   runnerMiles,
   markerPct,
   markerEmoji,
+  markerIcon,
   markerTitle,
 }: {
   runnerMiles: number;
   markerPct: number;
-  markerEmoji: string;
+  markerEmoji?: string;
+  markerIcon?: string;
   markerTitle: string;
 }) {
   const fillPct = Math.min(100, (runnerMiles / TOTAL_MILES) * 100);
@@ -780,7 +782,17 @@ export default async function RunnerPage({
                     padding: "0 0 0 16px",
                   }}
                 >
-                  <span>🦅</span>
+                  <span
+                    style={{
+                      fontSize: 16,
+                      transform: "scaleX(-1)",
+                      filter: "brightness(0) invert(1) drop-shadow(0px 1px 2px rgba(0,0,0,0.5))",
+                      marginRight: 4,
+                      opacity: 0.9,
+                    }}
+                  >
+                    🦅
+                  </span>
                   {vsB >= 0 ? (
                     <span style={{ color: "#4ade80", fontWeight: 700 }}>
                       +{vsB.toFixed(1)} mi ahead of Buzzard

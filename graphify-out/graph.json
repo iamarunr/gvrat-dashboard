@@ -1,0 +1,5352 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "snapshots.py",
+      "file_type": "code",
+      "source_file": "pipeline/snapshots.py",
+      "source_location": "L1",
+      "id": "pipeline_snapshots_py",
+      "community": 15,
+      "norm_label": "snapshots.py"
+    },
+    {
+      "label": "save_snapshot()",
+      "file_type": "code",
+      "source_file": "pipeline/snapshots.py",
+      "source_location": "L12",
+      "id": "pipeline_snapshots_save_snapshot",
+      "community": 15,
+      "norm_label": "save_snapshot()"
+    },
+    {
+      "label": "Daily snapshot writer \u2014 copies leaderboard.json to snapshots/{asOfDate}.json.",
+      "file_type": "rationale",
+      "source_file": "pipeline/snapshots.py",
+      "source_location": "L1",
+      "id": "pipeline_snapshots_rationale_1",
+      "community": 15,
+      "norm_label": "daily snapshot writer \u2014 copies leaderboard.json to snapshots/{asofdate}.json."
+    },
+    {
+      "label": "config.py",
+      "file_type": "code",
+      "source_file": "pipeline/config.py",
+      "source_location": "L1",
+      "id": "pipeline_config_py",
+      "community": 0,
+      "norm_label": "config.py"
+    },
+    {
+      "label": "load_race_config()",
+      "file_type": "code",
+      "source_file": "pipeline/config.py",
+      "source_location": "L5",
+      "id": "pipeline_config_load_race_config",
+      "community": 0,
+      "norm_label": "load_race_config()"
+    },
+    {
+      "label": "load_overrides()",
+      "file_type": "code",
+      "source_file": "pipeline/config.py",
+      "source_location": "L10",
+      "id": "pipeline_config_load_overrides",
+      "community": 0,
+      "norm_label": "load_overrides()"
+    },
+    {
+      "label": "csv_source.py",
+      "file_type": "code",
+      "source_file": "pipeline/csv_source.py",
+      "source_location": "L1",
+      "id": "pipeline_csv_source_py",
+      "community": 2,
+      "norm_label": "csv_source.py"
+    },
+    {
+      "label": "_parse_date()",
+      "file_type": "code",
+      "source_file": "pipeline/csv_source.py",
+      "source_location": "L9",
+      "id": "pipeline_csv_source_parse_date",
+      "community": 2,
+      "norm_label": "_parse_date()"
+    },
+    {
+      "label": "_int_or()",
+      "file_type": "code",
+      "source_file": "pipeline/csv_source.py",
+      "source_location": "L13",
+      "id": "pipeline_csv_source_int_or",
+      "community": 2,
+      "norm_label": "_int_or()"
+    },
+    {
+      "label": "load_participants()",
+      "file_type": "code",
+      "source_file": "pipeline/csv_source.py",
+      "source_location": "L20",
+      "id": "pipeline_csv_source_load_participants",
+      "community": 2,
+      "norm_label": "load_participants()"
+    },
+    {
+      "label": "load_activities()",
+      "file_type": "code",
+      "source_file": "pipeline/csv_source.py",
+      "source_location": "L41",
+      "id": "pipeline_csv_source_load_activities",
+      "community": 2,
+      "norm_label": "load_activities()"
+    },
+    {
+      "label": "CSV ingestion \u2014 reads RunSignup export CSVs from a directory.",
+      "file_type": "rationale",
+      "source_file": "pipeline/csv_source.py",
+      "source_location": "L1",
+      "id": "pipeline_csv_source_rationale_1",
+      "community": 2,
+      "norm_label": "csv ingestion \u2014 reads runsignup export csvs from a directory."
+    },
+    {
+      "label": "models.py",
+      "file_type": "code",
+      "source_file": "pipeline/models.py",
+      "source_location": "L1",
+      "id": "pipeline_models_py",
+      "community": 2,
+      "norm_label": "models.py"
+    },
+    {
+      "label": "VirtualCharacterConfig",
+      "file_type": "code",
+      "source_file": "pipeline/models.py",
+      "source_location": "L7",
+      "id": "pipeline_models_virtualcharacterconfig",
+      "community": 2,
+      "norm_label": "virtualcharacterconfig"
+    },
+    {
+      "label": "BaseModel",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "basemodel",
+      "community": 2,
+      "norm_label": "basemodel"
+    },
+    {
+      "label": "VirtualCharactersConfig",
+      "file_type": "code",
+      "source_file": "pipeline/models.py",
+      "source_location": "L12",
+      "id": "pipeline_models_virtualcharactersconfig",
+      "community": 2,
+      "norm_label": "virtualcharactersconfig"
+    },
+    {
+      "label": "RunSignupConfig",
+      "file_type": "code",
+      "source_file": "pipeline/models.py",
+      "source_location": "L17",
+      "id": "pipeline_models_runsignupconfig",
+      "community": 2,
+      "norm_label": "runsignupconfig"
+    },
+    {
+      "label": "RaceConfig",
+      "file_type": "code",
+      "source_file": "pipeline/models.py",
+      "source_location": "L22",
+      "id": "pipeline_models_raceconfig",
+      "community": 2,
+      "norm_label": "raceconfig"
+    },
+    {
+      "label": "Participant",
+      "file_type": "code",
+      "source_file": "pipeline/models.py",
+      "source_location": "L35",
+      "id": "pipeline_models_participant",
+      "community": 2,
+      "norm_label": "participant"
+    },
+    {
+      "label": "Activity",
+      "file_type": "code",
+      "source_file": "pipeline/models.py",
+      "source_location": "L52",
+      "id": "pipeline_models_activity",
+      "community": 2,
+      "norm_label": "activity"
+    },
+    {
+      "label": "Waypoint",
+      "file_type": "code",
+      "source_file": "pipeline/models.py",
+      "source_location": "L62",
+      "id": "pipeline_models_waypoint",
+      "community": 2,
+      "norm_label": "waypoint"
+    },
+    {
+      "label": "PublicRunner",
+      "file_type": "code",
+      "source_file": "pipeline/models.py",
+      "source_location": "L68",
+      "id": "pipeline_models_publicrunner",
+      "community": 2,
+      "norm_label": "publicrunner"
+    },
+    {
+      "label": "LeaderboardOutput",
+      "file_type": "code",
+      "source_file": "pipeline/models.py",
+      "source_location": "L96",
+      "id": "pipeline_models_leaderboardoutput",
+      "community": 2,
+      "norm_label": "leaderboardoutput"
+    },
+    {
+      "label": "Internal model \u2014 contains only the fields we extract from source data.     PII (",
+      "file_type": "rationale",
+      "source_file": "pipeline/models.py",
+      "source_location": "L36",
+      "id": "pipeline_models_rationale_36",
+      "community": 2,
+      "norm_label": "internal model \u2014 contains only the fields we extract from source data.     pii ("
+    },
+    {
+      "label": "Strict allowlist \u2014 only these fields may appear in public JSON output.",
+      "file_type": "rationale",
+      "source_file": "pipeline/models.py",
+      "source_location": "L69",
+      "id": "pipeline_models_rationale_69",
+      "community": 2,
+      "norm_label": "strict allowlist \u2014 only these fields may appear in public json output."
+    },
+    {
+      "label": "course.py",
+      "file_type": "code",
+      "source_file": "pipeline/course.py",
+      "source_location": "L1",
+      "id": "pipeline_course_py",
+      "community": 0,
+      "norm_label": "course.py"
+    },
+    {
+      "label": "build_course_geojson()",
+      "file_type": "code",
+      "source_file": "pipeline/course.py",
+      "source_location": "L17",
+      "id": "pipeline_course_build_course_geojson",
+      "community": 0,
+      "norm_label": "build_course_geojson()"
+    },
+    {
+      "label": "Build course.geojson from the race GPX file.  Output: one LineString for the rou",
+      "file_type": "rationale",
+      "source_file": "pipeline/course.py",
+      "source_location": "L1",
+      "id": "pipeline_course_rationale_1",
+      "community": 0,
+      "norm_label": "build course.geojson from the race gpx file.  output: one linestring for the rou"
+    },
+    {
+      "label": "waypoints.py",
+      "file_type": "code",
+      "source_file": "pipeline/waypoints.py",
+      "source_location": "L1",
+      "id": "pipeline_waypoints_py",
+      "community": 0,
+      "norm_label": "waypoints.py"
+    },
+    {
+      "label": "WaypointMap",
+      "file_type": "code",
+      "source_file": "pipeline/waypoints.py",
+      "source_location": "L9",
+      "id": "pipeline_waypoints_waypointmap",
+      "community": 0,
+      "norm_label": "waypointmap"
+    },
+    {
+      "label": ".__init__()",
+      "file_type": "code",
+      "source_file": "pipeline/waypoints.py",
+      "source_location": "L10",
+      "id": "pipeline_waypoints_waypointmap_init",
+      "community": 0,
+      "norm_label": ".__init__()"
+    },
+    {
+      "label": ".lookup()",
+      "file_type": "code",
+      "source_file": "pipeline/waypoints.py",
+      "source_location": "L13",
+      "id": "pipeline_waypoints_waypointmap_lookup",
+      "community": 0,
+      "norm_label": ".lookup()"
+    },
+    {
+      "label": ".__len__()",
+      "file_type": "code",
+      "source_file": "pipeline/waypoints.py",
+      "source_location": "L17",
+      "id": "pipeline_waypoints_waypointmap_len",
+      "community": 0,
+      "norm_label": ".__len__()"
+    },
+    {
+      "label": "parse_gpx()",
+      "file_type": "code",
+      "source_file": "pipeline/waypoints.py",
+      "source_location": "L21",
+      "id": "pipeline_waypoints_parse_gpx",
+      "community": 0,
+      "norm_label": "parse_gpx()"
+    },
+    {
+      "label": "Parse GPX waypoints named '000'\u2013'680' into a mile\u2192Waypoint map.",
+      "file_type": "rationale",
+      "source_file": "pipeline/waypoints.py",
+      "source_location": "L22",
+      "id": "pipeline_waypoints_rationale_22",
+      "community": 0,
+      "norm_label": "parse gpx waypoints named '000'\u2013'680' into a mile\u2192waypoint map."
+    },
+    {
+      "label": "__init__.py",
+      "file_type": "code",
+      "source_file": "pipeline/__init__.py",
+      "source_location": "L1",
+      "id": "pipeline_init_py",
+      "community": 22,
+      "norm_label": "__init__.py"
+    },
+    {
+      "label": "virtual_chars.py",
+      "file_type": "code",
+      "source_file": "pipeline/virtual_chars.py",
+      "source_location": "L1",
+      "id": "pipeline_virtual_chars_py",
+      "community": 5,
+      "norm_label": "virtual_chars.py"
+    },
+    {
+      "label": "build_buzzard()",
+      "file_type": "code",
+      "source_file": "pipeline/virtual_chars.py",
+      "source_location": "L7",
+      "id": "pipeline_virtual_chars_build_buzzard",
+      "community": 0,
+      "norm_label": "build_buzzard()"
+    },
+    {
+      "label": "build_gingerbread_man()",
+      "file_type": "code",
+      "source_file": "pipeline/virtual_chars.py",
+      "source_location": "L47",
+      "id": "pipeline_virtual_chars_build_gingerbread_man",
+      "community": 5,
+      "norm_label": "build_gingerbread_man()"
+    },
+    {
+      "label": "Gingerbread Man and Buzzard virtual character builders per SPEC \u00a71 and \u00a74.",
+      "file_type": "rationale",
+      "source_file": "pipeline/virtual_chars.py",
+      "source_location": "L1",
+      "id": "pipeline_virtual_chars_rationale_1",
+      "community": 5,
+      "norm_label": "gingerbread man and buzzard virtual character builders per spec \u00a71 and \u00a74."
+    },
+    {
+      "label": "Buzzard flies at exactly the pace to finish on the last day.     Miles on day N",
+      "file_type": "rationale",
+      "source_file": "pipeline/virtual_chars.py",
+      "source_location": "L13",
+      "id": "pipeline_virtual_chars_rationale_13",
+      "community": 0,
+      "norm_label": "buzzard flies at exactly the pace to finish on the last day.     miles on day n"
+    },
+    {
+      "label": "GBM is always 1 mile ahead of the current leader. Projection mirrors the leader'",
+      "file_type": "rationale",
+      "source_file": "pipeline/virtual_chars.py",
+      "source_location": "L53",
+      "id": "pipeline_virtual_chars_rationale_53",
+      "community": 5,
+      "norm_label": "gbm is always 1 mile ahead of the current leader. projection mirrors the leader'"
+    },
+    {
+      "label": "runsignup.py",
+      "file_type": "code",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L1",
+      "id": "pipeline_runsignup_py",
+      "community": 3,
+      "norm_label": "runsignup.py"
+    },
+    {
+      "label": "RunSignupError",
+      "file_type": "code",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L35",
+      "id": "pipeline_runsignup_runsignuperror",
+      "community": 3,
+      "norm_label": "runsignuperror"
+    },
+    {
+      "label": "Exception",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "exception",
+      "community": 3,
+      "norm_label": "exception"
+    },
+    {
+      "label": "ApiSource",
+      "file_type": "code",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L39",
+      "id": "pipeline_runsignup_apisource",
+      "community": 3,
+      "norm_label": "apisource"
+    },
+    {
+      "label": ".__init__()",
+      "file_type": "code",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L42",
+      "id": "pipeline_runsignup_apisource_init",
+      "community": 3,
+      "norm_label": ".__init__()"
+    },
+    {
+      "label": "._auth_params()",
+      "file_type": "code",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L52",
+      "id": "pipeline_runsignup_apisource_auth_params",
+      "community": 3,
+      "norm_label": "._auth_params()"
+    },
+    {
+      "label": "._auth_headers()",
+      "file_type": "code",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L58",
+      "id": "pipeline_runsignup_apisource_auth_headers",
+      "community": 3,
+      "norm_label": "._auth_headers()"
+    },
+    {
+      "label": "._get()",
+      "file_type": "code",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L61",
+      "id": "pipeline_runsignup_apisource_get",
+      "community": 3,
+      "norm_label": "._get()"
+    },
+    {
+      "label": ".load_participants()",
+      "file_type": "code",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L91",
+      "id": "pipeline_runsignup_apisource_load_participants",
+      "community": 3,
+      "norm_label": ".load_participants()"
+    },
+    {
+      "label": ".fetch_activity_types()",
+      "file_type": "code",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L129",
+      "id": "pipeline_runsignup_apisource_fetch_activity_types",
+      "community": 3,
+      "norm_label": ".fetch_activity_types()"
+    },
+    {
+      "label": ".load_activities()",
+      "file_type": "code",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L142",
+      "id": "pipeline_runsignup_apisource_load_activities",
+      "community": 3,
+      "norm_label": ".load_activities()"
+    },
+    {
+      "label": "._fetch_activities_for_bib()",
+      "file_type": "code",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L183",
+      "id": "pipeline_runsignup_apisource_fetch_activities_for_bib",
+      "community": 3,
+      "norm_label": "._fetch_activities_for_bib()"
+    },
+    {
+      "label": "_log_bib4_tally_verification()",
+      "file_type": "code",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L208",
+      "id": "pipeline_runsignup_log_bib4_tally_verification",
+      "community": 3,
+      "norm_label": "_log_bib4_tally_verification()"
+    },
+    {
+      "label": "_extract_participants_page()",
+      "file_type": "code",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L226",
+      "id": "pipeline_runsignup_extract_participants_page",
+      "community": 3,
+      "norm_label": "_extract_participants_page()"
+    },
+    {
+      "label": "_parse_participant()",
+      "file_type": "code",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L245",
+      "id": "pipeline_runsignup_parse_participant",
+      "community": 3,
+      "norm_label": "_parse_participant()"
+    },
+    {
+      "label": "_parse_activity()",
+      "file_type": "code",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L286",
+      "id": "pipeline_runsignup_parse_activity",
+      "community": 3,
+      "norm_label": "_parse_activity()"
+    },
+    {
+      "label": "RunSignup API client.  Activity tally unit \u2014 confirmed 2026-05-01:   result_spli",
+      "file_type": "rationale",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L1",
+      "id": "pipeline_runsignup_rationale_1",
+      "community": 3,
+      "norm_label": "runsignup api client.  activity tally unit \u2014 confirmed 2026-05-01:   result_spli"
+    },
+    {
+      "label": "Fetches participants and VR activities from the RunSignup REST API.",
+      "file_type": "rationale",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L40",
+      "id": "pipeline_runsignup_rationale_40",
+      "community": 3,
+      "norm_label": "fetches participants and vr activities from the runsignup rest api."
+    },
+    {
+      "label": "GET with retry: 3 retries, exponential backoff on 5xx and connection errors.",
+      "file_type": "rationale",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L62",
+      "id": "pipeline_runsignup_rationale_62",
+      "community": 3,
+      "norm_label": "get with retry: 3 retries, exponential backoff on 5xx and connection errors."
+    },
+    {
+      "label": "Fetch all participants across all event IDs (each paginated separately).",
+      "file_type": "rationale",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L92",
+      "id": "pipeline_runsignup_rationale_92",
+      "community": 3,
+      "norm_label": "fetch all participants across all event ids (each paginated separately)."
+    },
+    {
+      "label": "Fetch VR activity type definitions \u2014 confirms available activity types.",
+      "file_type": "rationale",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L130",
+      "id": "pipeline_runsignup_rationale_130",
+      "community": 3,
+      "norm_label": "fetch vr activity type definitions \u2014 confirms available activity types."
+    },
+    {
+      "label": "Fetch VR activities for each real participant (250ms delay between calls).",
+      "file_type": "rationale",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L149",
+      "id": "pipeline_runsignup_rationale_149",
+      "community": 3,
+      "norm_label": "fetch vr activities for each real participant (250ms delay between calls)."
+    },
+    {
+      "label": "Log raw mm value for bib 4 alongside the converted miles (CSV fixture: 26.3 mile",
+      "file_type": "rationale",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L209",
+      "id": "pipeline_runsignup_rationale_209",
+      "community": 23,
+      "norm_label": "log raw mm value for bib 4 alongside the converted miles (csv fixture: 26.3 mile"
+    },
+    {
+      "label": "Extract the flat participant list from one page of the API response.      Respon",
+      "file_type": "rationale",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L227",
+      "id": "pipeline_runsignup_rationale_227",
+      "community": 3,
+      "norm_label": "extract the flat participant list from one page of the api response.      respon"
+    },
+    {
+      "label": "Map a RunSignup participant record to the internal Participant model (no PII).",
+      "file_type": "rationale",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L246",
+      "id": "pipeline_runsignup_rationale_246",
+      "community": 3,
+      "norm_label": "map a runsignup participant record to the internal participant model (no pii)."
+    },
+    {
+      "label": "Map a RunSignup VR activity record to the internal Activity model.      result_s",
+      "file_type": "rationale",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L287",
+      "id": "pipeline_runsignup_rationale_287",
+      "community": 3,
+      "norm_label": "map a runsignup vr activity record to the internal activity model.      result_s"
+    },
+    {
+      "label": "main.py",
+      "file_type": "code",
+      "source_file": "pipeline/main.py",
+      "source_location": "L1",
+      "id": "pipeline_main_py",
+      "community": 0,
+      "norm_label": "main.py"
+    },
+    {
+      "label": "_build_meta()",
+      "file_type": "code",
+      "source_file": "pipeline/main.py",
+      "source_location": "L25",
+      "id": "pipeline_main_build_meta",
+      "community": 0,
+      "norm_label": "_build_meta()"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "pipeline/main.py",
+      "source_location": "L52",
+      "id": "pipeline_main_main",
+      "community": 0,
+      "norm_label": "main()"
+    },
+    {
+      "label": "CLI entry point: python -m pipeline.main --race gvrat-2026 [--from-csv path/] [-",
+      "file_type": "rationale",
+      "source_file": "pipeline/main.py",
+      "source_location": "L1",
+      "id": "pipeline_main_rationale_1",
+      "community": 0,
+      "norm_label": "cli entry point: python -m pipeline.main --race gvrat-2026 [--from-csv path/] [-"
+    },
+    {
+      "label": "runner_files.py",
+      "file_type": "code",
+      "source_file": "pipeline/runner_files.py",
+      "source_location": "L1",
+      "id": "pipeline_runner_files_py",
+      "community": 9,
+      "norm_label": "runner_files.py"
+    },
+    {
+      "label": "_normalize_type()",
+      "file_type": "code",
+      "source_file": "pipeline/runner_files.py",
+      "source_location": "L11",
+      "id": "pipeline_runner_files_normalize_type",
+      "community": 9,
+      "norm_label": "_normalize_type()"
+    },
+    {
+      "label": "_activity_entry()",
+      "file_type": "code",
+      "source_file": "pipeline/runner_files.py",
+      "source_location": "L22",
+      "id": "pipeline_runner_files_activity_entry",
+      "community": 9,
+      "norm_label": "_activity_entry()"
+    },
+    {
+      "label": "_rest_entry()",
+      "file_type": "code",
+      "source_file": "pipeline/runner_files.py",
+      "source_location": "L34",
+      "id": "pipeline_runner_files_rest_entry",
+      "community": 9,
+      "norm_label": "_rest_entry()"
+    },
+    {
+      "label": "save_runner_files()",
+      "file_type": "code",
+      "source_file": "pipeline/runner_files.py",
+      "source_location": "L45",
+      "id": "pipeline_runner_files_save_runner_files",
+      "community": 9,
+      "norm_label": "save_runner_files()"
+    },
+    {
+      "label": "Write per-runner JSON files to data/{race_id}/runners/{bib}.json.",
+      "file_type": "rationale",
+      "source_file": "pipeline/runner_files.py",
+      "source_location": "L1",
+      "id": "pipeline_runner_files_rationale_1",
+      "community": 9,
+      "norm_label": "write per-runner json files to data/{race_id}/runners/{bib}.json."
+    },
+    {
+      "label": "Map activityType (CSV string or API numeric ID) to 'run' or 'walk'.",
+      "file_type": "rationale",
+      "source_file": "pipeline/runner_files.py",
+      "source_location": "L12",
+      "id": "pipeline_runner_files_rationale_12",
+      "community": 9,
+      "norm_label": "map activitytype (csv string or api numeric id) to 'run' or 'walk'."
+    },
+    {
+      "label": "Write per-runner JSON files; return the number of files written.      Writes dat",
+      "file_type": "rationale",
+      "source_file": "pipeline/runner_files.py",
+      "source_location": "L55",
+      "id": "pipeline_runner_files_rationale_55",
+      "community": 9,
+      "norm_label": "write per-runner json files; return the number of files written.      writes dat"
+    },
+    {
+      "label": "descriptions.py",
+      "file_type": "code",
+      "source_file": "pipeline/descriptions.py",
+      "source_location": "L1",
+      "id": "pipeline_descriptions_py",
+      "community": 13,
+      "norm_label": "descriptions.py"
+    },
+    {
+      "label": "DescriptionMap",
+      "file_type": "code",
+      "source_file": "pipeline/descriptions.py",
+      "source_location": "L6",
+      "id": "pipeline_descriptions_descriptionmap",
+      "community": 13,
+      "norm_label": "descriptionmap"
+    },
+    {
+      "label": ".__init__()",
+      "file_type": "code",
+      "source_file": "pipeline/descriptions.py",
+      "source_location": "L7",
+      "id": "pipeline_descriptions_descriptionmap_init",
+      "community": 13,
+      "norm_label": ".__init__()"
+    },
+    {
+      "label": ".lookup()",
+      "file_type": "code",
+      "source_file": "pipeline/descriptions.py",
+      "source_location": "L11",
+      "id": "pipeline_descriptions_descriptionmap_lookup",
+      "community": 13,
+      "norm_label": ".lookup()"
+    },
+    {
+      "label": "load_descriptions()",
+      "file_type": "code",
+      "source_file": "pipeline/descriptions.py",
+      "source_location": "L38",
+      "id": "pipeline_descriptions_load_descriptions",
+      "community": 0,
+      "norm_label": "load_descriptions()"
+    },
+    {
+      "label": "Location description lookup with past/approaching interpolation per SPEC \u00a73.",
+      "file_type": "rationale",
+      "source_file": "pipeline/descriptions.py",
+      "source_location": "L1",
+      "id": "pipeline_descriptions_rationale_1",
+      "community": 13,
+      "norm_label": "location description lookup with past/approaching interpolation per spec \u00a73."
+    },
+    {
+      "label": "compute.py",
+      "file_type": "code",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L1",
+      "id": "pipeline_compute_py",
+      "community": 5,
+      "norm_label": "compute.py"
+    },
+    {
+      "label": "parse_distance()",
+      "file_type": "code",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L13",
+      "id": "pipeline_compute_parse_distance",
+      "community": 1,
+      "norm_label": "parse_distance()"
+    },
+    {
+      "label": "derive_home()",
+      "file_type": "code",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L25",
+      "id": "pipeline_compute_derive_home",
+      "community": 1,
+      "norm_label": "derive_home()"
+    },
+    {
+      "label": "compute_projected_finish()",
+      "file_type": "code",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L32",
+      "id": "pipeline_compute_compute_projected_finish",
+      "community": 5,
+      "norm_label": "compute_projected_finish()"
+    },
+    {
+      "label": "build_leaderboard()",
+      "file_type": "code",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L57",
+      "id": "pipeline_compute_build_leaderboard",
+      "community": 5,
+      "norm_label": "build_leaderboard()"
+    },
+    {
+      "label": "_assign_gender_ranks()",
+      "file_type": "code",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L187",
+      "id": "pipeline_compute_assign_gender_ranks",
+      "community": 5,
+      "norm_label": "_assign_gender_ranks()"
+    },
+    {
+      "label": "_zero_runner()",
+      "file_type": "code",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L199",
+      "id": "pipeline_compute_zero_runner",
+      "community": 5,
+      "norm_label": "_zero_runner()"
+    },
+    {
+      "label": "Parse a distance string like '26.3 miles' or '10 km' into miles.",
+      "file_type": "rationale",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L14",
+      "id": "pipeline_compute_rationale_14",
+      "community": 1,
+      "norm_label": "parse a distance string like '26.3 miles' or '10 km' into miles."
+    },
+    {
+      "label": "Return 'US-{state}' for US runners, ISO country code otherwise.",
+      "file_type": "rationale",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L26",
+      "id": "pipeline_compute_rationale_26",
+      "community": 1,
+      "norm_label": "return 'us-{state}' for us runners, iso country code otherwise."
+    },
+    {
+      "label": "Return (projectedFinish display string, projectedFinishDate ISO string).      Di",
+      "file_type": "rationale",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L38",
+      "id": "pipeline_compute_rationale_38",
+      "community": 5,
+      "norm_label": "return (projectedfinish display string, projectedfinishdate iso string).      di"
+    },
+    {
+      "label": "Aggregate activities, add virtual characters, rank runners, return LeaderboardOu",
+      "file_type": "rationale",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L68",
+      "id": "pipeline_compute_rationale_68",
+      "community": 5,
+      "norm_label": "aggregate activities, add virtual characters, rank runners, return leaderboardou"
+    },
+    {
+      "label": "Set genderRank on real runners (already sorted by miles desc).",
+      "file_type": "rationale",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L188",
+      "id": "pipeline_compute_rationale_188",
+      "community": 5,
+      "norm_label": "set genderrank on real runners (already sorted by miles desc)."
+    },
+    {
+      "label": "Fallback stub when there are no real runners \u2014 gives GBM a safe base.",
+      "file_type": "rationale",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L200",
+      "id": "pipeline_compute_rationale_200",
+      "community": 5,
+      "norm_label": "fallback stub when there are no real runners \u2014 gives gbm a safe base."
+    },
+    {
+      "label": "csv_source.py",
+      "file_type": "code",
+      "source_file": "pipeline/ingestion/csv_source.py",
+      "source_location": "L1",
+      "id": "pipeline_ingestion_csv_source_py",
+      "community": 10,
+      "norm_label": "csv_source.py"
+    },
+    {
+      "label": "CsvSource",
+      "file_type": "code",
+      "source_file": "pipeline/ingestion/csv_source.py",
+      "source_location": "L9",
+      "id": "ingestion_csv_source_csvsource",
+      "community": 10,
+      "norm_label": "csvsource"
+    },
+    {
+      "label": ".__init__()",
+      "file_type": "code",
+      "source_file": "pipeline/ingestion/csv_source.py",
+      "source_location": "L12",
+      "id": "ingestion_csv_source_csvsource_init",
+      "community": 10,
+      "norm_label": ".__init__()"
+    },
+    {
+      "label": ".load_participants()",
+      "file_type": "code",
+      "source_file": "pipeline/ingestion/csv_source.py",
+      "source_location": "L15",
+      "id": "ingestion_csv_source_csvsource_load_participants",
+      "community": 10,
+      "norm_label": ".load_participants()"
+    },
+    {
+      "label": ".load_activities()",
+      "file_type": "code",
+      "source_file": "pipeline/ingestion/csv_source.py",
+      "source_location": "L18",
+      "id": "ingestion_csv_source_csvsource_load_activities",
+      "community": 10,
+      "norm_label": ".load_activities()"
+    },
+    {
+      "label": "CsvSource \u2014 loads participants and activities from RunSignup-exported CSV files.",
+      "file_type": "rationale",
+      "source_file": "pipeline/ingestion/csv_source.py",
+      "source_location": "L1",
+      "id": "ingestion_csv_source_rationale_1",
+      "community": 10,
+      "norm_label": "csvsource \u2014 loads participants and activities from runsignup-exported csv files."
+    },
+    {
+      "label": "Implements the Source protocol using CSV files exported from RunSignup.",
+      "file_type": "rationale",
+      "source_file": "pipeline/ingestion/csv_source.py",
+      "source_location": "L10",
+      "id": "ingestion_csv_source_rationale_10",
+      "community": 10,
+      "norm_label": "implements the source protocol using csv files exported from runsignup."
+    },
+    {
+      "label": "__init__.py",
+      "file_type": "code",
+      "source_file": "pipeline/ingestion/__init__.py",
+      "source_location": "L1",
+      "id": "pipeline_ingestion_init_py",
+      "community": 17,
+      "norm_label": "__init__.py"
+    },
+    {
+      "label": "Pluggable ingestion sources for the GVRAT pipeline.  Usage in main.py:     from",
+      "file_type": "rationale",
+      "source_file": "pipeline/ingestion/__init__.py",
+      "source_location": "L1",
+      "id": "ingestion_init_rationale_1",
+      "community": 17,
+      "norm_label": "pluggable ingestion sources for the gvrat pipeline.  usage in main.py:     from"
+    },
+    {
+      "label": "base.py",
+      "file_type": "code",
+      "source_file": "pipeline/ingestion/base.py",
+      "source_location": "L1",
+      "id": "pipeline_ingestion_base_py",
+      "community": 2,
+      "norm_label": "base.py"
+    },
+    {
+      "label": "Source",
+      "file_type": "code",
+      "source_file": "pipeline/ingestion/base.py",
+      "source_location": "L8",
+      "id": "ingestion_base_source",
+      "community": 2,
+      "norm_label": "source"
+    },
+    {
+      "label": "Protocol",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "protocol",
+      "community": 2,
+      "norm_label": "protocol"
+    },
+    {
+      "label": ".load_participants()",
+      "file_type": "code",
+      "source_file": "pipeline/ingestion/base.py",
+      "source_location": "L9",
+      "id": "ingestion_base_source_load_participants",
+      "community": 2,
+      "norm_label": ".load_participants()"
+    },
+    {
+      "label": ".load_activities()",
+      "file_type": "code",
+      "source_file": "pipeline/ingestion/base.py",
+      "source_location": "L10",
+      "id": "ingestion_base_source_load_activities",
+      "community": 2,
+      "norm_label": ".load_activities()"
+    },
+    {
+      "label": "Abstract Source protocol \u2014 both CsvSource and ApiSource satisfy this interface.",
+      "file_type": "rationale",
+      "source_file": "pipeline/ingestion/base.py",
+      "source_location": "L1",
+      "id": "ingestion_base_rationale_1",
+      "community": 2,
+      "norm_label": "abstract source protocol \u2014 both csvsource and apisource satisfy this interface."
+    },
+    {
+      "label": "test_runner_files.py",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L1",
+      "id": "pipeline_tests_test_runner_files_py",
+      "community": 4,
+      "norm_label": "test_runner_files.py"
+    },
+    {
+      "label": "runner_files_env()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L19",
+      "id": "tests_test_runner_files_runner_files_env",
+      "community": 0,
+      "norm_label": "runner_files_env()"
+    },
+    {
+      "label": "TestTommyHolder",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L59",
+      "id": "tests_test_runner_files_testtommyholder",
+      "community": 4,
+      "norm_label": "testtommyholder"
+    },
+    {
+      "label": ".test_file_exists()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L62",
+      "id": "tests_test_runner_files_testtommyholder_test_file_exists",
+      "community": 4,
+      "norm_label": ".test_file_exists()"
+    },
+    {
+      "label": ".test_schema_fields()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L65",
+      "id": "tests_test_runner_files_testtommyholder_test_schema_fields",
+      "community": 4,
+      "norm_label": ".test_schema_fields()"
+    },
+    {
+      "label": ".test_rest_day_filled_in()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L76",
+      "id": "tests_test_runner_files_testtommyholder_test_rest_day_filled_in",
+      "community": 4,
+      "norm_label": ".test_rest_day_filled_in()"
+    },
+    {
+      "label": ".test_counts()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L88",
+      "id": "tests_test_runner_files_testtommyholder_test_counts",
+      "community": 4,
+      "norm_label": ".test_counts()"
+    },
+    {
+      "label": ".test_miles_match_leaderboard()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L94",
+      "id": "tests_test_runner_files_testtommyholder_test_miles_match_leaderboard",
+      "community": 4,
+      "norm_label": ".test_miles_match_leaderboard()"
+    },
+    {
+      "label": "TestJennaDagger",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L103",
+      "id": "tests_test_runner_files_testjennadagger",
+      "community": 6,
+      "norm_label": "testjennadagger"
+    },
+    {
+      "label": ".test_file_exists()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L106",
+      "id": "tests_test_runner_files_testjennadagger_test_file_exists",
+      "community": 6,
+      "norm_label": ".test_file_exists()"
+    },
+    {
+      "label": ".test_has_activity()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L109",
+      "id": "tests_test_runner_files_testjennadagger_test_has_activity",
+      "community": 6,
+      "norm_label": ".test_has_activity()"
+    },
+    {
+      "label": ".test_activities_sorted_ascending()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L115",
+      "id": "tests_test_runner_files_testjennadagger_test_activities_sorted_ascending",
+      "community": 6,
+      "norm_label": ".test_activities_sorted_ascending()"
+    },
+    {
+      "label": ".test_activity_type_normalized()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L120",
+      "id": "tests_test_runner_files_testjennadagger_test_activity_type_normalized",
+      "community": 6,
+      "norm_label": ".test_activity_type_normalized()"
+    },
+    {
+      "label": ".test_miles_match_leaderboard()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L127",
+      "id": "tests_test_runner_files_testjennadagger_test_miles_match_leaderboard",
+      "community": 6,
+      "norm_label": ".test_miles_match_leaderboard()"
+    },
+    {
+      "label": ".test_time_field_present()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L135",
+      "id": "tests_test_runner_files_testjennadagger_test_time_field_present",
+      "community": 6,
+      "norm_label": ".test_time_field_present()"
+    },
+    {
+      "label": "TestBuzzardFile",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L144",
+      "id": "tests_test_runner_files_testbuzzardfile",
+      "community": 4,
+      "norm_label": "testbuzzardfile"
+    },
+    {
+      "label": ".test_file_exists()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L145",
+      "id": "tests_test_runner_files_testbuzzardfile_test_file_exists",
+      "community": 4,
+      "norm_label": ".test_file_exists()"
+    },
+    {
+      "label": ".test_schema()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L148",
+      "id": "tests_test_runner_files_testbuzzardfile_test_schema",
+      "community": 4,
+      "norm_label": ".test_schema()"
+    },
+    {
+      "label": ".test_activity_type_is_buzzard()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L160",
+      "id": "tests_test_runner_files_testbuzzardfile_test_activity_type_is_buzzard",
+      "community": 4,
+      "norm_label": ".test_activity_type_is_buzzard()"
+    },
+    {
+      "label": ".test_runners_ahead_plus_behind_equals_total()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L166",
+      "id": "tests_test_runner_files_testbuzzardfile_test_runners_ahead_plus_behind_equals_total",
+      "community": 4,
+      "norm_label": ".test_runners_ahead_plus_behind_equals_total()"
+    },
+    {
+      "label": ".test_projected_finish_is_race_end()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L172",
+      "id": "tests_test_runner_files_testbuzzardfile_test_projected_finish_is_race_end",
+      "community": 4,
+      "norm_label": ".test_projected_finish_is_race_end()"
+    },
+    {
+      "label": ".test_day1_miles()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L176",
+      "id": "tests_test_runner_files_testbuzzardfile_test_day1_miles",
+      "community": 4,
+      "norm_label": ".test_day1_miles()"
+    },
+    {
+      "label": "TestFileCount",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L183",
+      "id": "tests_test_runner_files_testfilecount",
+      "community": 4,
+      "norm_label": "testfilecount"
+    },
+    {
+      "label": ".test_buzzard_file_written()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L184",
+      "id": "tests_test_runner_files_testfilecount_test_buzzard_file_written",
+      "community": 4,
+      "norm_label": ".test_buzzard_file_written()"
+    },
+    {
+      "label": ".test_gingerbread_man_not_written()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L187",
+      "id": "tests_test_runner_files_testfilecount_test_gingerbread_man_not_written",
+      "community": 4,
+      "norm_label": ".test_gingerbread_man_not_written()"
+    },
+    {
+      "label": ".test_active_participants_have_files()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L191",
+      "id": "tests_test_runner_files_testfilecount_test_active_participants_have_files",
+      "community": 4,
+      "norm_label": ".test_active_participants_have_files()"
+    },
+    {
+      "label": "Tests for pipeline/runner_files.py.",
+      "file_type": "rationale",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L1",
+      "id": "tests_test_runner_files_rationale_1",
+      "community": 4,
+      "norm_label": "tests for pipeline/runner_files.py."
+    },
+    {
+      "label": "Run save_runner_files against fixtures with as_of_date=2026-05-01, return out di",
+      "file_type": "rationale",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L20",
+      "id": "tests_test_runner_files_rationale_20",
+      "community": 0,
+      "norm_label": "run save_runner_files against fixtures with as_of_date=2026-05-01, return out di"
+    },
+    {
+      "label": "bib 233 \u2014 Tommy Holder is in the fixture but has no activities.",
+      "file_type": "rationale",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L60",
+      "id": "tests_test_runner_files_rationale_60",
+      "community": 4,
+      "norm_label": "bib 233 \u2014 tommy holder is in the fixture but has no activities."
+    },
+    {
+      "label": "No activities on May 1 \u2192 one rest entry for May 1.",
+      "file_type": "rationale",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L77",
+      "id": "tests_test_runner_files_rationale_77",
+      "community": 4,
+      "norm_label": "no activities on may 1 \u2192 one rest entry for may 1."
+    },
+    {
+      "label": "bib 4 \u2014 Jenna Dagger has 26.3 miles on May 1.",
+      "file_type": "rationale",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L104",
+      "id": "tests_test_runner_files_rationale_104",
+      "community": 6,
+      "norm_label": "bib 4 \u2014 jenna dagger has 26.3 miles on may 1."
+    },
+    {
+      "label": "CSV fixture has 'walk'; must appear as 'walk' in output.",
+      "file_type": "rationale",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L121",
+      "id": "tests_test_runner_files_rationale_121",
+      "community": 6,
+      "norm_label": "csv fixture has 'walk'; must appear as 'walk' in output."
+    },
+    {
+      "label": "CSV fixture has Time column \u2014 must appear in output.",
+      "file_type": "rationale",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L136",
+      "id": "tests_test_runner_files_rationale_136",
+      "community": 6,
+      "norm_label": "csv fixture has time column \u2014 must appear in output."
+    },
+    {
+      "label": "Day 1: Buzzard miles = 679/153 \u2248 4.44.",
+      "file_type": "rationale",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L177",
+      "id": "tests_test_runner_files_rationale_177",
+      "community": 4,
+      "norm_label": "day 1: buzzard miles = 679/153 \u2248 4.44."
+    },
+    {
+      "label": "Gingerbread Man (bib 9999) should have no runner file.",
+      "file_type": "rationale",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L188",
+      "id": "tests_test_runner_files_rationale_188",
+      "community": 4,
+      "norm_label": "gingerbread man (bib 9999) should have no runner file."
+    },
+    {
+      "label": "Every active non-virtual participant in the fixture must have a file.",
+      "file_type": "rationale",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L192",
+      "id": "tests_test_runner_files_rationale_192",
+      "community": 4,
+      "norm_label": "every active non-virtual participant in the fixture must have a file."
+    },
+    {
+      "label": "test_virtual_chars.py",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L1",
+      "id": "pipeline_tests_test_virtual_chars_py",
+      "community": 0,
+      "norm_label": "test_virtual_chars.py"
+    },
+    {
+      "label": "lb()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L15",
+      "id": "tests_test_virtual_chars_lb",
+      "community": 0,
+      "norm_label": "lb()"
+    },
+    {
+      "label": "test_buzzard_day1_miles()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L36",
+      "id": "tests_test_virtual_chars_test_buzzard_day1_miles",
+      "community": 0,
+      "norm_label": "test_buzzard_day1_miles()"
+    },
+    {
+      "label": "test_buzzard_day153_miles()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L46",
+      "id": "tests_test_virtual_chars_test_buzzard_day153_miles",
+      "community": 0,
+      "norm_label": "test_buzzard_day153_miles()"
+    },
+    {
+      "label": "test_buzzard_in_leaderboard()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L58",
+      "id": "tests_test_virtual_chars_test_buzzard_in_leaderboard",
+      "community": 0,
+      "norm_label": "test_buzzard_in_leaderboard()"
+    },
+    {
+      "label": "test_gbm_in_leaderboard()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L63",
+      "id": "tests_test_virtual_chars_test_gbm_in_leaderboard",
+      "community": 0,
+      "norm_label": "test_gbm_in_leaderboard()"
+    },
+    {
+      "label": "test_gbm_miles_is_leader_plus_one()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L68",
+      "id": "tests_test_virtual_chars_test_gbm_miles_is_leader_plus_one",
+      "community": 0,
+      "norm_label": "test_gbm_miles_is_leader_plus_one()"
+    },
+    {
+      "label": "test_gbm_rank_display_is_hash_one()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L74",
+      "id": "tests_test_virtual_chars_test_gbm_rank_display_is_hash_one",
+      "community": 0,
+      "norm_label": "test_gbm_rank_display_is_hash_one()"
+    },
+    {
+      "label": "test_gbm_has_higher_miles_than_any_real_runner()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L79",
+      "id": "tests_test_virtual_chars_test_gbm_has_higher_miles_than_any_real_runner",
+      "community": 0,
+      "norm_label": "test_gbm_has_higher_miles_than_any_real_runner()"
+    },
+    {
+      "label": "test_virtual_chars_have_no_gender_rank()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L85",
+      "id": "tests_test_virtual_chars_test_virtual_chars_have_no_gender_rank",
+      "community": 0,
+      "norm_label": "test_virtual_chars_have_no_gender_rank()"
+    },
+    {
+      "label": "test_real_runners_have_gender_rank()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L91",
+      "id": "tests_test_virtual_chars_test_real_runners_have_gender_rank",
+      "community": 0,
+      "norm_label": "test_real_runners_have_gender_rank()"
+    },
+    {
+      "label": "test_gender_ranks_sequential_m()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L98",
+      "id": "tests_test_virtual_chars_test_gender_ranks_sequential_m",
+      "community": 0,
+      "norm_label": "test_gender_ranks_sequential_m()"
+    },
+    {
+      "label": "test_gender_ranks_sequential_f()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L103",
+      "id": "tests_test_virtual_chars_test_gender_ranks_sequential_f",
+      "community": 0,
+      "norm_label": "test_gender_ranks_sequential_f()"
+    },
+    {
+      "label": "__init__.py",
+      "file_type": "code",
+      "source_file": "pipeline/tests/__init__.py",
+      "source_location": "L1",
+      "id": "pipeline_tests_init_py",
+      "community": 24,
+      "norm_label": "__init__.py"
+    },
+    {
+      "label": "test_compute.py",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L1",
+      "id": "pipeline_tests_test_compute_py",
+      "community": 1,
+      "norm_label": "test_compute.py"
+    },
+    {
+      "label": "test_parse_distance_miles()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L16",
+      "id": "tests_test_compute_test_parse_distance_miles",
+      "community": 1,
+      "norm_label": "test_parse_distance_miles()"
+    },
+    {
+      "label": "test_parse_distance_km()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L20",
+      "id": "tests_test_compute_test_parse_distance_km",
+      "community": 1,
+      "norm_label": "test_parse_distance_km()"
+    },
+    {
+      "label": "test_parse_distance_km_long()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L24",
+      "id": "tests_test_compute_test_parse_distance_km_long",
+      "community": 1,
+      "norm_label": "test_parse_distance_km_long()"
+    },
+    {
+      "label": "test_parse_distance_mi()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L28",
+      "id": "tests_test_compute_test_parse_distance_mi",
+      "community": 1,
+      "norm_label": "test_parse_distance_mi()"
+    },
+    {
+      "label": "test_parse_distance_invalid()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L32",
+      "id": "tests_test_compute_test_parse_distance_invalid",
+      "community": 1,
+      "norm_label": "test_parse_distance_invalid()"
+    },
+    {
+      "label": "test_derive_home_us()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L39",
+      "id": "tests_test_compute_test_derive_home_us",
+      "community": 1,
+      "norm_label": "test_derive_home_us()"
+    },
+    {
+      "label": "test_derive_home_gb()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L43",
+      "id": "tests_test_compute_test_derive_home_gb",
+      "community": 1,
+      "norm_label": "test_derive_home_gb()"
+    },
+    {
+      "label": "test_derive_home_au()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L47",
+      "id": "tests_test_compute_test_derive_home_au",
+      "community": 1,
+      "norm_label": "test_derive_home_au()"
+    },
+    {
+      "label": "test_derive_home_us_military()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L51",
+      "id": "tests_test_compute_test_derive_home_us_military",
+      "community": 1,
+      "norm_label": "test_derive_home_us_military()"
+    },
+    {
+      "label": "leaderboard()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L58",
+      "id": "tests_test_compute_leaderboard",
+      "community": 0,
+      "norm_label": "leaderboard()"
+    },
+    {
+      "label": "test_jenna_dagger_is_real_leader()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L75",
+      "id": "tests_test_compute_test_jenna_dagger_is_real_leader",
+      "community": 1,
+      "norm_label": "test_jenna_dagger_is_real_leader()"
+    },
+    {
+      "label": "test_jenna_dagger_miles()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L84",
+      "id": "tests_test_compute_test_jenna_dagger_miles",
+      "community": 1,
+      "norm_label": "test_jenna_dagger_miles()"
+    },
+    {
+      "label": "test_ranking_is_descending()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L89",
+      "id": "tests_test_compute_test_ranking_is_descending",
+      "community": 1,
+      "norm_label": "test_ranking_is_descending()"
+    },
+    {
+      "label": "test_rank_numbers_sequential()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L94",
+      "id": "tests_test_compute_test_rank_numbers_sequential",
+      "community": 1,
+      "norm_label": "test_rank_numbers_sequential()"
+    },
+    {
+      "label": "test_derive_home_gb_in_leaderboard()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L99",
+      "id": "tests_test_compute_test_derive_home_gb_in_leaderboard",
+      "community": 1,
+      "norm_label": "test_derive_home_gb_in_leaderboard()"
+    },
+    {
+      "label": "test_derive_home_us_in_leaderboard()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L104",
+      "id": "tests_test_compute_test_derive_home_us_in_leaderboard",
+      "community": 1,
+      "norm_label": "test_derive_home_us_in_leaderboard()"
+    },
+    {
+      "label": "test_virtual_bibs_in_output()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L110",
+      "id": "tests_test_compute_test_virtual_bibs_in_output",
+      "community": 1,
+      "norm_label": "test_virtual_bibs_in_output()"
+    },
+    {
+      "label": "test_runners_with_zero_miles_present()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L117",
+      "id": "tests_test_compute_test_runners_with_zero_miles_present",
+      "community": 1,
+      "norm_label": "test_runners_with_zero_miles_present()"
+    },
+    {
+      "label": "test_waypoints_assigned()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L122",
+      "id": "tests_test_compute_test_waypoints_assigned",
+      "community": 1,
+      "norm_label": "test_waypoints_assigned()"
+    },
+    {
+      "label": "test_multi_activity_bib_summed()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L128",
+      "id": "tests_test_compute_test_multi_activity_bib_summed",
+      "community": 1,
+      "norm_label": "test_multi_activity_bib_summed()"
+    },
+    {
+      "label": "test_jenna_dagger_comp_percent()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L137",
+      "id": "tests_test_compute_test_jenna_dagger_comp_percent",
+      "community": 1,
+      "norm_label": "test_jenna_dagger_comp_percent()"
+    },
+    {
+      "label": "test_jenna_dagger_km()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L143",
+      "id": "tests_test_compute_test_jenna_dagger_km",
+      "community": 1,
+      "norm_label": "test_jenna_dagger_km()"
+    },
+    {
+      "label": "test_jenna_dagger_projected_finish()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L149",
+      "id": "tests_test_compute_test_jenna_dagger_projected_finish",
+      "community": 1,
+      "norm_label": "test_jenna_dagger_projected_finish()"
+    },
+    {
+      "label": "test_zero_mile_runner_projected_finish()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L156",
+      "id": "tests_test_compute_test_zero_mile_runner_projected_finish",
+      "community": 1,
+      "norm_label": "test_zero_mile_runner_projected_finish()"
+    },
+    {
+      "label": "test_jenna_dagger_rank_display()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L164",
+      "id": "tests_test_compute_test_jenna_dagger_rank_display",
+      "community": 1,
+      "norm_label": "test_jenna_dagger_rank_display()"
+    },
+    {
+      "label": "test_waypoints.py",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_waypoints.py",
+      "source_location": "L1",
+      "id": "pipeline_tests_test_waypoints_py",
+      "community": 11,
+      "norm_label": "test_waypoints.py"
+    },
+    {
+      "label": "wmap()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_waypoints.py",
+      "source_location": "L9",
+      "id": "tests_test_waypoints_wmap",
+      "community": 11,
+      "norm_label": "wmap()"
+    },
+    {
+      "label": "test_mile_0_coordinates()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_waypoints.py",
+      "source_location": "L13",
+      "id": "tests_test_waypoints_test_mile_0_coordinates",
+      "community": 11,
+      "norm_label": "test_mile_0_coordinates()"
+    },
+    {
+      "label": "test_mile_680_is_valid()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_waypoints.py",
+      "source_location": "L19",
+      "id": "tests_test_waypoints_test_mile_680_is_valid",
+      "community": 11,
+      "norm_label": "test_mile_680_is_valid()"
+    },
+    {
+      "label": "test_lookup_clamps_below_zero()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_waypoints.py",
+      "source_location": "L25",
+      "id": "tests_test_waypoints_test_lookup_clamps_below_zero",
+      "community": 11,
+      "norm_label": "test_lookup_clamps_below_zero()"
+    },
+    {
+      "label": "test_lookup_clamps_above_680()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_waypoints.py",
+      "source_location": "L29",
+      "id": "tests_test_waypoints_test_lookup_clamps_above_680",
+      "community": 11,
+      "norm_label": "test_lookup_clamps_above_680()"
+    },
+    {
+      "label": "test_681_waypoints_loaded()",
+      "file_type": "code",
+      "source_file": "pipeline/tests/test_waypoints.py",
+      "source_location": "L33",
+      "id": "tests_test_waypoints_test_681_waypoints_loaded",
+      "community": 11,
+      "norm_label": "test_681_waypoints_loaded()"
+    },
+    {
+      "label": "postcss.config.mjs",
+      "file_type": "code",
+      "source_file": "frontend/postcss.config.mjs",
+      "source_location": "L1",
+      "id": "frontend_postcss_config_mjs",
+      "community": 25,
+      "norm_label": "postcss.config.mjs"
+    },
+    {
+      "label": "next-env.d.ts",
+      "file_type": "code",
+      "source_file": "frontend/next-env.d.ts",
+      "source_location": "L1",
+      "id": "frontend_next_env_d_ts",
+      "community": 26,
+      "norm_label": "next-env.d.ts"
+    },
+    {
+      "label": "eslint.config.mjs",
+      "file_type": "code",
+      "source_file": "frontend/eslint.config.mjs",
+      "source_location": "L1",
+      "id": "frontend_eslint_config_mjs",
+      "community": 27,
+      "norm_label": "eslint.config.mjs"
+    },
+    {
+      "label": "next.config.ts",
+      "file_type": "code",
+      "source_file": "frontend/next.config.ts",
+      "source_location": "L1",
+      "id": "frontend_next_config_ts",
+      "community": 28,
+      "norm_label": "next.config.ts"
+    },
+    {
+      "label": "layout.tsx",
+      "file_type": "code",
+      "source_file": "frontend/app/layout.tsx",
+      "source_location": "L1",
+      "id": "frontend_app_layout_tsx",
+      "community": 18,
+      "norm_label": "layout.tsx"
+    },
+    {
+      "label": "RootLayout()",
+      "file_type": "code",
+      "source_file": "frontend/app/layout.tsx",
+      "source_location": "L10",
+      "id": "app_layout_rootlayout",
+      "community": 18,
+      "norm_label": "rootlayout()"
+    },
+    {
+      "label": "page.tsx",
+      "file_type": "code",
+      "source_file": "frontend/app/page.tsx",
+      "source_location": "L1",
+      "id": "frontend_app_page_tsx",
+      "community": 29,
+      "norm_label": "page.tsx"
+    },
+    {
+      "label": "page.tsx",
+      "file_type": "code",
+      "source_file": "frontend/app/gvrat-2026/page.tsx",
+      "source_location": "L1",
+      "id": "frontend_app_gvrat_2026_page_tsx",
+      "community": 16,
+      "norm_label": "page.tsx"
+    },
+    {
+      "label": "getCourseCoords()",
+      "file_type": "code",
+      "source_file": "frontend/app/gvrat-2026/page.tsx",
+      "source_location": "L4",
+      "id": "gvrat_2026_page_getcoursecoords",
+      "community": 16,
+      "norm_label": "getcoursecoords()"
+    },
+    {
+      "label": "GvratDashboard()",
+      "file_type": "code",
+      "source_file": "frontend/app/gvrat-2026/page.tsx",
+      "source_location": "L14",
+      "id": "gvrat_2026_page_gvratdashboard",
+      "community": 16,
+      "norm_label": "gvratdashboard()"
+    },
+    {
+      "label": "page.tsx",
+      "file_type": "code",
+      "source_file": "frontend/app/gvrat-2026/runner/[bib]/page.tsx",
+      "source_location": "L1",
+      "id": "frontend_app_gvrat_2026_runner_bib_page_tsx",
+      "community": 8,
+      "norm_label": "page.tsx"
+    },
+    {
+      "label": "generateStaticParams()",
+      "file_type": "code",
+      "source_file": "frontend/app/gvrat-2026/runner/[bib]/page.tsx",
+      "source_location": "L56",
+      "id": "bib_page_generatestaticparams",
+      "community": 8,
+      "norm_label": "generatestaticparams()"
+    },
+    {
+      "label": "countryFlag()",
+      "file_type": "code",
+      "source_file": "frontend/app/gvrat-2026/runner/[bib]/page.tsx",
+      "source_location": "L64",
+      "id": "bib_page_countryflag",
+      "community": 8,
+      "norm_label": "countryflag()"
+    },
+    {
+      "label": "daysUntilEnd()",
+      "file_type": "code",
+      "source_file": "frontend/app/gvrat-2026/runner/[bib]/page.tsx",
+      "source_location": "L76",
+      "id": "bib_page_daysuntilend",
+      "community": 8,
+      "norm_label": "daysuntilend()"
+    },
+    {
+      "label": "shortDate()",
+      "file_type": "code",
+      "source_file": "frontend/app/gvrat-2026/runner/[bib]/page.tsx",
+      "source_location": "L83",
+      "id": "bib_page_shortdate",
+      "community": 8,
+      "norm_label": "shortdate()"
+    },
+    {
+      "label": "longDate()",
+      "file_type": "code",
+      "source_file": "frontend/app/gvrat-2026/runner/[bib]/page.tsx",
+      "source_location": "L88",
+      "id": "bib_page_longdate",
+      "community": 8,
+      "norm_label": "longdate()"
+    },
+    {
+      "label": "DotSep()",
+      "file_type": "code",
+      "source_file": "frontend/app/gvrat-2026/runner/[bib]/page.tsx",
+      "source_location": "L94",
+      "id": "bib_page_dotsep",
+      "community": 8,
+      "norm_label": "dotsep()"
+    },
+    {
+      "label": "getX()",
+      "file_type": "code",
+      "source_file": "frontend/app/gvrat-2026/runner/[bib]/page.tsx",
+      "source_location": "L326",
+      "id": "bib_page_getx",
+      "community": 8,
+      "norm_label": "getx()"
+    },
+    {
+      "label": "getY()",
+      "file_type": "code",
+      "source_file": "frontend/app/gvrat-2026/runner/[bib]/page.tsx",
+      "source_location": "L327",
+      "id": "bib_page_gety",
+      "community": 8,
+      "norm_label": "gety()"
+    },
+    {
+      "label": "RaceProgress.tsx",
+      "file_type": "code",
+      "source_file": "frontend/components/RaceProgress.tsx",
+      "source_location": "L1",
+      "id": "frontend_components_raceprogress_tsx",
+      "community": 30,
+      "norm_label": "raceprogress.tsx"
+    },
+    {
+      "label": "Leaderboard.tsx",
+      "file_type": "code",
+      "source_file": "frontend/components/Leaderboard.tsx",
+      "source_location": "L1",
+      "id": "frontend_components_leaderboard_tsx",
+      "community": 7,
+      "norm_label": "leaderboard.tsx"
+    },
+    {
+      "label": "getCountry()",
+      "file_type": "code",
+      "source_file": "frontend/components/Leaderboard.tsx",
+      "source_location": "L17",
+      "id": "components_leaderboard_getcountry",
+      "community": 7,
+      "norm_label": "getcountry()"
+    },
+    {
+      "label": "formatProjFinShort()",
+      "file_type": "code",
+      "source_file": "frontend/components/Leaderboard.tsx",
+      "source_location": "L21",
+      "id": "components_leaderboard_formatprojfinshort",
+      "community": 7,
+      "norm_label": "formatprojfinshort()"
+    },
+    {
+      "label": "sortRunners()",
+      "file_type": "code",
+      "source_file": "frontend/components/Leaderboard.tsx",
+      "source_location": "L34",
+      "id": "components_leaderboard_sortrunners",
+      "community": 7,
+      "norm_label": "sortrunners()"
+    },
+    {
+      "label": "getPosColor()",
+      "file_type": "code",
+      "source_file": "frontend/components/Leaderboard.tsx",
+      "source_location": "L55",
+      "id": "components_leaderboard_getposcolor",
+      "community": 7,
+      "norm_label": "getposcolor()"
+    },
+    {
+      "label": "getRowBg()",
+      "file_type": "code",
+      "source_file": "frontend/components/Leaderboard.tsx",
+      "source_location": "L61",
+      "id": "components_leaderboard_getrowbg",
+      "community": 7,
+      "norm_label": "getrowbg()"
+    },
+    {
+      "label": "handleSort()",
+      "file_type": "code",
+      "source_file": "frontend/components/Leaderboard.tsx",
+      "source_location": "L357",
+      "id": "components_leaderboard_handlesort",
+      "community": 7,
+      "norm_label": "handlesort()"
+    },
+    {
+      "label": "handleSearch()",
+      "file_type": "code",
+      "source_file": "frontend/components/Leaderboard.tsx",
+      "source_location": "L365",
+      "id": "components_leaderboard_handlesearch",
+      "community": 7,
+      "norm_label": "handlesearch()"
+    },
+    {
+      "label": "handleMapPin()",
+      "file_type": "code",
+      "source_file": "frontend/components/Leaderboard.tsx",
+      "source_location": "L371",
+      "id": "components_leaderboard_handlemappin",
+      "community": 7,
+      "norm_label": "handlemappin()"
+    },
+    {
+      "label": "handleNavigate()",
+      "file_type": "code",
+      "source_file": "frontend/components/Leaderboard.tsx",
+      "source_location": "L375",
+      "id": "components_leaderboard_handlenavigate",
+      "community": 7,
+      "norm_label": "handlenavigate()"
+    },
+    {
+      "label": "RaceMap.tsx",
+      "file_type": "code",
+      "source_file": "frontend/components/RaceMap.tsx",
+      "source_location": "L1",
+      "id": "frontend_components_racemap_tsx",
+      "community": 19,
+      "norm_label": "racemap.tsx"
+    },
+    {
+      "label": "RaceMap()",
+      "file_type": "code",
+      "source_file": "frontend/components/RaceMap.tsx",
+      "source_location": "L21",
+      "id": "components_racemap_racemap",
+      "community": 19,
+      "norm_label": "racemap()"
+    },
+    {
+      "label": "AsOfBanner.tsx",
+      "file_type": "code",
+      "source_file": "frontend/components/AsOfBanner.tsx",
+      "source_location": "L1",
+      "id": "frontend_components_asofbanner_tsx",
+      "community": 20,
+      "norm_label": "asofbanner.tsx"
+    },
+    {
+      "label": "formatText()",
+      "file_type": "code",
+      "source_file": "frontend/components/AsOfBanner.tsx",
+      "source_location": "L9",
+      "id": "components_asofbanner_formattext",
+      "community": 20,
+      "norm_label": "formattext()"
+    },
+    {
+      "label": "RaceMapInner.tsx",
+      "file_type": "code",
+      "source_file": "frontend/components/RaceMapInner.tsx",
+      "source_location": "L1",
+      "id": "frontend_components_racemapinner_tsx",
+      "community": 14,
+      "norm_label": "racemapinner.tsx"
+    },
+    {
+      "label": "makeRunnerIcon()",
+      "file_type": "code",
+      "source_file": "frontend/components/RaceMapInner.tsx",
+      "source_location": "L38",
+      "id": "components_racemapinner_makerunnericon",
+      "community": 14,
+      "norm_label": "makerunnericon()"
+    },
+    {
+      "label": "RunnerMarker()",
+      "file_type": "code",
+      "source_file": "frontend/components/RaceMapInner.tsx",
+      "source_location": "L63",
+      "id": "components_racemapinner_runnermarker",
+      "community": 14,
+      "norm_label": "runnermarker()"
+    },
+    {
+      "label": "VirtualMarker()",
+      "file_type": "code",
+      "source_file": "frontend/components/RaceMapInner.tsx",
+      "source_location": "L87",
+      "id": "components_racemapinner_virtualmarker",
+      "community": 14,
+      "norm_label": "virtualmarker()"
+    },
+    {
+      "label": "MapController()",
+      "file_type": "code",
+      "source_file": "frontend/components/RaceMapInner.tsx",
+      "source_location": "L98",
+      "id": "components_racemapinner_mapcontroller",
+      "community": 14,
+      "norm_label": "mapcontroller()"
+    },
+    {
+      "label": "StatCards.tsx",
+      "file_type": "code",
+      "source_file": "frontend/components/StatCards.tsx",
+      "source_location": "L1",
+      "id": "frontend_components_statcards_tsx",
+      "community": 31,
+      "norm_label": "statcards.tsx"
+    },
+    {
+      "label": "DayCounter.tsx",
+      "file_type": "code",
+      "source_file": "frontend/components/DayCounter.tsx",
+      "source_location": "L1",
+      "id": "frontend_components_daycounter_tsx",
+      "community": 21,
+      "norm_label": "daycounter.tsx"
+    },
+    {
+      "label": "DayCounter()",
+      "file_type": "code",
+      "source_file": "frontend/components/DayCounter.tsx",
+      "source_location": "L1",
+      "id": "components_daycounter_daycounter",
+      "community": 21,
+      "norm_label": "daycounter()"
+    },
+    {
+      "label": "DashboardClient.tsx",
+      "file_type": "code",
+      "source_file": "frontend/components/DashboardClient.tsx",
+      "source_location": "L1",
+      "id": "frontend_components_dashboardclient_tsx",
+      "community": 32,
+      "norm_label": "dashboardclient.tsx"
+    },
+    {
+      "label": "StatStrip.tsx",
+      "file_type": "code",
+      "source_file": "frontend/components/StatStrip.tsx",
+      "source_location": "L1",
+      "id": "frontend_components_statstrip_tsx",
+      "community": 33,
+      "norm_label": "statstrip.tsx"
+    },
+    {
+      "label": "data.ts",
+      "file_type": "code",
+      "source_file": "frontend/lib/data.ts",
+      "source_location": "L1",
+      "id": "frontend_lib_data_ts",
+      "community": 34,
+      "norm_label": "data.ts"
+    },
+    {
+      "label": "format.ts",
+      "file_type": "code",
+      "source_file": "frontend/lib/format.ts",
+      "source_location": "L1",
+      "id": "frontend_lib_format_ts",
+      "community": 12,
+      "norm_label": "format.ts"
+    },
+    {
+      "label": "formatMiles()",
+      "file_type": "code",
+      "source_file": "frontend/lib/format.ts",
+      "source_location": "L1",
+      "id": "lib_format_formatmiles",
+      "community": 12,
+      "norm_label": "formatmiles()"
+    },
+    {
+      "label": "formatKm()",
+      "file_type": "code",
+      "source_file": "frontend/lib/format.ts",
+      "source_location": "L5",
+      "id": "lib_format_formatkm",
+      "community": 12,
+      "norm_label": "formatkm()"
+    },
+    {
+      "label": "formatCompPercent()",
+      "file_type": "code",
+      "source_file": "frontend/lib/format.ts",
+      "source_location": "L9",
+      "id": "lib_format_formatcomppercent",
+      "community": 12,
+      "norm_label": "formatcomppercent()"
+    },
+    {
+      "label": "formatRank()",
+      "file_type": "code",
+      "source_file": "frontend/lib/format.ts",
+      "source_location": "L13",
+      "id": "lib_format_formatrank",
+      "community": 12,
+      "norm_label": "formatrank()"
+    },
+    {
+      "label": "formatProjFinish()",
+      "file_type": "code",
+      "source_file": "frontend/lib/format.ts",
+      "source_location": "L17",
+      "id": "lib_format_formatprojfinish",
+      "community": 12,
+      "norm_label": "formatprojfinish()"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/snapshots.py",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "pipeline_snapshots_py",
+      "target": "pipeline_snapshots_save_snapshot",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/snapshots.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "pipeline_snapshots_rationale_1",
+      "target": "pipeline_snapshots_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/main.py",
+      "source_location": "L158",
+      "weight": 1.0,
+      "source": "pipeline_main_main",
+      "target": "pipeline_snapshots_save_snapshot"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/config.py",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "pipeline_config_py",
+      "target": "pipeline_config_load_race_config",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/config.py",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "pipeline_config_py",
+      "target": "pipeline_config_load_overrides",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/main.py",
+      "source_location": "L63",
+      "weight": 1.0,
+      "source": "pipeline_main_main",
+      "target": "pipeline_config_load_race_config"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_runner_files_env",
+      "target": "pipeline_config_load_race_config"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "tests_test_virtual_chars_lb",
+      "target": "pipeline_config_load_race_config"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "tests_test_virtual_chars_test_buzzard_day1_miles",
+      "target": "pipeline_config_load_race_config"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "tests_test_virtual_chars_test_buzzard_day153_miles",
+      "target": "pipeline_config_load_race_config"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L59",
+      "weight": 1.0,
+      "source": "tests_test_compute_leaderboard",
+      "target": "pipeline_config_load_race_config"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/main.py",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "pipeline_main_main",
+      "target": "pipeline_config_load_overrides"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_runner_files_env",
+      "target": "pipeline_config_load_overrides"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "tests_test_virtual_chars_lb",
+      "target": "pipeline_config_load_overrides"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L60",
+      "weight": 1.0,
+      "source": "tests_test_compute_leaderboard",
+      "target": "pipeline_config_load_overrides"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/csv_source.py",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "pipeline_csv_source_py",
+      "target": "pipeline_csv_source_parse_date",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/csv_source.py",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "pipeline_csv_source_py",
+      "target": "pipeline_csv_source_int_or",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/csv_source.py",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "pipeline_csv_source_py",
+      "target": "pipeline_csv_source_load_participants",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/csv_source.py",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "pipeline_csv_source_py",
+      "target": "pipeline_csv_source_load_activities",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/csv_source.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "pipeline_csv_source_rationale_1",
+      "target": "pipeline_csv_source_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/csv_source.py",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "pipeline_csv_source_load_activities",
+      "target": "pipeline_csv_source_parse_date",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/csv_source.py",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "pipeline_csv_source_load_participants",
+      "target": "pipeline_csv_source_int_or",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/csv_source.py",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "pipeline_csv_source_load_participants",
+      "target": "pipeline_models_participant"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/csv_source.py",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "pipeline_csv_source_load_activities",
+      "target": "pipeline_models_activity"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/models.py",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "pipeline_models_py",
+      "target": "pipeline_models_virtualcharacterconfig",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/models.py",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "pipeline_models_py",
+      "target": "pipeline_models_virtualcharactersconfig",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/models.py",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "pipeline_models_py",
+      "target": "pipeline_models_runsignupconfig",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/models.py",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "pipeline_models_py",
+      "target": "pipeline_models_raceconfig",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/models.py",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "pipeline_models_py",
+      "target": "pipeline_models_participant",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/models.py",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "pipeline_models_py",
+      "target": "pipeline_models_activity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/models.py",
+      "source_location": "L62",
+      "weight": 1.0,
+      "source": "pipeline_models_py",
+      "target": "pipeline_models_waypoint",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/models.py",
+      "source_location": "L68",
+      "weight": 1.0,
+      "source": "pipeline_models_py",
+      "target": "pipeline_models_publicrunner",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/models.py",
+      "source_location": "L96",
+      "weight": 1.0,
+      "source": "pipeline_models_py",
+      "target": "pipeline_models_leaderboardoutput",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/models.py",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "pipeline_models_virtualcharacterconfig",
+      "target": "basemodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/models.py",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "pipeline_models_virtualcharactersconfig",
+      "target": "basemodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/models.py",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "pipeline_models_runsignupconfig",
+      "target": "basemodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/models.py",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "pipeline_models_raceconfig",
+      "target": "basemodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/models.py",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "pipeline_models_participant",
+      "target": "basemodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/models.py",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "pipeline_models_activity",
+      "target": "basemodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/models.py",
+      "source_location": "L62",
+      "weight": 1.0,
+      "source": "pipeline_models_waypoint",
+      "target": "basemodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/models.py",
+      "source_location": "L68",
+      "weight": 1.0,
+      "source": "pipeline_models_publicrunner",
+      "target": "basemodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/models.py",
+      "source_location": "L96",
+      "weight": 1.0,
+      "source": "pipeline_models_leaderboardoutput",
+      "target": "basemodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/models.py",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "pipeline_models_rationale_36",
+      "target": "pipeline_models_participant",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L25",
+      "weight": 0.8,
+      "source": "pipeline_runsignup_runsignuperror",
+      "target": "pipeline_models_participant",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L25",
+      "weight": 0.8,
+      "source": "pipeline_runsignup_apisource",
+      "target": "pipeline_models_participant",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "pipeline/ingestion/csv_source.py",
+      "source_location": "L6",
+      "weight": 0.8,
+      "source": "ingestion_csv_source_csvsource",
+      "target": "pipeline_models_participant",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "pipeline/ingestion/base.py",
+      "source_location": "L4",
+      "weight": 0.8,
+      "source": "ingestion_base_source",
+      "target": "pipeline_models_participant",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L270",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_parse_participant",
+      "target": "pipeline_models_participant"
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L25",
+      "weight": 0.8,
+      "source": "pipeline_runsignup_runsignuperror",
+      "target": "pipeline_models_activity",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L25",
+      "weight": 0.8,
+      "source": "pipeline_runsignup_apisource",
+      "target": "pipeline_models_activity",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "pipeline/ingestion/csv_source.py",
+      "source_location": "L6",
+      "weight": 0.8,
+      "source": "ingestion_csv_source_csvsource",
+      "target": "pipeline_models_activity",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "pipeline/ingestion/base.py",
+      "source_location": "L4",
+      "weight": 0.8,
+      "source": "ingestion_base_source",
+      "target": "pipeline_models_activity",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L306",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_parse_activity",
+      "target": "pipeline_models_activity"
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "pipeline/waypoints.py",
+      "source_location": "L4",
+      "weight": 0.8,
+      "source": "pipeline_waypoints_waypointmap",
+      "target": "pipeline_models_waypoint",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/waypoints.py",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "pipeline_waypoints_parse_gpx",
+      "target": "pipeline_models_waypoint"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/models.py",
+      "source_location": "L69",
+      "weight": 1.0,
+      "source": "pipeline_models_rationale_69",
+      "target": "pipeline_models_publicrunner",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/virtual_chars.py",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "pipeline_virtual_chars_build_buzzard",
+      "target": "pipeline_models_publicrunner"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/virtual_chars.py",
+      "source_location": "L58",
+      "weight": 1.0,
+      "source": "pipeline_virtual_chars_build_gingerbread_man",
+      "target": "pipeline_models_publicrunner"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/compute.py",
+      "source_location": "L110",
+      "weight": 1.0,
+      "source": "pipeline_compute_build_leaderboard",
+      "target": "pipeline_models_publicrunner"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/compute.py",
+      "source_location": "L202",
+      "weight": 1.0,
+      "source": "pipeline_compute_zero_runner",
+      "target": "pipeline_models_publicrunner"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/compute.py",
+      "source_location": "L177",
+      "weight": 1.0,
+      "source": "pipeline_compute_build_leaderboard",
+      "target": "pipeline_models_leaderboardoutput"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/course.py",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "pipeline_course_py",
+      "target": "pipeline_course_build_course_geojson",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/course.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "pipeline_course_rationale_1",
+      "target": "pipeline_course_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/main.py",
+      "source_location": "L73",
+      "weight": 1.0,
+      "source": "pipeline_main_main",
+      "target": "pipeline_course_build_course_geojson"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/waypoints.py",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "pipeline_waypoints_py",
+      "target": "pipeline_waypoints_waypointmap",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/waypoints.py",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "pipeline_waypoints_py",
+      "target": "pipeline_waypoints_parse_gpx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/waypoints.py",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "pipeline_waypoints_waypointmap",
+      "target": "pipeline_waypoints_waypointmap_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/waypoints.py",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "pipeline_waypoints_waypointmap",
+      "target": "pipeline_waypoints_waypointmap_lookup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/waypoints.py",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "pipeline_waypoints_waypointmap",
+      "target": "pipeline_waypoints_waypointmap_len",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/waypoints.py",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "pipeline_waypoints_parse_gpx",
+      "target": "pipeline_waypoints_waypointmap",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/waypoints.py",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "pipeline_waypoints_rationale_22",
+      "target": "pipeline_waypoints_parse_gpx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/main.py",
+      "source_location": "L76",
+      "weight": 1.0,
+      "source": "pipeline_main_main",
+      "target": "pipeline_waypoints_parse_gpx"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_runner_files_env",
+      "target": "pipeline_waypoints_parse_gpx"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "tests_test_virtual_chars_lb",
+      "target": "pipeline_waypoints_parse_gpx"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "tests_test_virtual_chars_test_buzzard_day1_miles",
+      "target": "pipeline_waypoints_parse_gpx"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L51",
+      "weight": 1.0,
+      "source": "tests_test_virtual_chars_test_buzzard_day153_miles",
+      "target": "pipeline_waypoints_parse_gpx"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "tests_test_compute_leaderboard",
+      "target": "pipeline_waypoints_parse_gpx"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_waypoints.py",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "tests_test_waypoints_wmap",
+      "target": "pipeline_waypoints_parse_gpx"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/virtual_chars.py",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "pipeline_virtual_chars_py",
+      "target": "pipeline_virtual_chars_build_buzzard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/virtual_chars.py",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "pipeline_virtual_chars_py",
+      "target": "pipeline_virtual_chars_build_gingerbread_man",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/virtual_chars.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "pipeline_virtual_chars_rationale_1",
+      "target": "pipeline_virtual_chars_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/virtual_chars.py",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "pipeline_virtual_chars_rationale_13",
+      "target": "pipeline_virtual_chars_build_buzzard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/compute.py",
+      "source_location": "L147",
+      "weight": 1.0,
+      "source": "pipeline_compute_build_leaderboard",
+      "target": "pipeline_virtual_chars_build_buzzard"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "tests_test_virtual_chars_test_buzzard_day1_miles",
+      "target": "pipeline_virtual_chars_build_buzzard"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "tests_test_virtual_chars_test_buzzard_day153_miles",
+      "target": "pipeline_virtual_chars_build_buzzard"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/virtual_chars.py",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "pipeline_virtual_chars_rationale_53",
+      "target": "pipeline_virtual_chars_build_gingerbread_man",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/compute.py",
+      "source_location": "L153",
+      "weight": 1.0,
+      "source": "pipeline_compute_build_leaderboard",
+      "target": "pipeline_virtual_chars_build_gingerbread_man"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_py",
+      "target": "pipeline_runsignup_runsignuperror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_py",
+      "target": "pipeline_runsignup_apisource",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L208",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_py",
+      "target": "pipeline_runsignup_log_bib4_tally_verification",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L226",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_py",
+      "target": "pipeline_runsignup_extract_participants_page",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L245",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_py",
+      "target": "pipeline_runsignup_parse_participant",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L286",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_py",
+      "target": "pipeline_runsignup_parse_activity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_rationale_1",
+      "target": "pipeline_runsignup_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_runsignuperror",
+      "target": "exception",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_apisource_init",
+      "target": "pipeline_runsignup_runsignuperror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L74",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_apisource_get",
+      "target": "pipeline_runsignup_runsignuperror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_apisource",
+      "target": "pipeline_runsignup_apisource_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_apisource",
+      "target": "pipeline_runsignup_apisource_auth_params",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L58",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_apisource",
+      "target": "pipeline_runsignup_apisource_auth_headers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_apisource",
+      "target": "pipeline_runsignup_apisource_get",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L91",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_apisource",
+      "target": "pipeline_runsignup_apisource_load_participants",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L129",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_apisource",
+      "target": "pipeline_runsignup_apisource_fetch_activity_types",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L142",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_apisource",
+      "target": "pipeline_runsignup_apisource_load_activities",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L183",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_apisource",
+      "target": "pipeline_runsignup_apisource_fetch_activities_for_bib",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_rationale_40",
+      "target": "pipeline_runsignup_apisource",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/main.py",
+      "source_location": "L107",
+      "weight": 1.0,
+      "source": "pipeline_main_main",
+      "target": "pipeline_runsignup_apisource"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_apisource_get",
+      "target": "pipeline_runsignup_apisource_auth_params",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L67",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_apisource_get",
+      "target": "pipeline_runsignup_apisource_auth_headers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L102",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_apisource_load_participants",
+      "target": "pipeline_runsignup_apisource_get",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L131",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_apisource_fetch_activity_types",
+      "target": "pipeline_runsignup_apisource_get",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L187",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_apisource_fetch_activities_for_bib",
+      "target": "pipeline_runsignup_apisource_get",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L62",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_rationale_62",
+      "target": "pipeline_runsignup_apisource_get",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L108",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_apisource_load_participants",
+      "target": "pipeline_runsignup_extract_participants_page",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L114",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_apisource_load_participants",
+      "target": "pipeline_runsignup_parse_participant",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L92",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_rationale_92",
+      "target": "pipeline_runsignup_apisource_load_participants",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L130",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_rationale_130",
+      "target": "pipeline_runsignup_apisource_fetch_activity_types",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L167",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_apisource_load_activities",
+      "target": "pipeline_runsignup_apisource_fetch_activities_for_bib",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L175",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_apisource_load_activities",
+      "target": "pipeline_runsignup_log_bib4_tally_verification",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L149",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_rationale_149",
+      "target": "pipeline_runsignup_apisource_load_activities",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L199",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_apisource_fetch_activities_for_bib",
+      "target": "pipeline_runsignup_parse_activity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L227",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_rationale_227",
+      "target": "pipeline_runsignup_extract_participants_page",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L246",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_rationale_246",
+      "target": "pipeline_runsignup_parse_participant",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runsignup.py",
+      "source_location": "L287",
+      "weight": 1.0,
+      "source": "pipeline_runsignup_rationale_287",
+      "target": "pipeline_runsignup_parse_activity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/main.py",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "pipeline_main_py",
+      "target": "pipeline_main_build_meta",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/main.py",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "pipeline_main_py",
+      "target": "pipeline_main_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/main.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "pipeline_main_rationale_1",
+      "target": "pipeline_main_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/main.py",
+      "source_location": "L151",
+      "weight": 1.0,
+      "source": "pipeline_main_main",
+      "target": "pipeline_main_build_meta",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/main.py",
+      "source_location": "L65",
+      "weight": 1.0,
+      "source": "pipeline_main_main",
+      "target": "pipeline_descriptions_load_descriptions"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/main.py",
+      "source_location": "L91",
+      "weight": 1.0,
+      "source": "pipeline_main_main",
+      "target": "ingestion_csv_source_csvsource"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/main.py",
+      "source_location": "L129",
+      "weight": 1.0,
+      "source": "pipeline_main_main",
+      "target": "pipeline_compute_build_leaderboard"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/main.py",
+      "source_location": "L161",
+      "weight": 1.0,
+      "source": "pipeline_main_main",
+      "target": "pipeline_runner_files_save_runner_files"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runner_files.py",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "pipeline_runner_files_py",
+      "target": "pipeline_runner_files_normalize_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runner_files.py",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "pipeline_runner_files_py",
+      "target": "pipeline_runner_files_activity_entry",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runner_files.py",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "pipeline_runner_files_py",
+      "target": "pipeline_runner_files_rest_entry",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runner_files.py",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "pipeline_runner_files_py",
+      "target": "pipeline_runner_files_save_runner_files",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runner_files.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "pipeline_runner_files_rationale_1",
+      "target": "pipeline_runner_files_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runner_files.py",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "pipeline_runner_files_activity_entry",
+      "target": "pipeline_runner_files_normalize_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runner_files.py",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "pipeline_runner_files_rationale_12",
+      "target": "pipeline_runner_files_normalize_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runner_files.py",
+      "source_location": "L142",
+      "weight": 1.0,
+      "source": "pipeline_runner_files_save_runner_files",
+      "target": "pipeline_runner_files_activity_entry",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/runner_files.py",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "pipeline_runner_files_activity_entry",
+      "target": "pipeline_compute_parse_distance"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runner_files.py",
+      "source_location": "L144",
+      "weight": 1.0,
+      "source": "pipeline_runner_files_save_runner_files",
+      "target": "pipeline_runner_files_rest_entry",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/runner_files.py",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "pipeline_runner_files_rationale_55",
+      "target": "pipeline_runner_files_save_runner_files",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_runner_files_env",
+      "target": "pipeline_runner_files_save_runner_files"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/descriptions.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "pipeline_descriptions_py",
+      "target": "pipeline_descriptions_descriptionmap",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/descriptions.py",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "pipeline_descriptions_py",
+      "target": "pipeline_descriptions_load_descriptions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/descriptions.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "pipeline_descriptions_rationale_1",
+      "target": "pipeline_descriptions_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/descriptions.py",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "pipeline_descriptions_descriptionmap",
+      "target": "pipeline_descriptions_descriptionmap_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/descriptions.py",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "pipeline_descriptions_descriptionmap",
+      "target": "pipeline_descriptions_descriptionmap_lookup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/descriptions.py",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "pipeline_descriptions_load_descriptions",
+      "target": "pipeline_descriptions_descriptionmap",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_runner_files_env",
+      "target": "pipeline_descriptions_load_descriptions"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "tests_test_virtual_chars_lb",
+      "target": "pipeline_descriptions_load_descriptions"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "pipeline_compute_py",
+      "target": "pipeline_compute_parse_distance",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "pipeline_compute_py",
+      "target": "pipeline_compute_derive_home",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "pipeline_compute_py",
+      "target": "pipeline_compute_compute_projected_finish",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L57",
+      "weight": 1.0,
+      "source": "pipeline_compute_py",
+      "target": "pipeline_compute_build_leaderboard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L187",
+      "weight": 1.0,
+      "source": "pipeline_compute_py",
+      "target": "pipeline_compute_assign_gender_ranks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L199",
+      "weight": 1.0,
+      "source": "pipeline_compute_py",
+      "target": "pipeline_compute_zero_runner",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L78",
+      "weight": 1.0,
+      "source": "pipeline_compute_build_leaderboard",
+      "target": "pipeline_compute_parse_distance",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "pipeline_compute_rationale_14",
+      "target": "pipeline_compute_parse_distance",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "tests_test_compute_test_parse_distance_miles",
+      "target": "pipeline_compute_parse_distance"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "tests_test_compute_test_parse_distance_km",
+      "target": "pipeline_compute_parse_distance"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "tests_test_compute_test_parse_distance_km_long",
+      "target": "pipeline_compute_parse_distance"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "tests_test_compute_test_parse_distance_mi",
+      "target": "pipeline_compute_parse_distance"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "tests_test_compute_test_parse_distance_invalid",
+      "target": "pipeline_compute_parse_distance"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L118",
+      "weight": 1.0,
+      "source": "pipeline_compute_build_leaderboard",
+      "target": "pipeline_compute_derive_home",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "pipeline_compute_rationale_26",
+      "target": "pipeline_compute_derive_home",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "tests_test_compute_test_derive_home_us",
+      "target": "pipeline_compute_derive_home"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "tests_test_compute_test_derive_home_gb",
+      "target": "pipeline_compute_derive_home"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "tests_test_compute_test_derive_home_au",
+      "target": "pipeline_compute_derive_home"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "tests_test_compute_test_derive_home_us_military",
+      "target": "pipeline_compute_derive_home"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L107",
+      "weight": 1.0,
+      "source": "pipeline_compute_build_leaderboard",
+      "target": "pipeline_compute_compute_projected_finish",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "pipeline_compute_rationale_38",
+      "target": "pipeline_compute_compute_projected_finish",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L143",
+      "weight": 1.0,
+      "source": "pipeline_compute_build_leaderboard",
+      "target": "pipeline_compute_assign_gender_ranks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L154",
+      "weight": 1.0,
+      "source": "pipeline_compute_build_leaderboard",
+      "target": "pipeline_compute_zero_runner",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L68",
+      "weight": 1.0,
+      "source": "pipeline_compute_rationale_68",
+      "target": "pipeline_compute_build_leaderboard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_runner_files_env",
+      "target": "pipeline_compute_build_leaderboard"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "tests_test_virtual_chars_lb",
+      "target": "pipeline_compute_build_leaderboard"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "tests_test_compute_leaderboard",
+      "target": "pipeline_compute_build_leaderboard"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L188",
+      "weight": 1.0,
+      "source": "pipeline_compute_rationale_188",
+      "target": "pipeline_compute_assign_gender_ranks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/compute.py",
+      "source_location": "L200",
+      "weight": 1.0,
+      "source": "pipeline_compute_rationale_200",
+      "target": "pipeline_compute_zero_runner",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/ingestion/csv_source.py",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "pipeline_ingestion_csv_source_py",
+      "target": "ingestion_csv_source_csvsource",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/ingestion/csv_source.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "ingestion_csv_source_rationale_1",
+      "target": "pipeline_ingestion_csv_source_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/ingestion/csv_source.py",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "ingestion_csv_source_csvsource",
+      "target": "ingestion_csv_source_csvsource_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/ingestion/csv_source.py",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "ingestion_csv_source_csvsource",
+      "target": "ingestion_csv_source_csvsource_load_participants",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/ingestion/csv_source.py",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "ingestion_csv_source_csvsource",
+      "target": "ingestion_csv_source_csvsource_load_activities",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/ingestion/csv_source.py",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "ingestion_csv_source_rationale_10",
+      "target": "ingestion_csv_source_csvsource",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/ingestion/__init__.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "ingestion_init_rationale_1",
+      "target": "pipeline_ingestion_init_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/ingestion/base.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "pipeline_ingestion_base_py",
+      "target": "ingestion_base_source",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/ingestion/base.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "ingestion_base_rationale_1",
+      "target": "pipeline_ingestion_base_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/ingestion/base.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "ingestion_base_source",
+      "target": "protocol",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/ingestion/base.py",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "ingestion_base_source",
+      "target": "ingestion_base_source_load_participants",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/ingestion/base.py",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "ingestion_base_source",
+      "target": "ingestion_base_source_load_activities",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_runner_files_py",
+      "target": "tests_test_runner_files_runner_files_env",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L59",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_runner_files_py",
+      "target": "tests_test_runner_files_testtommyholder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L103",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_runner_files_py",
+      "target": "tests_test_runner_files_testjennadagger",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L144",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_runner_files_py",
+      "target": "tests_test_runner_files_testbuzzardfile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L183",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_runner_files_py",
+      "target": "tests_test_runner_files_testfilecount",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_rationale_1",
+      "target": "pipeline_tests_test_runner_files_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_rationale_20",
+      "target": "tests_test_runner_files_runner_files_env",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L62",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_testtommyholder",
+      "target": "tests_test_runner_files_testtommyholder_test_file_exists",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L65",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_testtommyholder",
+      "target": "tests_test_runner_files_testtommyholder_test_schema_fields",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L76",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_testtommyholder",
+      "target": "tests_test_runner_files_testtommyholder_test_rest_day_filled_in",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L88",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_testtommyholder",
+      "target": "tests_test_runner_files_testtommyholder_test_counts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L94",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_testtommyholder",
+      "target": "tests_test_runner_files_testtommyholder_test_miles_match_leaderboard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L60",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_rationale_60",
+      "target": "tests_test_runner_files_testtommyholder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L77",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_rationale_77",
+      "target": "tests_test_runner_files_testtommyholder_test_rest_day_filled_in",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L106",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_testjennadagger",
+      "target": "tests_test_runner_files_testjennadagger_test_file_exists",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L109",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_testjennadagger",
+      "target": "tests_test_runner_files_testjennadagger_test_has_activity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L115",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_testjennadagger",
+      "target": "tests_test_runner_files_testjennadagger_test_activities_sorted_ascending",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L120",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_testjennadagger",
+      "target": "tests_test_runner_files_testjennadagger_test_activity_type_normalized",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L127",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_testjennadagger",
+      "target": "tests_test_runner_files_testjennadagger_test_miles_match_leaderboard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L135",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_testjennadagger",
+      "target": "tests_test_runner_files_testjennadagger_test_time_field_present",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L104",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_rationale_104",
+      "target": "tests_test_runner_files_testjennadagger",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L121",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_rationale_121",
+      "target": "tests_test_runner_files_testjennadagger_test_activity_type_normalized",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L136",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_rationale_136",
+      "target": "tests_test_runner_files_testjennadagger_test_time_field_present",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L145",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_testbuzzardfile",
+      "target": "tests_test_runner_files_testbuzzardfile_test_file_exists",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L148",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_testbuzzardfile",
+      "target": "tests_test_runner_files_testbuzzardfile_test_schema",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L160",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_testbuzzardfile",
+      "target": "tests_test_runner_files_testbuzzardfile_test_activity_type_is_buzzard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L166",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_testbuzzardfile",
+      "target": "tests_test_runner_files_testbuzzardfile_test_runners_ahead_plus_behind_equals_total",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L172",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_testbuzzardfile",
+      "target": "tests_test_runner_files_testbuzzardfile_test_projected_finish_is_race_end",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L176",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_testbuzzardfile",
+      "target": "tests_test_runner_files_testbuzzardfile_test_day1_miles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L177",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_rationale_177",
+      "target": "tests_test_runner_files_testbuzzardfile_test_day1_miles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L184",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_testfilecount",
+      "target": "tests_test_runner_files_testfilecount_test_buzzard_file_written",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L187",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_testfilecount",
+      "target": "tests_test_runner_files_testfilecount_test_gingerbread_man_not_written",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L191",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_testfilecount",
+      "target": "tests_test_runner_files_testfilecount_test_active_participants_have_files",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L188",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_rationale_188",
+      "target": "tests_test_runner_files_testfilecount_test_gingerbread_man_not_written",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_runner_files.py",
+      "source_location": "L192",
+      "weight": 1.0,
+      "source": "tests_test_runner_files_rationale_192",
+      "target": "tests_test_runner_files_testfilecount_test_active_participants_have_files",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_virtual_chars_py",
+      "target": "tests_test_virtual_chars_lb",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_virtual_chars_py",
+      "target": "tests_test_virtual_chars_test_buzzard_day1_miles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_virtual_chars_py",
+      "target": "tests_test_virtual_chars_test_buzzard_day153_miles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L58",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_virtual_chars_py",
+      "target": "tests_test_virtual_chars_test_buzzard_in_leaderboard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L63",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_virtual_chars_py",
+      "target": "tests_test_virtual_chars_test_gbm_in_leaderboard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L68",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_virtual_chars_py",
+      "target": "tests_test_virtual_chars_test_gbm_miles_is_leader_plus_one",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L74",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_virtual_chars_py",
+      "target": "tests_test_virtual_chars_test_gbm_rank_display_is_hash_one",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L79",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_virtual_chars_py",
+      "target": "tests_test_virtual_chars_test_gbm_has_higher_miles_than_any_real_runner",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L85",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_virtual_chars_py",
+      "target": "tests_test_virtual_chars_test_virtual_chars_have_no_gender_rank",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L91",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_virtual_chars_py",
+      "target": "tests_test_virtual_chars_test_real_runners_have_gender_rank",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L98",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_virtual_chars_py",
+      "target": "tests_test_virtual_chars_test_gender_ranks_sequential_m",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_virtual_chars.py",
+      "source_location": "L103",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_virtual_chars_py",
+      "target": "tests_test_virtual_chars_test_gender_ranks_sequential_f",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_compute_py",
+      "target": "tests_test_compute_test_parse_distance_miles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_compute_py",
+      "target": "tests_test_compute_test_parse_distance_km",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_compute_py",
+      "target": "tests_test_compute_test_parse_distance_km_long",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_compute_py",
+      "target": "tests_test_compute_test_parse_distance_mi",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_compute_py",
+      "target": "tests_test_compute_test_parse_distance_invalid",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_compute_py",
+      "target": "tests_test_compute_test_derive_home_us",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_compute_py",
+      "target": "tests_test_compute_test_derive_home_gb",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_compute_py",
+      "target": "tests_test_compute_test_derive_home_au",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L51",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_compute_py",
+      "target": "tests_test_compute_test_derive_home_us_military",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L58",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_compute_py",
+      "target": "tests_test_compute_leaderboard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L75",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_compute_py",
+      "target": "tests_test_compute_test_jenna_dagger_is_real_leader",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L84",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_compute_py",
+      "target": "tests_test_compute_test_jenna_dagger_miles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L89",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_compute_py",
+      "target": "tests_test_compute_test_ranking_is_descending",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L94",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_compute_py",
+      "target": "tests_test_compute_test_rank_numbers_sequential",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L99",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_compute_py",
+      "target": "tests_test_compute_test_derive_home_gb_in_leaderboard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L104",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_compute_py",
+      "target": "tests_test_compute_test_derive_home_us_in_leaderboard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L110",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_compute_py",
+      "target": "tests_test_compute_test_virtual_bibs_in_output",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L117",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_compute_py",
+      "target": "tests_test_compute_test_runners_with_zero_miles_present",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L122",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_compute_py",
+      "target": "tests_test_compute_test_waypoints_assigned",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L128",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_compute_py",
+      "target": "tests_test_compute_test_multi_activity_bib_summed",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L137",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_compute_py",
+      "target": "tests_test_compute_test_jenna_dagger_comp_percent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L143",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_compute_py",
+      "target": "tests_test_compute_test_jenna_dagger_km",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L149",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_compute_py",
+      "target": "tests_test_compute_test_jenna_dagger_projected_finish",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L156",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_compute_py",
+      "target": "tests_test_compute_test_zero_mile_runner_projected_finish",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_compute.py",
+      "source_location": "L164",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_compute_py",
+      "target": "tests_test_compute_test_jenna_dagger_rank_display",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_waypoints.py",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_waypoints_py",
+      "target": "tests_test_waypoints_wmap",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_waypoints.py",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_waypoints_py",
+      "target": "tests_test_waypoints_test_mile_0_coordinates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_waypoints.py",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_waypoints_py",
+      "target": "tests_test_waypoints_test_mile_680_is_valid",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_waypoints.py",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_waypoints_py",
+      "target": "tests_test_waypoints_test_lookup_clamps_below_zero",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_waypoints.py",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_waypoints_py",
+      "target": "tests_test_waypoints_test_lookup_clamps_above_680",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline/tests/test_waypoints.py",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "pipeline_tests_test_waypoints_py",
+      "target": "tests_test_waypoints_test_681_waypoints_loaded",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/app/layout.tsx",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "frontend_app_layout_tsx",
+      "target": "app_layout_rootlayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/app/gvrat-2026/page.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "frontend_app_gvrat_2026_page_tsx",
+      "target": "gvrat_2026_page_getcoursecoords",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/app/gvrat-2026/page.tsx",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "frontend_app_gvrat_2026_page_tsx",
+      "target": "gvrat_2026_page_gvratdashboard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/app/gvrat-2026/runner/[bib]/page.tsx",
+      "source_location": "L56",
+      "weight": 1.0,
+      "source": "frontend_app_gvrat_2026_runner_bib_page_tsx",
+      "target": "bib_page_generatestaticparams",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/app/gvrat-2026/runner/[bib]/page.tsx",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "frontend_app_gvrat_2026_runner_bib_page_tsx",
+      "target": "bib_page_countryflag",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/app/gvrat-2026/runner/[bib]/page.tsx",
+      "source_location": "L76",
+      "weight": 1.0,
+      "source": "frontend_app_gvrat_2026_runner_bib_page_tsx",
+      "target": "bib_page_daysuntilend",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/app/gvrat-2026/runner/[bib]/page.tsx",
+      "source_location": "L83",
+      "weight": 1.0,
+      "source": "frontend_app_gvrat_2026_runner_bib_page_tsx",
+      "target": "bib_page_shortdate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/app/gvrat-2026/runner/[bib]/page.tsx",
+      "source_location": "L88",
+      "weight": 1.0,
+      "source": "frontend_app_gvrat_2026_runner_bib_page_tsx",
+      "target": "bib_page_longdate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/app/gvrat-2026/runner/[bib]/page.tsx",
+      "source_location": "L94",
+      "weight": 1.0,
+      "source": "frontend_app_gvrat_2026_runner_bib_page_tsx",
+      "target": "bib_page_dotsep",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/app/gvrat-2026/runner/[bib]/page.tsx",
+      "source_location": "L326",
+      "weight": 1.0,
+      "source": "frontend_app_gvrat_2026_runner_bib_page_tsx",
+      "target": "bib_page_getx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/app/gvrat-2026/runner/[bib]/page.tsx",
+      "source_location": "L327",
+      "weight": 1.0,
+      "source": "frontend_app_gvrat_2026_runner_bib_page_tsx",
+      "target": "bib_page_gety",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/components/Leaderboard.tsx",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "frontend_components_leaderboard_tsx",
+      "target": "components_leaderboard_getcountry",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/components/Leaderboard.tsx",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "frontend_components_leaderboard_tsx",
+      "target": "components_leaderboard_formatprojfinshort",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/components/Leaderboard.tsx",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "frontend_components_leaderboard_tsx",
+      "target": "components_leaderboard_sortrunners",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/components/Leaderboard.tsx",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "frontend_components_leaderboard_tsx",
+      "target": "components_leaderboard_getposcolor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/components/Leaderboard.tsx",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "frontend_components_leaderboard_tsx",
+      "target": "components_leaderboard_getrowbg",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/components/Leaderboard.tsx",
+      "source_location": "L357",
+      "weight": 1.0,
+      "source": "frontend_components_leaderboard_tsx",
+      "target": "components_leaderboard_handlesort",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/components/Leaderboard.tsx",
+      "source_location": "L365",
+      "weight": 1.0,
+      "source": "frontend_components_leaderboard_tsx",
+      "target": "components_leaderboard_handlesearch",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/components/Leaderboard.tsx",
+      "source_location": "L371",
+      "weight": 1.0,
+      "source": "frontend_components_leaderboard_tsx",
+      "target": "components_leaderboard_handlemappin",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/components/Leaderboard.tsx",
+      "source_location": "L375",
+      "weight": 1.0,
+      "source": "frontend_components_leaderboard_tsx",
+      "target": "components_leaderboard_handlenavigate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/components/RaceMap.tsx",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "frontend_components_racemap_tsx",
+      "target": "components_racemap_racemap",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/components/AsOfBanner.tsx",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "frontend_components_asofbanner_tsx",
+      "target": "components_asofbanner_formattext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/components/RaceMapInner.tsx",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "frontend_components_racemapinner_tsx",
+      "target": "components_racemapinner_makerunnericon",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/components/RaceMapInner.tsx",
+      "source_location": "L63",
+      "weight": 1.0,
+      "source": "frontend_components_racemapinner_tsx",
+      "target": "components_racemapinner_runnermarker",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/components/RaceMapInner.tsx",
+      "source_location": "L87",
+      "weight": 1.0,
+      "source": "frontend_components_racemapinner_tsx",
+      "target": "components_racemapinner_virtualmarker",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/components/RaceMapInner.tsx",
+      "source_location": "L98",
+      "weight": 1.0,
+      "source": "frontend_components_racemapinner_tsx",
+      "target": "components_racemapinner_mapcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/components/DayCounter.tsx",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "frontend_components_daycounter_tsx",
+      "target": "components_daycounter_daycounter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/lib/format.ts",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "frontend_lib_format_ts",
+      "target": "lib_format_formatmiles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/lib/format.ts",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "frontend_lib_format_ts",
+      "target": "lib_format_formatkm",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/lib/format.ts",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "frontend_lib_format_ts",
+      "target": "lib_format_formatcomppercent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/lib/format.ts",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "frontend_lib_format_ts",
+      "target": "lib_format_formatrank",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/lib/format.ts",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "frontend_lib_format_ts",
+      "target": "lib_format_formatprojfinish",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "c3009b58a9c06b9d09264d0cc94b074112d4ba66"
+}
