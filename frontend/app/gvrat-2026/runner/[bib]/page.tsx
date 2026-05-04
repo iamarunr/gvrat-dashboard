@@ -6,13 +6,7 @@ const TOTAL_MILES = 679;
 const DATA_DIR = path.join(process.cwd(), "..", "data", "gvrat-2026");
 const NAVY = "#1B3F6E";
 const GOLD = "#F4A623";
-const RED = "#C0392B";
-const GREEN = "#27AE60";
 const DISPLAY = "'Barlow Condensed', sans-serif";
-
-// Pueblo, CO finish line coords
-const FINISH_LAT = 38.2544;
-const FINISH_LON = -104.6091;
 
 type ActivityEntry = {
   date: string;
@@ -96,78 +90,121 @@ function longDate(iso: string): string {
   return d.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
 }
 
-function SectionHeader({ title, sub }: { title: string; sub: string }) {
+function TopoTexture() {
+  const rings = [
+    { rx: 390, ry: 120,  stroke: "rgba(255,255,255,0.06)" },
+    { rx: 300, ry: 90,   stroke: "rgba(255,255,255,0.05)" },
+    { rx: 210, ry: 63,   stroke: "rgba(255,255,255,0.04)" },
+    { rx: 130, ry: 40,   stroke: "rgba(255,255,255,0.035)" },
+    { rx: 65,  ry: 20,   stroke: "rgba(255,255,255,0.03)" },
+  ];
+  return (
+    <svg
+      aria-hidden="true"
+      viewBox="0 0 800 300"
+      preserveAspectRatio="xMidYMid slice"
+      style={{ position: "absolute", inset: 0, width: "100%", height: "100%", pointerEvents: "none", zIndex: 0 }}
+    >
+      {rings.map((r, i) => (
+        <ellipse key={i} cx="400" cy="130" rx={r.rx} ry={r.ry} fill="none" stroke={r.stroke} strokeWidth="1" />
+      ))}
+    </svg>
+  );
+}
+
+function DotSep() {
+  return (
+    <span
+      aria-hidden="true"
+      style={{
+        width: 3,
+        height: 3,
+        borderRadius: "50%",
+        background: "rgba(255,255,255,0.3)",
+        display: "inline-block",
+        flexShrink: 0,
+      }}
+    />
+  );
+}
+
+function RankBadge({ rank, label, isGold }: { rank: string; label: string; isGold: boolean }) {
   return (
     <div
       style={{
-        padding: "14px 20px 10px",
-        borderBottom: "0.5px solid rgba(0,0,0,0.06)",
+        fontFamily: DISPLAY,
+        fontWeight: 800,
+        padding: "10px 18px",
+        borderRadius: 8,
+        textAlign: "center",
+        minWidth: 80,
+        background: isGold ? GOLD : "rgba(255,255,255,0.1)",
+        color: isGold ? "#0a1628" : "#ffffff",
+        border: isGold ? "none" : "1px solid rgba(255,255,255,0.2)",
       }}
     >
-      <div
+      <span style={{ fontSize: 28, lineHeight: 1, display: "block" }}>{rank}</span>
+      <span
         style={{
-          fontFamily: DISPLAY,
-          fontWeight: 700,
-          fontSize: 14,
+          fontSize: 10,
+          letterSpacing: "0.15em",
           textTransform: "uppercase",
-          color: NAVY,
-          letterSpacing: "0.08em",
+          display: "block",
+          marginTop: 3,
+          fontWeight: 600,
+          opacity: isGold ? 0.6 : 0.7,
         }}
       >
-        {title}
-      </div>
-      {sub && (
-        <div style={{ fontSize: 11, color: "rgba(0,0,0,0.4)", marginTop: 2 }}>{sub}</div>
-      )}
+        {label}
+      </span>
     </div>
   );
 }
 
-function StatCard({
+function StatCell({
   value,
-  sub,
+  label,
   color,
+  isLast,
 }: {
   value: string;
-  sub: string;
+  label: string;
   color?: string;
+  isLast?: boolean;
 }) {
   return (
     <div
       style={{
-        background: "white",
-        borderRadius: 10,
-        border: "0.5px solid rgba(0,0,0,0.07)",
-        padding: "12px 14px",
-        display: "flex",
-        flexDirection: "column",
-        gap: 4,
+        padding: "20px 16px",
+        textAlign: "center",
+        borderRight: isLast ? "none" : "1px solid rgba(0,0,0,0.07)",
       }}
     >
-      <div
-        className="stat-value"
+      <span
         style={{
           fontFamily: DISPLAY,
           fontWeight: 800,
-          fontSize: 22,
-          lineHeight: 1.1,
+          fontSize: 38,
+          lineHeight: 1,
+          display: "block",
           color: color || NAVY,
         }}
       >
         {value}
-      </div>
-      <div
+      </span>
+      <span
         style={{
           fontFamily: DISPLAY,
-          fontWeight: 400,
-          fontSize: 9,
-          textTransform: "uppercase",
+          fontSize: 10,
           letterSpacing: "0.15em",
-          color: "rgba(0,0,0,0.32)",
+          textTransform: "uppercase",
+          color: "rgba(0,0,0,0.35)",
+          marginTop: 4,
+          display: "block",
         }}
       >
-        {sub}
-      </div>
+        {label}
+      </span>
     </div>
   );
 }
@@ -186,29 +223,29 @@ function ProgressBar({
   const fillPct = Math.min(100, (runnerMiles / TOTAL_MILES) * 100);
   const milesLeft = Math.max(0, TOTAL_MILES - runnerMiles);
   return (
-    <div>
+    <div style={{ marginBottom: 14 }}>
       <div
         style={{
           display: "flex",
           justifyContent: "space-between",
-          marginBottom: 6,
-          fontSize: 11,
-          color: "rgba(0,0,0,0.4)",
+          alignItems: "baseline",
+          marginBottom: 8,
         }}
       >
-        <span>
-          <strong style={{ color: NAVY }}>{runnerMiles.toFixed(2)}</strong> miles completed
+        <span style={{ fontSize: 15, fontWeight: 600, color: "#ffffff" }}>
+          {runnerMiles.toFixed(2)} miles completed
         </span>
-        <span>
-          <strong style={{ color: NAVY }}>{milesLeft.toFixed(2)}</strong> miles remaining
+        <span style={{ fontSize: 13, color: "rgba(255,255,255,0.5)" }}>
+          {milesLeft.toFixed(2)} mi remaining
         </span>
       </div>
       <div
         style={{
           position: "relative",
-          height: 10,
-          background: "#eeece8",
-          borderRadius: 5,
+          height: 8,
+          background: "rgba(255,255,255,0.12)",
+          borderRadius: 4,
+          marginBottom: 5,
         }}
       >
         <div
@@ -218,17 +255,17 @@ function ProgressBar({
             top: 0,
             width: `${fillPct}%`,
             height: "100%",
-            background: "linear-gradient(90deg, #1B3F6E, #F4A623)",
-            borderRadius: 5,
+            background: GOLD,
+            borderRadius: 4,
           }}
         />
         <div
           style={{
             position: "absolute",
-            left: `${Math.min(99, markerPct)}%`,
-            top: -9,
+            left: `${Math.min(98, markerPct)}%`,
+            top: -12,
             transform: "translateX(-50%)",
-            fontSize: 13,
+            fontSize: 15,
             lineHeight: 1,
             cursor: "default",
             userSelect: "none",
@@ -242,12 +279,11 @@ function ProgressBar({
         style={{
           display: "flex",
           justifyContent: "space-between",
-          marginTop: 10,
-          fontSize: 9,
+          fontSize: 10,
           fontFamily: DISPLAY,
           textTransform: "uppercase",
-          color: "rgba(0,0,0,0.28)",
-          letterSpacing: "0.05em",
+          color: "rgba(255,255,255,0.35)",
+          letterSpacing: "0.12em",
         }}
       >
         <span>Start · Baxter Springs, KS</span>
@@ -301,85 +337,111 @@ export default async function RunnerPage({
   const vsB = runnerMiles - buzzMiles;
 
   const genderLabel = lr?.gender === "F" ? "Female" : "Male";
-  const isOverall1 = (lr?.rank ?? Infinity) === 1 && !lr?.virtual;
-  const isFinished = !isBuzzard && runnerMiles >= TOTAL_MILES;
+  const isOverall1 = lr?.rankDisplay === "#1" && !lr?.virtual;
 
   const activeMiles = rf.activities
     .filter((a) => a.type !== "rest")
     .map((a) => a.miles);
   const maxDayMiles = activeMiles.length > 0 ? Math.max(...activeMiles) : 1;
+  const hasWalk = rf.activities.some((a) => a.type === "walk");
 
-  // Map coordinates
-  const mapLat = isFinished ? FINISH_LAT : (lr?.lat ?? 0);
-  const mapLon = isFinished ? FINISH_LON : (lr?.lon ?? 0);
-  const hasCoords = mapLat !== 0 && mapLon !== 0;
-  const mapUrl = hasCoords
-    ? `https://tiles.stadiamaps.com/static/?lat=${mapLat}&lng=${mapLon}&zoom=10&width=740&height=220&style=alidade_smooth&markers=icon:small-red-dot|${mapLat},${mapLon}`
-    : null;
-  const mapLocationLabel = isFinished
-    ? `🏁 FINISHED · Pueblo, CO · Mile 679 of 679`
-    : `📍 ${lr?.locationDescription ?? "—"} · Mile ${lr?.currentMile ?? "—"} of 679`;
+  const heroBackground = isBuzzard
+    ? "linear-gradient(160deg, #450a0a 0%, #991b1b 60%, #6b0f0f 100%)"
+    : "linear-gradient(160deg, #0a1628 0%, #1a3a6b 60%, #0f2548 100%)";
 
-  const card: React.CSSProperties = {
-    background: "white",
-    border: "0.5px solid rgba(0,0,0,0.07)",
-    borderRadius: 14,
-    overflow: "hidden",
-    marginBottom: 12,
-  };
-
-  return (
-    <main style={{ background: "#f5f5f3", minHeight: "100vh" }}>
-      {/* NavBar */}
-      <nav
+  function SectionHead({ title, sub }: { title: string; sub: string }) {
+    return (
+      <div
         style={{
-          background: "white",
-          borderBottom: "0.5px solid rgba(0,0,0,0.07)",
-          padding: "12px 20px",
+          display: "flex",
+          justifyContent: "space-between",
+          alignItems: "baseline",
+          marginBottom: 16,
+          flexWrap: "wrap",
+          gap: 8,
         }}
       >
-        <Link
-          href="/gvrat-2026"
-          className="back-btn"
+        <span
           style={{
-            display: "inline-flex",
-            alignItems: "center",
-            gap: 6,
-            background: NAVY,
-            color: "#ffffff",
             fontFamily: DISPLAY,
             fontWeight: 700,
-            fontSize: 12,
-            letterSpacing: "0.06em",
+            fontSize: 15,
+            color: NAVY,
             textTransform: "uppercase",
-            padding: "6px 16px",
-            borderRadius: 20,
-            textDecoration: "none",
+            letterSpacing: "0.1em",
           }}
         >
-          ← BACK TO LEADERBOARD
-        </Link>
-      </nav>
+          {title}
+        </span>
+        <span style={{ fontSize: 12, color: "rgba(0,0,0,0.4)" }}>{sub}</span>
+      </div>
+    );
+  }
 
-      {/* Contained content column */}
-      <div className="runner-container">
-        {/* Hero Card */}
-        <div style={{ ...card, padding: 24, marginTop: 20 }}>
+  return (
+    <main style={{ background: "#f0f2f5", minHeight: "100vh" }}>
+      {/* ── HERO ── */}
+      <div
+        style={{
+          background: heroBackground,
+          position: "relative",
+          padding: "16px 0 28px",
+          overflow: "hidden",
+        }}
+      >
+        <TopoTexture />
+        <div
+          style={{
+            maxWidth: 780,
+            margin: "0 auto",
+            padding: "0 24px",
+            position: "relative",
+            zIndex: 1,
+          }}
+        >
+          {/* Back button */}
+          <Link
+            href="/gvrat-2026"
+            className="hero-back-btn"
+            style={{
+              display: "inline-flex",
+              alignItems: "center",
+              gap: 5,
+              background: "rgba(255,255,255,0.08)",
+              border: "1px solid rgba(255,255,255,0.15)",
+              color: "rgba(255,255,255,0.65)",
+              fontFamily: DISPLAY,
+              fontWeight: 700,
+              fontSize: 11,
+              letterSpacing: "0.1em",
+              textTransform: "uppercase",
+              padding: "5px 14px",
+              borderRadius: 20,
+              textDecoration: "none",
+              marginBottom: 20,
+            }}
+          >
+            ← BACK TO LEADERBOARD
+          </Link>
+
           {isBuzzard ? (
+            /* ── BUZZARD HERO ── */
             <>
               <div style={{ marginBottom: 20 }}>
                 <h1
+                  className="runner-hero-name"
                   style={{
                     fontFamily: DISPLAY,
                     fontWeight: 800,
-                    fontSize: 30,
-                    color: RED,
+                    color: "#fca5a5",
                     margin: 0,
+                    lineHeight: 0.95,
+                    letterSpacing: "-0.01em",
                   }}
                 >
                   🦅 Buzzard
                 </h1>
-                <p style={{ fontSize: 11, color: "rgba(0,0,0,0.4)", margin: "4px 0 0" }}>
+                <p style={{ fontSize: 14, color: "rgba(255,255,255,0.55)", margin: "6px 0 0" }}>
                   The pace you must beat to finish by Sep 30
                 </p>
               </div>
@@ -391,192 +453,225 @@ export default async function RunnerPage({
               />
               <div
                 style={{
-                  borderTop: "0.5px solid rgba(0,0,0,0.06)",
-                  marginTop: 12,
-                  paddingTop: 10,
-                  fontSize: 12,
-                  color: "rgba(0,0,0,0.5)",
+                  borderTop: "1px solid rgba(255,255,255,0.1)",
+                  paddingTop: 14,
+                  marginTop: 16,
+                  fontSize: 13,
+                  color: "rgba(255,255,255,0.65)",
                 }}
               >
                 Flying at {pace.toFixed(2)} mi/day · Will finish Sep 30, 2026
               </div>
             </>
           ) : (
+            /* ── REGULAR RUNNER HERO ── */
             <>
+              {/* Top row: name left, badges right */}
               <div
                 style={{
                   display: "flex",
                   justifyContent: "space-between",
                   alignItems: "flex-start",
-                  flexWrap: "wrap",
-                  gap: 12,
+                  gap: 16,
                   marginBottom: 20,
+                  flexWrap: "wrap",
                 }}
               >
+                {/* Name + meta */}
                 <div>
                   <h1
+                    className="runner-hero-name"
                     style={{
                       fontFamily: DISPLAY,
                       fontWeight: 800,
-                      fontSize: 30,
-                      color: NAVY,
+                      color: "#ffffff",
                       margin: 0,
+                      lineHeight: 0.95,
+                      letterSpacing: "-0.01em",
                     }}
                   >
                     {lr?.displayName ?? rf.displayName}
                   </h1>
-                  <p style={{ fontSize: 11, color: "rgba(0,0,0,0.4)", margin: "4px 0 0" }}>
-                    {countryFlag(lr?.home ?? "")} {lr?.home ?? ""} · Bib {rf.bib} · Age{" "}
-                    {lr?.age ?? "—"} · {lr?.gender ?? "—"}
-                  </p>
+                  <div
+                    style={{
+                      marginTop: 8,
+                      fontSize: 13,
+                      color: "rgba(255,255,255,0.6)",
+                      display: "flex",
+                      alignItems: "center",
+                      gap: 8,
+                      flexWrap: "wrap",
+                    }}
+                  >
+                    <span>{countryFlag(lr?.home ?? "")} {lr?.home ?? ""}</span>
+                    <DotSep />
+                    <span>Bib {rf.bib}</span>
+                    {lr?.age ? (
+                      <>
+                        <DotSep />
+                        <span>Age {lr.age}</span>
+                      </>
+                    ) : null}
+                    <DotSep />
+                    <span>{genderLabel}</span>
+                  </div>
                 </div>
-                <div style={{ display: "flex", gap: 6, flexWrap: "wrap" }}>
-                  {lr && (
-                    <span
-                      style={{
-                        fontFamily: DISPLAY,
-                        fontWeight: 700,
-                        fontSize: 12,
-                        background: isOverall1 ? GOLD : NAVY,
-                        color: "white",
-                        padding: "4px 12px",
-                        borderRadius: 20,
-                      }}
-                    >
-                      {lr.rankDisplay} Overall
-                    </span>
-                  )}
-                  {lr?.genderRank != null && (
-                    <span
-                      style={{
-                        fontFamily: DISPLAY,
-                        fontWeight: 700,
-                        fontSize: 12,
-                        background: NAVY,
-                        color: "white",
-                        padding: "4px 12px",
-                        borderRadius: 20,
-                      }}
-                    >
-                      #{lr.genderRank} {genderLabel}
-                    </span>
-                  )}
-                </div>
+
+                {/* Rank badges — row */}
+                {lr && (
+                  <div
+                    style={{
+                      display: "flex",
+                      flexDirection: "row",
+                      gap: 8,
+                      alignItems: "flex-start",
+                      flexShrink: 0,
+                    }}
+                  >
+                    <RankBadge
+                      rank={lr.rankDisplay}
+                      label="Overall"
+                      isGold={isOverall1}
+                    />
+                    {lr.genderRank != null && (
+                      <RankBadge
+                        rank={`#${lr.genderRank}`}
+                        label={`${genderLabel} Place`}
+                        isGold={isOverall1}
+                      />
+                    )}
+                  </div>
+                )}
               </div>
+
+              {/* Progress bar */}
               <ProgressBar
                 runnerMiles={runnerMiles}
                 markerPct={(buzzMiles / TOTAL_MILES) * 100}
                 markerEmoji="🦅"
                 markerTitle={`Buzzard — ${buzzMiles.toFixed(2)} mi`}
               />
+
+              {/* Location strip */}
               <div
                 style={{
-                  borderTop: "0.5px solid rgba(0,0,0,0.06)",
-                  marginTop: 12,
-                  paddingTop: 10,
+                  borderTop: "1px solid rgba(255,255,255,0.1)",
+                  paddingTop: 14,
+                  marginTop: 16,
                   display: "flex",
+                  alignItems: "center",
                   flexWrap: "wrap",
-                  gap: "6px 16px",
-                  fontSize: 12,
-                  color: "rgba(0,0,0,0.5)",
+                  rowGap: 8,
                 }}
               >
-                <span>📍 {lr?.locationDescription ?? "—"}</span>
-                <span>
-                  🏁 Projected finish:{" "}
-                  {lr?.projectedFinish ? longDate(lr.projectedFinish) : "—"}
-                </span>
-                {vsB >= 0 ? (
-                  <span style={{ color: GREEN, fontWeight: 600 }}>
-                    🦅 +{vsB.toFixed(1)} mi ahead of Buzzard
+                <div
+                  style={{
+                    display: "flex",
+                    alignItems: "center",
+                    gap: 5,
+                    fontSize: 13,
+                    padding: "0 16px 0 0",
+                    borderRight: "1px solid rgba(255,255,255,0.12)",
+                  }}
+                >
+                  <span>📍</span>
+                  <span style={{ color: "#ffffff", fontWeight: 600 }}>
+                    {lr?.locationDescription ?? "—"}
                   </span>
-                ) : (
-                  <span style={{ color: RED, fontWeight: 600 }}>
-                    🦅 {Math.abs(vsB).toFixed(1)} mi behind Buzzard
+                </div>
+                <div
+                  style={{
+                    display: "flex",
+                    alignItems: "center",
+                    gap: 5,
+                    fontSize: 13,
+                    padding: "0 16px",
+                    borderRight: "1px solid rgba(255,255,255,0.12)",
+                  }}
+                >
+                  <span>🏁</span>
+                  <span style={{ color: "rgba(255,255,255,0.5)" }}>Projected</span>
+                  <span style={{ color: "#ffffff", fontWeight: 600 }}>
+                    {lr?.projectedFinish ? longDate(lr.projectedFinish) : "—"}
                   </span>
-                )}
+                </div>
+                <div
+                  style={{
+                    display: "flex",
+                    alignItems: "center",
+                    gap: 5,
+                    fontSize: 13,
+                    padding: "0 0 0 16px",
+                  }}
+                >
+                  <span>🦅</span>
+                  {vsB >= 0 ? (
+                    <span style={{ color: "#4ade80", fontWeight: 700 }}>
+                      +{vsB.toFixed(1)} mi ahead of Buzzard
+                    </span>
+                  ) : (
+                    <span style={{ color: "#f87171", fontWeight: 700 }}>
+                      {Math.abs(vsB).toFixed(1)} mi behind Buzzard
+                    </span>
+                  )}
+                </div>
               </div>
             </>
           )}
         </div>
+      </div>
 
-        {/* Stats Row */}
-        {isBuzzard ? (
-          <div className="runner-stats">
-            <StatCard value={`${pace.toFixed(2)} mi`} sub="daily pace" />
-            <StatCard value="Sep 30, 2026" sub="finish date" />
-            <StatCard
-              value={String(bf.runnersAhead ?? 0)}
-              sub="runners ahead"
-              color={GREEN}
-            />
-            <StatCard
-              value={String(bf.runnersBehind ?? 0)}
-              sub="runners behind"
-              color={RED}
-            />
-            <StatCard value={`${pace.toFixed(2)} mi`} sub="miles today" />
-          </div>
-        ) : (
-          <div className="runner-stats">
-            <StatCard value={runnerMiles.toFixed(2)} sub="miles logged" />
-            <StatCard value={milesLeft.toFixed(1)} sub="miles to finish" color={GOLD} />
-            <StatCard value={String(dl)} sub="days until Sep 30" />
-            <StatCard
-              value={avgNeeded.toFixed(2)}
-              sub="mi/day to finish"
-              color={avgNeeded <= pace ? GREEN : RED}
-            />
-            <StatCard
-              value={`${vsB >= 0 ? "+" : ""}${vsB.toFixed(1)}`}
-              sub={vsB >= 0 ? "miles ahead" : "miles behind"}
-              color={vsB >= 0 ? GREEN : RED}
-            />
-          </div>
-        )}
-
-        {/* Mini Map */}
-        <div style={card}>
-          <SectionHeader
-            title="Current Location"
-            sub={isFinished ? "🏁 FINISHED · Pueblo, CO" : (lr?.locationDescription ?? "—")}
-          />
-          {mapUrl ? (
-            // eslint-disable-next-line @next/next/no-img-element
-            <img
-              src={mapUrl}
-              alt={`Map showing ${lr?.locationDescription ?? "runner location"}`}
-              className="runner-map-img"
-            />
+      {/* ── STATS STRIP — outer full-width, inner centered grid ── */}
+      <div
+        style={{
+          background: "#ffffff",
+          borderBottom: "1px solid rgba(0,0,0,0.06)",
+          padding: "0 24px",
+        }}
+      >
+        <div
+          className="runner-stats-grid"
+          style={{
+            maxWidth: 780,
+            margin: "0 auto",
+            display: "grid",
+            gridTemplateColumns: "repeat(4, 1fr)",
+          }}
+        >
+          {isBuzzard ? (
+            <>
+              <StatCell value={pace.toFixed(2)} label="Daily Pace" color="#dc2626" />
+              <StatCell value="Sep 30" label="Finish Date" color={NAVY} />
+              <StatCell value={String(bf.runnersAhead ?? 0)} label="Runners Ahead" color="#16a34a" />
+              <StatCell value={String(bf.runnersBehind ?? 0)} label="Runners Behind" color="#dc2626" isLast />
+            </>
           ) : (
-            <div
-              style={{
-                height: 120,
-                background: "#f5f5f3",
-                display: "flex",
-                alignItems: "center",
-                justifyContent: "center",
-                fontSize: 12,
-                color: "rgba(0,0,0,0.35)",
-              }}
-            >
-              Location data unavailable
-            </div>
+            <>
+              <StatCell value={runnerMiles.toFixed(2)} label="Total Miles" color={NAVY} />
+              <StatCell value={milesLeft.toFixed(1)} label="Miles to Finish" color={GOLD} />
+              <StatCell value={String(dl)} label="Days Until Sep 30" color={NAVY} />
+              <StatCell
+                value={avgNeeded.toFixed(2)}
+                label="Mi/Day to Finish"
+                color={avgNeeded <= pace ? "#16a34a" : "#dc2626"}
+                isLast
+              />
+            </>
           )}
-          <div
-            style={{
-              padding: "8px 16px",
-              fontSize: 11,
-              color: "rgba(0,0,0,0.45)",
-            }}
-          >
-            {mapLocationLabel}
-          </div>
         </div>
+      </div>
 
-        {/* Bar Chart */}
-        <div style={card}>
-          <SectionHeader
+      {/* ── BODY SECTIONS ── */}
+      <div style={{ maxWidth: 780, margin: "0 auto", padding: "0 24px 32px" }}>
+        {/* Daily Mileage */}
+        <div
+          style={{
+            paddingTop: 24,
+            paddingBottom: 24,
+            borderTop: "1px solid rgba(0,0,0,0.06)",
+          }}
+        >
+          <SectionHead
             title="Daily Mileage"
             sub={
               isBuzzard
@@ -584,46 +679,103 @@ export default async function RunnerPage({
                 : `${rf.activeDays > 0 ? (runnerMiles / rf.activeDays).toFixed(2) : "0.00"} mi avg · ${rf.activeDays} active days`
             }
           />
-          <div style={{ padding: 20 }}>
-            {rf.activities.map((act, i) => {
-              const isRest = act.type === "rest";
-              const barColor =
-                isBuzzard ? RED : act.type === "walk" ? "#7fa8d4" : NAVY;
-              const pct = isRest ? 0 : (act.miles / maxDayMiles) * 100;
-              return (
-                <div key={`${act.date}-${i}`} className="runner-chart-row">
-                  <div className="runner-chart-date">{shortDate(act.date)}</div>
-                  <div className="runner-chart-track">
-                    {!isRest && (
-                      <div
-                        style={{
-                          width: `${pct}%`,
-                          height: "100%",
-                          background: barColor,
-                          borderRadius: 4,
-                        }}
-                      />
-                    )}
-                  </div>
-                  <div
-                    className="runner-chart-miles"
-                    style={{
-                      fontFamily: isRest ? "inherit" : DISPLAY,
-                      fontWeight: isRest ? 400 : 700,
-                      fontSize: isRest ? 11 : 12,
-                      color: isRest ? "rgba(0,0,0,0.25)" : NAVY,
-                      fontStyle: isRest ? "italic" : "normal",
-                    }}
-                  >
-                    {isRest ? "rest" : `${act.miles.toFixed(2)} mi`}
-                  </div>
+          {rf.activities.map((act, i) => {
+            const isRest = act.type === "rest";
+            const barColor = isBuzzard ? "#dc2626" : act.type === "walk" ? "#93c5fd" : NAVY;
+            const pct = isRest ? 0 : (act.miles / maxDayMiles) * 100;
+            return (
+              <div
+                key={`${act.date}-${i}`}
+                style={{
+                  display: "grid",
+                  gridTemplateColumns: "52px 1fr 64px",
+                  gap: 12,
+                  alignItems: "center",
+                  marginBottom: 10,
+                }}
+              >
+                <div
+                  style={{
+                    fontFamily: DISPLAY,
+                    fontSize: 13,
+                    color: "rgba(0,0,0,0.5)",
+                  }}
+                >
+                  {shortDate(act.date)}
                 </div>
-              );
-            })}
-          </div>
+                <div
+                  className="runner-bar-track"
+                  style={{ background: "#f1f5f9", overflow: "hidden" }}
+                >
+                  {!isRest && (
+                    <div
+                      style={{
+                        width: `${pct}%`,
+                        height: "100%",
+                        background: barColor,
+                        borderRadius: 6,
+                        minWidth: 2,
+                      }}
+                    />
+                  )}
+                </div>
+                <div
+                  style={{
+                    fontFamily: isRest ? "inherit" : DISPLAY,
+                    fontWeight: isRest ? 400 : 700,
+                    fontSize: isRest ? 11 : 14,
+                    color: isRest ? "rgba(0,0,0,0.2)" : NAVY,
+                    fontStyle: isRest ? "italic" : "normal",
+                    textAlign: "right",
+                  }}
+                >
+                  {isRest ? "rest" : act.miles.toFixed(2)}
+                </div>
+              </div>
+            );
+          })}
+
+          {hasWalk && !isBuzzard && (
+            <div
+              style={{
+                display: "flex",
+                gap: 16,
+                marginTop: 14,
+                fontSize: 11,
+                color: "rgba(0,0,0,0.4)",
+              }}
+            >
+              <span style={{ display: "flex", alignItems: "center", gap: 5 }}>
+                <span
+                  style={{
+                    width: 10,
+                    height: 10,
+                    borderRadius: 2,
+                    background: NAVY,
+                    display: "inline-block",
+                    flexShrink: 0,
+                  }}
+                />
+                Run
+              </span>
+              <span style={{ display: "flex", alignItems: "center", gap: 5 }}>
+                <span
+                  style={{
+                    width: 10,
+                    height: 10,
+                    borderRadius: 2,
+                    background: "#93c5fd",
+                    display: "inline-block",
+                    flexShrink: 0,
+                  }}
+                />
+                Walk
+              </span>
+            </div>
+          )}
         </div>
 
-        {/* Activity Table */}
+        {/* Activity Log */}
         {(() => {
           const rows = [
             ...(isBuzzard
@@ -632,13 +784,25 @@ export default async function RunnerPage({
           ].reverse();
 
           return (
-            <div style={{ ...card, marginBottom: 40 }}>
-              <SectionHeader
+            <div
+              style={{
+                paddingTop: 24,
+                paddingBottom: 0,
+                borderTop: "1px solid rgba(0,0,0,0.06)",
+              }}
+            >
+              <SectionHead
                 title="Activity Log"
                 sub={`${rows.length} ${rows.length === 1 ? "entry" : "entries"}`}
               />
               {rows.length === 0 ? (
-                <p style={{ padding: 20, color: "rgba(0,0,0,0.4)", textAlign: "center" }}>
+                <p
+                  style={{
+                    color: "rgba(0,0,0,0.4)",
+                    textAlign: "center",
+                    padding: "20px 0",
+                  }}
+                >
                   No activities logged yet.
                 </p>
               ) : (
@@ -650,6 +814,11 @@ export default async function RunnerPage({
                           <th
                             key={h}
                             className={`runner-th${h === "Time" ? " col-time-runner" : ""}`}
+                            style={{
+                              textAlign: h === "Miles" ? "right" : "left",
+                              paddingRight: h === "Miles" ? 12 : 0,
+                              paddingLeft: h !== "Date" ? 12 : 0,
+                            }}
                           >
                             {h}
                           </th>
@@ -658,26 +827,25 @@ export default async function RunnerPage({
                     </thead>
                     <tbody>
                       {rows.map((act, i) => (
-                        <tr
-                          key={`${act.date}-${i}`}
-                          style={{ background: i % 2 === 0 ? "white" : "#fafafa" }}
-                        >
-                          <td className="runner-td">{shortDate(act.date)}</td>
-                          <td className="runner-td">
+                        <tr key={`${act.date}-${i}`}>
+                          <td className="runner-td" style={{ color: "rgba(0,0,0,0.5)" }}>
+                            {shortDate(act.date)}
+                          </td>
+                          <td className="runner-td" style={{ paddingLeft: 12 }}>
                             <span
                               style={{
                                 display: "inline-block",
-                                padding: "2px 8px",
+                                padding: "3px 8px",
                                 borderRadius: 4,
-                                fontSize: 11,
+                                fontSize: 10,
                                 fontFamily: DISPLAY,
-                                fontWeight: 600,
+                                fontWeight: 700,
                                 textTransform: "uppercase",
                                 ...(act.type === "walk"
-                                  ? { background: "#e8f0fb", color: "#3b6fba" }
+                                  ? { background: "rgba(59,130,246,0.08)", color: "#3b82f6" }
                                   : act.type === "buzzard"
-                                  ? { background: "#fff0ee", color: RED }
-                                  : { background: "rgba(27,63,110,0.1)", color: NAVY }),
+                                  ? { background: "rgba(220,38,38,0.08)", color: "#dc2626" }
+                                  : { background: "rgba(27,63,110,0.08)", color: NAVY }),
                               }}
                             >
                               {act.type}
@@ -687,15 +855,23 @@ export default async function RunnerPage({
                             className="runner-td"
                             style={{
                               fontFamily: DISPLAY,
-                              fontWeight: 700,
-                              fontSize: 14,
+                              fontWeight: 800,
+                              fontSize: 16,
+                              color: NAVY,
+                              textAlign: "right",
+                              paddingLeft: 12,
+                              paddingRight: 12,
                             }}
                           >
                             {act.miles.toFixed(2)}
                           </td>
                           <td
                             className="runner-td col-time-runner"
-                            style={{ color: "rgba(0,0,0,0.5)", fontSize: 12 }}
+                            style={{
+                              color: "rgba(0,0,0,0.4)",
+                              fontSize: 12,
+                              paddingLeft: 12,
+                            }}
                           >
                             {act.time ?? "—"}
                           </td>
@@ -705,6 +881,7 @@ export default async function RunnerPage({
                               fontStyle: "italic",
                               color: "rgba(0,0,0,0.4)",
                               fontSize: 12,
+                              paddingLeft: 12,
                             }}
                           >
                             {act.comment || "—"}

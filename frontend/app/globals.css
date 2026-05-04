@@ -29,11 +29,6 @@ body {
   50% { transform: scale(2.5); opacity: 0; }
 }
 
-@keyframes borderPulse {
-  0%, 100% { border-left-color: #1B3F6E; }
-  50% { border-left-color: #3b82f6; }
-}
-
 /* Leaderboard column responsive visibility */
 @media (max-width: 768px) {
   .col-km, .col-event, .col-eventgen, .col-map { display: none; }
@@ -43,25 +38,30 @@ body {
 }
 
 /* Leaderboard cell sizing */
-.lb-cell { padding: 9px 14px; font-size: 13px; white-space: nowrap; }
+.lb-cell { padding: 10px 14px; font-size: 13px; white-space: nowrap; }
 .lb-header {
-  padding: 8px 14px;
+  padding: 9px 14px;
   font-family: var(--font-display);
-  font-size: 9px;
-  letter-spacing: 0.12em;
+  font-size: 10px;
+  letter-spacing: 0.15em;
   text-transform: uppercase;
   white-space: nowrap;
   cursor: pointer;
   user-select: none;
+  font-weight: 400;
 }
 @media (max-width: 768px) {
-  .lb-cell { padding: 8px 12px; font-size: 12px; }
-  .lb-header { padding: 8px 12px; }
+  .lb-cell { padding: 9px 12px; font-size: 12px; }
+  .lb-header { padding: 9px 12px; }
 }
 @media (max-width: 480px) {
-  .lb-cell { padding: 8px 10px; font-size: 11px; }
-  .lb-header { padding: 8px 10px; }
+  .lb-cell { padding: 9px 10px; font-size: 11px; }
+  .lb-header { padding: 9px 10px; }
 }
+
+/* Leaderboard miles progress bar — desktop only */
+.lb-miles-bar { display: block; }
+@media (max-width: 768px) { .lb-miles-bar { display: none; } }
 
 /* Search input */
 .search-input {
@@ -84,8 +84,6 @@ body {
 @media (max-width: 480px) {
   .race-title { font-size: 28px !important; }
   .race-subtitle { font-size: 9px !important; letter-spacing: 0.18em !important; }
-  .stat-value { font-size: 24px !important; }
-  .stat-value.name { font-size: 15px !important; }
 }
 
 /* Safety nets */
@@ -95,31 +93,69 @@ body {
 /* Leaderboard runner name link */
 .runner-name-link:hover { color: var(--gvrat-navy) !important; text-decoration: underline; cursor: pointer; }
 
-/* Runner profile page */
-.runner-stats {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  gap: 10px;
-  margin-bottom: 12px;
+/* Runner profile: hero name — responsive */
+.runner-hero-name { font-size: 52px; }
+@media (max-width: 640px) { .runner-hero-name { font-size: 36px !important; } }
+
+/* Runner profile: back button hover */
+.hero-back-btn { transition: background 0.12s; }
+.hero-back-btn:hover { background: rgba(255,255,255,0.14) !important; }
+
+/* Runner profile: stats strip grid */
+.runner-stats-grid { display: grid; grid-template-columns: repeat(4, 1fr); }
+@media (max-width: 640px) { .runner-stats-grid { grid-template-columns: repeat(2, 1fr) !important; } }
+
+/* Runner profile: stats strip */
+.runner-stats-strip {
+  display: flex;
+  padding: 24px 0;
+}
+.runner-stat-item {
+  flex: 1;
+  text-align: center;
+  padding: 4px 8px;
+}
+.runner-stat-value {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 1;
+  letter-spacing: -0.01em;
+}
+.runner-stat-label {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: rgba(0,0,0,0.35);
+  margin-top: 8px;
+}
+.runner-stat-divider {
+  width: 1px;
+  background: rgba(0,0,0,0.08);
+  height: 40px;
+  align-self: center;
+  flex-shrink: 0;
 }
 @media (max-width: 640px) {
-  .runner-stats { grid-template-columns: repeat(3, 1fr); }
+  .runner-stats-strip {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 16px 0;
+  }
+  .runner-stat-value { font-size: 28px; }
+  .runner-stat-divider { display: none; }
+  .runner-stat-item { padding: 10px 8px; }
 }
 
-.runner-chart-row { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; }
-.runner-chart-date { width: 48px; font-size: 11px; color: rgba(0,0,0,0.5); flex-shrink: 0; }
-.runner-chart-track { flex: 1; height: 20px; background: #f5f5f3; border-radius: 4px; overflow: hidden; }
-.runner-chart-miles { width: 52px; font-size: 11px; text-align: right; flex-shrink: 0; }
-@media (max-width: 480px) {
-  .runner-chart-date { width: 40px; }
-  .runner-chart-miles { width: 48px; }
-}
+/* Runner profile: bar chart track — responsive height */
+.runner-bar-track { height: 32px; border-radius: 6px; }
+@media (max-width: 640px) { .runner-bar-track { height: 26px; } }
 
+/* Runner profile: activity table */
 .runner-table { width: 100%; border-collapse: collapse; }
 .runner-th {
-  padding: 8px 14px;
-  background: var(--gvrat-navy);
-  color: white;
   font-family: var(--font-display);
   font-size: 9px;
   letter-spacing: 0.12em;
@@ -127,13 +163,16 @@ body {
   text-align: left;
   white-space: nowrap;
   font-weight: 400;
+  color: rgba(0,0,0,0.35);
+  padding: 0 0 10px;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
 }
-.runner-td { padding: 9px 14px; font-size: 13px; white-space: nowrap; }
+.runner-td { padding: 10px 12px 10px 0; font-size: 13px; border-bottom: 1px solid rgba(0,0,0,0.04); white-space: nowrap; }
 
 @media (max-width: 480px) {
   .col-time-runner { display: none; }
-  .runner-th { padding: 8px 10px; }
-  .runner-td { padding: 8px 10px; font-size: 12px; }
+  .runner-th { padding: 0 0 8px; }
+  .runner-td { padding: 8px 10px 8px 0; font-size: 12px; }
 }
 
 /* Touch targets */
@@ -148,10 +187,6 @@ body {
 /* Runner profile back button */
 .back-btn { transition: opacity 0.12s; }
 .back-btn:hover { opacity: 0.85; }
-
-/* Runner profile mini map image */
-.runner-map-img { height: 220px; width: 100%; object-fit: cover; display: block; }
-@media (max-width: 480px) { .runner-map-img { height: 160px; } }
 
 /* Runner profile container */
 .runner-container { max-width: 780px; margin: 0 auto; padding: 0 20px; }
