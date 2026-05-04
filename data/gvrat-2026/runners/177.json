@@ -51,9 +51,17 @@
       "type": "run",
       "time": null,
       "comment": "Walked happy"
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 10.0,
+      "km": 16.09,
+      "type": "run",
+      "time": null,
+      "comment": "Beatty paved"
     }
   ],
-  "totalActivities": 6,
-  "activeDays": 2,
+  "totalActivities": 7,
+  "activeDays": 3,
   "restDays": 0
 }

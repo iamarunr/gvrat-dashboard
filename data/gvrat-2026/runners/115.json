@@ -75,9 +75,17 @@
       "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 4.24,
+      "km": 6.82,
+      "type": "run",
+      "time": null,
+      "comment": "Evening with kid"
     }
   ],
-  "totalActivities": 9,
-  "activeDays": 2,
+  "totalActivities": 10,
+  "activeDays": 3,
   "restDays": 0
 }

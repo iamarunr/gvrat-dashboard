@@ -27,9 +27,25 @@
       "type": "run",
       "time": null,
       "comment": "RSD 3982 Sasquatch \ud83e\udec8 Shuffle 30k Trail Run in Mission Tejas State Park"
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 1.12,
+      "km": 1.8,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 3983"
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 1.22,
+      "km": 1.96,
+      "type": "run",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 3,
-  "activeDays": 2,
+  "totalActivities": 5,
+  "activeDays": 3,
   "restDays": 0
 }

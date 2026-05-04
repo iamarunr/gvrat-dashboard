@@ -19,9 +19,17 @@
       "type": "run",
       "time": null,
       "comment": "swim morning"
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 5.45,
+      "km": 8.77,
+      "type": "run",
+      "time": null,
+      "comment": "Treadmill, morning walk and evening walk"
     }
   ],
-  "totalActivities": 2,
-  "activeDays": 2,
+  "totalActivities": 3,
+  "activeDays": 3,
   "restDays": 0
 }

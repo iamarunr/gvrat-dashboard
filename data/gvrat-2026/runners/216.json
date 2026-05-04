@@ -19,9 +19,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 0.54,
+      "km": 0.87,
+      "type": "run",
+      "time": null,
+      "comment": "LOTW"
     }
   ],
-  "totalActivities": 1,
-  "activeDays": 1,
+  "totalActivities": 2,
+  "activeDays": 2,
   "restDays": 1
 }

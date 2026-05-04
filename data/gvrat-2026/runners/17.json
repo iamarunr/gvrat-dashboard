@@ -19,9 +19,17 @@
       "type": "run",
       "time": null,
       "comment": "Hometown Half Rochester, MN"
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 13.28,
+      "km": 21.37,
+      "type": "run",
+      "time": null,
+      "comment": "Eau Clare half marathon"
     }
   ],
-  "totalActivities": 1,
-  "activeDays": 1,
+  "totalActivities": 2,
+  "activeDays": 2,
   "restDays": 1
 }

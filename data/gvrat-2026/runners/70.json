@@ -43,9 +43,33 @@
       "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 7.25,
+      "km": 11.67,
+      "type": "run",
+      "time": null,
+      "comment": "Bloomsday race"
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "run",
+      "time": null,
+      "comment": "Walk to and from race"
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "run",
+      "time": null,
+      "comment": "Evening"
     }
   ],
-  "totalActivities": 5,
-  "activeDays": 2,
+  "totalActivities": 8,
+  "activeDays": 3,
   "restDays": 0
 }

@@ -35,9 +35,17 @@
       "type": "run",
       "time": null,
       "comment": "King Farm Loop"
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 3.23,
+      "km": 5.2,
+      "type": "run",
+      "time": null,
+      "comment": "King Farm Loop"
     }
   ],
-  "totalActivities": 4,
-  "activeDays": 2,
+  "totalActivities": 5,
+  "activeDays": 3,
   "restDays": 0
 }
