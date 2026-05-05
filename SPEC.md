@@ -13,7 +13,6 @@ This document is the seed for a Claude Code project. It is detailed enough to ex
 ## 1. The race, and why the design is what it is
 
 ### What GVRAT is
-
 GVRAT is a virtual race covering **679 miles** along a fixed route from Baxter Springs, KS to the Pueblo, CO area. ~400–500 runners participate. Each runner logs their daily run/walk activities on the **RunSignup** platform; their cumulative miles determine their virtual position on the route.
 
 **Race window**: May 1, 2026 → September 30, 2026 (153 days).

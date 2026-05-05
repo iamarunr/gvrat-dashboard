@@ -180,6 +180,51 @@ class TestBuzzardFile:
         assert data["activities"][0]["miles"] == pytest.approx(4.44, abs=0.01)
 
 
+class TestActivityTypeMapping:
+    """Activity type IDs from the RunSignup API must map to 'run' or 'walk', never all-run."""
+
+    def test_walk_id_parsed_as_walk(self):
+        """Numeric ID 37793 (walk) must produce activityType='walk', not default to 'run'."""
+        from pipeline.runsignup import _parse_activity
+        raw = {
+            "registration_id": "110987393",
+            "tally_split_date": "2026-05-02",
+            "result_split_tally_value": 19312128,
+            "tally_split_comment": None,
+            "virtual_race_activity_type_id": 37793,
+        }
+        act = _parse_activity(raw, bib=104)
+        assert act.activityType == "walk"
+
+    def test_run_id_parsed_as_run(self):
+        """Numeric ID 37792 (run) must produce activityType='run'."""
+        from pipeline.runsignup import _parse_activity
+        raw = {
+            "registration_id": "110987393",
+            "tally_split_date": "2026-05-01",
+            "result_split_tally_value": 8577804,
+            "tally_split_comment": None,
+            "virtual_race_activity_type_id": 37792,
+        }
+        act = _parse_activity(raw, bib=104)
+        assert act.activityType == "run"
+
+    def test_csv_walk_string_written_as_walk(self, runner_files_env):
+        """CSV fixture bib 4 has Activity Type='walk' — must appear as type='walk' in JSON, not 'run'."""
+        data = json.loads((runner_files_env["dir"] / "4.json").read_text())
+        active = [e for e in data["activities"] if e["type"] not in ("rest", "buzzard")]
+        assert any(e["type"] == "walk" for e in active), (
+            "Expected at least one walk activity for bib 4 (CSV fixture has 'walk' type) "
+            "but all activities are 'run' — normalize_type is broken"
+        )
+
+    def test_not_all_activities_are_run(self, runner_files_env):
+        """If every non-rest activity is 'run', the type mapping is broken."""
+        data = json.loads((runner_files_env["dir"] / "4.json").read_text())
+        types = {e["type"] for e in data["activities"] if e["type"] != "rest"}
+        assert types != {"run"}, "All activities defaulted to 'run' — activity type mapping failed"
+
+
 class TestFileCount:
     def test_buzzard_file_written(self, runner_files_env):
         assert runner_files_env["count"] >= 1

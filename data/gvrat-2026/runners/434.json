@@ -14,11 +14,11 @@
     },
     {
       "date": "2026-05-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 51.31,
+      "km": 82.58,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "https://strava.app.link/VtqisfYjS2b"
     },
     {
       "date": "2026-05-03",
@@ -29,7 +29,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 0,
-  "activeDays": 0,
-  "restDays": 3
+  "totalActivities": 1,
+  "activeDays": 1,
+  "restDays": 2
 }

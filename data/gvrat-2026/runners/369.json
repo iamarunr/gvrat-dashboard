@@ -8,28 +8,52 @@
       "date": "2026-05-01",
       "miles": 1.24,
       "km": 2.0,
-      "type": "run",
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 1.04,
+      "km": 1.67,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.19,
+      "km": 5.13,
+      "type": "run",
+      "time": null,
+      "comment": "Hike around trails"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 1.26,
+      "km": 2.03,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.39,
+      "km": 3.85,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Part 1"
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 1.11,
+      "km": 1.79,
+      "type": "run",
+      "time": null,
+      "comment": "Part 2"
     }
   ],
-  "totalActivities": 1,
-  "activeDays": 1,
-  "restDays": 2
+  "totalActivities": 6,
+  "activeDays": 3,
+  "restDays": 0
 }

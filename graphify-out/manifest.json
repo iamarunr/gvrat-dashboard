@@ -1,242 +1,62 @@
 {
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/snapshots.py": {
-    "mtime": 1777686769.1694968,
-    "hash": "63e47adcdaa9f4fbc269fb33d6ed43f8"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/config.py": {
-    "mtime": 1777685285.6706226,
-    "hash": "a1eac9683cf7c4106d1f6490ec64dd21"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/csv_source.py": {
-    "mtime": 1777878586.255335,
-    "hash": "9e1e1247fb1612cb13fe6dadec198882"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/models.py": {
-    "mtime": 1777878586.256008,
-    "hash": "2b1f9ad82867f1d792afea6441fa8370"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/course.py": {
-    "mtime": 1777711628.8642259,
-    "hash": "db598f8be3d87d2c516a00387c4a8389"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/waypoints.py": {
-    "mtime": 1777685302.4312046,
-    "hash": "88699716c77a2051fa7cc78a7f16ebf4"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/__init__.py": {
-    "mtime": 1777684289.0857222,
-    "hash": "d41d8cd98f00b204e9800998ecf8427e"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/virtual_chars.py": {
-    "mtime": 1777686497.6367233,
-    "hash": "7219b10a616a9a4a45d8292cde265f0f"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/runsignup.py": {
-    "mtime": 1777878586.256835,
-    "hash": "0c712eade24e745eb1b5902c0e144356"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/main.py": {
-    "mtime": 1777878586.2556825,
-    "hash": "6b453d69619b3721420b38f77cd0896b"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/runner_files.py": {
-    "mtime": 1777878586.2564425,
-    "hash": "106f0fc855d5bde4b5bf7549602b5ea3"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/descriptions.py": {
-    "mtime": 1777878820.486364,
-    "hash": "95273e7bd87b87e0a678176da2071d7d"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/compute.py": {
-    "mtime": 1777878820.485991,
-    "hash": "581c1d78bbeebc1728e556e45aa6fdcf"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/ingestion/csv_source.py": {
-    "mtime": 1777695654.7295642,
-    "hash": "57efc4ff4e96d408e3fd92b5f4ed7526"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/ingestion/__init__.py": {
-    "mtime": 1777695557.8354836,
-    "hash": "8f0bbb9f789e6523248ae98ba743e40e"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/ingestion/base.py": {
-    "mtime": 1777695646.646766,
-    "hash": "06651d8d98e6562b39b0a00ae51360ef"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/tests/test_runner_files.py": {
-    "mtime": 1777878586.2572217,
-    "hash": "c6e9014a1e1228e44686aaefbcbe8454"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/tests/test_virtual_chars.py": {
-    "mtime": 1777687585.5846968,
-    "hash": "37693913650c36adc0d88a4c0b51fd55"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/tests/__init__.py": {
-    "mtime": 1777684293.8183117,
-    "hash": "d41d8cd98f00b204e9800998ecf8427e"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/tests/test_compute.py": {
-    "mtime": 1777687468.8784678,
-    "hash": "e3f2a445929949aad88d0f72e09b8e15"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/tests/test_waypoints.py": {
-    "mtime": 1777685363.2702618,
-    "hash": "bd9e842d5848c0b18c68148df0ec80b4"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/postcss.config.mjs": {
-    "mtime": 1777684350.3614686,
-    "hash": "239f3ebf717465dc636818a1a619398d"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/next-env.d.ts": {
-    "mtime": 1777903315.1587799,
-    "hash": "d0f8375ae1199dc7acd3977fc33b78b8"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/eslint.config.mjs": {
-    "mtime": 1777684350.3611343,
-    "hash": "dfa1f5f6a7037bf39dc510f30b180002"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/next.config.ts": {
-    "mtime": 1777779384.8657753,
-    "hash": "b9102c5ee12ba7bf65257f35fa2f6f68"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/app/layout.tsx": {
-    "mtime": 1777918632.3056269,
-    "hash": "b689669175e30ccd0a830cc519021f9d"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/app/page.tsx": {
-    "mtime": 1777921416.2553291,
-    "hash": "52cb965aa2310bd06058add4e877eec2"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/app/gvrat-2026/page.tsx": {
-    "mtime": 1777756738.317977,
-    "hash": "7b0ea29e8787719d174b7cddf206ff95"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/app/gvrat-2026/runner/[bib]/page.tsx": {
-    "mtime": 1777920343.0368192,
-    "hash": "042d3694bb7e1616e418cf21d6fb2cbc"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/components/RaceProgress.tsx": {
-    "mtime": 1777918632.3102202,
-    "hash": "4ecda44bbe0e39573323425ad146eb14"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/components/Leaderboard.tsx": {
-    "mtime": 1777920991.9338772,
-    "hash": "cb4456e0fece1f2c8760edf9fbf1831f"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/components/RaceMap.tsx": {
-    "mtime": 1777756629.563479,
-    "hash": "0b8ef9eb1e333891c3fab2f159ff502c"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/components/AsOfBanner.tsx": {
-    "mtime": 1777919149.8136117,
-    "hash": "49f7789ec27914b327ba50035a8083ad"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/components/RaceMapInner.tsx": {
-    "mtime": 1777778866.615731,
-    "hash": "8bb3ab55959194810cab215b36767c37"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/components/StatCards.tsx": {
-    "mtime": 1777778880.1060045,
-    "hash": "f0a29c335d1710d85ab1776c6bcc0caa"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/components/DayCounter.tsx": {
-    "mtime": 1777706046.8394885,
-    "hash": "6ef43804dee4e648150cbf4f3768275b"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/components/DashboardClient.tsx": {
-    "mtime": 1777921699.3729968,
-    "hash": "ee9670ccd0a9844ed48e8d8c4b181b36"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/components/StatStrip.tsx": {
-    "mtime": 1777918632.31057,
-    "hash": "a8fac2b4edc4e79d734f23f586727d7b"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/lib/data.ts": {
-    "mtime": 1777728845.4018426,
-    "hash": "8b65ce7daf88f4d974a3fa5961e0f3e6"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/lib/format.ts": {
-    "mtime": 1777918632.3108747,
-    "hash": "ba7c5f8aa03882221edbd6c673e3bd88"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/PRODUCT.md": {
-    "mtime": 1777878820.4544113,
-    "hash": "d953e7c9fe688408706f6e76f0a20a92"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/README.md": {
-    "mtime": 1777878586.0170124,
-    "hash": "9c9f78f4f3f8bbc1c4f2add1df0ed83e"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/SPEC.md": {
-    "mtime": 1777864251.3974838,
-    "hash": "d2a88ecebba95c280c304aef2edbc02e"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/BACKLOG.md": {
-    "mtime": 1777878586.0158758,
-    "hash": "a765f1158a6536d7ef404e785b604bcd"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/CLAUDE.md": {
-    "mtime": 1777878820.4539962,
-    "hash": "cafb3460b7d5b4370d08318c99ab7896"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/README.md": {
-    "mtime": 1777684350.3611364,
-    "hash": "f15aaa42d5d299d091b1171097ea56ad"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/AGENTS.md": {
-    "mtime": 1777684372.371515,
-    "hash": "9e09241799026ac05be315a2f0b50055"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/CLAUDE.md": {
-    "mtime": 1777878820.484245,
-    "hash": "1e53277e58688b49e8f52c4eed005a7a"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/public/file.svg": {
-    "mtime": 1777684350.362133,
-    "hash": "d09f95206c3fa0bb9bd9fefabfd0ea71"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/public/bg-dots.png": {
-    "mtime": 1777918632.319396,
-    "hash": "0e8a77fdd7ad9f7b2b223e9e77674506"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/public/gvrat-logo.png": {
-    "mtime": 1777918632.3513887,
-    "hash": "e106a4dab5b0a368387a1663e8f8e352"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/public/vercel.svg": {
-    "mtime": 1777684350.3620214,
-    "hash": "c0af2f507b369b085b35ef4bbe3bcf1e"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/public/next.svg": {
-    "mtime": 1777684350.362192,
-    "hash": "8e061864f388b47f33a1c3780831193e"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/public/bg-topo.webp": {
-    "mtime": 1777919981.4201176,
-    "hash": "cfc59fa63f377dcb934b1c11478f6c82"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/public/gvrat-logo-transparent.png": {
-    "mtime": 1777918632.3497097,
-    "hash": "9d8ca5d86af4d3bfc6b2ec0e7e6a9a11"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/public/globe.svg": {
-    "mtime": 1777684350.362333,
-    "hash": "2aaafa6a49b6563925fe440891e32717"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/public/window.svg": {
-    "mtime": 1777684350.3622134,
-    "hash": "a2760511c65806022ad20adf74370ff3"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/public/icons/buzzard.svg": {
-    "mtime": 1777712316.525601,
-    "hash": "c53c02dbd8baa09f3046ea72541a20d1"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/public/icons/leader.svg": {
-    "mtime": 1777712329.7703936,
-    "hash": "0da1dfe68c1b3de3b026a1b27b1d6ef7"
-  },
-  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/public/icons/gingerbread.svg": {
-    "mtime": 1777712299.1774368,
-    "hash": "25025aaf7385eccf48d616d52dc9abec"
-  }
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/snapshots.py": 1777686769.1694968,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/config.py": 1777685285.6706226,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/csv_source.py": 1777878586.255335,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/models.py": 1777878586.256008,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/course.py": 1777711628.8642259,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/waypoints.py": 1777685302.4312046,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/__init__.py": 1777684289.0857222,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/virtual_chars.py": 1777686497.6367233,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/runsignup.py": 1777878586.256835,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/main.py": 1777878586.2556825,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/runner_files.py": 1777878586.2564425,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/descriptions.py": 1777878820.486364,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/compute.py": 1777878820.485991,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/ingestion/csv_source.py": 1777695654.7295642,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/ingestion/__init__.py": 1777695557.8354836,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/ingestion/base.py": 1777695646.646766,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/tests/test_runner_files.py": 1777878586.2572217,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/tests/test_virtual_chars.py": 1777687585.5846968,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/tests/__init__.py": 1777684293.8183117,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/tests/test_compute.py": 1777687468.8784678,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/pipeline/tests/test_waypoints.py": 1777685363.2702618,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/postcss.config.mjs": 1777684350.3614686,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/next-env.d.ts": 1777930547.1760457,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/eslint.config.mjs": 1777684350.3611343,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/next.config.ts": 1777779384.8657753,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/app/layout.tsx": 1777940474.3711963,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/app/page.tsx": 1777935239.3139174,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/app/gvrat-2026/page.tsx": 1777756738.317977,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/app/gvrat-2026/runner/[bib]/page.tsx": 1777936199.3796554,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/components/RaceProgress.tsx": 1777918632.3102202,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/components/Leaderboard.tsx": 1777936178.2313533,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/components/RaceMap.tsx": 1777756629.563479,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/components/AsOfBanner.tsx": 1777919149.8136117,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/components/RaceMapInner.tsx": 1777926861.0712438,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/components/DashboardClient.tsx": 1777929004.0926726,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/components/StatStrip.tsx": 1777930447.1495256,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/lib/data.ts": 1777728845.4018426,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/lib/format.ts": 1777918632.3108747,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/PRODUCT.md": 1777878820.4544113,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/README.md": 1777878586.0170124,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/SPEC.md": 1777864251.3974838,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/BACKLOG.md": 1777878586.0158758,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/CLAUDE.md": 1777878820.4539962,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/README.md": 1777684350.3611364,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/AGENTS.md": 1777684372.371515,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/CLAUDE.md": 1777878820.484245,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/app/icon.png": 1777928110.6352797,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/public/file.svg": 1777684350.362133,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/public/bg-dots.png": 1777918632.319396,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/public/gvrat-logo.png": 1777918632.3513887,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/public/favicon.png": 1777927408.8750403,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/public/vercel.svg": 1777684350.3620214,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/public/next.svg": 1777684350.362192,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/public/bg-topo.webp": 1777919981.4201176,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/public/gvrat-logo-transparent.png": 1777918632.3497097,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/public/globe.svg": 1777684350.362333,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/public/window.svg": 1777684350.3622134,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/public/icons/buzzard.svg": 1777712316.525601,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/public/icons/leader.svg": 1777712329.7703936,
+  "/Users/nareshkumar/Documents/Projects/gvrat-dashboard/frontend/public/icons/gingerbread.svg": 1777712299.1774368
 }

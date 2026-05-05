@@ -44,3 +44,14 @@ Key fields in data/gvrat-2026/leaderboard.json runners:
   runner.bib             number — runner bib number
   runner.gender          "M" | "F"
   runner.home            "US-TN", "GB", "AU" etc
+
+## Design System Reference
+
+Read DESIGN.md in the project root before making
+ANY UI changes. It contains every color, font size,
+component pattern, and layout rule.
+
+Never invent new colors, fonts, or spacing values.
+Always reference DESIGN.md tokens first.
+New UI must match existing patterns exactly.
+Update DESIGN.md if any design decision changes.
