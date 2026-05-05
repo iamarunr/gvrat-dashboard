@@ -13,11 +13,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link
-          rel="icon"
-          href="/favicon.png"
-          type="image/png"
-        />
+        <link rel="icon" href="/favicon.png" type="image/png" />
+        {/* Preload hero background — CSS background-images are invisible to the
+            preload scanner; this hint fetches bg-topo.webp in parallel with CSS
+            parsing, directly improving LCP on the landing page. */}
+        <link rel="preload" as="image" href="/bg-topo.webp" fetchPriority="high" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link

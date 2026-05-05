@@ -1,5 +1,24 @@
-/*
-  Cache-Control: public, max-age=3600
+# Cloudflare Pages cache headers
+# https://developers.cloudflare.com/pages/configuration/headers/
 
+# Next.js content-hashed static assets — safe to cache forever (hash rotates on every build)
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Static public assets — images, fonts, icons (filenames are stable)
+/*.webp
+  Cache-Control: public, max-age=31536000, immutable
+/*.png
+  Cache-Control: public, max-age=31536000, immutable
+/*.svg
+  Cache-Control: public, max-age=31536000, immutable
+/*.ico
+  Cache-Control: public, max-age=31536000, immutable
+
+# Race data JSON — updated once daily at 12:00 UTC, revalidate every 5 minutes
 /data/*
-  Cache-Control: public, max-age=300
+  Cache-Control: public, max-age=300, stale-while-revalidate=600
+
+# Everything else (HTML pages) — always revalidate so deploys are instant
+/*
+  Cache-Control: public, max-age=0, must-revalidate
