@@ -51,9 +51,25 @@
       "type": "walk",
       "time": null,
       "comment": "Dog Walk"
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "run",
+      "time": null,
+      "comment": "morning run after swimming on the Trinity trail from Woodshed"
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 1.23,
+      "km": 1.98,
+      "type": "walk",
+      "time": null,
+      "comment": "dog walk"
     }
   ],
-  "totalActivities": 6,
-  "activeDays": 3,
+  "totalActivities": 8,
+  "activeDays": 4,
   "restDays": 0
 }

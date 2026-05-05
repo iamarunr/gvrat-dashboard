@@ -27,9 +27,17 @@
       "type": "run",
       "time": null,
       "comment": "Aller-retour rond point de St Paul de Jarrat. Dur.Mal aux jambes."
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 1,
   "activeDays": 1,
-  "restDays": 2
+  "restDays": 3
 }

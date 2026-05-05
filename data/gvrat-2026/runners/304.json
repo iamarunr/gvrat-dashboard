@@ -27,9 +27,33 @@
       "type": "walk",
       "time": null,
       "comment": "Back bothering me today, so I stuck with hiking rather than running"
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 1.51,
+      "km": 2.43,
+      "type": "walk",
+      "time": null,
+      "comment": "Lunch walk"
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 0.51,
+      "km": 0.82,
+      "type": "walk",
+      "time": null,
+      "comment": "Work break until I had to call it quits for an emergency work call"
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 2.52,
+      "km": 4.06,
+      "type": "walk",
+      "time": null,
+      "comment": "Finally done with the day\u2019s miles!"
     }
   ],
-  "totalActivities": 3,
-  "activeDays": 3,
+  "totalActivities": 6,
+  "activeDays": 4,
   "restDays": 0
 }

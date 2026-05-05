@@ -22,14 +22,30 @@
     },
     {
       "date": "2026-05-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.37,
+      "km": 3.81,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "First post heart surgery hike"
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 3.52,
+      "km": 5.66,
+      "type": "walk",
+      "time": null,
+      "comment": "Highland Glenn and Art Dye with Terri"
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 4.11,
+      "km": 6.61,
+      "type": "walk",
+      "time": null,
+      "comment": "Murdock Canal Trail from Mitchell Hollow to Fox Hollow"
     }
   ],
-  "totalActivities": 0,
-  "activeDays": 0,
-  "restDays": 3
+  "totalActivities": 3,
+  "activeDays": 2,
+  "restDays": 2
 }

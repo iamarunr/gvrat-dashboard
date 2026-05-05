@@ -35,9 +35,25 @@
       "type": "run",
       "time": null,
       "comment": "Lots of pics today."
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 3.1,
+      "km": 4.99,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning walk"
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 3.65,
+      "km": 5.87,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening walk."
     }
   ],
-  "totalActivities": 4,
-  "activeDays": 3,
+  "totalActivities": 6,
+  "activeDays": 4,
   "restDays": 0
 }

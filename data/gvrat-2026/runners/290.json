@@ -27,9 +27,17 @@
       "type": "walk",
       "time": null,
       "comment": "Had to skip yesterday. Laid in bed all day. So weak. Laid in bed all day today as well but got up and knocked out 4.2. It was all I had. \ud83d\ude13\ud83d\udc94"
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 2,
   "activeDays": 2,
-  "restDays": 1
+  "restDays": 2
 }

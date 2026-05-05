@@ -35,9 +35,25 @@
       "type": "walk",
       "time": null,
       "comment": "Walking, last day of recording lectures"
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 1.84,
+      "km": 2.96,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill climbing"
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 2.71,
+      "km": 4.36,
+      "type": "walk",
+      "time": null,
+      "comment": "Field trip and campus, stairs"
     }
   ],
-  "totalActivities": 4,
-  "activeDays": 3,
+  "totalActivities": 6,
+  "activeDays": 4,
   "restDays": 0
 }
