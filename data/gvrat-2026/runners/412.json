@@ -8,7 +8,7 @@
       "date": "2026-05-01",
       "miles": 3.7,
       "km": 5.95,
-      "type": "run",
+      "type": "walk",
       "time": null,
       "comment": "Bloomsday packet pickup"
     },
@@ -22,14 +22,22 @@
     },
     {
       "date": "2026-05-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.55,
+      "km": 12.15,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Bloomsday 12K round 1"
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 7.55,
+      "km": 12.15,
+      "type": "run",
+      "time": null,
+      "comment": "Bloomsday round 2"
     }
   ],
-  "totalActivities": 1,
-  "activeDays": 1,
-  "restDays": 2
+  "totalActivities": 3,
+  "activeDays": 2,
+  "restDays": 1
 }

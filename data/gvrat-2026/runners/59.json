@@ -16,7 +16,7 @@
       "date": "2026-05-01",
       "miles": 3.45,
       "km": 5.55,
-      "type": "run",
+      "type": "walk",
       "time": null,
       "comment": "K9 tracking"
     },
@@ -24,7 +24,7 @@
       "date": "2026-05-02",
       "miles": 9.92,
       "km": 15.96,
-      "type": "run",
+      "type": "walk",
       "time": null,
       "comment": ""
     },
@@ -32,7 +32,7 @@
       "date": "2026-05-03",
       "miles": 12.25,
       "km": 19.71,
-      "type": "run",
+      "type": "walk",
       "time": null,
       "comment": ""
     }

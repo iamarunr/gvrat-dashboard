@@ -8,15 +8,15 @@
       "date": "2026-05-01",
       "miles": 5.7,
       "km": 9.17,
-      "type": "run",
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.35,
+      "km": 8.61,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
@@ -29,7 +29,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 1,
-  "activeDays": 1,
-  "restDays": 2
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 1
 }

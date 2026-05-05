@@ -11,6 +11,10 @@ Activity event routing — confirmed 2026-05-01:
   event 1142660 only. NON-USA participants (registered under 1142661) must also have
   their activities fetched from event 1142660.
 
+Activity type IDs — confirmed 2026-05-04 via /v2/vr-activities/vr-activity-types.json:
+  37792 → "run"  (activity_type_text: "run",  standard_activity_type: 1)
+  37793 → "walk" (activity_type_text: "walk", standard_activity_type: 4)
+
 Participant status:
   status=None in the API response means active. Mapped to "Active" on ingest.
 """
@@ -30,6 +34,13 @@ BASE_URL = "https://api.runsignup.com/rest"
 ACTIVITY_FETCH_DELAY = 0.25   # 250 ms between per-bib activity calls (RunSignup guidance)
 MAX_RETRIES = 3
 RETRY_DELAYS = (1, 2, 4)       # exponential backoff in seconds
+
+# Maps virtual_race_activity_type_id → human-readable type name.
+# Confirmed 2026-05-04 via fetch_activity_types() for race 90457 / event 1142660.
+_ACTIVITY_TYPE_MAP: dict[str, str] = {
+    "37792": "run",
+    "37793": "walk",
+}
 
 
 class RunSignupError(Exception):
@@ -297,8 +308,9 @@ def _parse_activity(raw: dict, bib: int) -> Activity:
     date_raw = str(raw.get("tally_split_date", "")).strip()
     act_date = date.fromisoformat(date_raw[:10])
 
-    # activity type is a numeric ID; store as string
-    activity_type = str(raw.get("virtual_race_activity_type_id", "")).strip()
+    # Map numeric activity type ID to human-readable name ("run"/"walk").
+    type_id = str(raw.get("virtual_race_activity_type_id", "")).strip()
+    activity_type = _ACTIVITY_TYPE_MAP.get(type_id, "run")
 
     # tally_split_comment is the runner's note; API doesn't expose duration as a time string
     comment = str(raw.get("tally_split_comment", "") or "").strip()

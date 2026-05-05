@@ -1,0 +1,35 @@
+{
+  "bib": 458,
+  "firstName": "Amanda",
+  "lastName": "Murray-Hind",
+  "displayName": "Amanda Murray-Hind",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 4.08,
+      "km": 6.57,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 8.31,
+      "km": 13.37,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 0.49,
+      "km": 0.79,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 3,
+  "activeDays": 3,
+  "restDays": 0
+}

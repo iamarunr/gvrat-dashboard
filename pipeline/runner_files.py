@@ -9,13 +9,12 @@ from pipeline.models import Activity, LeaderboardOutput, Participant, RaceConfig
 
 
 def _normalize_type(activity_type: str) -> str:
-    """Map activityType (CSV string or API numeric ID) to 'run' or 'walk'."""
+    """Map activityType to 'run' or 'walk'. API path sends text names; CSV path sends strings."""
     at = activity_type.lower().strip()
     if at in ("walk", "walking"):
         return "walk"
     if at in ("run", "running"):
         return "run"
-    # API numeric IDs: unknown → default to "run"
     return "run"
 
 
