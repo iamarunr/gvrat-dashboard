@@ -75,9 +75,17 @@
       "type": "walk",
       "time": null,
       "comment": "Neighborhood loop."
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 1.02,
+      "km": 1.64,
+      "type": "walk",
+      "time": null,
+      "comment": "Neighborhood loop."
     }
   ],
-  "totalActivities": 9,
-  "activeDays": 3,
+  "totalActivities": 10,
+  "activeDays": 4,
   "restDays": 0
 }

@@ -51,9 +51,17 @@
       "type": "run",
       "time": null,
       "comment": "Rainy and cold half marathon"
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 8.03,
+      "km": 12.92,
+      "type": "walk",
+      "time": null,
+      "comment": "Tootling around and shopping!"
     }
   ],
-  "totalActivities": 6,
-  "activeDays": 3,
+  "totalActivities": 7,
+  "activeDays": 4,
   "restDays": 0
 }

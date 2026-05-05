@@ -43,9 +43,17 @@
       "type": "walk",
       "time": null,
       "comment": "Broad Street 10 Miler"
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 4.03,
+      "km": 6.49,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking & Working"
     }
   ],
-  "totalActivities": 5,
-  "activeDays": 3,
+  "totalActivities": 6,
+  "activeDays": 4,
   "restDays": 0
 }

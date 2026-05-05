@@ -35,9 +35,25 @@
       "type": "walk",
       "time": null,
       "comment": "Recovery power walk on T mill at 12% incline.  Then sauna at 206 degrees for 28 minutes."
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 5.3,
+      "km": 8.53,
+      "type": "walk",
+      "time": null,
+      "comment": "Extra walking at work.  120 feet of gain."
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 5.1,
+      "km": 8.21,
+      "type": "run",
+      "time": null,
+      "comment": "1139 of gain during the run."
     }
   ],
-  "totalActivities": 4,
-  "activeDays": 3,
+  "totalActivities": 6,
+  "activeDays": 4,
   "restDays": 0
 }

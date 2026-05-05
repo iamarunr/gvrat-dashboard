@@ -51,9 +51,17 @@
       "type": "run",
       "time": null,
       "comment": "Flying Pig Marathon"
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 4.13,
+      "km": 6.65,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 6,
-  "activeDays": 3,
+  "totalActivities": 7,
+  "activeDays": 4,
   "restDays": 0
 }

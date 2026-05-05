@@ -35,9 +35,17 @@
       "type": "run",
       "time": null,
       "comment": "Bloomsday round 2"
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 6.25,
+      "km": 10.06,
+      "type": "walk",
+      "time": null,
+      "comment": "Centennial trail/dirt trails"
     }
   ],
-  "totalActivities": 3,
-  "activeDays": 2,
+  "totalActivities": 4,
+  "activeDays": 3,
   "restDays": 1
 }

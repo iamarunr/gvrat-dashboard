@@ -35,9 +35,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill at YMCA 3.5% Incline"
     }
   ],
-  "totalActivities": 2,
-  "activeDays": 1,
+  "totalActivities": 3,
+  "activeDays": 2,
   "restDays": 2
 }

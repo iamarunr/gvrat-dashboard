@@ -43,9 +43,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 1.53,
+      "km": 2.46,
+      "type": "walk",
+      "time": null,
+      "comment": "In the hood"
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "walk",
+      "time": null,
+      "comment": "TM"
     }
   ],
-  "totalActivities": 4,
-  "activeDays": 2,
+  "totalActivities": 6,
+  "activeDays": 3,
   "restDays": 1
 }
