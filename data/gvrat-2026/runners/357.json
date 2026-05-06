@@ -67,9 +67,25 @@
       "type": "walk",
       "time": null,
       "comment": "dog walk"
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
+      "time": null,
+      "comment": "easy morning run"
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 0.75,
+      "km": 1.21,
+      "type": "walk",
+      "time": null,
+      "comment": "shortened dog walk"
     }
   ],
-  "totalActivities": 8,
-  "activeDays": 4,
+  "totalActivities": 10,
+  "activeDays": 5,
   "restDays": 0
 }

@@ -51,9 +51,33 @@
       "type": "walk",
       "time": null,
       "comment": "Evening walk."
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 3.02,
+      "km": 4.86,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning walk with my better half."
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 1.33,
+      "km": 2.14,
+      "type": "walk",
+      "time": null,
+      "comment": "Lunch walk"
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 3.12,
+      "km": 5.02,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening walk."
     }
   ],
-  "totalActivities": 6,
-  "activeDays": 4,
+  "totalActivities": 9,
+  "activeDays": 5,
   "restDays": 0
 }

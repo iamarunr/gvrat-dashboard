@@ -59,9 +59,25 @@
       "type": "walk",
       "time": null,
       "comment": "Walk at enterprise with Cynthia"
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 3.23,
+      "km": 5.2,
+      "type": "run",
+      "time": null,
+      "comment": "Morning run at Collegedale with Cynthia"
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 1.37,
+      "km": 2.2,
+      "type": "walk",
+      "time": null,
+      "comment": "Walked Tap and cooldown walk"
     }
   ],
-  "totalActivities": 7,
-  "activeDays": 4,
+  "totalActivities": 9,
+  "activeDays": 5,
   "restDays": 0
 }

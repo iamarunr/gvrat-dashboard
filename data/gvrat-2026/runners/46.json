@@ -46,14 +46,46 @@
     },
     {
       "date": "2026-05-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.51,
+      "km": 2.43,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 3984"
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 1.58,
+      "km": 2.54,
+      "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 1.57,
+      "km": 2.53,
+      "type": "walk",
+      "time": null,
+      "comment": "Afternoon power walk w friend"
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 4.02,
+      "km": 6.47,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 3985 TSP Trail Run elev 345 ft"
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 3.18,
+      "km": 5.12,
+      "type": "walk",
+      "time": null,
+      "comment": "Hiked the trail"
     }
   ],
-  "totalActivities": 5,
-  "activeDays": 3,
-  "restDays": 1
+  "totalActivities": 10,
+  "activeDays": 5,
+  "restDays": 0
 }

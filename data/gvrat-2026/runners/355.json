@@ -59,9 +59,25 @@
       "type": "walk",
       "time": null,
       "comment": "Rasen gem\u00e4ht zu Hause"
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 1.12,
+      "km": 1.8,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 3.73,
+      "km": 6.0,
+      "type": "run",
+      "time": null,
+      "comment": "SBR Lauftreff"
     }
   ],
-  "totalActivities": 7,
-  "activeDays": 4,
+  "totalActivities": 9,
+  "activeDays": 5,
   "restDays": 0
 }

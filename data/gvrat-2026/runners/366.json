@@ -35,9 +35,17 @@
       "type": "walk",
       "time": null,
       "comment": "airport ruck and dog walking"
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 6.2,
+      "km": 9.98,
+      "type": "walk",
+      "time": null,
+      "comment": "neighborhood ruck plus dog walk"
     }
   ],
-  "totalActivities": 4,
-  "activeDays": 4,
+  "totalActivities": 5,
+  "activeDays": 5,
   "restDays": 0
 }

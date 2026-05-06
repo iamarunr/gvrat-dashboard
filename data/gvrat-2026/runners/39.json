@@ -51,9 +51,17 @@
       "type": "run",
       "time": null,
       "comment": "home to KJ and return, back tracks"
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 1.43,
+      "km": 2.3,
+      "type": "walk",
+      "time": null,
+      "comment": "two dog walks"
     }
   ],
-  "totalActivities": 6,
-  "activeDays": 4,
+  "totalActivities": 7,
+  "activeDays": 5,
   "restDays": 0
 }

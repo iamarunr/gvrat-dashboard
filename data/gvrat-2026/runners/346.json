@@ -46,14 +46,22 @@
     },
     {
       "date": "2026-05-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 11.46,
+      "km": 18.44,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "2546' ascent.  Timp Cove <-> Battle Creek Falls"
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 2.83,
+      "km": 4.55,
+      "type": "walk",
+      "time": null,
+      "comment": "469' ascent.  Shundahai"
     }
   ],
-  "totalActivities": 5,
-  "activeDays": 3,
-  "restDays": 1
+  "totalActivities": 7,
+  "activeDays": 5,
+  "restDays": 0
 }

@@ -43,9 +43,25 @@
       "type": "walk",
       "time": null,
       "comment": "Centennial trail/dirt trails"
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "run",
+      "time": null,
+      "comment": "Alter-G treadmill"
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 5.41,
+      "km": 8.71,
+      "type": "walk",
+      "time": null,
+      "comment": "post-treadmill run easy downtown 20 bridges loop walk"
     }
   ],
-  "totalActivities": 4,
-  "activeDays": 3,
+  "totalActivities": 6,
+  "activeDays": 4,
   "restDays": 1
 }

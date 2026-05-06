@@ -46,6 +46,38 @@
     },
     {
       "date": "2026-05-04",
+      "miles": 1.31,
+      "km": 2.11,
+      "type": "walk",
+      "time": null,
+      "comment": "Medical Center Metro Station to Office"
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 1.08,
+      "km": 1.74,
+      "type": "walk",
+      "time": null,
+      "comment": "North Bethesda Metro Station to ARC"
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 1.09,
+      "km": 1.75,
+      "type": "walk",
+      "time": null,
+      "comment": "ARC to North Bethesda Metro Station"
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 1.41,
+      "km": 2.27,
+      "type": "walk",
+      "time": null,
+      "comment": "Shady Grove Metro Station to Home"
+    },
+    {
+      "date": "2026-05-05",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -53,7 +85,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 5,
-  "activeDays": 3,
+  "totalActivities": 9,
+  "activeDays": 4,
   "restDays": 1
 }
