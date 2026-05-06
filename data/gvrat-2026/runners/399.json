@@ -35,9 +35,17 @@
       "type": "walk",
       "time": null,
       "comment": "with Izzy"
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 20.53,
+      "km": 33.04,
+      "type": "walk",
+      "time": null,
+      "comment": "8.17, 2.14 with Izzy, 2.18 with Max, 8.04"
     }
   ],
-  "totalActivities": 4,
-  "activeDays": 4,
+  "totalActivities": 5,
+  "activeDays": 5,
   "restDays": 0
 }

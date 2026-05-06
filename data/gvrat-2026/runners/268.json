@@ -30,14 +30,22 @@
     },
     {
       "date": "2026-05-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.35,
+      "km": 7.0,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "treadmill, fit club, outside walks"
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 4.65,
+      "km": 7.48,
+      "type": "walk",
+      "time": null,
+      "comment": "treadmill and outside walk"
     }
   ],
-  "totalActivities": 3,
-  "activeDays": 3,
-  "restDays": 1
+  "totalActivities": 5,
+  "activeDays": 5,
+  "restDays": 0
 }

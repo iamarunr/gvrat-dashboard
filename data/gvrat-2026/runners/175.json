@@ -51,9 +51,17 @@
       "type": "walk",
       "time": null,
       "comment": "Field trip and campus, stairs"
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 3.77,
+      "km": 6.07,
+      "type": "walk",
+      "time": null,
+      "comment": "Steps and walking to greenhouse and climbing parking garage"
     }
   ],
-  "totalActivities": 6,
-  "activeDays": 4,
+  "totalActivities": 7,
+  "activeDays": 5,
   "restDays": 0
 }

@@ -35,9 +35,25 @@
       "type": "run",
       "time": null,
       "comment": "Run with Daisy"
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 3.07,
+      "km": 4.94,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk with Daisy"
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 5.12,
+      "km": 8.24,
+      "type": "run",
+      "time": null,
+      "comment": "Track night 3- 3x400"
     }
   ],
-  "totalActivities": 4,
-  "activeDays": 4,
+  "totalActivities": 6,
+  "activeDays": 5,
   "restDays": 0
 }

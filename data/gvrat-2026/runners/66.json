@@ -83,9 +83,41 @@
       "type": "walk",
       "time": null,
       "comment": "Neighborhood loop."
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 1.53,
+      "km": 2.46,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 1.52,
+      "km": 2.45,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 1.02,
+      "km": 1.64,
+      "type": "run",
+      "time": null,
+      "comment": "Neighborhood loop."
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 1.08,
+      "km": 1.74,
+      "type": "walk",
+      "time": null,
+      "comment": "Neighborhood loop."
     }
   ],
-  "totalActivities": 10,
-  "activeDays": 4,
+  "totalActivities": 14,
+  "activeDays": 5,
   "restDays": 0
 }

@@ -1,0 +1,51 @@
+{
+  "bib": 463,
+  "firstName": "Cliff",
+  "lastName": "Wilson",
+  "displayName": "Cliff Wilson",
+  "activities": [
+    {
+      "date": "2026-05-01",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 3.65,
+      "km": 5.87,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 5.12,
+      "km": 8.24,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 5.8,
+      "km": 9.33,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    }
+  ],
+  "totalActivities": 3,
+  "activeDays": 3,
+  "restDays": 2
+}

@@ -115,9 +115,41 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 0.35,
+      "km": 0.56,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 26.44,
+      "km": 42.55,
+      "type": "run",
+      "time": null,
+      "comment": "MK Marathon"
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 1.79,
+      "km": 2.88,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 0.71,
+      "km": 1.14,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 13,
-  "activeDays": 3,
+  "totalActivities": 17,
+  "activeDays": 4,
   "restDays": 1
 }
