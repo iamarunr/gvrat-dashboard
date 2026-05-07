@@ -51,9 +51,17 @@
       "type": "run",
       "time": null,
       "comment": "ran around the block x2"
+    },
+    {
+      "date": "2026-05-06",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill 2% incline"
     }
   ],
-  "totalActivities": 4,
-  "activeDays": 3,
+  "totalActivities": 5,
+  "activeDays": 4,
   "restDays": 2
 }

@@ -43,9 +43,17 @@
       "type": "walk",
       "time": null,
       "comment": "Forgot to start my Garmin and missed 1/2 mile or so. Gah! I need each bit!"
+    },
+    {
+      "date": "2026-05-06",
+      "miles": 3.29,
+      "km": 5.29,
+      "type": "walk",
+      "time": null,
+      "comment": "Another stroll."
     }
   ],
-  "totalActivities": 5,
-  "activeDays": 5,
+  "totalActivities": 6,
+  "activeDays": 6,
   "restDays": 0
 }

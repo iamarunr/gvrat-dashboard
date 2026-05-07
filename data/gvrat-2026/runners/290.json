@@ -43,9 +43,17 @@
       "type": "walk",
       "time": null,
       "comment": "Less fatigued today but still weak. Still need the walking stick. Speed is non existent. Levee and yard miles. \u2714\ufe0f\ud83d\ude4c\ud83c\udffc"
+    },
+    {
+      "date": "2026-05-06",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 4,
   "activeDays": 4,
-  "restDays": 1
+  "restDays": 2
 }

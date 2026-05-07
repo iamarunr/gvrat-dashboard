@@ -43,9 +43,17 @@
       "type": "walk",
       "time": null,
       "comment": "treadmill and outside walk"
+    },
+    {
+      "date": "2026-05-06",
+      "miles": 4.65,
+      "km": 7.48,
+      "type": "walk",
+      "time": null,
+      "comment": "treadmill and Englewood Rec Center"
     }
   ],
-  "totalActivities": 5,
-  "activeDays": 5,
+  "totalActivities": 6,
+  "activeDays": 6,
   "restDays": 0
 }

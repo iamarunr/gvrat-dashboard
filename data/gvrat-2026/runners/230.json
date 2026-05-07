@@ -38,22 +38,38 @@
     },
     {
       "date": "2026-05-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.28,
+      "km": 3.67,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Wickford Run"
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 1.41,
+      "km": 2.27,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk Back Home"
     },
     {
       "date": "2026-05-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.49,
+      "km": 5.62,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Wickford Walk"
+    },
+    {
+      "date": "2026-05-06",
+      "miles": 2.68,
+      "km": 4.31,
+      "type": "run",
+      "time": null,
+      "comment": "Putting Up The C2C Signs"
     }
   ],
-  "totalActivities": 4,
-  "activeDays": 3,
-  "restDays": 2
+  "totalActivities": 8,
+  "activeDays": 6,
+  "restDays": 0
 }

@@ -59,9 +59,25 @@
       "type": "walk",
       "time": null,
       "comment": "Steps and walking to greenhouse and climbing parking garage"
+    },
+    {
+      "date": "2026-05-06",
+      "miles": 1.48,
+      "km": 2.38,
+      "type": "run",
+      "time": null,
+      "comment": "Treadmill climbing 1876 feet climbed"
+    },
+    {
+      "date": "2026-05-06",
+      "miles": 2.56,
+      "km": 4.12,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking in lab and class"
     }
   ],
-  "totalActivities": 7,
-  "activeDays": 5,
+  "totalActivities": 9,
+  "activeDays": 6,
   "restDays": 0
 }

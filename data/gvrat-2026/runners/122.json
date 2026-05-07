@@ -43,9 +43,17 @@
       "type": "walk",
       "time": null,
       "comment": "4 AM slow walk in the rain"
+    },
+    {
+      "date": "2026-05-06",
+      "miles": 4.37,
+      "km": 7.03,
+      "type": "walk",
+      "time": null,
+      "comment": "Repeat route from yesterday."
     }
   ],
-  "totalActivities": 5,
-  "activeDays": 5,
+  "totalActivities": 6,
+  "activeDays": 6,
   "restDays": 0
 }
