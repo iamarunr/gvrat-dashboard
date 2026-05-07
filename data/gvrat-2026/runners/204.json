@@ -62,30 +62,126 @@
     },
     {
       "date": "2026-05-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.05,
+      "km": 1.69,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 1.05,
+      "km": 1.69,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 2.35,
+      "km": 3.78,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 0.56,
+      "km": 0.9,
+      "type": "walk",
+      "time": null,
+      "comment": "Sniff Trail walk with Cutie"
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 1.05,
+      "km": 1.69,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.05,
+      "km": 1.69,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 0.2,
+      "km": 0.32,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk with Cutie"
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 1.05,
+      "km": 1.69,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.05,
+      "km": 1.69,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 1.05,
+      "km": 1.69,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 1.25,
+      "km": 2.01,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-06",
+      "miles": 0.4,
+      "km": 0.64,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk with Cutie"
+    },
+    {
+      "date": "2026-05-06",
+      "miles": 2.25,
+      "km": 3.62,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-06",
+      "miles": 1.05,
+      "km": 1.69,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-06",
+      "miles": 0.6,
+      "km": 0.97,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 7,
-  "activeDays": 2,
-  "restDays": 3
+  "totalActivities": 22,
+  "activeDays": 6,
+  "restDays": 0
 }

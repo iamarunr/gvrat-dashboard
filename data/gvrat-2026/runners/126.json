@@ -43,9 +43,17 @@
       "type": "walk",
       "time": null,
       "comment": "Cinco de Mayo"
+    },
+    {
+      "date": "2026-05-06",
+      "miles": 5.92,
+      "km": 9.53,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 5,
-  "activeDays": 5,
+  "totalActivities": 6,
+  "activeDays": 6,
   "restDays": 0
 }

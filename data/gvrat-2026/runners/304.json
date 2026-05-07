@@ -59,9 +59,17 @@
       "type": "walk",
       "time": null,
       "comment": "Happy Cinco de Mayo walk"
+    },
+    {
+      "date": "2026-05-06",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 7,
   "activeDays": 5,
-  "restDays": 0
+  "restDays": 1
 }
