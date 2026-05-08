@@ -6,43 +6,75 @@
   "activities": [
     {
       "date": "2026-05-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.49,
+      "km": 2.4,
+      "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 4.44,
+      "km": 7.15,
+      "type": "walk",
+      "time": null,
+      "comment": "Petroglyph National Monument + Neighborhood"
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 1.01,
+      "km": 1.63,
+      "type": "walk",
+      "time": null,
+      "comment": "Dreadmill"
     },
     {
       "date": "2026-05-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.44,
+      "km": 5.54,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Kasha Katuwe Hike"
     },
     {
       "date": "2026-05-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.59,
+      "km": 4.17,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Historic Plaza Santa Fe"
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "Historic Plaza Santa Fe"
     },
     {
       "date": "2026-05-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.47,
+      "km": 7.19,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Santa Fe Neighborhoods"
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 4.5,
+      "km": 7.24,
+      "type": "walk",
+      "time": null,
+      "comment": "Bandelier National Monument (Pueblo Loop and Falls Trail)"
     },
     {
       "date": "2026-05-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Ojo Santa Fe Trails"
     },
     {
       "date": "2026-05-06",
@@ -51,9 +83,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-07",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 0,
-  "activeDays": 0,
-  "restDays": 6
+  "totalActivities": 9,
+  "activeDays": 5,
+  "restDays": 2
 }

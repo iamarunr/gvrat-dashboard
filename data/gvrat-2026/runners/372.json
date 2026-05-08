@@ -62,22 +62,30 @@
     },
     {
       "date": "2026-05-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.81,
+      "km": 9.35,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "I didn't expect to do this all week"
     },
     {
       "date": "2026-05-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.82,
+      "km": 9.37,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "I didn't expect to do this all week (again)"
+    },
+    {
+      "date": "2026-05-07",
+      "miles": 5.76,
+      "km": 9.27,
+      "type": "walk",
+      "time": null,
+      "comment": "Again..."
     }
   ],
-  "totalActivities": 7,
-  "activeDays": 4,
-  "restDays": 2
+  "totalActivities": 10,
+  "activeDays": 7,
+  "restDays": 0
 }

@@ -75,9 +75,17 @@
       "type": "run",
       "time": null,
       "comment": "afternoon run up the hill and back"
+    },
+    {
+      "date": "2026-05-07",
+      "miles": 4.18,
+      "km": 6.73,
+      "type": "walk",
+      "time": null,
+      "comment": "two dog walks and some cattle herding"
     }
   ],
-  "totalActivities": 9,
-  "activeDays": 6,
+  "totalActivities": 10,
+  "activeDays": 7,
   "restDays": 0
 }

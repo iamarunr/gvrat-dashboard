@@ -123,9 +123,33 @@
       "type": "walk",
       "time": null,
       "comment": "Lunchtime"
+    },
+    {
+      "date": "2026-05-07",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
+      "time": null,
+      "comment": "Morning"
+    },
+    {
+      "date": "2026-05-07",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "walk",
+      "time": null,
+      "comment": "Lunchtime"
+    },
+    {
+      "date": "2026-05-07",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening"
     }
   ],
-  "totalActivities": 15,
-  "activeDays": 6,
+  "totalActivities": 18,
+  "activeDays": 7,
   "restDays": 0
 }

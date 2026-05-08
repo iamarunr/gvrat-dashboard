@@ -78,14 +78,54 @@
     },
     {
       "date": "2026-05-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "New York City dinner walk"
+    },
+    {
+      "date": "2026-05-07",
+      "miles": 0.72,
+      "km": 1.16,
+      "type": "walk",
+      "time": null,
+      "comment": "To Juniors for breakfast."
+    },
+    {
+      "date": "2026-05-07",
+      "miles": 2.49,
+      "km": 4.01,
+      "type": "walk",
+      "time": null,
+      "comment": "I\u2665\ufe0fNY walk"
+    },
+    {
+      "date": "2026-05-07",
+      "miles": 1.36,
+      "km": 2.19,
+      "type": "walk",
+      "time": null,
+      "comment": "I\u2665\ufe0fNY2"
+    },
+    {
+      "date": "2026-05-07",
+      "miles": 0.51,
+      "km": 0.82,
+      "type": "walk",
+      "time": null,
+      "comment": "To \u00f0\u009f\u00a9\u00bb"
+    },
+    {
+      "date": "2026-05-07",
+      "miles": 0.73,
+      "km": 1.17,
+      "type": "walk",
+      "time": null,
+      "comment": "NY NY NY"
     }
   ],
-  "totalActivities": 8,
-  "activeDays": 4,
-  "restDays": 2
+  "totalActivities": 14,
+  "activeDays": 6,
+  "restDays": 1
 }
