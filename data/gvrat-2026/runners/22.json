@@ -51,9 +51,17 @@
       "type": "run",
       "time": null,
       "comment": "Switchyard Park"
+    },
+    {
+      "date": "2026-05-07",
+      "miles": 5.64,
+      "km": 9.08,
+      "type": "run",
+      "time": null,
+      "comment": "Switchyard Park"
     }
   ],
-  "totalActivities": 6,
-  "activeDays": 6,
+  "totalActivities": 7,
+  "activeDays": 7,
   "restDays": 0
 }

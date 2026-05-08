@@ -83,9 +83,33 @@
       "type": "walk",
       "time": null,
       "comment": "Treadmill"
+    },
+    {
+      "date": "2026-05-07",
+      "miles": 2.28,
+      "km": 3.67,
+      "type": "run",
+      "time": null,
+      "comment": "OTF"
+    },
+    {
+      "date": "2026-05-07",
+      "miles": 1.91,
+      "km": 3.07,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog"
+    },
+    {
+      "date": "2026-05-07",
+      "miles": 4.32,
+      "km": 6.95,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
     }
   ],
-  "totalActivities": 10,
-  "activeDays": 6,
+  "totalActivities": 13,
+  "activeDays": 7,
   "restDays": 0
 }

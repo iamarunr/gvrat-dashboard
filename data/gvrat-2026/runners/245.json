@@ -51,9 +51,17 @@
       "type": "walk",
       "time": null,
       "comment": "Another stroll."
+    },
+    {
+      "date": "2026-05-07",
+      "miles": 2.94,
+      "km": 4.73,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 6,
-  "activeDays": 6,
+  "totalActivities": 7,
+  "activeDays": 7,
   "restDays": 0
 }

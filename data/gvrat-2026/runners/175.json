@@ -75,9 +75,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walking in lab and class"
+    },
+    {
+      "date": "2026-05-07",
+      "miles": 3.1,
+      "km": 4.99,
+      "type": "walk",
+      "time": null,
+      "comment": "Waling"
     }
   ],
-  "totalActivities": 9,
-  "activeDays": 6,
+  "totalActivities": 10,
+  "activeDays": 7,
   "restDays": 0
 }

@@ -83,9 +83,17 @@
       "type": "walk",
       "time": null,
       "comment": "Rainy day and sore feet and stressful work day .  This is all I can muster up for the day"
+    },
+    {
+      "date": "2026-05-07",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Multiple dog walks - tap, the boys and tap again"
     }
   ],
-  "totalActivities": 10,
-  "activeDays": 6,
+  "totalActivities": 11,
+  "activeDays": 7,
   "restDays": 0
 }

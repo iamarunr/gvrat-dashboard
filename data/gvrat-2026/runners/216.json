@@ -59,9 +59,17 @@
       "type": "walk",
       "time": null,
       "comment": "Treadmill 2% incline"
+    },
+    {
+      "date": "2026-05-07",
+      "miles": 2.35,
+      "km": 3.78,
+      "type": "walk",
+      "time": null,
+      "comment": "run/walk clinic for etc"
     }
   ],
-  "totalActivities": 5,
-  "activeDays": 4,
+  "totalActivities": 6,
+  "activeDays": 5,
   "restDays": 2
 }
