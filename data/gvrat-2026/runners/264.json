@@ -94,6 +94,14 @@
     },
     {
       "date": "2026-05-07",
+      "miles": 1.41,
+      "km": 2.27,
+      "type": "walk",
+      "time": null,
+      "comment": "Shady Grove Metro Station to Home"
+    },
+    {
+      "date": "2026-05-08",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -101,7 +109,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 9,
-  "activeDays": 4,
+  "totalActivities": 10,
+  "activeDays": 5,
   "restDays": 3
 }
