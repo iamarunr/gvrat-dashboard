@@ -75,9 +75,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-08",
+      "miles": 1.9,
+      "km": 3.06,
+      "type": "run",
+      "time": null,
+      "comment": "Wat Tyler Run"
     }
   ],
-  "totalActivities": 8,
-  "activeDays": 6,
+  "totalActivities": 9,
+  "activeDays": 7,
   "restDays": 1
 }

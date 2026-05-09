@@ -54,6 +54,14 @@
     },
     {
       "date": "2026-05-07",
+      "miles": 5.05,
+      "km": 8.13,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill, morning walk, ERC, Run clinic"
+    },
+    {
+      "date": "2026-05-08",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -61,7 +69,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 6,
-  "activeDays": 6,
+  "totalActivities": 7,
+  "activeDays": 7,
   "restDays": 1
 }

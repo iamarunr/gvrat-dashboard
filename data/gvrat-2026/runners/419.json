@@ -59,9 +59,17 @@
       "type": "run",
       "time": null,
       "comment": "petite boucle plus mont\u00e9e au chateau de Roquefixade."
+    },
+    {
+      "date": "2026-05-08",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 3,
   "activeDays": 3,
-  "restDays": 4
+  "restDays": 5
 }

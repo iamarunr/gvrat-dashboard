@@ -59,9 +59,17 @@
       "type": "run",
       "time": null,
       "comment": "Switchyard Park"
+    },
+    {
+      "date": "2026-05-08",
+      "miles": 6.13,
+      "km": 9.87,
+      "type": "run",
+      "time": null,
+      "comment": "Switchyard Park to Big Red Bridge."
     }
   ],
-  "totalActivities": 7,
-  "activeDays": 7,
+  "totalActivities": 8,
+  "activeDays": 8,
   "restDays": 0
 }

@@ -91,9 +91,25 @@
       "type": "walk",
       "time": null,
       "comment": "Multiple dog walks - tap, the boys and tap again"
+    },
+    {
+      "date": "2026-05-08",
+      "miles": 3.2,
+      "km": 5.15,
+      "type": "run",
+      "time": null,
+      "comment": "Friday morning run at enterprise with Cynthia"
+    },
+    {
+      "date": "2026-05-08",
+      "miles": 1.6,
+      "km": 2.57,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and walked Tap"
     }
   ],
-  "totalActivities": 11,
-  "activeDays": 7,
+  "totalActivities": 13,
+  "activeDays": 8,
   "restDays": 0
 }

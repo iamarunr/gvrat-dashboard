@@ -83,9 +83,17 @@
       "type": "walk",
       "time": null,
       "comment": "two dog walks and some cattle herding"
+    },
+    {
+      "date": "2026-05-08",
+      "miles": 2.86,
+      "km": 4.6,
+      "type": "walk",
+      "time": null,
+      "comment": "two dog walks"
     }
   ],
-  "totalActivities": 10,
-  "activeDays": 7,
+  "totalActivities": 11,
+  "activeDays": 8,
   "restDays": 0
 }

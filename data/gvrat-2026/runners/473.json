@@ -1,38 +1,38 @@
 {
-  "bib": 308,
-  "firstName": "Kelly",
-  "lastName": "Kwiatkowski",
-  "displayName": "Kelly Kwiatkowski",
+  "bib": 473,
+  "firstName": "Carl",
+  "lastName": "Buck",
+  "displayName": "Carl Buck",
   "activities": [
     {
       "date": "2026-05-01",
-      "miles": 1.0,
-      "km": 1.61,
-      "type": "run",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-02",
-      "miles": 9.45,
-      "km": 15.21,
-      "type": "run",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-03",
-      "miles": 26.63,
-      "km": 42.86,
-      "type": "run",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-04",
-      "miles": 5.02,
-      "km": 8.08,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
@@ -46,30 +46,30 @@
     },
     {
       "date": "2026-05-06",
-      "miles": 5.03,
-      "km": 8.09,
-      "type": "run",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-07",
-      "miles": 6.01,
-      "km": 9.67,
-      "type": "run",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-08",
-      "miles": 5.22,
-      "km": 8.4,
-      "type": "walk",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "run",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 7,
-  "activeDays": 7,
-  "restDays": 1
+  "totalActivities": 1,
+  "activeDays": 1,
+  "restDays": 7
 }

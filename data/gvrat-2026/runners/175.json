@@ -83,9 +83,17 @@
       "type": "walk",
       "time": null,
       "comment": "Waling"
+    },
+    {
+      "date": "2026-05-08",
+      "miles": 3.62,
+      "km": 5.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Black run loop blue to peaceful partners"
     }
   ],
-  "totalActivities": 10,
-  "activeDays": 7,
+  "totalActivities": 11,
+  "activeDays": 8,
   "restDays": 0
 }

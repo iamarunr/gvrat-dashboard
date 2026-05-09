@@ -54,14 +54,22 @@
     },
     {
       "date": "2026-05-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 12.0,
+      "km": 19.31,
+      "type": "walk",
+      "time": null,
+      "comment": "IMJAX train"
+    },
+    {
+      "date": "2026-05-08",
+      "miles": 6.2,
+      "km": 9.98,
+      "type": "run",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 5,
-  "activeDays": 5,
-  "restDays": 2
+  "totalActivities": 7,
+  "activeDays": 7,
+  "restDays": 1
 }
