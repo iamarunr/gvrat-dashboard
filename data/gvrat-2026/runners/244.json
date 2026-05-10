@@ -6,25 +6,25 @@
   "activities": [
     {
       "date": "2026-05-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.51,
+      "km": 8.87,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.05,
+      "km": 8.13,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.51,
+      "km": 8.87,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
@@ -38,38 +38,46 @@
     },
     {
       "date": "2026-05-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.22,
+      "km": 8.4,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.27,
+      "km": 8.48,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.07,
+      "km": 9.77,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.36,
+      "km": 10.24,
+      "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 6.1,
+      "km": 9.82,
+      "type": "walk",
+      "time": null,
+      "comment": "AW hike w/Jennifer W"
     }
   ],
-  "totalActivities": 0,
-  "activeDays": 0,
-  "restDays": 8
+  "totalActivities": 8,
+  "activeDays": 8,
+  "restDays": 1
 }

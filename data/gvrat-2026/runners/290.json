@@ -46,30 +46,38 @@
     },
     {
       "date": "2026-05-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "I can\u2019t believe I\u2019m this slow. Walking is painful. \ud83d\udc94\ud83d\ude13"
     },
     {
       "date": "2026-05-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "My right hip hurts. Just like before surgery. Not sure I can do this. \ud83d\ude2d\ud83d\udc94\ud83d\ude1e"
     },
     {
       "date": "2026-05-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.2,
+      "km": 6.76,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Feel a little stronger today. PT helped A LOT. Today I feel like I\u2019m making progress with PT. Yard miles."
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 7.4,
+      "km": 11.91,
+      "type": "walk",
+      "time": null,
+      "comment": "Yard miles. Pushed myself today. I\u2019m EXHAUSTED. Feel like I ran a marathon. \ud83e\udd74 Proud of myself for this many steps/miles."
     }
   ],
-  "totalActivities": 4,
-  "activeDays": 4,
-  "restDays": 4
+  "totalActivities": 8,
+  "activeDays": 8,
+  "restDays": 1
 }

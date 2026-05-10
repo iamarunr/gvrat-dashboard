@@ -54,11 +54,11 @@
     },
     {
       "date": "2026-05-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 17.0,
+      "km": 27.36,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Cocodona pacing"
     },
     {
       "date": "2026-05-08",
@@ -67,9 +67,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 7.25,
+      "km": 11.67,
+      "type": "run",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 3,
-  "activeDays": 3,
-  "restDays": 5
+  "totalActivities": 5,
+  "activeDays": 5,
+  "restDays": 4
 }

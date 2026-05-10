@@ -67,9 +67,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 15.67,
+      "km": 25.22,
+      "type": "run",
+      "time": null,
+      "comment": "Dirty German \ud83c\udde9\ud83c\uddea 25km"
     }
   ],
-  "totalActivities": 0,
-  "activeDays": 0,
+  "totalActivities": 1,
+  "activeDays": 1,
   "restDays": 8
 }

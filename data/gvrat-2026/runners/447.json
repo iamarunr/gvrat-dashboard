@@ -6,19 +6,27 @@
   "activities": [
     {
       "date": "2026-05-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.17,
+      "km": 3.49,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.24,
+      "km": 2.0,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Wan Cham Shan"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 2.9,
+      "km": 4.67,
+      "type": "walk",
+      "time": null,
+      "comment": "Boa Vista & Tai Tam Mound"
     },
     {
       "date": "2026-05-03",
@@ -67,9 +75,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 0,
-  "activeDays": 0,
-  "restDays": 8
+  "totalActivities": 3,
+  "activeDays": 2,
+  "restDays": 7
 }

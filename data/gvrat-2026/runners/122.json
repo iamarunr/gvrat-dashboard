@@ -67,9 +67,17 @@
       "type": "walk",
       "time": null,
       "comment": "Week 2 starts. \u201c5s\u201d."
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 5.01,
+      "km": 8.06,
+      "type": "walk",
+      "time": null,
+      "comment": "Vandalia path extension 1 mile downhill to RR track"
     }
   ],
-  "totalActivities": 8,
-  "activeDays": 8,
+  "totalActivities": 9,
+  "activeDays": 9,
   "restDays": 0
 }

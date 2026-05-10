@@ -62,22 +62,38 @@
     },
     {
       "date": "2026-05-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.2,
+      "km": 3.54,
+      "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 3.2,
+      "km": 5.15,
+      "type": "run",
+      "time": null,
+      "comment": "River Bank"
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 15.7,
+      "km": 25.27,
+      "type": "run",
+      "time": null,
+      "comment": "River Bank"
     }
   ],
-  "totalActivities": 7,
-  "activeDays": 6,
-  "restDays": 2
+  "totalActivities": 11,
+  "activeDays": 9,
+  "restDays": 0
 }

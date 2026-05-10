@@ -107,9 +107,25 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and walked Tap"
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 6.24,
+      "km": 10.04,
+      "type": "run",
+      "time": null,
+      "comment": "Saturday in the park 10k"
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 3.26,
+      "km": 5.25,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown and lots of shopping"
     }
   ],
-  "totalActivities": 13,
-  "activeDays": 8,
+  "totalActivities": 15,
+  "activeDays": 9,
   "restDays": 0
 }
