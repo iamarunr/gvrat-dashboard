@@ -139,9 +139,33 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 2.01,
+      "km": 3.23,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 4.17,
+      "km": 6.71,
+      "type": "run",
+      "time": null,
+      "comment": "Back Yard loop at Usery Mountain Park."
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 1.35,
+      "km": 2.17,
+      "type": "walk",
+      "time": null,
+      "comment": "Neighborhood loops."
     }
   ],
-  "totalActivities": 16,
-  "activeDays": 7,
+  "totalActivities": 19,
+  "activeDays": 8,
   "restDays": 1
 }

@@ -91,9 +91,17 @@
       "type": "run",
       "time": null,
       "comment": "Easy run, feeling sluggish from Boston 2 weeks ago."
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 10.11,
+      "km": 16.27,
+      "type": "run",
+      "time": null,
+      "comment": "bridge run"
     }
   ],
-  "totalActivities": 10,
-  "activeDays": 7,
+  "totalActivities": 11,
+  "activeDays": 8,
   "restDays": 1
 }

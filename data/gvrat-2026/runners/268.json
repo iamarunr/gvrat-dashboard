@@ -62,14 +62,22 @@
     },
     {
       "date": "2026-05-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning walk to parks, Airport walking"
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 5.7,
+      "km": 9.17,
+      "type": "walk",
+      "time": null,
+      "comment": "long outside walk in Kearney"
     }
   ],
-  "totalActivities": 7,
-  "activeDays": 7,
-  "restDays": 1
+  "totalActivities": 9,
+  "activeDays": 9,
+  "restDays": 0
 }

@@ -83,9 +83,17 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 4.97,
+      "km": 8.0,
+      "type": "walk",
+      "time": null,
+      "comment": "Feuerwehr\u00fcbung!"
     }
   ],
-  "totalActivities": 10,
-  "activeDays": 8,
+  "totalActivities": 11,
+  "activeDays": 9,
   "restDays": 0
 }

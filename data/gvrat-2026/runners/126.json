@@ -62,14 +62,30 @@
     },
     {
       "date": "2026-05-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.71,
+      "km": 9.19,
+      "type": "walk",
+      "time": null,
+      "comment": "VE Day 81st"
+    },
+    {
+      "date": "2026-05-08",
+      "miles": 1.91,
+      "km": 3.07,
+      "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 6.5,
+      "km": 10.46,
+      "type": "walk",
+      "time": null,
+      "comment": ".Last Quarter \ud83c\udf17 Moon, 7 rabbits \ud83d\udc07\ud83d\udc30\ud83d\udc07\ud83d\udc30\ud83d\udc07\ud83d\udc30\ud83d\udc07"
     }
   ],
-  "totalActivities": 7,
-  "activeDays": 7,
-  "restDays": 1
+  "totalActivities": 10,
+  "activeDays": 9,
+  "restDays": 0
 }

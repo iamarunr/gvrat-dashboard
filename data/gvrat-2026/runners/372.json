@@ -86,14 +86,30 @@
     },
     {
       "date": "2026-05-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.79,
+      "km": 9.32,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Same thing, four days in a row"
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 5.59,
+      "km": 9.0,
+      "type": "walk",
+      "time": null,
+      "comment": "Post-parkrun and shopping"
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 5.49,
+      "km": 8.84,
+      "type": "run",
+      "time": null,
+      "comment": "Parkrun (and getting there)"
     }
   ],
-  "totalActivities": 10,
-  "activeDays": 7,
-  "restDays": 1
+  "totalActivities": 13,
+  "activeDays": 9,
+  "restDays": 0
 }

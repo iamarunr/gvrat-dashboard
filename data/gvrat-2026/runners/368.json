@@ -115,9 +115,25 @@
       "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 2.19,
+      "km": 3.52,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 6.01,
+      "km": 9.67,
+      "type": "run",
+      "time": null,
+      "comment": "Chip Reunion Run at Echo"
     }
   ],
-  "totalActivities": 14,
-  "activeDays": 8,
+  "totalActivities": 16,
+  "activeDays": 9,
   "restDays": 0
 }

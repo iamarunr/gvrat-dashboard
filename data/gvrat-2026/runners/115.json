@@ -179,9 +179,73 @@
       "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 1.02,
+      "km": 1.64,
+      "type": "run",
+      "time": null,
+      "comment": "to the track, santa monica"
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 1.02,
+      "km": 1.64,
+      "type": "run",
+      "time": null,
+      "comment": "track"
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 2.16,
+      "km": 3.48,
+      "type": "run",
+      "time": null,
+      "comment": "track"
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 1.02,
+      "km": 1.64,
+      "type": "run",
+      "time": null,
+      "comment": "Back from the track"
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 2.25,
+      "km": 3.62,
+      "type": "run",
+      "time": null,
+      "comment": "Track. Feeling tired tonight. Shorter workout."
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 6.71,
+      "km": 10.8,
+      "type": "run",
+      "time": null,
+      "comment": "Trail run/hike/rock climbing"
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 1.1,
+      "km": 1.77,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 3.3,
+      "km": 5.31,
+      "type": "walk",
+      "time": null,
+      "comment": "Night walk"
     }
   ],
-  "totalActivities": 22,
-  "activeDays": 8,
+  "totalActivities": 30,
+  "activeDays": 9,
   "restDays": 0
 }

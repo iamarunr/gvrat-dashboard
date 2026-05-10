@@ -171,9 +171,25 @@
       "type": "walk",
       "time": null,
       "comment": "Lunchtime"
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 9.0,
+      "km": 14.48,
+      "type": "walk",
+      "time": null,
+      "comment": "Palisades park with Helen"
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk"
     }
   ],
-  "totalActivities": 21,
-  "activeDays": 8,
+  "totalActivities": 23,
+  "activeDays": 9,
   "restDays": 0
 }

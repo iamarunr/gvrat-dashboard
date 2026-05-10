@@ -91,9 +91,25 @@
       "type": "walk",
       "time": null,
       "comment": "two dog walks"
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 4.31,
+      "km": 6.94,
+      "type": "walk",
+      "time": null,
+      "comment": "two dog walks and some other walking at hockey"
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "run",
+      "time": null,
+      "comment": "parkrun with William"
     }
   ],
-  "totalActivities": 11,
-  "activeDays": 8,
+  "totalActivities": 13,
+  "activeDays": 9,
   "restDays": 0
 }
