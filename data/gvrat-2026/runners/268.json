@@ -75,9 +75,17 @@
       "type": "walk",
       "time": null,
       "comment": "long outside walk in Kearney"
+    },
+    {
+      "date": "2026-05-10",
+      "miles": 5.9,
+      "km": 9.5,
+      "type": "walk",
+      "time": null,
+      "comment": "two outside walks"
     }
   ],
-  "totalActivities": 9,
-  "activeDays": 9,
+  "totalActivities": 10,
+  "activeDays": 10,
   "restDays": 0
 }

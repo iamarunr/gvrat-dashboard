@@ -54,11 +54,11 @@
     },
     {
       "date": "2026-05-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.63,
+      "km": 2.62,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "GVRAT R3.002"
     },
     {
       "date": "2026-05-08",
@@ -70,14 +70,22 @@
     },
     {
       "date": "2026-05-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.12,
+      "km": 8.24,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "GVRAT R3.003 Stockholm"
+    },
+    {
+      "date": "2026-05-10",
+      "miles": 4.9,
+      "km": 7.89,
+      "type": "walk",
+      "time": null,
+      "comment": "GVRAT R3.004 Stockholm"
     }
   ],
-  "totalActivities": 1,
-  "activeDays": 1,
-  "restDays": 8
+  "totalActivities": 4,
+  "activeDays": 4,
+  "restDays": 6
 }

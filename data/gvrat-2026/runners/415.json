@@ -62,22 +62,38 @@
     },
     {
       "date": "2026-05-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.7,
+      "km": 9.17,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.3,
+      "km": 11.75,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-09",
+      "miles": 13.2,
+      "km": 21.24,
+      "type": "run",
+      "time": null,
+      "comment": "IM 70.3 Gulf Coast Run"
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 6.78,
+      "km": 10.91,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-10",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -85,7 +101,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 7,
-  "activeDays": 6,
-  "restDays": 3
+  "totalActivities": 11,
+  "activeDays": 9,
+  "restDays": 1
 }

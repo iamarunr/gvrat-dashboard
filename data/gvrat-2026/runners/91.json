@@ -123,9 +123,17 @@
       "type": "walk",
       "time": null,
       "comment": "Forgot Garmin.  At least I had my Apple watch."
+    },
+    {
+      "date": "2026-05-10",
+      "miles": 9.0,
+      "km": 14.48,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 15,
-  "activeDays": 9,
+  "totalActivities": 16,
+  "activeDays": 10,
   "restDays": 0
 }

@@ -91,9 +91,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-10",
+      "miles": 12.6,
+      "km": 20.28,
+      "type": "run",
+      "time": null,
+      "comment": "South valley rural roads"
     }
   ],
-  "totalActivities": 7,
-  "activeDays": 5,
+  "totalActivities": 8,
+  "activeDays": 6,
   "restDays": 4
 }

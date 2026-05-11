@@ -163,9 +163,17 @@
       "type": "walk",
       "time": null,
       "comment": "Neighborhood loops."
+    },
+    {
+      "date": "2026-05-10",
+      "miles": 2.04,
+      "km": 3.28,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs."
     }
   ],
-  "totalActivities": 19,
-  "activeDays": 8,
+  "totalActivities": 20,
+  "activeDays": 9,
   "restDays": 1
 }

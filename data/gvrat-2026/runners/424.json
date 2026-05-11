@@ -70,30 +70,54 @@
     },
     {
       "date": "2026-05-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.92,
+      "km": 6.31,
+      "type": "run",
+      "time": null,
+      "comment": "Testloop rug"
+    },
+    {
+      "date": "2026-05-07",
+      "miles": 0.49,
+      "km": 0.79,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.3,
+      "km": 2.09,
+      "type": "walk",
+      "time": null,
+      "comment": "Kidsrun KvS en lopen in Gulpen"
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 37.44,
+      "km": 60.25,
+      "type": "run",
+      "time": null,
+      "comment": "Koning van Spanje trail 1500 hm"
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 1.42,
+      "km": 2.29,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
-      "date": "2026-05-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-05-10",
+      "miles": 3.21,
+      "km": 5.17,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "1e dag na KvS, spierpijn bovenbenen"
     }
   ],
-  "totalActivities": 7,
-  "activeDays": 5,
-  "restDays": 4
+  "totalActivities": 13,
+  "activeDays": 9,
+  "restDays": 1
 }

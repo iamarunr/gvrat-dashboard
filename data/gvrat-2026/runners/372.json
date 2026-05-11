@@ -107,9 +107,17 @@
       "type": "run",
       "time": null,
       "comment": "Parkrun (and getting there)"
+    },
+    {
+      "date": "2026-05-10",
+      "miles": 12.0,
+      "km": 19.31,
+      "type": "run",
+      "time": null,
+      "comment": "Last trial run before GUCR"
     }
   ],
-  "totalActivities": 13,
-  "activeDays": 9,
+  "totalActivities": 14,
+  "activeDays": 10,
   "restDays": 0
 }

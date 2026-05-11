@@ -91,9 +91,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk while husband was in final exams"
+    },
+    {
+      "date": "2026-05-10",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
+      "time": null,
+      "comment": "Heat training"
     }
   ],
-  "totalActivities": 9,
-  "activeDays": 7,
+  "totalActivities": 10,
+  "activeDays": 8,
   "restDays": 2
 }

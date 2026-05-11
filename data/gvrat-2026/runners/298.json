@@ -91,9 +91,17 @@
       "type": "walk",
       "time": null,
       "comment": "Market with Patrick"
+    },
+    {
+      "date": "2026-05-10",
+      "miles": 10.25,
+      "km": 16.5,
+      "type": "run",
+      "time": null,
+      "comment": "Boulder Creek to Canyon"
     }
   ],
-  "totalActivities": 7,
-  "activeDays": 5,
+  "totalActivities": 8,
+  "activeDays": 6,
   "restDays": 4
 }

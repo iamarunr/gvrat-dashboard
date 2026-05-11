@@ -243,9 +243,25 @@
       "type": "walk",
       "time": null,
       "comment": "Night walk"
+    },
+    {
+      "date": "2026-05-10",
+      "miles": 4.21,
+      "km": 6.78,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-10",
+      "miles": 0.8,
+      "km": 1.29,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 30,
-  "activeDays": 9,
+  "totalActivities": 32,
+  "activeDays": 10,
   "restDays": 0
 }

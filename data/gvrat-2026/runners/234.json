@@ -77,15 +77,31 @@
       "comment": "Garden City Loop"
     },
     {
-      "date": "2026-05-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-05-08",
+      "miles": 2.47,
+      "km": 3.98,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Kukui Trail IFIT"
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 4.11,
+      "km": 6.61,
+      "type": "walk",
+      "time": null,
+      "comment": "Beaver Creek"
+    },
+    {
+      "date": "2026-05-10",
+      "miles": 3.54,
+      "km": 5.7,
+      "type": "walk",
+      "time": null,
+      "comment": "Shundahai neighborhood"
     }
   ],
-  "totalActivities": 6,
-  "activeDays": 5,
-  "restDays": 4
+  "totalActivities": 9,
+  "activeDays": 7,
+  "restDays": 3
 }

@@ -75,9 +75,17 @@
       "type": "walk",
       "time": null,
       "comment": "Yard miles. Pushed myself today. I\u2019m EXHAUSTED. Feel like I ran a marathon. \ud83e\udd74 Proud of myself for this many steps/miles."
+    },
+    {
+      "date": "2026-05-10",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 8,
   "activeDays": 8,
-  "restDays": 1
+  "restDays": 2
 }

@@ -62,11 +62,11 @@
     },
     {
       "date": "2026-05-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.86,
+      "km": 2.99,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Marche foire a Tarascon."
     },
     {
       "date": "2026-05-09",
@@ -75,9 +75,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-10",
+      "miles": 7.56,
+      "km": 12.17,
+      "type": "run",
+      "time": null,
+      "comment": "Petite boucle."
+    },
+    {
+      "date": "2026-05-10",
+      "miles": 2.05,
+      "km": 3.3,
+      "type": "walk",
+      "time": null,
+      "comment": "Balade digestive voie verte."
     }
   ],
-  "totalActivities": 3,
-  "activeDays": 3,
-  "restDays": 6
+  "totalActivities": 6,
+  "activeDays": 5,
+  "restDays": 5
 }
