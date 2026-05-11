@@ -139,9 +139,17 @@
       "type": "run",
       "time": null,
       "comment": "RSD 3989 Navy 5 miler"
+    },
+    {
+      "date": "2026-05-10",
+      "miles": 13.12,
+      "km": 21.11,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 3990 Mother's Day Half in Ft Worth \ud83d\udc90"
     }
   ],
-  "totalActivities": 17,
-  "activeDays": 9,
+  "totalActivities": 18,
+  "activeDays": 10,
   "restDays": 0
 }

@@ -62,30 +62,38 @@
     },
     {
       "date": "2026-05-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 8.55,
+      "km": 13.76,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "No G, 6.55+2"
     },
     {
       "date": "2026-05-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 8.4,
+      "km": 13.52,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "No G, 6.4+2"
     },
     {
       "date": "2026-05-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.3,
+      "km": 10.14,
+      "type": "run",
+      "time": null,
+      "comment": "my G is back :)"
+    },
+    {
+      "date": "2026-05-10",
+      "miles": 6.3,
+      "km": 10.14,
+      "type": "run",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 7,
-  "activeDays": 6,
-  "restDays": 3
+  "totalActivities": 11,
+  "activeDays": 10,
+  "restDays": 0
 }

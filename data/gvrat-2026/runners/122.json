@@ -75,9 +75,17 @@
       "type": "walk",
       "time": null,
       "comment": "Vandalia path extension 1 mile downhill to RR track"
+    },
+    {
+      "date": "2026-05-10",
+      "miles": 5.01,
+      "km": 8.06,
+      "type": "walk",
+      "time": null,
+      "comment": "Dam, pattys falls, boardwalk loop"
     }
   ],
-  "totalActivities": 9,
-  "activeDays": 9,
+  "totalActivities": 10,
+  "activeDays": 10,
   "restDays": 0
 }

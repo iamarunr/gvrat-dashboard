@@ -123,9 +123,17 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown and lots of shopping"
+    },
+    {
+      "date": "2026-05-10",
+      "miles": 4.4,
+      "km": 7.08,
+      "type": "walk",
+      "time": null,
+      "comment": "Mothers Day dog walks, walk downtown and tattoo day"
     }
   ],
-  "totalActivities": 15,
-  "activeDays": 9,
+  "totalActivities": 16,
+  "activeDays": 10,
   "restDays": 0
 }

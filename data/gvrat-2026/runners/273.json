@@ -62,30 +62,38 @@
     },
     {
       "date": "2026-05-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.8,
+      "km": 6.12,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walk around cherokee"
     },
     {
       "date": "2026-05-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.2,
+      "km": 9.98,
+      "type": "walk",
+      "time": null,
+      "comment": "Hike and walk around"
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 1.1,
+      "km": 1.77,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
-      "date": "2026-05-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-05-10",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 5,
-  "activeDays": 4,
-  "restDays": 5
+  "totalActivities": 9,
+  "activeDays": 8,
+  "restDays": 2
 }

@@ -1,70 +1,70 @@
 {
-  "bib": 92,
-  "firstName": "David",
-  "lastName": "DeHart",
-  "displayName": "David DeHart",
+  "bib": 474,
+  "firstName": "Lynna",
+  "lastName": "GILSTRAP",
+  "displayName": "Lynna GILSTRAP",
   "activities": [
     {
       "date": "2026-05-01",
-      "miles": 6.32,
-      "km": 10.17,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-02",
-      "miles": 9.28,
-      "km": 14.93,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-03",
-      "miles": 7.28,
-      "km": 11.72,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-04",
-      "miles": 9.08,
-      "km": 14.61,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-05",
-      "miles": 7.52,
-      "km": 12.1,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-06",
-      "miles": 7.27,
-      "km": 11.7,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-07",
-      "miles": 6.55,
-      "km": 10.54,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-08",
-      "miles": 6.44,
-      "km": 10.36,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
@@ -78,14 +78,14 @@
     },
     {
       "date": "2026-05-10",
-      "miles": 7.48,
-      "km": 12.04,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 9,
-  "activeDays": 9,
-  "restDays": 1
+  "totalActivities": 0,
+  "activeDays": 0,
+  "restDays": 10
 }

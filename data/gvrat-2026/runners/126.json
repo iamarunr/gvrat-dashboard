@@ -83,9 +83,17 @@
       "type": "walk",
       "time": null,
       "comment": ".Last Quarter \ud83c\udf17 Moon, 7 rabbits \ud83d\udc07\ud83d\udc30\ud83d\udc07\ud83d\udc30\ud83d\udc07\ud83d\udc30\ud83d\udc07"
+    },
+    {
+      "date": "2026-05-10",
+      "miles": 6.46,
+      "km": 10.4,
+      "type": "walk",
+      "time": null,
+      "comment": "Mother's Day"
     }
   ],
-  "totalActivities": 10,
-  "activeDays": 9,
+  "totalActivities": 11,
+  "activeDays": 10,
   "restDays": 0
 }

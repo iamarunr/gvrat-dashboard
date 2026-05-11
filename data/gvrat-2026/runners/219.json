@@ -62,9 +62,17 @@
     },
     {
       "date": "2026-05-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.8,
+      "km": 2.9,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-07",
+      "miles": 1.51,
+      "km": 2.43,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
@@ -78,6 +86,14 @@
     },
     {
       "date": "2026-05-09",
+      "miles": 63.65,
+      "km": 102.43,
+      "type": "run",
+      "time": null,
+      "comment": "Dawn to Dusk to Dawn 24 Hour"
+    },
+    {
+      "date": "2026-05-10",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -85,7 +101,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 3,
-  "activeDays": 2,
-  "restDays": 7
+  "totalActivities": 6,
+  "activeDays": 4,
+  "restDays": 6
 }
