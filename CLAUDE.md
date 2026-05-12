@@ -55,3 +55,9 @@ Never invent new colors, fonts, or spacing values.
 Always reference DESIGN.md tokens first.
 New UI must match existing patterns exactly.
 Update DESIGN.md if any design decision changes.
+
+## Git Commit Guidelines
+When executing git commits, you MUST use my specific author details. 
+Do not use bot@gvrat.com or any system default.
+- Author Name: Naresh Kumar
+- Author Email: kn.naresh@gmail.com
