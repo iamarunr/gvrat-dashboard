@@ -224,6 +224,8 @@ export default function Home() {
             },
             {
               value: metaData.totalMilesLogged.toLocaleString(),
+              subValue: (metaData.totalMilesLogged * 1.60934).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 }),
+              subLabel: "KM",
               label: "Miles logged",
               color: GOLD,
             },
@@ -232,7 +234,10 @@ export default function Home() {
               key={i}
               style={{
                 flex: 1,
-                textAlign: "center",
+                display: "flex",
+                flexDirection: "column",
+                justifyContent: "center",
+                alignItems: "center",
                 padding: "0 20px",
                 borderRight:
                   i < arr.length - 1
@@ -253,6 +258,21 @@ export default function Home() {
               >
                 {stat.value}
               </div>
+              {stat.subValue && (
+                <div
+                  style={{
+                    fontFamily: DISPLAY,
+                    fontWeight: 600,
+                    fontSize: "clamp(16px, 2.5vw, 20px)",
+                    color: "rgba(244,166,35,0.6)",
+                    marginTop: 6,
+                    lineHeight: 1,
+                    fontVariantNumeric: "tabular-nums",
+                  }}
+                >
+                  {stat.subValue} <span style={{ fontSize: "0.7em", fontWeight: 800 }}>{stat.subLabel}</span>
+                </div>
+              )}
               <div
                 style={{
                   fontFamily: DISPLAY,
@@ -261,7 +281,7 @@ export default function Home() {
                   letterSpacing: "0.16em",
                   textTransform: "uppercase",
                   color: "rgba(255,255,255,0.4)",
-                  marginTop: 6,
+                  marginTop: stat.subValue ? 6 : 8,
                 }}
               >
                 {stat.label}
@@ -337,9 +357,14 @@ export default function Home() {
                       {r.displayName.split(" ")[0]} {r.displayName.split(" ").length > 1 ? r.displayName.split(" ")[1][0] + "." : ""}
                     </span>
                   </div>
-                  <span className="mini-lb-miles" style={{ color: GOLD, fontSize: 17, fontWeight: 700, fontVariantNumeric: "tabular-nums" }}>
-                    {r.miles.toFixed(1)} <span style={{ fontSize: 11, color: "rgba(244,166,35,0.6)", fontWeight: 800 }}>MI</span>
-                  </span>
+                  <div style={{ display: "flex", flexDirection: "column", alignItems: "flex-end", gap: 3 }}>
+                    <span className="mini-lb-miles" style={{ color: GOLD, fontSize: 17, fontWeight: 700, fontVariantNumeric: "tabular-nums", lineHeight: 1 }}>
+                      {r.miles.toFixed(1)} <span style={{ fontSize: 11, color: "rgba(244,166,35,0.6)", fontWeight: 800 }}>MI</span>
+                    </span>
+                    <span style={{ color: "rgba(255,255,255,0.4)", fontSize: 13, fontWeight: 600, fontVariantNumeric: "tabular-nums", lineHeight: 1 }}>
+                      {r.km.toFixed(1)} <span style={{ fontSize: 9, color: "rgba(255,255,255,0.3)", fontWeight: 800 }}>KM</span>
+                    </span>
+                  </div>
                 </div>
               ))}
             </div>
@@ -374,9 +399,14 @@ export default function Home() {
                       {r.displayName.split(" ")[0]} {r.displayName.split(" ").length > 1 ? r.displayName.split(" ")[1][0] + "." : ""}
                     </span>
                   </div>
-                  <span className="mini-lb-miles" style={{ color: GOLD, fontSize: 17, fontWeight: 700, fontVariantNumeric: "tabular-nums" }}>
-                    {r.miles.toFixed(1)} <span style={{ fontSize: 11, color: "rgba(244,166,35,0.6)", fontWeight: 800 }}>MI</span>
-                  </span>
+                  <div style={{ display: "flex", flexDirection: "column", alignItems: "flex-end", gap: 3 }}>
+                    <span className="mini-lb-miles" style={{ color: GOLD, fontSize: 17, fontWeight: 700, fontVariantNumeric: "tabular-nums", lineHeight: 1 }}>
+                      {r.miles.toFixed(1)} <span style={{ fontSize: 11, color: "rgba(244,166,35,0.6)", fontWeight: 800 }}>MI</span>
+                    </span>
+                    <span style={{ color: "rgba(255,255,255,0.4)", fontSize: 13, fontWeight: 600, fontVariantNumeric: "tabular-nums", lineHeight: 1 }}>
+                      {r.km.toFixed(1)} <span style={{ fontSize: 9, color: "rgba(255,255,255,0.3)", fontWeight: 800 }}>KM</span>
+                    </span>
+                  </div>
                 </div>
               ))}
             </div>
