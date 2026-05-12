@@ -99,9 +99,25 @@
       "type": "run",
       "time": null,
       "comment": "Boulder Creek to Canyon"
+    },
+    {
+      "date": "2026-05-11",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-05-11",
+      "miles": 3.14,
+      "km": 5.05,
+      "type": "walk",
+      "time": null,
+      "comment": "Work hood walk"
     }
   ],
-  "totalActivities": 8,
-  "activeDays": 6,
+  "totalActivities": 10,
+  "activeDays": 7,
   "restDays": 4
 }

@@ -30,11 +30,11 @@
     },
     {
       "date": "2026-05-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "https://strava.app.link/s1PXloVk42b"
     },
     {
       "date": "2026-05-05",
@@ -46,35 +46,35 @@
     },
     {
       "date": "2026-05-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "https://strava.app.link/euXyCW0k42b"
     },
     {
       "date": "2026-05-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.2,
+      "km": 9.98,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "https://strava.app.link/x8DF5z5k42b"
     },
     {
       "date": "2026-05-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "https://strava.app.link/gH7Qqdal42b"
     },
     {
       "date": "2026-05-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 9.81,
+      "km": 15.79,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "https://strava.app.link/LsfACTel42b"
     },
     {
       "date": "2026-05-10",
@@ -83,9 +83,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-11",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "run",
+      "time": null,
+      "comment": "https://strava.app.link/B5P4Uljl42b"
     }
   ],
-  "totalActivities": 1,
-  "activeDays": 1,
-  "restDays": 9
+  "totalActivities": 7,
+  "activeDays": 7,
+  "restDays": 4
 }

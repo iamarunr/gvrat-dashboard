@@ -131,9 +131,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-11",
+      "miles": 3.02,
+      "km": 4.86,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk to hardware store and back."
+    },
+    {
+      "date": "2026-05-11",
+      "miles": 1.55,
+      "km": 2.49,
+      "type": "walk",
+      "time": null,
+      "comment": "Post dinner walk."
     }
   ],
-  "totalActivities": 16,
-  "activeDays": 10,
+  "totalActivities": 18,
+  "activeDays": 11,
   "restDays": 0
 }

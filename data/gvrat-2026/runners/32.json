@@ -107,9 +107,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-11",
+      "miles": 4.52,
+      "km": 7.27,
+      "type": "walk",
+      "time": null,
+      "comment": "Extra walking at work."
+    },
+    {
+      "date": "2026-05-11",
+      "miles": 3.35,
+      "km": 5.39,
+      "type": "run",
+      "time": null,
+      "comment": "Treadmill run at gym."
     }
   ],
-  "totalActivities": 11,
-  "activeDays": 8,
+  "totalActivities": 13,
+  "activeDays": 9,
   "restDays": 2
 }
