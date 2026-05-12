@@ -86,14 +86,22 @@
     },
     {
       "date": "2026-05-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 10.27,
+      "km": 16.53,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Loop trail in Tucson"
+    },
+    {
+      "date": "2026-05-11",
+      "miles": 3.31,
+      "km": 5.33,
+      "type": "run",
+      "time": null,
+      "comment": "Early run on Yuma"
     }
   ],
-  "totalActivities": 10,
-  "activeDays": 9,
-  "restDays": 1
+  "totalActivities": 12,
+  "activeDays": 11,
+  "restDays": 0
 }

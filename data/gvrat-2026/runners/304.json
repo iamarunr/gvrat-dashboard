@@ -99,9 +99,25 @@
       "type": "walk",
       "time": null,
       "comment": "Heat training"
+    },
+    {
+      "date": "2026-05-11",
+      "miles": 2.69,
+      "km": 4.33,
+      "type": "walk",
+      "time": null,
+      "comment": "Lunch break miles"
+    },
+    {
+      "date": "2026-05-11",
+      "miles": 2.74,
+      "km": 4.41,
+      "type": "walk",
+      "time": null,
+      "comment": "Post-work miles"
     }
   ],
-  "totalActivities": 10,
-  "activeDays": 8,
+  "totalActivities": 12,
+  "activeDays": 9,
   "restDays": 2
 }

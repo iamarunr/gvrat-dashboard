@@ -91,9 +91,17 @@
       "type": "walk",
       "time": null,
       "comment": "Balade digestive voie verte."
+    },
+    {
+      "date": "2026-05-11",
+      "miles": 8.77,
+      "km": 14.11,
+      "type": "run",
+      "time": null,
+      "comment": "Petite boucle etA/R croisement coulzone."
     }
   ],
-  "totalActivities": 6,
-  "activeDays": 5,
+  "totalActivities": 7,
+  "activeDays": 6,
   "restDays": 5
 }

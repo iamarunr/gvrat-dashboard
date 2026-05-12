@@ -107,9 +107,17 @@
       "type": "walk",
       "time": null,
       "comment": "Hike Cumberland River bicentennial trail"
+    },
+    {
+      "date": "2026-05-11",
+      "miles": 5.25,
+      "km": 8.45,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 10,
-  "activeDays": 7,
+  "totalActivities": 11,
+  "activeDays": 8,
   "restDays": 3
 }

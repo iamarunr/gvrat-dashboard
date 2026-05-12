@@ -147,9 +147,33 @@
       "type": "run",
       "time": null,
       "comment": "RSD 3990 Mother's Day Half in Ft Worth \ud83d\udc90"
+    },
+    {
+      "date": "2026-05-11",
+      "miles": 1.02,
+      "km": 1.64,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 3991"
+    },
+    {
+      "date": "2026-05-11",
+      "miles": 0.31,
+      "km": 0.5,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-11",
+      "miles": 1.85,
+      "km": 2.98,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 18,
-  "activeDays": 10,
+  "totalActivities": 21,
+  "activeDays": 11,
   "restDays": 0
 }

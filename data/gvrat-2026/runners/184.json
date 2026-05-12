@@ -131,9 +131,17 @@
       "type": "walk",
       "time": null,
       "comment": "Mothers Day dog walks, walk downtown and tattoo day"
+    },
+    {
+      "date": "2026-05-11",
+      "miles": 2.7,
+      "km": 4.35,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning walk and evening walk - not feeling it today"
     }
   ],
-  "totalActivities": 16,
-  "activeDays": 10,
+  "totalActivities": 17,
+  "activeDays": 11,
   "restDays": 0
 }
