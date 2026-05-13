@@ -107,9 +107,25 @@
       "type": "run",
       "time": null,
       "comment": "1998' ascent.  Bunchgrass trail - early season w/ snow"
+    },
+    {
+      "date": "2026-05-11",
+      "miles": 2.86,
+      "km": 4.6,
+      "type": "walk",
+      "time": null,
+      "comment": "72' ascent.  Bear Lake & Heritage Park"
+    },
+    {
+      "date": "2026-05-12",
+      "miles": 31.76,
+      "km": 51.11,
+      "type": "run",
+      "time": null,
+      "comment": "5722' ascent.  Temple Fork, Rick's Canyon, Ephraim's Cutoff, Hunsaker Springs"
     }
   ],
-  "totalActivities": 13,
-  "activeDays": 11,
+  "totalActivities": 15,
+  "activeDays": 12,
   "restDays": 0
 }

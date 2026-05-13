@@ -107,9 +107,17 @@
       "type": "walk",
       "time": null,
       "comment": "TVA Serengeti M&10#V"
+    },
+    {
+      "date": "2026-05-12",
+      "miles": 3.81,
+      "km": 6.13,
+      "type": "walk",
+      "time": null,
+      "comment": "TVA loop w/ORRB M/10#V"
     }
   ],
-  "totalActivities": 10,
-  "activeDays": 8,
+  "totalActivities": 11,
+  "activeDays": 9,
   "restDays": 3
 }

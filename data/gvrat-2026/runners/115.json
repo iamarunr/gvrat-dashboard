@@ -275,9 +275,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-12",
+      "miles": 5.36,
+      "km": 8.63,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-12",
+      "miles": 3.42,
+      "km": 5.5,
+      "type": "walk",
+      "time": null,
+      "comment": "Santa Moni walk"
     }
   ],
-  "totalActivities": 34,
-  "activeDays": 11,
+  "totalActivities": 36,
+  "activeDays": 12,
   "restDays": 0
 }

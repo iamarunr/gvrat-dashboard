@@ -99,9 +99,17 @@
       "type": "walk",
       "time": null,
       "comment": "Desk treadmill."
+    },
+    {
+      "date": "2026-05-12",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 3,
   "activeDays": 2,
-  "restDays": 9
+  "restDays": 10
 }

@@ -6,86 +6,118 @@
   "activities": [
     {
       "date": "2026-05-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.14,
+      "km": 9.88,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "12,260"
     },
     {
       "date": "2026-05-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.18,
+      "km": 6.73,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "8,348"
     },
     {
       "date": "2026-05-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.2,
+      "km": 5.15,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "6,218"
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 5.71,
+      "km": 9.19,
+      "type": "walk",
+      "time": null,
+      "comment": "11,413"
     },
     {
       "date": "2026-05-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.04,
+      "km": 6.5,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "7,851"
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 6.63,
+      "km": 10.67,
+      "type": "walk",
+      "time": null,
+      "comment": "13,242"
     },
     {
       "date": "2026-05-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 8.53,
+      "km": 13.73,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "17,046"
     },
     {
       "date": "2026-05-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.77,
+      "km": 12.5,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "15,523"
     },
     {
       "date": "2026-05-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.6,
+      "km": 9.01,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "11,188"
+    },
+    {
+      "date": "2026-05-07",
+      "miles": 4.09,
+      "km": 6.58,
+      "type": "run",
+      "time": null,
+      "comment": "7,948"
     },
     {
       "date": "2026-05-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 8.63,
+      "km": 13.89,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "17,244"
     },
     {
       "date": "2026-05-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.95,
+      "km": 11.18,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "13,875 Zoo!"
     },
     {
       "date": "2026-05-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 8.12,
+      "km": 13.07,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "16,218 Mother\u2019s Day hike Swains Lovk to Great Falls"
     },
     {
       "date": "2026-05-11",
+      "miles": 4.38,
+      "km": 7.05,
+      "type": "walk",
+      "time": null,
+      "comment": "8,753"
+    },
+    {
+      "date": "2026-05-12",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -93,7 +125,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 0,
-  "activeDays": 0,
-  "restDays": 11
+  "totalActivities": 14,
+  "activeDays": 11,
+  "restDays": 1
 }

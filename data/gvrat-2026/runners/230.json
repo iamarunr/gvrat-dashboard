@@ -94,22 +94,30 @@
     },
     {
       "date": "2026-05-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 26.52,
+      "km": 42.68,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Rob Burrow Leeds Marathon"
     },
     {
       "date": "2026-05-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.69,
+      "km": 4.33,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Leeds Walk"
+    },
+    {
+      "date": "2026-05-12",
+      "miles": 3.41,
+      "km": 5.49,
+      "type": "walk",
+      "time": null,
+      "comment": "Wickford Walk"
     }
   ],
-  "totalActivities": 9,
-  "activeDays": 7,
-  "restDays": 4
+  "totalActivities": 12,
+  "activeDays": 10,
+  "restDays": 2
 }

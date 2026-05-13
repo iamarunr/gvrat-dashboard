@@ -139,9 +139,33 @@
       "type": "walk",
       "time": null,
       "comment": "Morning walk and evening walk - not feeling it today"
+    },
+    {
+      "date": "2026-05-12",
+      "miles": 1.56,
+      "km": 2.51,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning walk before work around lake and then some"
+    },
+    {
+      "date": "2026-05-12",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening walk at enterprise by myself.  It was a beautiful evening.  Perfect temps"
+    },
+    {
+      "date": "2026-05-12",
+      "miles": 0.93,
+      "km": 1.5,
+      "type": "walk",
+      "time": null,
+      "comment": "Rest of  day - happy Tuesday"
     }
   ],
-  "totalActivities": 17,
-  "activeDays": 11,
+  "totalActivities": 20,
+  "activeDays": 12,
   "restDays": 0
 }

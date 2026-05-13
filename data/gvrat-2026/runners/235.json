@@ -91,9 +91,17 @@
       "type": "walk",
       "time": null,
       "comment": "A windy day on the canal!!"
+    },
+    {
+      "date": "2026-05-12",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "with Shirley before CF"
     }
   ],
-  "totalActivities": 8,
-  "activeDays": 8,
+  "totalActivities": 9,
+  "activeDays": 9,
   "restDays": 3
 }
