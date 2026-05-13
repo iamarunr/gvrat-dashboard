@@ -91,9 +91,17 @@
       "type": "walk",
       "time": null,
       "comment": "Ross road north into Tipp and back"
+    },
+    {
+      "date": "2026-05-12",
+      "miles": 5.32,
+      "km": 8.56,
+      "type": "walk",
+      "time": null,
+      "comment": "Tipp city, touched where I last stopped going north, then went north - bikepath"
     }
   ],
-  "totalActivities": 11,
-  "activeDays": 11,
+  "totalActivities": 12,
+  "activeDays": 12,
   "restDays": 0
 }

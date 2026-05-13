@@ -99,9 +99,25 @@
       "type": "walk",
       "time": null,
       "comment": "TJs walk"
+    },
+    {
+      "date": "2026-05-12",
+      "miles": 4.68,
+      "km": 7.53,
+      "type": "run",
+      "time": null,
+      "comment": "Trails"
+    },
+    {
+      "date": "2026-05-12",
+      "miles": 1.78,
+      "km": 2.86,
+      "type": "walk",
+      "time": null,
+      "comment": "Hot walk"
     }
   ],
-  "totalActivities": 12,
-  "activeDays": 11,
+  "totalActivities": 14,
+  "activeDays": 12,
   "restDays": 0
 }

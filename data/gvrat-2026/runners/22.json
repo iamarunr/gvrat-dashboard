@@ -86,14 +86,22 @@
     },
     {
       "date": "2026-05-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Travel to Korea. Walking on Seoul"
+    },
+    {
+      "date": "2026-05-12",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Travel to Korea. Airports and Walking"
     }
   ],
-  "totalActivities": 10,
-  "activeDays": 10,
-  "restDays": 1
+  "totalActivities": 12,
+  "activeDays": 12,
+  "restDays": 0
 }

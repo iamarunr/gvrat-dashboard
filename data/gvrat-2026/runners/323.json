@@ -1,8 +1,8 @@
 {
-  "bib": 431,
-  "firstName": "Sky",
-  "lastName": "Waterpeace",
-  "displayName": "Sky Waterpeace",
+  "bib": 323,
+  "firstName": "Zofia",
+  "lastName": "Jaworek",
+  "displayName": "Zofia Jaworek",
   "activities": [
     {
       "date": "2026-05-01",
@@ -14,9 +14,9 @@
     },
     {
       "date": "2026-05-02",
-      "miles": 1.0,
-      "km": 1.61,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
@@ -30,41 +30,41 @@
     },
     {
       "date": "2026-05-04",
-      "miles": 1.45,
-      "km": 2.33,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-05",
-      "miles": 2.58,
-      "km": 4.15,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-06",
-      "miles": 5.45,
-      "km": 8.77,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-07",
-      "miles": 5.41,
-      "km": 8.71,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-08",
-      "miles": 0.6,
-      "km": 0.97,
-      "type": "run",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
@@ -101,7 +101,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 6,
-  "activeDays": 6,
-  "restDays": 6
+  "totalActivities": 0,
+  "activeDays": 0,
+  "restDays": 12
 }

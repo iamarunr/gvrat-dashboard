@@ -115,9 +115,17 @@
       "type": "walk",
       "time": null,
       "comment": "1 hour climb on tread 1200 feet then walk afternoon at work"
+    },
+    {
+      "date": "2026-05-12",
+      "miles": 2.52,
+      "km": 4.06,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk during Tuesday\u2019s finals"
     }
   ],
-  "totalActivities": 12,
-  "activeDays": 9,
+  "totalActivities": 13,
+  "activeDays": 10,
   "restDays": 2
 }

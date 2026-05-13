@@ -118,14 +118,30 @@
     },
     {
       "date": "2026-05-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.88,
+      "km": 4.63,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-12",
+      "miles": 6.61,
+      "km": 10.64,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening walk from Wu Kai Sai to Mayfair with Jocelyn"
+    },
+    {
+      "date": "2026-05-12",
+      "miles": 2.92,
+      "km": 4.7,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 14,
-  "activeDays": 10,
-  "restDays": 1
+  "totalActivities": 17,
+  "activeDays": 12,
+  "restDays": 0
 }

@@ -91,9 +91,17 @@
       "type": "walk",
       "time": null,
       "comment": "AM Track 16X300/100 5.76 total, 1:15.  PM 2.43 with Izzy"
+    },
+    {
+      "date": "2026-05-12",
+      "miles": 8.04,
+      "km": 12.94,
+      "type": "walk",
+      "time": null,
+      "comment": "AM 5.2 1:36.  PM 2.84 with Izzy 1:19"
     }
   ],
-  "totalActivities": 11,
-  "activeDays": 11,
+  "totalActivities": 12,
+  "activeDays": 12,
   "restDays": 0
 }

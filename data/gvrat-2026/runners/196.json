@@ -125,6 +125,14 @@
       "comment": "NY NY NY"
     },
     {
+      "date": "2026-05-07",
+      "miles": 1.1,
+      "km": 1.77,
+      "type": "walk",
+      "time": null,
+      "comment": "To Lion King and back."
+    },
+    {
       "date": "2026-05-08",
       "miles": 1.52,
       "km": 2.45,
@@ -155,9 +163,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-12",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 15,
+  "totalActivities": 16,
   "activeDays": 7,
-  "restDays": 4
+  "restDays": 5
 }

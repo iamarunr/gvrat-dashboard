@@ -147,9 +147,17 @@
       "type": "walk",
       "time": null,
       "comment": "Post dinner walk."
+    },
+    {
+      "date": "2026-05-12",
+      "miles": 3.45,
+      "km": 5.55,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 18,
-  "activeDays": 11,
+  "totalActivities": 19,
+  "activeDays": 12,
   "restDays": 0
 }
