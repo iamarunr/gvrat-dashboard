@@ -115,9 +115,17 @@
       "type": "walk",
       "time": null,
       "comment": "Hot walk"
+    },
+    {
+      "date": "2026-05-13",
+      "miles": 4.3,
+      "km": 6.92,
+      "type": "walk",
+      "time": null,
+      "comment": "Trails - mostly walking. Very warm."
     }
   ],
-  "totalActivities": 14,
-  "activeDays": 12,
+  "totalActivities": 15,
+  "activeDays": 13,
   "restDays": 0
 }

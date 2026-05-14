@@ -99,9 +99,25 @@
       "type": "walk",
       "time": null,
       "comment": "Travel to Korea. Airports and Walking"
+    },
+    {
+      "date": "2026-05-13",
+      "miles": 10.23,
+      "km": 16.46,
+      "type": "run",
+      "time": null,
+      "comment": "Cheonggyecheon Stream, Seoul"
+    },
+    {
+      "date": "2026-05-13",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Seoul walking to explore."
     }
   ],
-  "totalActivities": 12,
-  "activeDays": 12,
+  "totalActivities": 14,
+  "activeDays": 13,
   "restDays": 0
 }

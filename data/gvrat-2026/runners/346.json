@@ -123,9 +123,17 @@
       "type": "run",
       "time": null,
       "comment": "5722' ascent.  Temple Fork, Rick's Canyon, Ephraim's Cutoff, Hunsaker Springs"
+    },
+    {
+      "date": "2026-05-13",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 15,
   "activeDays": 12,
-  "restDays": 0
+  "restDays": 1
 }

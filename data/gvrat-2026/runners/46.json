@@ -174,14 +174,38 @@
     },
     {
       "date": "2026-05-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.02,
+      "km": 6.47,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 3992 Tucumcari New Mexico"
+    },
+    {
+      "date": "2026-05-13",
+      "miles": 2.01,
+      "km": 3.23,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 3993 Breckenridge CO"
+    },
+    {
+      "date": "2026-05-13",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-13",
+      "miles": 4.54,
+      "km": 7.31,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 21,
-  "activeDays": 11,
-  "restDays": 1
+  "totalActivities": 25,
+  "activeDays": 13,
+  "restDays": 0
 }
