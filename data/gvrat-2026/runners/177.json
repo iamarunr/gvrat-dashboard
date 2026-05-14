@@ -219,9 +219,25 @@
       "type": "walk",
       "time": null,
       "comment": "Walked Happy"
+    },
+    {
+      "date": "2026-05-13",
+      "miles": 6.15,
+      "km": 9.9,
+      "type": "run",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-05-13",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": "Walked happy"
     }
   ],
-  "totalActivities": 27,
-  "activeDays": 12,
+  "totalActivities": 29,
+  "activeDays": 13,
   "restDays": 0
 }

@@ -94,14 +94,22 @@
     },
     {
       "date": "2026-05-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.15,
+      "km": 3.46,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Travel Day and pizza party preps"
+    },
+    {
+      "date": "2026-05-13",
+      "miles": 5.25,
+      "km": 8.45,
+      "type": "walk",
+      "time": null,
+      "comment": "morning walk, pickleball and run clinic"
     }
   ],
-  "totalActivities": 11,
-  "activeDays": 11,
-  "restDays": 1
+  "totalActivities": 13,
+  "activeDays": 13,
+  "restDays": 0
 }

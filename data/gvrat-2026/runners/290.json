@@ -78,22 +78,30 @@
     },
     {
       "date": "2026-05-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.1,
+      "km": 6.6,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Yard miles. On the struggle bus. So slow. \ud83d\ude16"
     },
     {
       "date": "2026-05-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.3,
+      "km": 5.31,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Yard miles. In pain and struggling. \ud83d\ude30\ud83d\ude16"
     },
     {
       "date": "2026-05-12",
+      "miles": 0.6,
+      "km": 0.97,
+      "type": "walk",
+      "time": null,
+      "comment": "EGD day. Hospital steps. \ud83d\ude1e"
+    },
+    {
+      "date": "2026-05-13",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -101,7 +109,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 8,
-  "activeDays": 8,
-  "restDays": 4
+  "totalActivities": 11,
+  "activeDays": 11,
+  "restDays": 2
 }

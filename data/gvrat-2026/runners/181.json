@@ -99,9 +99,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-13",
+      "miles": 40.0,
+      "km": 64.37,
+      "type": "walk",
+      "time": null,
+      "comment": "First of my 4 days at event called 3 days at the Fair in sussex county N.J."
     }
   ],
-  "totalActivities": 4,
-  "activeDays": 4,
+  "totalActivities": 5,
+  "activeDays": 5,
   "restDays": 8
 }

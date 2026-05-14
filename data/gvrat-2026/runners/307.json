@@ -102,14 +102,22 @@
     },
     {
       "date": "2026-05-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.09,
+      "km": 6.58,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Run in Yuma"
+    },
+    {
+      "date": "2026-05-13",
+      "miles": 3.25,
+      "km": 5.23,
+      "type": "run",
+      "time": null,
+      "comment": "Wednesday in Yuma"
     }
   ],
-  "totalActivities": 12,
-  "activeDays": 11,
-  "restDays": 1
+  "totalActivities": 14,
+  "activeDays": 13,
+  "restDays": 0
 }

@@ -163,9 +163,25 @@
       "type": "walk",
       "time": null,
       "comment": "Rest of  day - happy Tuesday"
+    },
+    {
+      "date": "2026-05-13",
+      "miles": 2.52,
+      "km": 4.06,
+      "type": "run",
+      "time": null,
+      "comment": "Treadmill- quarter mile repeats"
+    },
+    {
+      "date": "2026-05-13",
+      "miles": 2.08,
+      "km": 3.35,
+      "type": "walk",
+      "time": null,
+      "comment": "Rest of day getting steps"
     }
   ],
-  "totalActivities": 20,
-  "activeDays": 12,
+  "totalActivities": 22,
+  "activeDays": 13,
   "restDays": 0
 }

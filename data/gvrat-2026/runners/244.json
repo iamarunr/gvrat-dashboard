@@ -94,14 +94,22 @@
     },
     {
       "date": "2026-05-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.3,
+      "km": 10.14,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Remi walk then Ridgeback hike w/Orange Girl"
+    },
+    {
+      "date": "2026-05-13",
+      "miles": 5.68,
+      "km": 9.14,
+      "type": "walk",
+      "time": null,
+      "comment": "Ronin walk then solo in Anthem"
     }
   ],
-  "totalActivities": 9,
-  "activeDays": 9,
-  "restDays": 3
+  "totalActivities": 11,
+  "activeDays": 11,
+  "restDays": 2
 }

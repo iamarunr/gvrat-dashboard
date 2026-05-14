@@ -102,22 +102,46 @@
     },
     {
       "date": "2026-05-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.05,
+      "km": 6.52,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Historic Union Pacific Rail Trail"
     },
     {
       "date": "2026-05-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.13,
+      "km": 6.65,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Highland and Alpine"
+    },
+    {
+      "date": "2026-05-12",
+      "miles": 2.13,
+      "km": 3.43,
+      "type": "walk",
+      "time": null,
+      "comment": "Murdock Canal Trail from Mitchell Hollow"
+    },
+    {
+      "date": "2026-05-13",
+      "miles": 3.13,
+      "km": 5.04,
+      "type": "run",
+      "time": null,
+      "comment": "Highland Neighborhood 5K"
+    },
+    {
+      "date": "2026-05-13",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "walk",
+      "time": null,
+      "comment": "Franklin Basin with Terri"
     }
   ],
-  "totalActivities": 9,
-  "activeDays": 7,
-  "restDays": 5
+  "totalActivities": 14,
+  "activeDays": 10,
+  "restDays": 3
 }

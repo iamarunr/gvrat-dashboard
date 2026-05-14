@@ -99,9 +99,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total\u2026 nice to break it up to smaller walks with Leah"
+    },
+    {
+      "date": "2026-05-13",
+      "miles": 4.5,
+      "km": 7.24,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total"
     }
   ],
-  "totalActivities": 11,
-  "activeDays": 11,
+  "totalActivities": 12,
+  "activeDays": 12,
   "restDays": 1
 }

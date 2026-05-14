@@ -1,8 +1,8 @@
 {
-  "bib": 224,
-  "firstName": "Paula",
-  "lastName": "Murray",
-  "displayName": "Paula Murray",
+  "bib": 348,
+  "firstName": "Barb",
+  "lastName": "Kosinski",
+  "displayName": "Barb Kosinski",
   "activities": [
     {
       "date": "2026-05-01",
@@ -54,33 +54,33 @@
     },
     {
       "date": "2026-05-07",
-      "miles": 1.25,
-      "km": 2.01,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-08",
-      "miles": 1.25,
-      "km": 2.01,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-09",
-      "miles": 5.25,
-      "km": 8.45,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-10",
-      "miles": 1.25,
-      "km": 2.01,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
@@ -94,9 +94,9 @@
     },
     {
       "date": "2026-05-12",
-      "miles": 2.5,
-      "km": 4.02,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
@@ -109,7 +109,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 5,
-  "activeDays": 5,
-  "restDays": 8
+  "totalActivities": 0,
+  "activeDays": 0,
+  "restDays": 13
 }
