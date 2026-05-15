@@ -134,6 +134,14 @@
     },
     {
       "date": "2026-05-13",
+      "miles": 5.06,
+      "km": 8.14,
+      "type": "walk",
+      "time": null,
+      "comment": "Extra walking at work."
+    },
+    {
+      "date": "2026-05-14",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -141,7 +149,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 14,
-  "activeDays": 10,
+  "totalActivities": 15,
+  "activeDays": 11,
   "restDays": 3
 }

@@ -171,9 +171,17 @@
       "type": "walk",
       "time": null,
       "comment": "After dinner."
+    },
+    {
+      "date": "2026-05-14",
+      "miles": 7.1,
+      "km": 11.43,
+      "type": "walk",
+      "time": null,
+      "comment": "7 street crossings, wow how much time is spent waiting."
     }
   ],
-  "totalActivities": 21,
-  "activeDays": 13,
+  "totalActivities": 22,
+  "activeDays": 14,
   "restDays": 0
 }

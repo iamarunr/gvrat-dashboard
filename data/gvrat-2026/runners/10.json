@@ -107,9 +107,17 @@
       "type": "run",
       "time": null,
       "comment": "Run 8, walk the rest"
+    },
+    {
+      "date": "2026-05-14",
+      "miles": 8.3,
+      "km": 13.36,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 13,
-  "activeDays": 13,
+  "totalActivities": 14,
+  "activeDays": 14,
   "restDays": 0
 }

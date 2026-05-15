@@ -149,15 +149,47 @@
       "comment": "Home to Shady Grove Metro Station"
     },
     {
+      "date": "2026-05-12",
+      "miles": 1.08,
+      "km": 1.74,
+      "type": "walk",
+      "time": null,
+      "comment": "North Bethesda Metro Station to ARC"
+    },
+    {
+      "date": "2026-05-12",
+      "miles": 1.01,
+      "km": 1.63,
+      "type": "walk",
+      "time": null,
+      "comment": "ARC to North Bethesda Metro Station"
+    },
+    {
+      "date": "2026-05-12",
+      "miles": 1.42,
+      "km": 2.29,
+      "type": "walk",
+      "time": null,
+      "comment": "Shady Grove Metro Station to Home"
+    },
+    {
       "date": "2026-05-13",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-14",
+      "miles": 1.32,
+      "km": 2.12,
+      "type": "walk",
+      "time": null,
+      "comment": "Home to Shady Grove Metro Station"
     }
   ],
-  "totalActivities": 15,
-  "activeDays": 9,
+  "totalActivities": 19,
+  "activeDays": 10,
   "restDays": 4
 }

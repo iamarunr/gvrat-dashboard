@@ -179,9 +179,25 @@
       "type": "walk",
       "time": null,
       "comment": "Rest of day getting steps"
+    },
+    {
+      "date": "2026-05-14",
+      "miles": 3.21,
+      "km": 5.17,
+      "type": "walk",
+      "time": null,
+      "comment": "Collegedale run with Cynthia early morning"
+    },
+    {
+      "date": "2026-05-14",
+      "miles": 1.49,
+      "km": 2.4,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and then some"
     }
   ],
-  "totalActivities": 22,
-  "activeDays": 13,
+  "totalActivities": 24,
+  "activeDays": 14,
   "restDays": 0
 }
