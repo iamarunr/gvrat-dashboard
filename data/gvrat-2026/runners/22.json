@@ -115,9 +115,33 @@
       "type": "walk",
       "time": null,
       "comment": "Seoul walking to explore."
+    },
+    {
+      "date": "2026-05-14",
+      "miles": 5.11,
+      "km": 8.22,
+      "type": "run",
+      "time": null,
+      "comment": "Cheonggyecheon Steam, Seoul"
+    },
+    {
+      "date": "2026-05-14",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
+      "time": null,
+      "comment": "Ibis to Namsan Mountain Round Trip"
+    },
+    {
+      "date": "2026-05-14",
+      "miles": 6.19,
+      "km": 9.96,
+      "type": "run",
+      "time": null,
+      "comment": "Cheonggyechon Stream, Seoul"
     }
   ],
-  "totalActivities": 14,
-  "activeDays": 13,
+  "totalActivities": 17,
+  "activeDays": 14,
   "restDays": 0
 }

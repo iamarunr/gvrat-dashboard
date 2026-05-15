@@ -147,9 +147,17 @@
       "type": "walk",
       "time": null,
       "comment": "two dog walks and a bit of cattle mustering"
+    },
+    {
+      "date": "2026-05-14",
+      "miles": 1.12,
+      "km": 1.8,
+      "type": "walk",
+      "time": null,
+      "comment": "two dog walks"
     }
   ],
-  "totalActivities": 18,
-  "activeDays": 13,
+  "totalActivities": 19,
+  "activeDays": 14,
   "restDays": 0
 }

@@ -107,9 +107,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walked three miles with Eddie and 6.3 miles later tonight at 68\u00b0. Found a penny."
+    },
+    {
+      "date": "2026-05-14",
+      "miles": 8.3,
+      "km": 13.36,
+      "type": "walk",
+      "time": null,
+      "comment": "Walked 3.30 miles today at 95\u00b0, 3.0 with Eddie and 2.0 more later tonight."
     }
   ],
-  "totalActivities": 13,
-  "activeDays": 13,
+  "totalActivities": 14,
+  "activeDays": 14,
   "restDays": 0
 }

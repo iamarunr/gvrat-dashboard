@@ -86,9 +86,17 @@
     },
     {
       "date": "2026-05-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.07,
+      "km": 4.94,
+      "type": "run",
+      "time": null,
+      "comment": "5kms des loups y"
+    },
+    {
+      "date": "2026-05-10",
+      "miles": 6.07,
+      "km": 9.77,
+      "type": "run",
       "time": null,
       "comment": ""
     },
@@ -102,22 +110,30 @@
     },
     {
       "date": "2026-05-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.27,
+      "km": 5.26,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.43,
+      "km": 8.74,
+      "type": "run",
+      "time": null,
+      "comment": "No fun no run"
+    },
+    {
+      "date": "2026-05-14",
+      "miles": 8.05,
+      "km": 12.96,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 6,
-  "activeDays": 5,
-  "restDays": 8
+  "totalActivities": 11,
+  "activeDays": 9,
+  "restDays": 5
 }

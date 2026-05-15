@@ -131,9 +131,17 @@
       "type": "run",
       "time": null,
       "comment": "Regenrunde, 2 x Birne"
+    },
+    {
+      "date": "2026-05-14",
+      "miles": 5.09,
+      "km": 8.19,
+      "type": "run",
+      "time": null,
+      "comment": "Wind!"
     }
   ],
-  "totalActivities": 16,
-  "activeDays": 13,
+  "totalActivities": 17,
+  "activeDays": 14,
   "restDays": 0
 }
