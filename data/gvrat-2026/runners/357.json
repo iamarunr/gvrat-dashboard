@@ -246,14 +246,30 @@
     },
     {
       "date": "2026-05-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "morning dog run"
+    },
+    {
+      "date": "2026-05-14",
+      "miles": 1.25,
+      "km": 2.01,
+      "type": "walk",
+      "time": null,
+      "comment": "dog walk"
+    },
+    {
+      "date": "2026-05-15",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "run",
+      "time": null,
+      "comment": "morning run, dogs did 1.5 of 6"
     }
   ],
-  "totalActivities": 30,
-  "activeDays": 13,
-  "restDays": 1
+  "totalActivities": 33,
+  "activeDays": 15,
+  "restDays": 0
 }

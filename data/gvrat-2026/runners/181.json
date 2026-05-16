@@ -115,9 +115,17 @@
       "type": "walk",
       "time": null,
       "comment": "3Days at the Fair in NJ"
+    },
+    {
+      "date": "2026-05-15",
+      "miles": 14.0,
+      "km": 22.53,
+      "type": "walk",
+      "time": null,
+      "comment": "Last of 4 days at the Fair mileage"
     }
   ],
-  "totalActivities": 6,
-  "activeDays": 6,
+  "totalActivities": 7,
+  "activeDays": 7,
   "restDays": 8
 }

@@ -187,9 +187,33 @@
       "type": "walk",
       "time": null,
       "comment": "Home to Shady Grove Metro Station"
+    },
+    {
+      "date": "2026-05-14",
+      "miles": 3.26,
+      "km": 5.25,
+      "type": "walk",
+      "time": null,
+      "comment": "GOTR Cone Truck Course Preview Walk"
+    },
+    {
+      "date": "2026-05-15",
+      "miles": 1.46,
+      "km": 2.35,
+      "type": "walk",
+      "time": null,
+      "comment": "Home to Shady Grove Metro Station Bus Bay A"
+    },
+    {
+      "date": "2026-05-15",
+      "miles": 1.1,
+      "km": 1.77,
+      "type": "walk",
+      "time": null,
+      "comment": "MCRRC Clubhouse to Rockville Metro Station"
     }
   ],
-  "totalActivities": 19,
-  "activeDays": 10,
+  "totalActivities": 22,
+  "activeDays": 11,
   "restDays": 4
 }

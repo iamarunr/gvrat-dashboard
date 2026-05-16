@@ -227,9 +227,33 @@
       "type": "walk",
       "time": null,
       "comment": "Richfield UT"
+    },
+    {
+      "date": "2026-05-15",
+      "miles": 1.01,
+      "km": 1.63,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 3995 Richfield UT"
+    },
+    {
+      "date": "2026-05-15",
+      "miles": 2.54,
+      "km": 4.09,
+      "type": "walk",
+      "time": null,
+      "comment": "AM Walk"
+    },
+    {
+      "date": "2026-05-15",
+      "miles": 2.55,
+      "km": 4.1,
+      "type": "walk",
+      "time": null,
+      "comment": "PM Walk"
     }
   ],
-  "totalActivities": 28,
-  "activeDays": 14,
+  "totalActivities": 31,
+  "activeDays": 15,
   "restDays": 0
 }

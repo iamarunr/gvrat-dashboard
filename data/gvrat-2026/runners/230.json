@@ -118,14 +118,30 @@
     },
     {
       "date": "2026-05-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.45,
+      "km": 2.33,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walk to C2C Marshal Point & back again"
     },
     {
       "date": "2026-05-14",
+      "miles": 2.06,
+      "km": 3.32,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk to Volunteer Point & a bit more"
+    },
+    {
+      "date": "2026-05-14",
+      "miles": 6.27,
+      "km": 10.09,
+      "type": "run",
+      "time": null,
+      "comment": "Friday Night Lights Hackney Quarter"
+    },
+    {
+      "date": "2026-05-15",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -133,7 +149,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 12,
-  "activeDays": 10,
-  "restDays": 4
+  "totalActivities": 15,
+  "activeDays": 12,
+  "restDays": 3
 }
