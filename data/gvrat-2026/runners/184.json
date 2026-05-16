@@ -195,9 +195,25 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and then some"
+    },
+    {
+      "date": "2026-05-15",
+      "miles": 1.31,
+      "km": 2.11,
+      "type": "walk",
+      "time": null,
+      "comment": "Friday morning walk . Day before vacay"
+    },
+    {
+      "date": "2026-05-15",
+      "miles": 3.49,
+      "km": 5.62,
+      "type": "walk",
+      "time": null,
+      "comment": "Walked the boys and then walked alone"
     }
   ],
-  "totalActivities": 24,
-  "activeDays": 14,
+  "totalActivities": 26,
+  "activeDays": 15,
   "restDays": 0
 }

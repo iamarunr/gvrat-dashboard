@@ -179,9 +179,17 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-15",
+      "miles": 35.62,
+      "km": 57.32,
+      "type": "walk",
+      "time": null,
+      "comment": "Day one of the 3 days at the Fair Ultramarathon."
     }
   ],
-  "totalActivities": 22,
-  "activeDays": 14,
+  "totalActivities": 23,
+  "activeDays": 15,
   "restDays": 0
 }

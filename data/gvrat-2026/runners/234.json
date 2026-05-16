@@ -142,14 +142,38 @@
     },
     {
       "date": "2026-05-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.12,
+      "km": 5.02,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Garden City Paths"
+    },
+    {
+      "date": "2026-05-14",
+      "miles": 3.25,
+      "km": 5.23,
+      "type": "walk",
+      "time": null,
+      "comment": "Loveland Lane Trailhead to Fish Haven Canyon and back with Terri"
+    },
+    {
+      "date": "2026-05-15",
+      "miles": 3.09,
+      "km": 4.97,
+      "type": "walk",
+      "time": null,
+      "comment": "Shundahai neighborhood hike"
+    },
+    {
+      "date": "2026-05-15",
+      "miles": 3.73,
+      "km": 6.0,
+      "type": "walk",
+      "time": null,
+      "comment": "Sinks Road to Burnt Fork"
     }
   ],
-  "totalActivities": 14,
-  "activeDays": 10,
-  "restDays": 4
+  "totalActivities": 18,
+  "activeDays": 12,
+  "restDays": 3
 }

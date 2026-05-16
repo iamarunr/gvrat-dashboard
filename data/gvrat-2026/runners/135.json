@@ -275,9 +275,25 @@
       "type": "run",
       "time": null,
       "comment": "Day 2400 of my running streak!"
+    },
+    {
+      "date": "2026-05-15",
+      "miles": 4.26,
+      "km": 6.86,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-15",
+      "miles": 2.83,
+      "km": 4.55,
+      "type": "run",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 34,
-  "activeDays": 14,
+  "totalActivities": 36,
+  "activeDays": 15,
   "restDays": 0
 }

@@ -6,11 +6,19 @@
   "activities": [
     {
       "date": "2026-05-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.74,
+      "km": 2.8,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "work to lake via ormond"
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 1.03,
+      "km": 1.66,
+      "type": "walk",
+      "time": null,
+      "comment": "around farm shop totworth"
     },
     {
       "date": "2026-05-02",
@@ -30,27 +38,27 @@
     },
     {
       "date": "2026-05-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.44,
+      "km": 3.93,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "gym to home"
     },
     {
       "date": "2026-05-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.9,
+      "km": 1.45,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "brick training"
     },
     {
       "date": "2026-05-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.65,
+      "km": 2.66,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "margaretka walk"
     },
     {
       "date": "2026-05-07",
@@ -70,27 +78,27 @@
     },
     {
       "date": "2026-05-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.72,
+      "km": 5.99,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Tewkesbury town and meadow"
     },
     {
       "date": "2026-05-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.15,
+      "km": 3.46,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Monmouth town"
     },
     {
       "date": "2026-05-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.87,
+      "km": 7.84,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "recovery run"
     },
     {
       "date": "2026-05-12",
@@ -102,22 +110,38 @@
     },
     {
       "date": "2026-05-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.01,
+      "km": 8.06,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "birmingham squares longbridge & cotteridge"
     },
     {
       "date": "2026-05-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.65,
+      "km": 2.66,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "groceries walk"
+    },
+    {
+      "date": "2026-05-15",
+      "miles": 0.9,
+      "km": 1.45,
+      "type": "walk",
+      "time": null,
+      "comment": "work to gym"
+    },
+    {
+      "date": "2026-05-15",
+      "miles": 6.33,
+      "km": 10.19,
+      "type": "walk",
+      "time": null,
+      "comment": "walk to work and parking laps"
     }
   ],
-  "totalActivities": 0,
-  "activeDays": 0,
-  "restDays": 14
+  "totalActivities": 12,
+  "activeDays": 10,
+  "restDays": 5
 }

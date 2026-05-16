@@ -126,22 +126,46 @@
     },
     {
       "date": "2026-05-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.58,
+      "km": 12.2,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "863' ascent.  Sinks Rd - recovery & snow check"
+    },
+    {
+      "date": "2026-05-13",
+      "miles": 4.11,
+      "km": 6.61,
+      "type": "walk",
+      "time": null,
+      "comment": "410' ascent.  Franklin Basin amble w/ Rick"
     },
     {
       "date": "2026-05-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 10.86,
+      "km": 17.48,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "3012' ascent.  Ranger Dip (lots of snow and deadfall) and Swan Flat Rd"
+    },
+    {
+      "date": "2026-05-14",
+      "miles": 3.2,
+      "km": 5.15,
+      "type": "walk",
+      "time": null,
+      "comment": "600' ascent.  BLM 169 & Fish Haven Canyon w/ Rick"
+    },
+    {
+      "date": "2026-05-15",
+      "miles": 40.21,
+      "km": 64.71,
+      "type": "run",
+      "time": null,
+      "comment": "6010' ascent.  Big loop & Kearl Pond loop from Temple Flat"
     }
   ],
-  "totalActivities": 15,
-  "activeDays": 12,
-  "restDays": 2
+  "totalActivities": 20,
+  "activeDays": 15,
+  "restDays": 0
 }
