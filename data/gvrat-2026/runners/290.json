@@ -102,11 +102,11 @@
     },
     {
       "date": "2026-05-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.3,
+      "km": 3.7,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "I\u2019m trying. \ud83d\ude2d"
     },
     {
       "date": "2026-05-14",
@@ -118,14 +118,22 @@
     },
     {
       "date": "2026-05-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.7,
+      "km": 2.74,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Everyday seems to be a struggle. This is as much as I could do. Missing the version of me that could knock out a 5-miler in 45 minutes. \ud83d\ude2d\ud83d\udc94"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 3.9,
+      "km": 6.28,
+      "type": "walk",
+      "time": null,
+      "comment": "Feeling a little stronger today. Still in pain but not as much. \ud83d\ude4f\ud83c\udffb\ud83d\ude4c\ud83c\udffc"
     }
   ],
-  "totalActivities": 11,
-  "activeDays": 11,
-  "restDays": 4
+  "totalActivities": 14,
+  "activeDays": 14,
+  "restDays": 2
 }

@@ -163,9 +163,41 @@
       "type": "walk",
       "time": null,
       "comment": "two dog walks"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 1.43,
+      "km": 2.3,
+      "type": "walk",
+      "time": null,
+      "comment": "two dog walks"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "run",
+      "time": null,
+      "comment": "parkrun"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 6.21,
+      "km": 9.99,
+      "type": "run",
+      "time": null,
+      "comment": "Deanmill Heritage Trail (Penta run #2 of 5)"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 2.8,
+      "km": 4.51,
+      "type": "walk",
+      "time": null,
+      "comment": "night walk with Willah"
     }
   ],
-  "totalActivities": 20,
-  "activeDays": 15,
+  "totalActivities": 24,
+  "activeDays": 16,
   "restDays": 0
 }

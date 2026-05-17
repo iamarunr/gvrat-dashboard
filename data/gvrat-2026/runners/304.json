@@ -147,9 +147,41 @@
       "type": "walk",
       "time": null,
       "comment": "Bachelorette Party Day 1"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 0.84,
+      "km": 1.35,
+      "type": "walk",
+      "time": null,
+      "comment": "Breakfast spot to trailhead"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 4.45,
+      "km": 7.16,
+      "type": "walk",
+      "time": null,
+      "comment": "Hike on Anderson and Dawn Trails, Park City"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "walk",
+      "time": null,
+      "comment": "Park City Walking"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 2.32,
+      "km": 3.73,
+      "type": "run",
+      "time": null,
+      "comment": "Elevation run ~7,000 ft"
     }
   ],
-  "totalActivities": 14,
-  "activeDays": 11,
+  "totalActivities": 18,
+  "activeDays": 12,
   "restDays": 4
 }

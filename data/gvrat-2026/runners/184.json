@@ -211,9 +211,25 @@
       "type": "walk",
       "time": null,
       "comment": "Walked the boys and then walked alone"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 1.55,
+      "km": 2.49,
+      "type": "run",
+      "time": null,
+      "comment": "Treadmill intervals"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 2.45,
+      "km": 3.94,
+      "type": "walk",
+      "time": null,
+      "comment": "Beach walk and grocery stock up"
     }
   ],
-  "totalActivities": 26,
-  "activeDays": 15,
+  "totalActivities": 28,
+  "activeDays": 16,
   "restDays": 0
 }

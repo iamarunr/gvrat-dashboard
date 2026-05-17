@@ -187,9 +187,17 @@
       "type": "walk",
       "time": null,
       "comment": "Morning walk"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 23,
-  "activeDays": 15,
+  "totalActivities": 24,
+  "activeDays": 16,
   "restDays": 0
 }

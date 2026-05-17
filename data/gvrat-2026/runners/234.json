@@ -171,9 +171,17 @@
       "type": "walk",
       "time": null,
       "comment": "Sinks Road to Burnt Fork"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 3.34,
+      "km": 5.38,
+      "type": "walk",
+      "time": null,
+      "comment": "Garden City Loop with Terri"
     }
   ],
-  "totalActivities": 18,
-  "activeDays": 12,
+  "totalActivities": 19,
+  "activeDays": 13,
   "restDays": 3
 }

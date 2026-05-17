@@ -123,9 +123,17 @@
       "type": "walk",
       "time": null,
       "comment": "Warm day and evening. Walked 2.5 miles with Eddie and 7.0 miles tonight. Tested out my new headlamp/belt light again. Got at least 3 hours tonight. Will recharge battery and try longer tomorrow."
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 8.93,
+      "km": 14.37,
+      "type": "walk",
+      "time": null,
+      "comment": "Walked 1.47miles this morning with Eddie before our trip to KC. 7.46 miles after we got back home."
     }
   ],
-  "totalActivities": 15,
-  "activeDays": 15,
+  "totalActivities": 16,
+  "activeDays": 16,
   "restDays": 0
 }

@@ -123,9 +123,17 @@
       "type": "run",
       "time": null,
       "comment": "Lanecove"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 10.12,
+      "km": 16.29,
+      "type": "run",
+      "time": null,
+      "comment": "Glebe"
     }
   ],
-  "totalActivities": 8,
-  "activeDays": 8,
+  "totalActivities": 9,
+  "activeDays": 9,
   "restDays": 7
 }

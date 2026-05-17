@@ -147,9 +147,25 @@
       "type": "walk",
       "time": null,
       "comment": "on foot to farmers market."
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 3.62,
+      "km": 5.83,
+      "type": "walk",
+      "time": null,
+      "comment": "second tour with +1, take that buzzard!!!!"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 8.43,
+      "km": 13.57,
+      "type": "run",
+      "time": null,
+      "comment": "catching up with the bloody buzzard on my first long run since a month"
     }
   ],
-  "totalActivities": 18,
-  "activeDays": 15,
+  "totalActivities": 20,
+  "activeDays": 16,
   "restDays": 0
 }
