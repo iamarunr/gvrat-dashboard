@@ -163,9 +163,17 @@
       "type": "walk",
       "time": null,
       "comment": "Treadmill"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 7.2,
+      "km": 11.59,
+      "type": "walk",
+      "time": null,
+      "comment": "Hike in home hood"
     }
   ],
-  "totalActivities": 14,
-  "activeDays": 9,
+  "totalActivities": 15,
+  "activeDays": 10,
   "restDays": 6
 }

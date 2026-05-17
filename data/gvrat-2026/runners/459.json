@@ -1,14 +1,14 @@
 {
-  "bib": 361,
-  "firstName": "Roxy",
-  "lastName": "Anderson",
-  "displayName": "Roxy Anderson",
+  "bib": 459,
+  "firstName": "Ann",
+  "lastName": "Little",
+  "displayName": "Ann Little",
   "activities": [
     {
       "date": "2026-05-01",
-      "miles": 3.06,
-      "km": 4.92,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
@@ -62,9 +62,9 @@
     },
     {
       "date": "2026-05-08",
-      "miles": 3.1,
-      "km": 4.99,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
@@ -86,9 +86,9 @@
     },
     {
       "date": "2026-05-11",
-      "miles": 4.63,
-      "km": 7.45,
-      "type": "run",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
@@ -133,7 +133,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 3,
-  "activeDays": 3,
-  "restDays": 13
+  "totalActivities": 0,
+  "activeDays": 0,
+  "restDays": 16
 }

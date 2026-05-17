@@ -123,9 +123,17 @@
       "type": "walk",
       "time": null,
       "comment": "pre CF walk with Shirley"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "It\u2019s been a struggle this week."
     }
   ],
-  "totalActivities": 10,
-  "activeDays": 10,
+  "totalActivities": 11,
+  "activeDays": 11,
   "restDays": 5
 }

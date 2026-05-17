@@ -139,9 +139,25 @@
       "type": "walk",
       "time": null,
       "comment": "walk to work and parking laps"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 4.82,
+      "km": 7.76,
+      "type": "run",
+      "time": null,
+      "comment": "from work via three brooks and little stoke park"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 0.68,
+      "km": 1.09,
+      "type": "walk",
+      "time": null,
+      "comment": "b&q walk"
     }
   ],
-  "totalActivities": 12,
-  "activeDays": 10,
+  "totalActivities": 14,
+  "activeDays": 11,
   "restDays": 5
 }

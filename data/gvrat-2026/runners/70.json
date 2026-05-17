@@ -299,9 +299,25 @@
       "type": "walk",
       "time": null,
       "comment": "Lunchtime"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 4.5,
+      "km": 7.24,
+      "type": "run",
+      "time": null,
+      "comment": "Mead morning out"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 4.5,
+      "km": 7.24,
+      "type": "walk",
+      "time": null,
+      "comment": "Mead morning back"
     }
   ],
-  "totalActivities": 37,
-  "activeDays": 15,
+  "totalActivities": 39,
+  "activeDays": 16,
   "restDays": 0
 }

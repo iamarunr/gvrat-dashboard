@@ -123,9 +123,17 @@
       "type": "walk",
       "time": null,
       "comment": "Track 4.32 total, 1:12:30.  Dogs 2.18 50 minutes.  Afternoon walk 4.5, 1:16:30"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 6.48,
+      "km": 10.43,
+      "type": "walk",
+      "time": null,
+      "comment": "3.28 with 20#, 1:03:27.  3.19 with the dogs, 1:14"
     }
   ],
-  "totalActivities": 15,
-  "activeDays": 15,
+  "totalActivities": 16,
+  "activeDays": 16,
   "restDays": 0
 }

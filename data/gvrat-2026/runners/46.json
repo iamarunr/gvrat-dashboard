@@ -251,9 +251,25 @@
       "type": "walk",
       "time": null,
       "comment": "PM Walk"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 13.3,
+      "km": 21.4,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 3996 Clear Creek Half Mary in Sevier UT"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 2.3,
+      "km": 3.7,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 31,
-  "activeDays": 15,
+  "totalActivities": 33,
+  "activeDays": 16,
   "restDays": 0
 }

@@ -323,9 +323,33 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 3.77,
+      "km": 6.07,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "With Elliot"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 12.02,
+      "km": 19.34,
+      "type": "run",
+      "time": null,
+      "comment": "Trail run"
     }
   ],
-  "totalActivities": 38,
-  "activeDays": 13,
+  "totalActivities": 41,
+  "activeDays": 14,
   "restDays": 2
 }
