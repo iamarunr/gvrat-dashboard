@@ -155,9 +155,17 @@
       "type": "walk",
       "time": null,
       "comment": "b&q walk"
+    },
+    {
+      "date": "2026-05-17",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 14,
   "activeDays": 11,
-  "restDays": 5
+  "restDays": 6
 }

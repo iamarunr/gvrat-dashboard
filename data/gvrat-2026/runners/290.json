@@ -131,9 +131,17 @@
       "type": "walk",
       "time": null,
       "comment": "Feeling a little stronger today. Still in pain but not as much. \ud83d\ude4f\ud83c\udffb\ud83d\ude4c\ud83c\udffc"
+    },
+    {
+      "date": "2026-05-17",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 14,
   "activeDays": 14,
-  "restDays": 2
+  "restDays": 3
 }

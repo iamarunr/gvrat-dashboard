@@ -125,6 +125,14 @@
       "comment": "Trails - mostly walking. Very warm."
     },
     {
+      "date": "2026-05-13",
+      "miles": 1.81,
+      "km": 2.91,
+      "type": "walk",
+      "time": null,
+      "comment": "Lunch walk and talk"
+    },
+    {
       "date": "2026-05-14",
       "miles": 0.0,
       "km": 0.0,
@@ -134,11 +142,19 @@
     },
     {
       "date": "2026-05-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.48,
+      "km": 0.77,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Returning all the carts in the parking lot. People are lazy."
+    },
+    {
+      "date": "2026-05-15",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "run",
+      "time": null,
+      "comment": "Pre shopping run"
     },
     {
       "date": "2026-05-16",
@@ -147,9 +163,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-17",
+      "miles": 9.46,
+      "km": 15.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Hikes Kepros with Chere"
     }
   ],
-  "totalActivities": 15,
-  "activeDays": 13,
-  "restDays": 3
+  "totalActivities": 19,
+  "activeDays": 15,
+  "restDays": 2
 }

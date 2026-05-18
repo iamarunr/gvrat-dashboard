@@ -179,9 +179,33 @@
       "type": "walk",
       "time": null,
       "comment": "Garden City Loop with Terri"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 2.25,
+      "km": 3.62,
+      "type": "walk",
+      "time": null,
+      "comment": "Manual workout"
+    },
+    {
+      "date": "2026-05-17",
+      "miles": 3.21,
+      "km": 5.17,
+      "type": "run",
+      "time": null,
+      "comment": "Surfside Beach IFIT run"
+    },
+    {
+      "date": "2026-05-17",
+      "miles": 2.54,
+      "km": 4.09,
+      "type": "walk",
+      "time": null,
+      "comment": "Oceanside IFIT walk"
     }
   ],
-  "totalActivities": 19,
-  "activeDays": 13,
+  "totalActivities": 22,
+  "activeDays": 14,
   "restDays": 3
 }

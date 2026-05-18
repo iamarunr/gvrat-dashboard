@@ -219,9 +219,25 @@
       "type": "walk",
       "time": null,
       "comment": "Today + make up miles"
+    },
+    {
+      "date": "2026-05-17",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "Golf."
+    },
+    {
+      "date": "2026-05-17",
+      "miles": 3.27,
+      "km": 5.26,
+      "type": "walk",
+      "time": null,
+      "comment": "Windy walk"
     }
   ],
-  "totalActivities": 22,
-  "activeDays": 11,
+  "totalActivities": 24,
+  "activeDays": 12,
   "restDays": 5
 }

@@ -166,22 +166,62 @@
     },
     {
       "date": "2026-05-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.67,
+      "km": 2.69,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 8.2,
+      "km": 13.2,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.26,
+      "km": 2.03,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 0.2,
+      "km": 0.32,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
+    },
+    {
+      "date": "2026-05-17",
+      "miles": 6.2,
+      "km": 9.98,
+      "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-17",
+      "miles": 0.27,
+      "km": 0.43,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
+    },
+    {
+      "date": "2026-05-17",
+      "miles": 0.85,
+      "km": 1.37,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
     }
   ],
-  "totalActivities": 20,
-  "activeDays": 14,
-  "restDays": 2
+  "totalActivities": 27,
+  "activeDays": 17,
+  "restDays": 0
 }

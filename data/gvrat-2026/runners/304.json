@@ -179,9 +179,17 @@
       "type": "run",
       "time": null,
       "comment": "Elevation run ~7,000 ft"
+    },
+    {
+      "date": "2026-05-17",
+      "miles": 3.68,
+      "km": 5.92,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 18,
-  "activeDays": 12,
+  "totalActivities": 19,
+  "activeDays": 13,
   "restDays": 4
 }

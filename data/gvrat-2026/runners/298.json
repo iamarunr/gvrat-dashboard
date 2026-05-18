@@ -171,9 +171,17 @@
       "type": "walk",
       "time": null,
       "comment": "Hike in home hood"
+    },
+    {
+      "date": "2026-05-17",
+      "miles": 9.0,
+      "km": 14.48,
+      "type": "run",
+      "time": null,
+      "comment": "Heil Ranch Hill Repeats"
     }
   ],
-  "totalActivities": 15,
-  "activeDays": 10,
+  "totalActivities": 16,
+  "activeDays": 11,
   "restDays": 6
 }
