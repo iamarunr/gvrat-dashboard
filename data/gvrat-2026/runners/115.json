@@ -347,9 +347,17 @@
       "type": "run",
       "time": null,
       "comment": "Trail run"
+    },
+    {
+      "date": "2026-05-17",
+      "miles": 1.23,
+      "km": 1.98,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk with E"
     }
   ],
-  "totalActivities": 41,
-  "activeDays": 14,
+  "totalActivities": 42,
+  "activeDays": 15,
   "restDays": 2
 }

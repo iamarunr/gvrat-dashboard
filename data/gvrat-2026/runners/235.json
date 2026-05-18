@@ -131,9 +131,17 @@
       "type": "walk",
       "time": null,
       "comment": "It\u2019s been a struggle this week."
+    },
+    {
+      "date": "2026-05-17",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 11,
-  "activeDays": 11,
+  "totalActivities": 12,
+  "activeDays": 12,
   "restDays": 5
 }

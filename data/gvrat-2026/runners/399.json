@@ -131,9 +131,17 @@
       "type": "walk",
       "time": null,
       "comment": "3.28 with 20#, 1:03:27.  3.19 with the dogs, 1:14"
+    },
+    {
+      "date": "2026-05-17",
+      "miles": 11.11,
+      "km": 17.88,
+      "type": "walk",
+      "time": null,
+      "comment": "6.1, 2:01.  With dogs 5.01, 1:52"
     }
   ],
-  "totalActivities": 16,
-  "activeDays": 16,
+  "totalActivities": 17,
+  "activeDays": 17,
   "restDays": 0
 }

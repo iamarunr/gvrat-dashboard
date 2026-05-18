@@ -163,9 +163,25 @@
       "type": "run",
       "time": null,
       "comment": "catching up with the bloody buzzard on my first long run since a month"
+    },
+    {
+      "date": "2026-05-17",
+      "miles": 3.47,
+      "km": 5.58,
+      "type": "run",
+      "time": null,
+      "comment": "first bootcamp, then run"
+    },
+    {
+      "date": "2026-05-17",
+      "miles": 1.53,
+      "km": 2.46,
+      "type": "walk",
+      "time": null,
+      "comment": "with Mom and icecream"
     }
   ],
-  "totalActivities": 20,
-  "activeDays": 16,
+  "totalActivities": 22,
+  "activeDays": 17,
   "restDays": 0
 }

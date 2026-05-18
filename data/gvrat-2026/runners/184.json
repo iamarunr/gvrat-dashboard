@@ -227,9 +227,25 @@
       "type": "walk",
       "time": null,
       "comment": "Beach walk and grocery stock up"
+    },
+    {
+      "date": "2026-05-17",
+      "miles": 3.06,
+      "km": 4.92,
+      "type": "run",
+      "time": null,
+      "comment": "Run through the cottages at gulf shores . Beach too fluffy. Distracted and trying to figure out route - GS run day 2"
+    },
+    {
+      "date": "2026-05-17",
+      "miles": 3.64,
+      "km": 5.86,
+      "type": "walk",
+      "time": null,
+      "comment": "Multiple trips on beach and back . Gulf shores vacay paying off"
     }
   ],
-  "totalActivities": 28,
-  "activeDays": 16,
+  "totalActivities": 30,
+  "activeDays": 17,
   "restDays": 0
 }

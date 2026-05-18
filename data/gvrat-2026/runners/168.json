@@ -126,30 +126,38 @@
     },
     {
       "date": "2026-05-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "TVA Berta/ORRB"
     },
     {
       "date": "2026-05-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.81,
+      "km": 2.91,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "SP/Decatur"
     },
     {
       "date": "2026-05-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 25.05,
+      "km": 40.31,
+      "type": "run",
+      "time": null,
+      "comment": "John Hunt HSV"
+    },
+    {
+      "date": "2026-05-17",
+      "miles": 3.66,
+      "km": 5.89,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 12,
-  "activeDays": 10,
-  "restDays": 6
+  "totalActivities": 16,
+  "activeDays": 14,
+  "restDays": 3
 }

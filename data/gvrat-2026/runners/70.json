@@ -315,9 +315,17 @@
       "type": "walk",
       "time": null,
       "comment": "Mead morning back"
+    },
+    {
+      "date": "2026-05-17",
+      "miles": 6.5,
+      "km": 10.46,
+      "type": "walk",
+      "time": null,
+      "comment": "Lake loops"
     }
   ],
-  "totalActivities": 39,
-  "activeDays": 16,
+  "totalActivities": 40,
+  "activeDays": 17,
   "restDays": 0
 }

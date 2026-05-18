@@ -1,38 +1,38 @@
 {
-  "bib": 12,
-  "firstName": "Dorothy",
-  "lastName": "Jonas",
-  "displayName": "Dorothy Jonas",
+  "bib": 476,
+  "firstName": "Andy",
+  "lastName": "Emons",
+  "displayName": "Andy Emons",
   "activities": [
     {
       "date": "2026-05-01",
-      "miles": 4.5,
-      "km": 7.24,
-      "type": "walk",
+      "miles": 6.23,
+      "km": 10.03,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.23,
+      "km": 10.03,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 8.7,
+      "km": 14.0,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-04",
-      "miles": 4.5,
-      "km": 7.24,
-      "type": "walk",
+      "miles": 3.12,
+      "km": 5.02,
+      "type": "run",
       "time": null,
       "comment": ""
     },
@@ -46,9 +46,9 @@
     },
     {
       "date": "2026-05-06",
-      "miles": 4.5,
-      "km": 7.24,
-      "type": "walk",
+      "miles": 13.15,
+      "km": 21.16,
+      "type": "run",
       "time": null,
       "comment": ""
     },
@@ -62,57 +62,49 @@
     },
     {
       "date": "2026-05-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.24,
+      "km": 10.04,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.23,
+      "km": 10.03,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-10",
+      "miles": 9.33,
+      "km": 15.02,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-11",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
-      "time": null,
-      "comment": ""
-    },
-    {
-      "date": "2026-05-11",
-      "miles": 4.5,
-      "km": 7.24,
-      "type": "walk",
-      "time": null,
-      "comment": ""
-    },
-    {
-      "date": "2026-05-11",
-      "miles": 4.0,
-      "km": 6.44,
-      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.98,
+      "km": 8.01,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 10.0,
+      "km": 16.09,
+      "type": "run",
       "time": null,
       "comment": ""
     },
@@ -126,9 +118,9 @@
     },
     {
       "date": "2026-05-15",
-      "miles": 4.0,
-      "km": 6.44,
-      "type": "walk",
+      "miles": 21.13,
+      "km": 34.01,
+      "type": "run",
       "time": null,
       "comment": ""
     },
@@ -142,14 +134,14 @@
     },
     {
       "date": "2026-05-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.98,
+      "km": 8.01,
+      "type": "run",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 6,
-  "activeDays": 5,
-  "restDays": 12
+  "totalActivities": 12,
+  "activeDays": 12,
+  "restDays": 5
 }
