@@ -211,9 +211,25 @@
       "type": "run",
       "time": null,
       "comment": "John Rd half marathon"
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 2.36,
+      "km": 3.8,
+      "type": "walk",
+      "time": null,
+      "comment": "two dog walks and some farm walking"
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 5.47,
+      "km": 8.8,
+      "type": "walk",
+      "time": null,
+      "comment": "Two laps of Yeticup with W"
     }
   ],
-  "totalActivities": 26,
-  "activeDays": 17,
+  "totalActivities": 28,
+  "activeDays": 18,
   "restDays": 0
 }

@@ -134,6 +134,14 @@
     },
     {
       "date": "2026-05-17",
+      "miles": 3.37,
+      "km": 5.42,
+      "type": "run",
+      "time": null,
+      "comment": "GVRAT R3.006"
+    },
+    {
+      "date": "2026-05-18",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -141,7 +149,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 5,
-  "activeDays": 5,
+  "totalActivities": 6,
+  "activeDays": 6,
   "restDays": 12
 }

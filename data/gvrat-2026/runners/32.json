@@ -150,22 +150,30 @@
     },
     {
       "date": "2026-05-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.92,
+      "km": 1.48,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking to and from race site to cabin."
     },
     {
       "date": "2026-05-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 50.01,
+      "km": 80.48,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "First half of the Massanutten Mountain 100 Miler."
     },
     {
       "date": "2026-05-17",
+      "miles": 50.02,
+      "km": 80.5,
+      "type": "run",
+      "time": null,
+      "comment": "2nd half of Massanutten Mountain 100 Miler.   It was slow going but there was running and walking."
+    },
+    {
+      "date": "2026-05-18",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -173,7 +181,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 15,
-  "activeDays": 11,
-  "restDays": 6
+  "totalActivities": 18,
+  "activeDays": 14,
+  "restDays": 4
 }

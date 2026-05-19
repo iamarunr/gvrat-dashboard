@@ -187,9 +187,33 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 1.83,
+      "km": 2.95,
+      "type": "walk",
+      "time": null,
+      "comment": "Moonshine Arch Trail"
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 3.17,
+      "km": 5.1,
+      "type": "walk",
+      "time": null,
+      "comment": "Uinta Mountains"
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 2.9,
+      "km": 4.67,
+      "type": "walk",
+      "time": null,
+      "comment": "Dinosaur National Monument"
     }
   ],
-  "totalActivities": 19,
-  "activeDays": 13,
+  "totalActivities": 22,
+  "activeDays": 14,
   "restDays": 4
 }

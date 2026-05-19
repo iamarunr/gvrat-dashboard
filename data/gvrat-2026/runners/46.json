@@ -291,9 +291,41 @@
       "type": "walk",
       "time": null,
       "comment": "PM Walk"
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 1.02,
+      "km": 1.64,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 3998 Richfield UT"
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 0.88,
+      "km": 1.42,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 1.4,
+      "km": 2.25,
+      "type": "walk",
+      "time": null,
+      "comment": "Zion National Park Hike"
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 2.8,
+      "km": 4.51,
+      "type": "walk",
+      "time": null,
+      "comment": "PM Walk"
     }
   ],
-  "totalActivities": 36,
-  "activeDays": 17,
+  "totalActivities": 40,
+  "activeDays": 18,
   "restDays": 0
 }

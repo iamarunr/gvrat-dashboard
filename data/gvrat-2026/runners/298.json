@@ -179,9 +179,17 @@
       "type": "run",
       "time": null,
       "comment": "Heil Ranch Hill Repeats"
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Recovery walk"
     }
   ],
-  "totalActivities": 16,
-  "activeDays": 11,
+  "totalActivities": 17,
+  "activeDays": 12,
   "restDays": 6
 }

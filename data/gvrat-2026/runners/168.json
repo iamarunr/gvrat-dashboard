@@ -130,7 +130,7 @@
       "km": 4.83,
       "type": "walk",
       "time": null,
-      "comment": "TVA Berta/ORRB"
+      "comment": "TVA Bertha/ORRB"
     },
     {
       "date": "2026-05-15",
@@ -155,9 +155,17 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 2.85,
+      "km": 4.59,
+      "type": "walk",
+      "time": null,
+      "comment": "TVA ORRB/M/10#"
     }
   ],
-  "totalActivities": 16,
-  "activeDays": 14,
+  "totalActivities": 17,
+  "activeDays": 15,
   "restDays": 3
 }

@@ -213,12 +213,20 @@
       "comment": "MCRRC Clubhouse to Rockville Metro Station"
     },
     {
-      "date": "2026-05-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-05-15",
+      "miles": 1.39,
+      "km": 2.24,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Shady Grove Metro Station to Home"
+    },
+    {
+      "date": "2026-05-16",
+      "miles": 3.89,
+      "km": 6.26,
+      "type": "walk",
+      "time": null,
+      "comment": "Memorial Day 4-Miler Preview Walk"
     },
     {
       "date": "2026-05-17",
@@ -227,9 +235,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 4.18,
+      "km": 6.73,
+      "type": "run",
+      "time": null,
+      "comment": "King Farm Run: Piccard-W. Gude Dr."
     }
   ],
-  "totalActivities": 22,
-  "activeDays": 11,
-  "restDays": 6
+  "totalActivities": 25,
+  "activeDays": 13,
+  "restDays": 5
 }

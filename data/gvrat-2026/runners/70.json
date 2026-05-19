@@ -323,9 +323,25 @@
       "type": "walk",
       "time": null,
       "comment": "Lake loops"
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "run",
+      "time": null,
+      "comment": "Morning"
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "walk",
+      "time": null,
+      "comment": "Lunchtime"
     }
   ],
-  "totalActivities": 40,
-  "activeDays": 17,
+  "totalActivities": 42,
+  "activeDays": 18,
   "restDays": 0
 }

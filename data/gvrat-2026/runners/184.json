@@ -243,9 +243,25 @@
       "type": "walk",
       "time": null,
       "comment": "Multiple trips on beach and back . Gulf shores vacay paying off"
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "run",
+      "time": null,
+      "comment": "Base run, sad attempt \r\nit was hot GS run day 1"
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 3.39,
+      "km": 5.46,
+      "type": "walk",
+      "time": null,
+      "comment": "Beach walking - nice evening walk"
     }
   ],
-  "totalActivities": 30,
-  "activeDays": 17,
+  "totalActivities": 32,
+  "activeDays": 18,
   "restDays": 0
 }

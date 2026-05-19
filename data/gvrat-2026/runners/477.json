@@ -1,158 +1,142 @@
 {
-  "bib": 150,
-  "firstName": "Joan",
-  "lastName": "Topham",
-  "displayName": "Joan Topham",
+  "bib": 477,
+  "firstName": "Julio",
+  "lastName": "Driggs",
+  "displayName": "Julio Driggs",
   "activities": [
     {
       "date": "2026-05-01",
-      "miles": 5.75,
-      "km": 9.25,
-      "type": "walk",
+      "miles": 13.1,
+      "km": 21.08,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-02",
-      "miles": 4.3,
-      "km": 6.92,
-      "type": "walk",
+      "miles": 7.3,
+      "km": 11.75,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-03",
-      "miles": 11.7,
-      "km": 18.83,
-      "type": "run",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-04",
-      "miles": 2.5,
-      "km": 4.02,
-      "type": "walk",
-      "time": null,
-      "comment": ""
-    },
-    {
-      "date": "2026-05-04",
-      "miles": 4.5,
-      "km": 7.24,
-      "type": "run",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-05",
-      "miles": 3.5,
-      "km": 5.63,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-06",
-      "miles": 4.1,
-      "km": 6.6,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-07",
-      "miles": 3.2,
-      "km": 5.15,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-08",
-      "miles": 6.4,
-      "km": 10.3,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-09",
-      "miles": 6.2,
-      "km": 9.98,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-10",
-      "miles": 4.1,
-      "km": 6.6,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-11",
-      "miles": 5.2,
-      "km": 8.37,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-12",
-      "miles": 5.6,
-      "km": 9.01,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-13",
-      "miles": 5.6,
-      "km": 9.01,
-      "type": "walk",
-      "time": null,
-      "comment": ""
-    },
-    {
-      "date": "2026-05-13",
-      "miles": 4.1,
-      "km": 6.6,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-14",
-      "miles": 7.25,
-      "km": 11.67,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-15",
-      "miles": 6.0,
-      "km": 9.66,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-16",
-      "miles": 4.6,
-      "km": 7.4,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-17",
-      "miles": 6.0,
-      "km": 9.66,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
@@ -165,7 +149,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 19,
-  "activeDays": 17,
-  "restDays": 1
+  "totalActivities": 2,
+  "activeDays": 2,
+  "restDays": 16
 }
