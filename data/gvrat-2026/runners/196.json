@@ -235,9 +235,17 @@
       "type": "walk",
       "time": null,
       "comment": "Windy walk"
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 1.49,
+      "km": 2.4,
+      "type": "walk",
+      "time": null,
+      "comment": "TM1"
     }
   ],
-  "totalActivities": 24,
-  "activeDays": 12,
+  "totalActivities": 25,
+  "activeDays": 13,
   "restDays": 5
 }

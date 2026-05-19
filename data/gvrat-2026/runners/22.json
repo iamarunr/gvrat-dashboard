@@ -163,9 +163,25 @@
       "type": "walk",
       "time": null,
       "comment": "Seoul DMZ and company visits."
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 6.15,
+      "km": 9.9,
+      "type": "run",
+      "time": null,
+      "comment": "CheonggyeCheon Stream, Seoul"
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Seoul IFC and KBS Walking tours"
     }
   ],
-  "totalActivities": 20,
-  "activeDays": 17,
+  "totalActivities": 22,
+  "activeDays": 18,
   "restDays": 0
 }

@@ -139,9 +139,17 @@
       "type": "run",
       "time": null,
       "comment": "the wrench"
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 14.25,
+      "km": 22.93,
+      "type": "run",
+      "time": null,
+      "comment": "a double"
     }
   ],
-  "totalActivities": 10,
-  "activeDays": 10,
+  "totalActivities": 11,
+  "activeDays": 11,
   "restDays": 7
 }

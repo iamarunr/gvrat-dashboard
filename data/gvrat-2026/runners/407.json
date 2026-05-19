@@ -134,46 +134,70 @@
     },
     {
       "date": "2026-05-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.12,
+      "km": 3.41,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "4,240"
     },
     {
       "date": "2026-05-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.5,
+      "km": 10.46,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "10,764 horse loop"
+    },
+    {
+      "date": "2026-05-14",
+      "miles": 8.09,
+      "km": 13.02,
+      "type": "walk",
+      "time": null,
+      "comment": "16,169"
     },
     {
       "date": "2026-05-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.75,
+      "km": 4.43,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "5,484"
     },
     {
       "date": "2026-05-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.95,
+      "km": 12.79,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "15,888 Williamsburg"
     },
     {
       "date": "2026-05-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.5,
+      "km": 10.46,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "10,764 horse loop"
+    },
+    {
+      "date": "2026-05-17",
+      "miles": 5.13,
+      "km": 8.26,
+      "type": "walk",
+      "time": null,
+      "comment": "10,240"
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 3.2,
+      "km": 5.15,
+      "type": "run",
+      "time": null,
+      "comment": "5,299 Needwood boiling hot"
     }
   ],
-  "totalActivities": 16,
-  "activeDays": 12,
-  "restDays": 5
+  "totalActivities": 24,
+  "activeDays": 18,
+  "restDays": 0
 }

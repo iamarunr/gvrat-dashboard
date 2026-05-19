@@ -179,9 +179,25 @@
       "type": "run",
       "time": null,
       "comment": "3301' ascent.  Richardson Canyon & Peter Sinks"
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "2034' ascent.  Uphill treadmill hiking w/ pack (snow day part I)"
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "run",
+      "time": null,
+      "comment": "0' ascent.  Treadmill run (snow day part II)"
     }
   ],
-  "totalActivities": 22,
-  "activeDays": 17,
+  "totalActivities": 24,
+  "activeDays": 18,
   "restDays": 0
 }
