@@ -179,9 +179,17 @@
       "type": "walk",
       "time": null,
       "comment": "Seoul IFC and KBS Walking tours"
+    },
+    {
+      "date": "2026-05-19",
+      "miles": 5.08,
+      "km": 8.18,
+      "type": "run",
+      "time": null,
+      "comment": "Cheonggyecheon Stream, Seoul"
     }
   ],
-  "totalActivities": 22,
-  "activeDays": 18,
+  "totalActivities": 23,
+  "activeDays": 19,
   "restDays": 0
 }

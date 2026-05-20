@@ -259,9 +259,25 @@
       "type": "walk",
       "time": null,
       "comment": "Beach walking - nice evening walk"
+    },
+    {
+      "date": "2026-05-19",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "run",
+      "time": null,
+      "comment": "Sprint intervals through cottages"
+    },
+    {
+      "date": "2026-05-19",
+      "miles": 5.09,
+      "km": 8.19,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk ; Tanger outlet excursion ; evening stroll on beach and alligator hunting.  Saw some eyes"
     }
   ],
-  "totalActivities": 32,
-  "activeDays": 18,
+  "totalActivities": 34,
+  "activeDays": 19,
   "restDays": 0
 }

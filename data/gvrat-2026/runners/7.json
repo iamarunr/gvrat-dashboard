@@ -179,9 +179,25 @@
       "type": "walk",
       "time": null,
       "comment": "Telegraph > Pyramid > Cholla > Road"
+    },
+    {
+      "date": "2026-05-19",
+      "miles": 4.47,
+      "km": 7.19,
+      "type": "walk",
+      "time": null,
+      "comment": "School > Helipad > Loop on Guad & DC"
+    },
+    {
+      "date": "2026-05-19",
+      "miles": 3.78,
+      "km": 6.08,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 19,
-  "activeDays": 15,
+  "totalActivities": 21,
+  "activeDays": 16,
   "restDays": 3
 }

@@ -150,14 +150,22 @@
     },
     {
       "date": "2026-05-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "travel day"
+    },
+    {
+      "date": "2026-05-19",
+      "miles": 2.35,
+      "km": 3.78,
+      "type": "walk",
+      "time": null,
+      "comment": "treadmill and outside walk"
     }
   ],
-  "totalActivities": 17,
-  "activeDays": 16,
-  "restDays": 2
+  "totalActivities": 19,
+  "activeDays": 18,
+  "restDays": 1
 }

@@ -323,9 +323,33 @@
       "type": "walk",
       "time": null,
       "comment": "PM Walk"
+    },
+    {
+      "date": "2026-05-19",
+      "miles": 4.02,
+      "km": 6.47,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 3999 pt rd part trail"
+    },
+    {
+      "date": "2026-05-19",
+      "miles": 1.81,
+      "km": 2.91,
+      "type": "walk",
+      "time": null,
+      "comment": "AM Walk"
+    },
+    {
+      "date": "2026-05-19",
+      "miles": 2.87,
+      "km": 4.62,
+      "type": "walk",
+      "time": null,
+      "comment": "PM Walk"
     }
   ],
-  "totalActivities": 40,
-  "activeDays": 18,
+  "totalActivities": 43,
+  "activeDays": 19,
   "restDays": 0
 }

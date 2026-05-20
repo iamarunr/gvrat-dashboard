@@ -187,9 +187,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-19",
+      "miles": 1.63,
+      "km": 2.62,
+      "type": "walk",
+      "time": null,
+      "comment": "Back from Farmfoods"
+    },
+    {
+      "date": "2026-05-19",
+      "miles": 4.35,
+      "km": 7.0,
+      "type": "run",
+      "time": null,
+      "comment": "It's almost Saturday!"
     }
   ],
-  "totalActivities": 20,
-  "activeDays": 15,
+  "totalActivities": 22,
+  "activeDays": 16,
   "restDays": 3
 }
