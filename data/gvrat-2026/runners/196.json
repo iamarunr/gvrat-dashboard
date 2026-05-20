@@ -222,8 +222,8 @@
     },
     {
       "date": "2026-05-17",
-      "miles": 1.0,
-      "km": 1.61,
+      "miles": 1.44,
+      "km": 2.32,
       "type": "walk",
       "time": null,
       "comment": "Golf."
@@ -243,9 +243,41 @@
       "type": "walk",
       "time": null,
       "comment": "TM1"
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 4.5,
+      "km": 7.24,
+      "type": "walk",
+      "time": null,
+      "comment": "TM2"
+    },
+    {
+      "date": "2026-05-19",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "TM1"
+    },
+    {
+      "date": "2026-05-19",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "walk",
+      "time": null,
+      "comment": "TM2 at break"
+    },
+    {
+      "date": "2026-05-19",
+      "miles": 1.06,
+      "km": 1.71,
+      "type": "walk",
+      "time": null,
+      "comment": "Last TM of the day!"
     }
   ],
-  "totalActivities": 25,
-  "activeDays": 13,
+  "totalActivities": 29,
+  "activeDays": 14,
   "restDays": 5
 }

@@ -211,9 +211,25 @@
       "type": "walk",
       "time": null,
       "comment": "Dinosaur National Monument"
+    },
+    {
+      "date": "2026-05-19",
+      "miles": 2.12,
+      "km": 3.41,
+      "type": "walk",
+      "time": null,
+      "comment": "Hiking in Canyon Pintada"
+    },
+    {
+      "date": "2026-05-19",
+      "miles": 3.68,
+      "km": 5.92,
+      "type": "walk",
+      "time": null,
+      "comment": "Vernal, UT"
     }
   ],
-  "totalActivities": 22,
-  "activeDays": 14,
+  "totalActivities": 24,
+  "activeDays": 15,
   "restDays": 4
 }

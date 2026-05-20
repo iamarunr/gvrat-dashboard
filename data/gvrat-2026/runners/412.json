@@ -171,9 +171,25 @@
       "type": "walk",
       "time": null,
       "comment": "Cent. Trail w/Mary Ann"
+    },
+    {
+      "date": "2026-05-19",
+      "miles": 5.22,
+      "km": 8.4,
+      "type": "run",
+      "time": null,
+      "comment": "Alter-G anti-gravity treadmill"
+    },
+    {
+      "date": "2026-05-19",
+      "miles": 7.1,
+      "km": 11.43,
+      "type": "run",
+      "time": null,
+      "comment": "Downtown river loop"
     }
   ],
-  "totalActivities": 12,
-  "activeDays": 9,
+  "totalActivities": 14,
+  "activeDays": 10,
   "restDays": 9
 }

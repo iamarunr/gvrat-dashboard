@@ -243,9 +243,41 @@
       "type": "run",
       "time": null,
       "comment": "King Farm Run: Piccard-W. Gude Dr."
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 1.23,
+      "km": 1.98,
+      "type": "walk",
+      "time": null,
+      "comment": "Office to Medical Center Metro Station"
+    },
+    {
+      "date": "2026-05-19",
+      "miles": 1.08,
+      "km": 1.74,
+      "type": "walk",
+      "time": null,
+      "comment": "North Bethesda Metro Station to ARC"
+    },
+    {
+      "date": "2026-05-19",
+      "miles": 1.03,
+      "km": 1.66,
+      "type": "walk",
+      "time": null,
+      "comment": "ARC to North Bethesda Metro Station"
+    },
+    {
+      "date": "2026-05-19",
+      "miles": 1.47,
+      "km": 2.37,
+      "type": "walk",
+      "time": null,
+      "comment": "Shady Grove Metro Station to Home"
     }
   ],
-  "totalActivities": 25,
-  "activeDays": 13,
+  "totalActivities": 29,
+  "activeDays": 14,
   "restDays": 5
 }

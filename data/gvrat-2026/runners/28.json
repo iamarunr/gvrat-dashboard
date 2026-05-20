@@ -147,9 +147,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk first half/run 2nd half"
+    },
+    {
+      "date": "2026-05-19",
+      "miles": 3.53,
+      "km": 5.68,
+      "type": "walk",
+      "time": null,
+      "comment": "Leg recovery day (mainly walked)"
     }
   ],
-  "totalActivities": 15,
-  "activeDays": 15,
+  "totalActivities": 16,
+  "activeDays": 16,
   "restDays": 3
 }

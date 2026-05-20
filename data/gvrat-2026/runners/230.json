@@ -158,14 +158,22 @@
     },
     {
       "date": "2026-05-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.29,
+      "km": 10.12,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Wickford Walk"
     },
     {
       "date": "2026-05-18",
+      "miles": 2.64,
+      "km": 4.25,
+      "type": "run",
+      "time": null,
+      "comment": "Run around Memorial Park with the WOW runners"
+    },
+    {
+      "date": "2026-05-19",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -173,7 +181,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 15,
-  "activeDays": 12,
-  "restDays": 6
+  "totalActivities": 17,
+  "activeDays": 14,
+  "restDays": 5
 }
