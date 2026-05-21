@@ -150,6 +150,14 @@
     },
     {
       "date": "2026-05-19",
+      "miles": 5.37,
+      "km": 8.64,
+      "type": "run",
+      "time": null,
+      "comment": "E + 3 x (200 R + 200 jog + 200 R + 200 jog + 400 R + 400 jog) + E"
+    },
+    {
+      "date": "2026-05-20",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -157,7 +165,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 13,
-  "activeDays": 13,
+  "totalActivities": 14,
+  "activeDays": 14,
   "restDays": 6
 }

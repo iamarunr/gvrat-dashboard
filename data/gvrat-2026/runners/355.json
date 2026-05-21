@@ -355,9 +355,25 @@
       "type": "walk",
       "time": null,
       "comment": "Sonnenb\u00fchl Gehen"
+    },
+    {
+      "date": "2026-05-20",
+      "miles": 2.48,
+      "km": 3.99,
+      "type": "walk",
+      "time": null,
+      "comment": "Sonnenb\u00fchl Gehen"
+    },
+    {
+      "date": "2026-05-20",
+      "miles": 1.25,
+      "km": 2.01,
+      "type": "walk",
+      "time": null,
+      "comment": "Indoor Walking"
     }
   ],
-  "totalActivities": 44,
-  "activeDays": 19,
+  "totalActivities": 46,
+  "activeDays": 20,
   "restDays": 0
 }

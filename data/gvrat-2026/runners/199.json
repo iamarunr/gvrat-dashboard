@@ -195,9 +195,17 @@
       "type": "walk",
       "time": null,
       "comment": "two tours round the village, one with +1"
+    },
+    {
+      "date": "2026-05-20",
+      "miles": 4.36,
+      "km": 7.02,
+      "type": "run",
+      "time": null,
+      "comment": "Track training"
     }
   ],
-  "totalActivities": 24,
-  "activeDays": 19,
+  "totalActivities": 25,
+  "activeDays": 20,
   "restDays": 0
 }

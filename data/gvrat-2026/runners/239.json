@@ -310,14 +310,30 @@
     },
     {
       "date": "2026-05-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.39,
+      "km": 7.07,
+      "type": "run",
+      "time": null,
+      "comment": "Base run"
+    },
+    {
+      "date": "2026-05-19",
+      "miles": 6.23,
+      "km": 10.03,
+      "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-20",
+      "miles": 6.22,
+      "km": 10.01,
+      "type": "run",
+      "time": null,
+      "comment": "Tredmill"
     }
   ],
-  "totalActivities": 38,
-  "activeDays": 18,
-  "restDays": 1
+  "totalActivities": 41,
+  "activeDays": 20,
+  "restDays": 0
 }

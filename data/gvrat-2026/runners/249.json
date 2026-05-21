@@ -126,11 +126,11 @@
     },
     {
       "date": "2026-05-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 26.2,
+      "km": 42.16,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "IMJAX"
     },
     {
       "date": "2026-05-17",
@@ -150,14 +150,22 @@
     },
     {
       "date": "2026-05-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-20",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 9,
-  "activeDays": 9,
-  "restDays": 10
+  "totalActivities": 12,
+  "activeDays": 12,
+  "restDays": 8
 }

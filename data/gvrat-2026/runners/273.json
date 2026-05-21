@@ -182,22 +182,38 @@
     },
     {
       "date": "2026-05-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.2,
+      "km": 11.59,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking around NOLA"
     },
     {
       "date": "2026-05-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk around NOLA"
+    },
+    {
+      "date": "2026-05-19",
+      "miles": 3.23,
+      "km": 5.2,
+      "type": "run",
+      "time": null,
+      "comment": "Run on NOLA river front"
+    },
+    {
+      "date": "2026-05-20",
+      "miles": 1.4,
+      "km": 2.25,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 20,
-  "activeDays": 15,
-  "restDays": 4
+  "totalActivities": 24,
+  "activeDays": 18,
+  "restDays": 2
 }

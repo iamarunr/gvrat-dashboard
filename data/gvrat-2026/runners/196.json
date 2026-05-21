@@ -275,9 +275,17 @@
       "type": "walk",
       "time": null,
       "comment": "Last TM of the day!"
+    },
+    {
+      "date": "2026-05-20",
+      "miles": 4.1,
+      "km": 6.6,
+      "type": "walk",
+      "time": null,
+      "comment": "Lake with C&L"
     }
   ],
-  "totalActivities": 29,
-  "activeDays": 14,
+  "totalActivities": 30,
+  "activeDays": 15,
   "restDays": 5
 }

@@ -203,9 +203,17 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-20",
+      "miles": 4.53,
+      "km": 7.29,
+      "type": "run",
+      "time": null,
+      "comment": "Struggle on trails"
     }
   ],
-  "totalActivities": 23,
-  "activeDays": 17,
+  "totalActivities": 24,
+  "activeDays": 18,
   "restDays": 2
 }

@@ -275,9 +275,17 @@
       "type": "walk",
       "time": null,
       "comment": "Shady Grove Metro Station to Home"
+    },
+    {
+      "date": "2026-05-20",
+      "miles": 3.28,
+      "km": 5.28,
+      "type": "walk",
+      "time": null,
+      "comment": "King Farm Loop"
     }
   ],
-  "totalActivities": 29,
-  "activeDays": 14,
+  "totalActivities": 30,
+  "activeDays": 15,
   "restDays": 5
 }

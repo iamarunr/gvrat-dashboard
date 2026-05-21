@@ -235,9 +235,17 @@
       "type": "walk",
       "time": null,
       "comment": "two dog walks and some farm walking"
+    },
+    {
+      "date": "2026-05-20",
+      "miles": 1.86,
+      "km": 2.99,
+      "type": "walk",
+      "time": null,
+      "comment": "two dog walks and some farm walking"
     }
   ],
-  "totalActivities": 29,
-  "activeDays": 19,
+  "totalActivities": 30,
+  "activeDays": 20,
   "restDays": 0
 }

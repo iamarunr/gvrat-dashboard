@@ -227,9 +227,25 @@
       "type": "walk",
       "time": null,
       "comment": "Vernal, UT"
+    },
+    {
+      "date": "2026-05-20",
+      "miles": 2.67,
+      "km": 4.3,
+      "type": "walk",
+      "time": null,
+      "comment": "Hiking at Red Fleet State Park"
+    },
+    {
+      "date": "2026-05-20",
+      "miles": 3.23,
+      "km": 5.2,
+      "type": "walk",
+      "time": null,
+      "comment": "Dinosaur National Monument"
     }
   ],
-  "totalActivities": 24,
-  "activeDays": 15,
+  "totalActivities": 26,
+  "activeDays": 16,
   "restDays": 4
 }

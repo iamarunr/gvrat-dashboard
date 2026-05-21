@@ -195,9 +195,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-20",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "walk",
+      "time": null,
+      "comment": "Tradmill"
     }
   ],
-  "totalActivities": 17,
-  "activeDays": 12,
+  "totalActivities": 18,
+  "activeDays": 13,
   "restDays": 7
 }

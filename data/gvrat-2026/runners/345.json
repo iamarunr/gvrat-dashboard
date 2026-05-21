@@ -150,6 +150,14 @@
     },
     {
       "date": "2026-05-19",
+      "miles": 6.39,
+      "km": 10.28,
+      "type": "run",
+      "time": null,
+      "comment": "loop and artarmon"
+    },
+    {
+      "date": "2026-05-20",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -157,7 +165,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 11,
-  "activeDays": 11,
+  "totalActivities": 12,
+  "activeDays": 12,
   "restDays": 8
 }

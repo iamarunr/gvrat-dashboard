@@ -203,9 +203,17 @@
       "type": "run",
       "time": null,
       "comment": "It's almost Saturday!"
+    },
+    {
+      "date": "2026-05-20",
+      "miles": 5.78,
+      "km": 9.3,
+      "type": "walk",
+      "time": null,
+      "comment": "Very unproductive day"
     }
   ],
-  "totalActivities": 22,
-  "activeDays": 16,
+  "totalActivities": 23,
+  "activeDays": 17,
   "restDays": 3
 }

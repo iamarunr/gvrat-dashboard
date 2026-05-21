@@ -206,22 +206,46 @@
     },
     {
       "date": "2026-05-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.52,
+      "km": 5.66,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Golden Gate 5K IFIT"
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 2.75,
+      "km": 4.43,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill hiking"
     },
     {
       "date": "2026-05-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 9.41,
+      "km": 15.14,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Temple Fork Road with Terri"
+    },
+    {
+      "date": "2026-05-20",
+      "miles": 3.88,
+      "km": 6.24,
+      "type": "run",
+      "time": null,
+      "comment": "Charlotte Turkey Trot IFIT"
+    },
+    {
+      "date": "2026-05-20",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "walk",
+      "time": null,
+      "comment": "More treadmill mileage"
     }
   ],
-  "totalActivities": 22,
-  "activeDays": 14,
-  "restDays": 5
+  "totalActivities": 27,
+  "activeDays": 17,
+  "restDays": 3
 }

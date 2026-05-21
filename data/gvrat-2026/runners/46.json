@@ -347,9 +347,33 @@
       "type": "walk",
       "time": null,
       "comment": "PM Walk"
+    },
+    {
+      "date": "2026-05-20",
+      "miles": 4.01,
+      "km": 6.45,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4000"
+    },
+    {
+      "date": "2026-05-20",
+      "miles": 2.63,
+      "km": 4.23,
+      "type": "walk",
+      "time": null,
+      "comment": "AM Walk"
+    },
+    {
+      "date": "2026-05-20",
+      "miles": 2.56,
+      "km": 4.12,
+      "type": "walk",
+      "time": null,
+      "comment": "PM Walk"
     }
   ],
-  "totalActivities": 43,
-  "activeDays": 19,
+  "totalActivities": 46,
+  "activeDays": 20,
   "restDays": 0
 }

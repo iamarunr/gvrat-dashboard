@@ -150,14 +150,22 @@
     },
     {
       "date": "2026-05-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.5,
+      "km": 7.24,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Daily total"
+    },
+    {
+      "date": "2026-05-20",
+      "miles": 6.75,
+      "km": 10.86,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total- cold front moved through late afternoon"
     }
   ],
-  "totalActivities": 16,
-  "activeDays": 16,
-  "restDays": 3
+  "totalActivities": 18,
+  "activeDays": 18,
+  "restDays": 2
 }
