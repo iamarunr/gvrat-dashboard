@@ -163,9 +163,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walked on beach with Nessie"
+    },
+    {
+      "date": "2026-05-20",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
+      "time": null,
+      "comment": "beach walk by myself"
     }
   ],
-  "totalActivities": 6,
-  "activeDays": 5,
+  "totalActivities": 7,
+  "activeDays": 6,
   "restDays": 14
 }

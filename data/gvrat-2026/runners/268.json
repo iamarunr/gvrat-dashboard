@@ -163,9 +163,17 @@
       "type": "walk",
       "time": null,
       "comment": "treadmill and outside walk"
+    },
+    {
+      "date": "2026-05-20",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 19,
   "activeDays": 18,
-  "restDays": 1
+  "restDays": 2
 }
