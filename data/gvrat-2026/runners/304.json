@@ -243,9 +243,25 @@
       "type": "walk",
       "time": null,
       "comment": "Dinosaur National Monument"
+    },
+    {
+      "date": "2026-05-21",
+      "miles": 5.71,
+      "km": 9.19,
+      "type": "walk",
+      "time": null,
+      "comment": "Hiking in Dinosaur National Monument"
+    },
+    {
+      "date": "2026-05-21",
+      "miles": 2.39,
+      "km": 3.85,
+      "type": "walk",
+      "time": null,
+      "comment": "Dinosaur National Monument"
     }
   ],
-  "totalActivities": 26,
-  "activeDays": 16,
+  "totalActivities": 28,
+  "activeDays": 17,
   "restDays": 4
 }

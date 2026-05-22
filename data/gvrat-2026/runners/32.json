@@ -195,9 +195,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-21",
+      "miles": 6.01,
+      "km": 9.67,
+      "type": "walk",
+      "time": null,
+      "comment": "Extra walking at work.  Good recovery from the hundo."
     }
   ],
-  "totalActivities": 18,
-  "activeDays": 14,
+  "totalActivities": 19,
+  "activeDays": 15,
   "restDays": 6
 }

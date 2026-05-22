@@ -211,9 +211,17 @@
       "type": "walk",
       "time": null,
       "comment": "Very unproductive day"
+    },
+    {
+      "date": "2026-05-21",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 23,
   "activeDays": 17,
-  "restDays": 3
+  "restDays": 4
 }

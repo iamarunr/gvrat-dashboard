@@ -203,9 +203,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-21",
+      "miles": 0.88,
+      "km": 1.42,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-21",
+      "miles": 3.05,
+      "km": 4.91,
+      "type": "walk",
+      "time": null,
+      "comment": "Helipad"
     }
   ],
-  "totalActivities": 22,
-  "activeDays": 17,
+  "totalActivities": 24,
+  "activeDays": 18,
   "restDays": 3
 }

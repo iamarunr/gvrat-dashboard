@@ -171,9 +171,17 @@
       "type": "walk",
       "time": null,
       "comment": "beach walk by myself"
+    },
+    {
+      "date": "2026-05-21",
+      "miles": 5.5,
+      "km": 8.85,
+      "type": "walk",
+      "time": null,
+      "comment": "Walked on beach with Monte"
     }
   ],
-  "totalActivities": 7,
-  "activeDays": 6,
+  "totalActivities": 8,
+  "activeDays": 7,
   "restDays": 14
 }

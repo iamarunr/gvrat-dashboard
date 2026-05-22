@@ -163,9 +163,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total- cold front moved through late afternoon"
+    },
+    {
+      "date": "2026-05-21",
+      "miles": 9.25,
+      "km": 14.89,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total"
     }
   ],
-  "totalActivities": 18,
-  "activeDays": 18,
+  "totalActivities": 19,
+  "activeDays": 19,
   "restDays": 2
 }

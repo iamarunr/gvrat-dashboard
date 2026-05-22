@@ -195,9 +195,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-21",
+      "miles": 5.5,
+      "km": 8.85,
+      "type": "walk",
+      "time": null,
+      "comment": "Slavin Nature Conservancy with Mary Ann and Sharon."
     }
   ],
-  "totalActivities": 14,
-  "activeDays": 10,
+  "totalActivities": 15,
+  "activeDays": 11,
   "restDays": 10
 }

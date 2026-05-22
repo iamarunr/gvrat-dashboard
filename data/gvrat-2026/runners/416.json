@@ -14,33 +14,41 @@
     },
     {
       "date": "2026-05-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.98,
+      "km": 1.58,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Boyce Thompson Arboretum"
     },
     {
       "date": "2026-05-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.36,
+      "km": 2.19,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill walk"
+    },
+    {
+      "date": "2026-05-03",
+      "miles": 3.01,
+      "km": 4.84,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.41,
+      "km": 2.27,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Evening walk"
     },
     {
       "date": "2026-05-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.01,
+      "km": 4.84,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
@@ -62,11 +70,11 @@
     },
     {
       "date": "2026-05-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.74,
+      "km": 1.19,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walk around Sloans Lake with Josh and Kev"
     },
     {
       "date": "2026-05-09",
@@ -102,17 +110,17 @@
     },
     {
       "date": "2026-05-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.23,
+      "km": 3.59,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.68,
+      "km": 4.31,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
@@ -142,30 +150,38 @@
     },
     {
       "date": "2026-05-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.18,
+      "km": 5.12,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.4,
+      "km": 2.25,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.02,
+      "km": 4.86,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-21",
+      "miles": 1.14,
+      "km": 1.83,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 0,
-  "activeDays": 0,
-  "restDays": 20
+  "totalActivities": 12,
+  "activeDays": 11,
+  "restDays": 10
 }

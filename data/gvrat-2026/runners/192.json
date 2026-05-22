@@ -307,9 +307,25 @@
       "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-21",
+      "miles": 12.0,
+      "km": 19.31,
+      "type": "run",
+      "time": null,
+      "comment": "treadmill ac no sunburn"
+    },
+    {
+      "date": "2026-05-21",
+      "miles": 10.13,
+      "km": 16.3,
+      "type": "walk",
+      "time": null,
+      "comment": "a break of rain is a incase it might rain a day or 5"
     }
   ],
-  "totalActivities": 38,
-  "activeDays": 20,
+  "totalActivities": 40,
+  "activeDays": 21,
   "restDays": 0
 }

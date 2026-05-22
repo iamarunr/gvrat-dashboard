@@ -283,9 +283,25 @@
       "type": "walk",
       "time": null,
       "comment": "Lake with C&L"
+    },
+    {
+      "date": "2026-05-21",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "TM"
+    },
+    {
+      "date": "2026-05-21",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "Webinar walk"
     }
   ],
-  "totalActivities": 30,
-  "activeDays": 15,
+  "totalActivities": 32,
+  "activeDays": 16,
   "restDays": 5
 }

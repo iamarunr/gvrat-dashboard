@@ -198,22 +198,30 @@
     },
     {
       "date": "2026-05-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 9.36,
+      "km": 15.06,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "1194' ascent.  Temple Fork Rd w/ Rick"
     },
     {
       "date": "2026-05-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 31.13,
+      "km": 50.1,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "5436' ascent.  Temple Fork <-> FRs 56 & 147 loop"
+    },
+    {
+      "date": "2026-05-21",
+      "miles": 9.1,
+      "km": 14.64,
+      "type": "run",
+      "time": null,
+      "comment": "236' ascent.  Bear Lake Scenic Trail"
     }
   ],
-  "totalActivities": 24,
-  "activeDays": 18,
-  "restDays": 2
+  "totalActivities": 27,
+  "activeDays": 21,
+  "restDays": 0
 }
