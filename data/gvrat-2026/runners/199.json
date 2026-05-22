@@ -203,9 +203,17 @@
       "type": "run",
       "time": null,
       "comment": "Track training"
+    },
+    {
+      "date": "2026-05-21",
+      "miles": 4.49,
+      "km": 7.23,
+      "type": "run",
+      "time": null,
+      "comment": "on a quest to get aspargus"
     }
   ],
-  "totalActivities": 25,
-  "activeDays": 20,
+  "totalActivities": 26,
+  "activeDays": 21,
   "restDays": 0
 }

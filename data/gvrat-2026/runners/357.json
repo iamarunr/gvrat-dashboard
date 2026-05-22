@@ -371,9 +371,25 @@
       "type": "walk",
       "time": null,
       "comment": "Walk to lunch and back"
+    },
+    {
+      "date": "2026-05-21",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
+      "time": null,
+      "comment": "dog run"
+    },
+    {
+      "date": "2026-05-21",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": "dog walk"
     }
   ],
-  "totalActivities": 46,
-  "activeDays": 20,
+  "totalActivities": 48,
+  "activeDays": 21,
   "restDays": 0
 }

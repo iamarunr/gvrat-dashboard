@@ -371,9 +371,25 @@
       "type": "walk",
       "time": null,
       "comment": "Riverfront park loop with Melissa"
+    },
+    {
+      "date": "2026-05-21",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "run",
+      "time": null,
+      "comment": "Morning Wwtp and fox hollow."
+    },
+    {
+      "date": "2026-05-21",
+      "miles": 5.5,
+      "km": 8.85,
+      "type": "walk",
+      "time": null,
+      "comment": "Afternoon"
     }
   ],
-  "totalActivities": 46,
-  "activeDays": 20,
+  "totalActivities": 48,
+  "activeDays": 21,
   "restDays": 0
 }

@@ -283,9 +283,25 @@
       "type": "run",
       "time": null,
       "comment": "GS#4 - tired today 30/30 should have rested . Struggle bus"
+    },
+    {
+      "date": "2026-05-21",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "run",
+      "time": null,
+      "comment": "Beach 30/30 slow go"
+    },
+    {
+      "date": "2026-05-21",
+      "miles": 3.8,
+      "km": 6.12,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening beach walk with Russell"
     }
   ],
-  "totalActivities": 35,
-  "activeDays": 20,
+  "totalActivities": 37,
+  "activeDays": 21,
   "restDays": 0
 }
