@@ -286,6 +286,14 @@
     },
     {
       "date": "2026-05-21",
+      "miles": 5.94,
+      "km": 9.56,
+      "type": "run",
+      "time": null,
+      "comment": "KF-JBJ Hybrid Route Run"
+    },
+    {
+      "date": "2026-05-22",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -293,7 +301,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 30,
-  "activeDays": 15,
+  "totalActivities": 31,
+  "activeDays": 16,
   "restDays": 6
 }

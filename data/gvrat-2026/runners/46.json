@@ -395,9 +395,33 @@
       "type": "walk",
       "time": null,
       "comment": "PM Walk"
+    },
+    {
+      "date": "2026-05-22",
+      "miles": 1.51,
+      "km": 2.43,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4002 Clifton CO"
+    },
+    {
+      "date": "2026-05-22",
+      "miles": 3.25,
+      "km": 5.23,
+      "type": "walk",
+      "time": null,
+      "comment": "AM Walk"
+    },
+    {
+      "date": "2026-05-22",
+      "miles": 3.74,
+      "km": 6.02,
+      "type": "walk",
+      "time": null,
+      "comment": "PM Walk Fraser CO"
     }
   ],
-  "totalActivities": 49,
-  "activeDays": 21,
+  "totalActivities": 52,
+  "activeDays": 22,
   "restDays": 0
 }

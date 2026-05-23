@@ -323,9 +323,33 @@
       "type": "walk",
       "time": null,
       "comment": "a break of rain is a incase it might rain a day or 5"
+    },
+    {
+      "date": "2026-05-22",
+      "miles": 8.5,
+      "km": 13.68,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-22",
+      "miles": 11.57,
+      "km": 18.62,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-22",
+      "miles": 12.12,
+      "km": 19.51,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 40,
-  "activeDays": 21,
+  "totalActivities": 43,
+  "activeDays": 22,
   "restDays": 0
 }

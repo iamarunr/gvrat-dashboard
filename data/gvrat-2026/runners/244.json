@@ -150,38 +150,62 @@
     },
     {
       "date": "2026-05-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.06,
+      "km": 8.14,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.07,
+      "km": 3.33,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning Remi walk"
+    },
+    {
+      "date": "2026-05-19",
+      "miles": 4.97,
+      "km": 8.0,
+      "type": "walk",
+      "time": null,
+      "comment": "AW hike w/Daria & Jennifer W"
     },
     {
       "date": "2026-05-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.14,
+      "km": 8.27,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning walk"
     },
     {
       "date": "2026-05-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.5,
+      "km": 10.46,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning walk"
+    },
+    {
+      "date": "2026-05-22",
+      "miles": 1.52,
+      "km": 2.45,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning Remi Walk"
+    },
+    {
+      "date": "2026-05-22",
+      "miles": 5.04,
+      "km": 8.11,
+      "type": "walk",
+      "time": null,
+      "comment": "AW solo Ridgeback hike"
     }
   ],
-  "totalActivities": 16,
-  "activeDays": 15,
-  "restDays": 6
+  "totalActivities": 23,
+  "activeDays": 20,
+  "restDays": 2
 }

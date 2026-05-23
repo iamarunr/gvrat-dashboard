@@ -299,9 +299,33 @@
       "type": "walk",
       "time": null,
       "comment": "Evening beach walk with Russell"
+    },
+    {
+      "date": "2026-05-22",
+      "miles": 1.51,
+      "km": 2.43,
+      "type": "walk",
+      "time": null,
+      "comment": "Last day beach walk before heading home . Found a big fishing lure in the seaweed"
+    },
+    {
+      "date": "2026-05-22",
+      "miles": 0.93,
+      "km": 1.5,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening walk back in the hood"
+    },
+    {
+      "date": "2026-05-22",
+      "miles": 1.56,
+      "km": 2.51,
+      "type": "walk",
+      "time": null,
+      "comment": "Packing and unpacking loading and unloading"
     }
   ],
-  "totalActivities": 37,
-  "activeDays": 21,
+  "totalActivities": 40,
+  "activeDays": 22,
   "restDays": 0
 }

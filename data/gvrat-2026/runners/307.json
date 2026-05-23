@@ -195,9 +195,17 @@
       "type": "run",
       "time": null,
       "comment": "Run with Daisy"
+    },
+    {
+      "date": "2026-05-22",
+      "miles": 3.21,
+      "km": 5.17,
+      "type": "run",
+      "time": null,
+      "comment": "Run w Daisy"
     }
   ],
-  "totalActivities": 24,
-  "activeDays": 21,
+  "totalActivities": 25,
+  "activeDays": 22,
   "restDays": 0
 }

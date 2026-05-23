@@ -435,9 +435,33 @@
       "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-22",
+      "miles": 1.19,
+      "km": 1.92,
+      "type": "walk",
+      "time": null,
+      "comment": "with Elliot"
+    },
+    {
+      "date": "2026-05-22",
+      "miles": 20.31,
+      "km": 32.69,
+      "type": "run",
+      "time": null,
+      "comment": "Trails in Santa Monica Mountains."
+    },
+    {
+      "date": "2026-05-22",
+      "miles": 1.23,
+      "km": 1.98,
+      "type": "walk",
+      "time": null,
+      "comment": "Eve walk with E"
     }
   ],
-  "totalActivities": 52,
-  "activeDays": 19,
+  "totalActivities": 55,
+  "activeDays": 20,
   "restDays": 2
 }
