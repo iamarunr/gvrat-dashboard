@@ -387,9 +387,25 @@
       "type": "walk",
       "time": null,
       "comment": "dog walk"
+    },
+    {
+      "date": "2026-05-22",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "run",
+      "time": null,
+      "comment": "morning run"
+    },
+    {
+      "date": "2026-05-22",
+      "miles": 1.4,
+      "km": 2.25,
+      "type": "walk",
+      "time": null,
+      "comment": "walk to weights and coffee"
     }
   ],
-  "totalActivities": 48,
-  "activeDays": 21,
+  "totalActivities": 50,
+  "activeDays": 22,
   "restDays": 0
 }

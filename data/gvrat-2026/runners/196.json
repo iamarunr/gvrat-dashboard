@@ -285,7 +285,7 @@
       "comment": "Lake with C&L"
     },
     {
-      "date": "2026-05-21",
+      "date": "2026-05-20",
       "miles": 2.0,
       "km": 3.22,
       "type": "walk",
@@ -299,9 +299,25 @@
       "type": "walk",
       "time": null,
       "comment": "Webinar walk"
+    },
+    {
+      "date": "2026-05-22",
+      "miles": 4.16,
+      "km": 6.69,
+      "type": "run",
+      "time": null,
+      "comment": "Frodauu at the lake"
+    },
+    {
+      "date": "2026-05-22",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "TM1"
     }
   ],
-  "totalActivities": 32,
-  "activeDays": 16,
+  "totalActivities": 34,
+  "activeDays": 17,
   "restDays": 5
 }

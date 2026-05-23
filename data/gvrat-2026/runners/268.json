@@ -166,22 +166,30 @@
     },
     {
       "date": "2026-05-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.9,
+      "km": 7.89,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Treadmill, outside walk, ERC"
     },
     {
       "date": "2026-05-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "started radiation, light day"
+    },
+    {
+      "date": "2026-05-22",
+      "miles": 2.85,
+      "km": 4.59,
+      "type": "walk",
+      "time": null,
+      "comment": "morning walk, errands"
     }
   ],
-  "totalActivities": 19,
-  "activeDays": 18,
-  "restDays": 3
+  "totalActivities": 22,
+  "activeDays": 21,
+  "restDays": 1
 }

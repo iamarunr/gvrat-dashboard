@@ -187,9 +187,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-22",
+      "miles": 1.23,
+      "km": 1.98,
+      "type": "walk",
+      "time": null,
+      "comment": "Short dog walk b4 storms"
     }
   ],
-  "totalActivities": 18,
-  "activeDays": 16,
+  "totalActivities": 19,
+  "activeDays": 17,
   "restDays": 5
 }

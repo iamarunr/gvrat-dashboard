@@ -211,9 +211,17 @@
       "type": "run",
       "time": null,
       "comment": "on a quest to get aspargus"
+    },
+    {
+      "date": "2026-05-22",
+      "miles": 4.79,
+      "km": 7.71,
+      "type": "walk",
+      "time": null,
+      "comment": "evening round"
     }
   ],
-  "totalActivities": 26,
-  "activeDays": 21,
+  "totalActivities": 27,
+  "activeDays": 22,
   "restDays": 0
 }
