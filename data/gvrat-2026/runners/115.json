@@ -459,9 +459,17 @@
       "type": "walk",
       "time": null,
       "comment": "Eve walk with E"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 10.16,
+      "km": 16.35,
+      "type": "run",
+      "time": null,
+      "comment": "beach run"
     }
   ],
-  "totalActivities": 55,
-  "activeDays": 20,
+  "totalActivities": 56,
+  "activeDays": 21,
   "restDays": 2
 }

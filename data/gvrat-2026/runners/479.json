@@ -1,46 +1,38 @@
 {
-  "bib": 18,
-  "firstName": "Sharon",
-  "lastName": "Sein",
-  "displayName": "Sharon Sein",
+  "bib": 479,
+  "firstName": "Amy",
+  "lastName": "McGoldrick",
+  "displayName": "Amy McGoldrick",
   "activities": [
     {
       "date": "2026-05-01",
-      "miles": 3.5,
-      "km": 5.63,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-02",
-      "miles": 15.0,
-      "km": 24.14,
-      "type": "run",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-03",
-      "miles": 7.0,
-      "km": 11.27,
-      "type": "run",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-04",
-      "miles": 4.0,
-      "km": 6.44,
-      "type": "walk",
-      "time": null,
-      "comment": ""
-    },
-    {
-      "date": "2026-05-04",
-      "miles": 5.0,
-      "km": 8.05,
-      "type": "walk",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
       "time": null,
       "comment": ""
     },
@@ -190,14 +182,14 @@
     },
     {
       "date": "2026-05-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 5,
-  "activeDays": 4,
-  "restDays": 19
+  "totalActivities": 1,
+  "activeDays": 1,
+  "restDays": 22
 }

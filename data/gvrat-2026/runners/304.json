@@ -267,9 +267,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 5.6,
+      "km": 9.01,
+      "type": "walk",
+      "time": null,
+      "comment": "Colorado National Monument"
     }
   ],
-  "totalActivities": 28,
-  "activeDays": 17,
+  "totalActivities": 29,
+  "activeDays": 18,
   "restDays": 5
 }

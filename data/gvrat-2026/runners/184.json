@@ -323,9 +323,25 @@
       "type": "walk",
       "time": null,
       "comment": "Packing and unpacking loading and unloading"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 4.3,
+      "km": 6.92,
+      "type": "run",
+      "time": null,
+      "comment": "Back amoungst the trees - afternoon at enterprise hot and hilly .  28s kill my calves"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 1.7,
+      "km": 2.74,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and laundry"
     }
   ],
-  "totalActivities": 40,
-  "activeDays": 22,
+  "totalActivities": 42,
+  "activeDays": 23,
   "restDays": 0
 }

@@ -246,22 +246,30 @@
     },
     {
       "date": "2026-05-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.09,
+      "km": 8.19,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Bear Lake Scenic Trail"
     },
     {
       "date": "2026-05-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.25,
+      "km": 5.23,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Surfside Beach 5K IFIT"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 5.34,
+      "km": 8.59,
+      "type": "run",
+      "time": null,
+      "comment": "Park City Rail Trail"
     }
   ],
-  "totalActivities": 27,
-  "activeDays": 17,
-  "restDays": 5
+  "totalActivities": 30,
+  "activeDays": 20,
+  "restDays": 3
 }

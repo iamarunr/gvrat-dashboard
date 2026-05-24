@@ -227,9 +227,17 @@
       "type": "run",
       "time": null,
       "comment": "2093' ascent.  Sinks Rd - still some snow at the higher elevations (above 8000')"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 20.0,
+      "km": 32.19,
+      "type": "run",
+      "time": null,
+      "comment": "3586' ascent.  Jeremy Ranch <-> Bald Mtn loop"
     }
   ],
-  "totalActivities": 28,
-  "activeDays": 22,
+  "totalActivities": 29,
+  "activeDays": 23,
   "restDays": 0
 }
