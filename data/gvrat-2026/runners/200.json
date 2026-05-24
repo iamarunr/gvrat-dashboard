@@ -46,158 +46,222 @@
     },
     {
       "date": "2026-05-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Mile"
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Lunch"
     },
     {
       "date": "2026-05-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Mile"
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Lunch"
     },
     {
       "date": "2026-05-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Mile"
     },
     {
       "date": "2026-05-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Am run"
     },
     {
       "date": "2026-05-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Am run"
     },
     {
       "date": "2026-05-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 13.0,
+      "km": 20.92,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Ncr"
     },
     {
       "date": "2026-05-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Quarry"
     },
     {
       "date": "2026-05-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Mile"
+    },
+    {
+      "date": "2026-05-11",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Lunch"
     },
     {
       "date": "2026-05-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Am mile"
+    },
+    {
+      "date": "2026-05-12",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Lunch"
     },
     {
       "date": "2026-05-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Am"
+    },
+    {
+      "date": "2026-05-13",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Lunch"
     },
     {
       "date": "2026-05-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Am mile"
     },
     {
       "date": "2026-05-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Mule"
     },
     {
       "date": "2026-05-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 14.0,
+      "km": 22.53,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Ncr"
     },
     {
       "date": "2026-05-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Quarry"
     },
     {
       "date": "2026-05-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Am"
     },
     {
       "date": "2026-05-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Am"
     },
     {
       "date": "2026-05-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Am"
     },
     {
       "date": "2026-05-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Am"
     },
     {
       "date": "2026-05-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Lunch"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 15.0,
+      "km": 24.14,
+      "type": "run",
+      "time": null,
+      "comment": "Ncr"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "run",
+      "time": null,
+      "comment": "Quarry"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
+      "time": null,
+      "comment": "Am"
     }
   ],
-  "totalActivities": 5,
-  "activeDays": 3,
-  "restDays": 19
+  "totalActivities": 32,
+  "activeDays": 23,
+  "restDays": 0
 }

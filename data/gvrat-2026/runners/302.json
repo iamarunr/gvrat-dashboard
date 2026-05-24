@@ -187,9 +187,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walked on beach"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 6.5,
+      "km": 10.46,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 9,
-  "activeDays": 8,
+  "totalActivities": 10,
+  "activeDays": 9,
   "restDays": 14
 }

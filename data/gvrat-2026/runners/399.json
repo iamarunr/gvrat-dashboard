@@ -179,9 +179,25 @@
       "type": "walk",
       "time": null,
       "comment": "6.12, 2:03:30.  4.11 with Izzy, 1:25"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 2.8,
+      "km": 4.51,
+      "type": "run",
+      "time": null,
+      "comment": "1.5@18:57, 1.3@19:21 (8x150/1 min walking rest)"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 7.37,
+      "km": 11.86,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk to track and back 1.98, 39 min.  3.39 with Terre in Nerstrand Woods, 1:27.  2 with Izzy, 45 min."
     }
   ],
-  "totalActivities": 22,
-  "activeDays": 22,
+  "totalActivities": 24,
+  "activeDays": 23,
   "restDays": 0
 }

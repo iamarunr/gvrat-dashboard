@@ -419,9 +419,33 @@
       "type": "walk",
       "time": null,
       "comment": "PM Walk Fraser CO"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 5.06,
+      "km": 8.14,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4003 Fraser CO"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 3.54,
+      "km": 5.7,
+      "type": "walk",
+      "time": null,
+      "comment": "AM Walk"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 4.2,
+      "km": 6.76,
+      "type": "walk",
+      "time": null,
+      "comment": "PM Walk"
     }
   ],
-  "totalActivities": 52,
-  "activeDays": 22,
+  "totalActivities": 55,
+  "activeDays": 23,
   "restDays": 0
 }

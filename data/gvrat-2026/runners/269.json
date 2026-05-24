@@ -6,129 +6,169 @@
   "activities": [
     {
       "date": "2026-05-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.48,
+      "km": 5.6,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.26,
+      "km": 5.25,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.1,
+      "km": 1.77,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.15,
+      "km": 5.07,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.04,
+      "km": 4.89,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 2.45,
+      "km": 3.94,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.1,
+      "km": 3.38,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-06",
+      "miles": 3.32,
+      "km": 5.34,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-06",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.21,
+      "km": 3.56,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.26,
+      "km": 5.25,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 33.13,
+      "km": 53.32,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Mind the Ducks 2026"
     },
     {
       "date": "2026-05-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.22,
+      "km": 5.18,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.2,
+      "km": 5.15,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.05,
+      "km": 4.91,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-12",
+      "miles": 2.07,
+      "km": 3.33,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.41,
+      "km": 7.1,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-13",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.22,
+      "km": 3.57,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.98,
+      "km": 4.8,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.34,
+      "km": 5.38,
+      "type": "run",
       "time": null,
       "comment": ""
     },
@@ -142,46 +182,78 @@
     },
     {
       "date": "2026-05-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.22,
+      "km": 5.18,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.81,
+      "km": 4.52,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.5,
+      "km": 0.8,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-20",
+      "miles": 8.11,
+      "km": 13.05,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.57,
+      "km": 4.14,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-21",
+      "miles": 2.11,
+      "km": 3.4,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.03,
+      "km": 4.88,
+      "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 0.45,
+      "km": 0.72,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 3.13,
+      "km": 5.04,
+      "type": "run",
+      "time": null,
+      "comment": "Sunset House 5K"
     }
   ],
-  "totalActivities": 0,
-  "activeDays": 0,
-  "restDays": 22
+  "totalActivities": 30,
+  "activeDays": 22,
+  "restDays": 1
 }

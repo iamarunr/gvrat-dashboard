@@ -179,9 +179,17 @@
       "type": "run",
       "time": null,
       "comment": "Trail Run"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "run",
+      "time": null,
+      "comment": "Trail Run"
     }
   ],
-  "totalActivities": 11,
-  "activeDays": 11,
+  "totalActivities": 12,
+  "activeDays": 12,
   "restDays": 11
 }

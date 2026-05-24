@@ -219,9 +219,25 @@
       "type": "walk",
       "time": null,
       "comment": "evening round"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 3.81,
+      "km": 6.13,
+      "type": "walk",
+      "time": null,
+      "comment": "with Mom"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 0.81,
+      "km": 1.3,
+      "type": "walk",
+      "time": null,
+      "comment": "package delivery"
     }
   ],
-  "totalActivities": 27,
-  "activeDays": 22,
+  "totalActivities": 29,
+  "activeDays": 23,
   "restDays": 0
 }

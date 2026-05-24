@@ -395,9 +395,33 @@
       "type": "run",
       "time": null,
       "comment": "Beatty trail"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 10.0,
+      "km": 16.09,
+      "type": "run",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": "Hike Beatty"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 2.22,
+      "km": 3.57,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
     }
   ],
-  "totalActivities": 49,
-  "activeDays": 22,
+  "totalActivities": 52,
+  "activeDays": 23,
   "restDays": 0
 }

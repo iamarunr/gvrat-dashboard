@@ -134,19 +134,19 @@
     },
     {
       "date": "2026-05-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.6,
+      "km": 5.79,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Not sure how I managed this much today. I\u2019m definitely struggling. \ud83d\ude2d"
     },
     {
       "date": "2026-05-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Pushing through\u2026 not sure how I\u2019ll make up all the lost miles\u2026 \ud83d\ude1e\ud83d\udc94"
     },
     {
       "date": "2026-05-19",
@@ -158,19 +158,19 @@
     },
     {
       "date": "2026-05-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.1,
+      "km": 1.77,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "I\u2019m slowing down and getting weaker. Had to skip yesterday. So weak."
     },
     {
       "date": "2026-05-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Yard miles. Was feeling a little stronger today so I pushed a little more. Had to quit at three miles because I was hurting too much. \ud83d\ude2d\ud83d\ude1e\ud83d\udc94"
     },
     {
       "date": "2026-05-22",
@@ -179,9 +179,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 14,
-  "activeDays": 14,
-  "restDays": 8
+  "totalActivities": 18,
+  "activeDays": 18,
+  "restDays": 5
 }

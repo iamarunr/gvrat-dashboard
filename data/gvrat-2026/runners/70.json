@@ -403,9 +403,17 @@
       "type": "walk",
       "time": null,
       "comment": "Evening"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning - rest day, long run tomorrow"
     }
   ],
-  "totalActivities": 50,
-  "activeDays": 22,
+  "totalActivities": 51,
+  "activeDays": 23,
   "restDays": 0
 }

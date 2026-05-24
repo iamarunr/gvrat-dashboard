@@ -158,54 +158,78 @@
     },
     {
       "date": "2026-05-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.92,
+      "km": 6.31,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "from work"
     },
     {
       "date": "2026-05-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.87,
+      "km": 4.62,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "straight from work"
     },
     {
       "date": "2026-05-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.01,
+      "km": 4.84,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "photo print , rainy day"
     },
     {
       "date": "2026-05-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.79,
+      "km": 6.1,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "harry stoke + duolingo"
     },
     {
       "date": "2026-05-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.85,
+      "km": 4.59,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "from work"
     },
     {
       "date": "2026-05-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.22,
+      "km": 5.18,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "from work"
+    },
+    {
+      "date": "2026-05-22",
+      "miles": 6.59,
+      "km": 10.61,
+      "type": "run",
+      "time": null,
+      "comment": "run+ walk, stoke park &filton"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 2.21,
+      "km": 3.56,
+      "type": "walk",
+      "time": null,
+      "comment": "duolingo walk"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 3.93,
+      "km": 6.32,
+      "type": "walk",
+      "time": null,
+      "comment": "from work"
     }
   ],
-  "totalActivities": 14,
-  "activeDays": 11,
-  "restDays": 11
+  "totalActivities": 23,
+  "activeDays": 18,
+  "restDays": 5
 }

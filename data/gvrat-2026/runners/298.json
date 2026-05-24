@@ -219,9 +219,17 @@
       "type": "walk",
       "time": null,
       "comment": "Errand walk"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 5.4,
+      "km": 8.69,
+      "type": "walk",
+      "time": null,
+      "comment": "Neighborhood trail"
     }
   ],
-  "totalActivities": 19,
-  "activeDays": 14,
+  "totalActivities": 20,
+  "activeDays": 15,
   "restDays": 8
 }

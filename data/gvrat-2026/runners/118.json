@@ -174,19 +174,19 @@
     },
     {
       "date": "2026-05-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.56,
+      "km": 2.51,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Wellsboro Walkabout"
     },
     {
       "date": "2026-05-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking & Working"
     },
     {
       "date": "2026-05-21",
@@ -198,14 +198,30 @@
     },
     {
       "date": "2026-05-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.9,
+      "km": 1.45,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "KC Walkabout"
+    },
+    {
+      "date": "2026-05-22",
+      "miles": 1.1,
+      "km": 1.77,
+      "type": "walk",
+      "time": null,
+      "comment": "KC Walkat"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 2.12,
+      "km": 3.41,
+      "type": "walk",
+      "time": null,
+      "comment": "Loose Park Walkabout"
     }
   ],
-  "totalActivities": 13,
-  "activeDays": 10,
-  "restDays": 12
+  "totalActivities": 18,
+  "activeDays": 14,
+  "restDays": 9
 }
