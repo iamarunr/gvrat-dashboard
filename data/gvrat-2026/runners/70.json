@@ -411,9 +411,25 @@
       "type": "walk",
       "time": null,
       "comment": "Morning - rest day, long run tomorrow"
+    },
+    {
+      "date": "2026-05-24",
+      "miles": 26.2,
+      "km": 42.16,
+      "type": "run",
+      "time": null,
+      "comment": "CdA Marathon."
+    },
+    {
+      "date": "2026-05-24",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "To and from race"
     }
   ],
-  "totalActivities": 51,
-  "activeDays": 23,
+  "totalActivities": 53,
+  "activeDays": 24,
   "restDays": 0
 }

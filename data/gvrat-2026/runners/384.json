@@ -174,9 +174,9 @@
     },
     {
       "date": "2026-05-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
@@ -187,9 +187,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-24",
+      "miles": 31.0,
+      "km": 49.89,
+      "type": "walk",
+      "time": null,
+      "comment": "Sri Chinmoy 13 hour. Actually able to run.  Left knee seems to be recovered from meniscus tear."
     }
   ],
-  "totalActivities": 16,
-  "activeDays": 16,
-  "restDays": 7
+  "totalActivities": 18,
+  "activeDays": 18,
+  "restDays": 6
 }

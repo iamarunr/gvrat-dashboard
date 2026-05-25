@@ -323,9 +323,25 @@
       "type": "run",
       "time": null,
       "comment": "Auburn with C V K"
+    },
+    {
+      "date": "2026-05-24",
+      "miles": 4.33,
+      "km": 6.97,
+      "type": "walk",
+      "time": null,
+      "comment": "Flower farm hike"
+    },
+    {
+      "date": "2026-05-24",
+      "miles": 2.61,
+      "km": 4.2,
+      "type": "walk",
+      "time": null,
+      "comment": "Inching closer to even by 05/31"
     }
   ],
-  "totalActivities": 35,
-  "activeDays": 18,
+  "totalActivities": 37,
+  "activeDays": 19,
   "restDays": 5
 }

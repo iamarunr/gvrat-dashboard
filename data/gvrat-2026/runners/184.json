@@ -339,9 +339,25 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and laundry"
+    },
+    {
+      "date": "2026-05-24",
+      "miles": 2.03,
+      "km": 3.27,
+      "type": "run",
+      "time": null,
+      "comment": "Neighborhood run slow as molasses"
+    },
+    {
+      "date": "2026-05-24",
+      "miles": 2.07,
+      "km": 3.33,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk / Grocery shopping and then some"
     }
   ],
-  "totalActivities": 42,
-  "activeDays": 23,
+  "totalActivities": 44,
+  "activeDays": 24,
   "restDays": 0
 }

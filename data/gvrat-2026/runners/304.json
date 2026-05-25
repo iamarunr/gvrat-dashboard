@@ -275,9 +275,17 @@
       "type": "walk",
       "time": null,
       "comment": "Colorado National Monument"
+    },
+    {
+      "date": "2026-05-24",
+      "miles": 3.6,
+      "km": 5.79,
+      "type": "walk",
+      "time": null,
+      "comment": "Black Canyon of the Gunnison"
     }
   ],
-  "totalActivities": 29,
-  "activeDays": 18,
+  "totalActivities": 30,
+  "activeDays": 19,
   "restDays": 5
 }

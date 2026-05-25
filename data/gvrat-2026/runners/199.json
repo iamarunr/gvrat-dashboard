@@ -235,9 +235,25 @@
       "type": "walk",
       "time": null,
       "comment": "package delivery"
+    },
+    {
+      "date": "2026-05-24",
+      "miles": 5.62,
+      "km": 9.04,
+      "type": "run",
+      "time": null,
+      "comment": "Sweating in the forest"
+    },
+    {
+      "date": "2026-05-24",
+      "miles": 2.14,
+      "km": 3.44,
+      "type": "walk",
+      "time": null,
+      "comment": "A quest for shadow"
     }
   ],
-  "totalActivities": 29,
-  "activeDays": 23,
+  "totalActivities": 31,
+  "activeDays": 24,
   "restDays": 0
 }

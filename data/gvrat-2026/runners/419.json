@@ -203,9 +203,17 @@
       "type": "walk",
       "time": null,
       "comment": "Marche rapide apres la course.Aller-retour freychenet."
+    },
+    {
+      "date": "2026-05-24",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 16,
   "activeDays": 14,
-  "restDays": 9
+  "restDays": 10
 }

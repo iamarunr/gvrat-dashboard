@@ -467,9 +467,25 @@
       "type": "run",
       "time": null,
       "comment": "beach run"
+    },
+    {
+      "date": "2026-05-24",
+      "miles": 1.1,
+      "km": 1.77,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk with fam"
+    },
+    {
+      "date": "2026-05-24",
+      "miles": 7.17,
+      "km": 11.54,
+      "type": "run",
+      "time": null,
+      "comment": "family hike. Mt Baldy - Top of the notch"
     }
   ],
-  "totalActivities": 56,
-  "activeDays": 21,
+  "totalActivities": 58,
+  "activeDays": 22,
   "restDays": 2
 }

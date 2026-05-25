@@ -195,9 +195,17 @@
       "type": "walk",
       "time": null,
       "comment": "Have been sick.\r\nWalk around the block with Christopher and the dogs."
+    },
+    {
+      "date": "2026-05-24",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 9,
   "activeDays": 8,
-  "restDays": 15
+  "restDays": 16
 }

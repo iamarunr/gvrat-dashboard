@@ -243,9 +243,17 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-24",
+      "miles": 6.15,
+      "km": 9.9,
+      "type": "walk",
+      "time": null,
+      "comment": "Hike: Telegraph > Pyramid > Cholla > Road Loop"
     }
   ],
-  "totalActivities": 27,
-  "activeDays": 20,
+  "totalActivities": 28,
+  "activeDays": 21,
   "restDays": 3
 }

@@ -275,9 +275,25 @@
       "type": "run",
       "time": null,
       "comment": "parkrun"
+    },
+    {
+      "date": "2026-05-24",
+      "miles": 1.77,
+      "km": 2.85,
+      "type": "walk",
+      "time": null,
+      "comment": "two dog walks"
+    },
+    {
+      "date": "2026-05-24",
+      "miles": 4.44,
+      "km": 7.15,
+      "type": "walk",
+      "time": null,
+      "comment": "walk with W around Yeticup plus"
     }
   ],
-  "totalActivities": 34,
-  "activeDays": 23,
+  "totalActivities": 36,
+  "activeDays": 24,
   "restDays": 0
 }

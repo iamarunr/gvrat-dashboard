@@ -227,9 +227,17 @@
       "type": "walk",
       "time": null,
       "comment": "Neighborhood trail"
+    },
+    {
+      "date": "2026-05-24",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "run",
+      "time": null,
+      "comment": "NCAR to Mesa woth Leyla"
     }
   ],
-  "totalActivities": 20,
-  "activeDays": 15,
+  "totalActivities": 21,
+  "activeDays": 16,
   "restDays": 8
 }
