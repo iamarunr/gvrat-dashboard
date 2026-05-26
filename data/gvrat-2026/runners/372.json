@@ -243,9 +243,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 62.13,
+      "km": 99.99,
+      "type": "run",
+      "time": null,
+      "comment": "GUCR - stopped at 62 miles... SOOOO hot!"
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 2.31,
+      "km": 3.72,
+      "type": "walk",
+      "time": null,
+      "comment": "Shopping!"
     }
   ],
-  "totalActivities": 24,
-  "activeDays": 18,
+  "totalActivities": 26,
+  "activeDays": 19,
   "restDays": 6
 }

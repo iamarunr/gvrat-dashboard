@@ -203,9 +203,25 @@
       "type": "walk",
       "time": null,
       "comment": "AM 4, 1:13.  1 with Izzy, 25 min.  1 with Max 24 min."
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 4.5,
+      "km": 7.24,
+      "type": "run",
+      "time": null,
+      "comment": "Track 18x300 jog/100 walk"
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 7.33,
+      "km": 11.8,
+      "type": "walk",
+      "time": null,
+      "comment": "1.25 to track, 1.25 back, 49 min.. 4.33, 1:21."
     }
   ],
-  "totalActivities": 25,
-  "activeDays": 24,
+  "totalActivities": 27,
+  "activeDays": 25,
   "restDays": 0
 }

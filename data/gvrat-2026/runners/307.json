@@ -206,22 +206,46 @@
     },
     {
       "date": "2026-05-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.2,
+      "km": 5.15,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Run after Flag Placement"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 1.34,
+      "km": 2.16,
+      "type": "walk",
+      "time": null,
+      "comment": "Flag placement with scouts"
     },
     {
       "date": "2026-05-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 14.07,
+      "km": 22.64,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Long run Balboa Park"
+    },
+    {
+      "date": "2026-05-24",
+      "miles": 1.67,
+      "km": 2.69,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk to/from Greek Festival"
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 3.23,
+      "km": 5.2,
+      "type": "run",
+      "time": null,
+      "comment": "Recovery run with Daisy"
     }
   ],
-  "totalActivities": 25,
-  "activeDays": 22,
-  "restDays": 2
+  "totalActivities": 30,
+  "activeDays": 25,
+  "restDays": 0
 }

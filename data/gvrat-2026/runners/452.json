@@ -195,9 +195,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total"
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 9.5,
+      "km": 15.29,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total- Memorial Day Holiday"
     }
   ],
-  "totalActivities": 22,
-  "activeDays": 22,
+  "totalActivities": 23,
+  "activeDays": 23,
   "restDays": 2
 }

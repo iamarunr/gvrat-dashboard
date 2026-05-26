@@ -339,9 +339,25 @@
       "type": "walk",
       "time": null,
       "comment": "Inching closer to even by 05/31"
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 5.12,
+      "km": 8.24,
+      "type": "walk",
+      "time": null,
+      "comment": "Big walk with a bit of run."
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "TM"
     }
   ],
-  "totalActivities": 37,
-  "activeDays": 19,
+  "totalActivities": 39,
+  "activeDays": 20,
   "restDays": 5
 }

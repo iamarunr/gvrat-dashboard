@@ -214,11 +214,11 @@
     },
     {
       "date": "2026-05-23",
-      "miles": 3.0,
-      "km": 4.83,
+      "miles": 5.0,
+      "km": 8.05,
       "type": "walk",
       "time": null,
-      "comment": "Seoul Walking Tour"
+      "comment": "Namsan Tower Hike, Seoul Walking Tour"
     },
     {
       "date": "2026-05-24",
@@ -227,9 +227,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 8.28,
+      "km": 13.33,
+      "type": "run",
+      "time": null,
+      "comment": "Church to Clear Creek to Limestone Trail"
     }
   ],
-  "totalActivities": 27,
-  "activeDays": 23,
+  "totalActivities": 28,
+  "activeDays": 24,
   "restDays": 1
 }

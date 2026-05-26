@@ -427,9 +427,17 @@
       "type": "walk",
       "time": null,
       "comment": "To and from race"
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Recovery/ rest day"
     }
   ],
-  "totalActivities": 53,
-  "activeDays": 24,
+  "totalActivities": 54,
+  "activeDays": 25,
   "restDays": 0
 }

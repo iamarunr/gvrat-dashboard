@@ -291,9 +291,17 @@
       "type": "walk",
       "time": null,
       "comment": "walk with W around Yeticup plus"
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 1.43,
+      "km": 2.3,
+      "type": "walk",
+      "time": null,
+      "comment": "two dog walks"
     }
   ],
-  "totalActivities": 36,
-  "activeDays": 24,
+  "totalActivities": 37,
+  "activeDays": 25,
   "restDays": 0
 }

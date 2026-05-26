@@ -301,39 +301,119 @@
       "comment": "Dog walk."
     },
     {
+      "date": "2026-05-20",
+      "miles": 0.52,
+      "km": 0.84,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
+    },
+    {
       "date": "2026-05-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.35,
+      "km": 0.56,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
+    },
+    {
+      "date": "2026-05-21",
+      "miles": 1.96,
+      "km": 3.15,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
+    },
+    {
+      "date": "2026-05-22",
+      "miles": 3.88,
+      "km": 6.24,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.5,
+      "km": 0.8,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
+    },
+    {
+      "date": "2026-05-22",
+      "miles": 1.61,
+      "km": 2.59,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 10.25,
+      "km": 16.5,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.35,
+      "km": 0.56,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 1.26,
+      "km": 2.03,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 0.52,
+      "km": 0.84,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
+    },
+    {
+      "date": "2026-05-24",
+      "miles": 0.75,
+      "km": 1.21,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
+    },
+    {
+      "date": "2026-05-24",
+      "miles": 1.53,
+      "km": 2.46,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 8.73,
+      "km": 14.05,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
-      "date": "2026-05-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-05-25",
+      "miles": 1.68,
+      "km": 2.7,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Dog walk."
     }
   ],
-  "totalActivities": 37,
-  "activeDays": 20,
-  "restDays": 4
+  "totalActivities": 51,
+  "activeDays": 25,
+  "restDays": 0
 }
