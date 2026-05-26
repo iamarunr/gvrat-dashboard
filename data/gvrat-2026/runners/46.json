@@ -446,14 +446,38 @@
     },
     {
       "date": "2026-05-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.04,
+      "km": 8.11,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4004 Fraser CO"
+    },
+    {
+      "date": "2026-05-24",
+      "miles": 2.75,
+      "km": 4.43,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 1.31,
+      "km": 2.11,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4005 Memorial Day Remembrance Run"
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 3.4,
+      "km": 5.47,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 55,
-  "activeDays": 23,
-  "restDays": 1
+  "totalActivities": 59,
+  "activeDays": 25,
+  "restDays": 0
 }

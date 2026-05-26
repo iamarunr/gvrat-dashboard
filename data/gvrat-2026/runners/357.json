@@ -405,12 +405,20 @@
       "comment": "walk to weights and coffee"
     },
     {
-      "date": "2026-05-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-05-22",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "dog walk"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 13.0,
+      "km": 20.92,
+      "type": "run",
+      "time": null,
+      "comment": "long run"
     },
     {
       "date": "2026-05-24",
@@ -419,9 +427,49 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "long dog walk to coffee truck"
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "walk to swimming and coffee"
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "run",
+      "time": null,
+      "comment": "run with Ali and Nicole"
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "walk from swimming to coffee and home"
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": "dog walk"
     }
   ],
-  "totalActivities": 50,
-  "activeDays": 22,
-  "restDays": 2
+  "totalActivities": 57,
+  "activeDays": 24,
+  "restDays": 1
 }

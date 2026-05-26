@@ -398,30 +398,54 @@
     },
     {
       "date": "2026-05-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.08,
+      "km": 3.35,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Sonnenb\u00fchl Gehen"
     },
     {
       "date": "2026-05-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.21,
+      "km": 0.34,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Sonnenb\u00fchl Gehen"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 3.17,
+      "km": 5.1,
+      "type": "run",
+      "time": null,
+      "comment": "W4 Sa. Dauerlauf"
     },
     {
       "date": "2026-05-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.36,
+      "km": 7.02,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "W4 So. Langer Lauf"
+    },
+    {
+      "date": "2026-05-24",
+      "miles": 6.05,
+      "km": 9.74,
+      "type": "walk",
+      "time": null,
+      "comment": "Sonnenb\u00fchl Gehen (Nebelh\u00f6hlenfest)"
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 4.75,
+      "km": 7.64,
+      "type": "walk",
+      "time": null,
+      "comment": "Sonnenb\u00fchl Gehen"
     }
   ],
-  "totalActivities": 49,
-  "activeDays": 21,
-  "restDays": 3
+  "totalActivities": 55,
+  "activeDays": 25,
+  "restDays": 0
 }

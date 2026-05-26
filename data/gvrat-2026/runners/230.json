@@ -182,11 +182,11 @@
     },
     {
       "date": "2026-05-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.2,
+      "km": 6.76,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Pitsea RC Club Run - Orange Group"
     },
     {
       "date": "2026-05-21",
@@ -206,22 +206,38 @@
     },
     {
       "date": "2026-05-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.15,
+      "km": 5.07,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Wickford Parkrun"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 2.4,
+      "km": 3.86,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk to the park & back again"
     },
     {
       "date": "2026-05-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.22,
+      "km": 10.01,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Sunday Club Run - Mixed Pace"
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk to my marshal point (Hatfield Broad Oak"
     }
   ],
-  "totalActivities": 17,
-  "activeDays": 14,
-  "restDays": 10
+  "totalActivities": 22,
+  "activeDays": 18,
+  "restDays": 7
 }

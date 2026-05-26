@@ -435,9 +435,33 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 4.01,
+      "km": 6.45,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 6.31,
+      "km": 10.15,
+      "type": "run",
+      "time": null,
+      "comment": "Bolder Boulder 10K"
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 2.79,
+      "km": 4.49,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 54,
-  "activeDays": 24,
+  "totalActivities": 57,
+  "activeDays": 25,
   "restDays": 0
 }

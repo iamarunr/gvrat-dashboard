@@ -355,9 +355,25 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk / Grocery shopping and then some"
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 3.36,
+      "km": 5.41,
+      "type": "run",
+      "time": null,
+      "comment": "Memorial Day run at enterprise with Cynthia"
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 1.14,
+      "km": 1.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and some extra stepping"
     }
   ],
-  "totalActivities": 44,
-  "activeDays": 24,
+  "totalActivities": 46,
+  "activeDays": 25,
   "restDays": 0
 }

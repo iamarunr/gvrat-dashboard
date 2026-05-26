@@ -270,14 +270,30 @@
     },
     {
       "date": "2026-05-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Union Pacific Rail Trail"
+    },
+    {
+      "date": "2026-05-24",
+      "miles": 2.86,
+      "km": 4.6,
+      "type": "walk",
+      "time": null,
+      "comment": "Shundahai neighborhood with Terri"
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 4.26,
+      "km": 6.86,
+      "type": "run",
+      "time": null,
+      "comment": "Bear Lake Scenic Trail out and back"
     }
   ],
-  "totalActivities": 30,
-  "activeDays": 20,
-  "restDays": 4
+  "totalActivities": 33,
+  "activeDays": 22,
+  "restDays": 3
 }
