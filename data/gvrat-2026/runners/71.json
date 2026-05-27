@@ -238,6 +238,14 @@
     },
     {
       "date": "2026-05-25",
+      "miles": 4.28,
+      "km": 6.89,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-26",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -245,7 +253,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 21,
-  "activeDays": 16,
+  "totalActivities": 22,
+  "activeDays": 17,
   "restDays": 9
 }

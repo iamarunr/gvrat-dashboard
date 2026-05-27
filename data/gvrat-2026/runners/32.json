@@ -235,9 +235,17 @@
       "type": "run",
       "time": null,
       "comment": "Easy recovery run."
+    },
+    {
+      "date": "2026-05-26",
+      "miles": 5.19,
+      "km": 8.35,
+      "type": "run",
+      "time": null,
+      "comment": "Easy recovery run."
     }
   ],
-  "totalActivities": 22,
-  "activeDays": 18,
+  "totalActivities": 23,
+  "activeDays": 19,
   "restDays": 7
 }

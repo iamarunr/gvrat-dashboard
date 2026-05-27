@@ -219,9 +219,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-26",
+      "miles": 4.18,
+      "km": 6.73,
+      "type": "walk",
+      "time": null,
+      "comment": "SP/Tusc x2"
     }
   ],
-  "totalActivities": 19,
-  "activeDays": 17,
+  "totalActivities": 20,
+  "activeDays": 18,
   "restDays": 8
 }

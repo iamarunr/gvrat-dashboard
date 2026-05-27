@@ -475,9 +475,41 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-26",
+      "miles": 7.72,
+      "km": 12.42,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4006 - pt dirt road, part single track trail run"
+    },
+    {
+      "date": "2026-05-26",
+      "miles": 2.02,
+      "km": 3.25,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-26",
+      "miles": 5.04,
+      "km": 8.11,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-26",
+      "miles": 1.79,
+      "km": 2.88,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 59,
-  "activeDays": 25,
+  "totalActivities": 63,
+  "activeDays": 26,
   "restDays": 0
 }

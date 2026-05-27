@@ -283,9 +283,25 @@
       "type": "run",
       "time": null,
       "comment": "Stopped for pics and see my better half at the club as well as chatted with a couple of neighbors.  More walking than running.  Still working to get back to it."
+    },
+    {
+      "date": "2026-05-26",
+      "miles": 1.64,
+      "km": 2.64,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-26",
+      "miles": 3.43,
+      "km": 5.52,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 35,
-  "activeDays": 25,
+  "totalActivities": 37,
+  "activeDays": 26,
   "restDays": 0
 }

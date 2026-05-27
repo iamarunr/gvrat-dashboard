@@ -435,9 +435,17 @@
       "type": "walk",
       "time": null,
       "comment": "Recovery/ rest day"
+    },
+    {
+      "date": "2026-05-26",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
+      "time": null,
+      "comment": "Recovery walk"
     }
   ],
-  "totalActivities": 54,
-  "activeDays": 25,
+  "totalActivities": 55,
+  "activeDays": 26,
   "restDays": 0
 }

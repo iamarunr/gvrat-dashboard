@@ -259,9 +259,17 @@
       "type": "walk",
       "time": null,
       "comment": "Package and ice cream"
+    },
+    {
+      "date": "2026-05-26",
+      "miles": 5.54,
+      "km": 8.92,
+      "type": "walk",
+      "time": null,
+      "comment": "walking commute"
     }
   ],
-  "totalActivities": 32,
-  "activeDays": 25,
+  "totalActivities": 33,
+  "activeDays": 26,
   "restDays": 0
 }
