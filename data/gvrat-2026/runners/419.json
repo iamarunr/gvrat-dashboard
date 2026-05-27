@@ -219,9 +219,17 @@
       "type": "run",
       "time": null,
       "comment": "Boucle par Celles Freychenet avec semelles voute plantaire ."
+    },
+    {
+      "date": "2026-05-26",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 17,
   "activeDays": 15,
-  "restDays": 10
+  "restDays": 11
 }

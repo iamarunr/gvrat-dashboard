@@ -214,22 +214,30 @@
     },
     {
       "date": "2026-05-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.9,
+      "km": 6.28,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking to prep for midweek hike"
     },
     {
       "date": "2026-05-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.6,
+      "km": 12.23,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Hike to sunfish pond and back to camp"
+    },
+    {
+      "date": "2026-05-26",
+      "miles": 7.2,
+      "km": 11.59,
+      "type": "walk",
+      "time": null,
+      "comment": "Hike in Sourlands"
     }
   ],
-  "totalActivities": 13,
-  "activeDays": 10,
-  "restDays": 15
+  "totalActivities": 16,
+  "activeDays": 13,
+  "restDays": 13
 }

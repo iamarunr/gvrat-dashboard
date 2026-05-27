@@ -499,9 +499,25 @@
       "type": "run",
       "time": null,
       "comment": "Finishing the Team RWB Challenge Strong!"
+    },
+    {
+      "date": "2026-05-26",
+      "miles": 4.03,
+      "km": 6.49,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-26",
+      "miles": 2.56,
+      "km": 4.12,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 62,
-  "activeDays": 25,
+  "totalActivities": 64,
+  "activeDays": 26,
   "restDays": 0
 }

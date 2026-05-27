@@ -254,22 +254,30 @@
     },
     {
       "date": "2026-05-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.04,
+      "km": 4.89,
+      "type": "walk",
+      "time": null,
+      "comment": "Roaming the Buffalo Marathon course to cheer friends and strangers."
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 4.11,
+      "km": 6.61,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
-      "date": "2026-05-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-05-26",
+      "miles": 2.62,
+      "km": 4.22,
+      "type": "run",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 30,
-  "activeDays": 22,
-  "restDays": 3
+  "totalActivities": 33,
+  "activeDays": 25,
+  "restDays": 1
 }

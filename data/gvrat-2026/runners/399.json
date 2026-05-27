@@ -219,9 +219,17 @@
       "type": "walk",
       "time": null,
       "comment": "1.25 to track, 1.25 back, 49 min.. 4.33, 1:21."
+    },
+    {
+      "date": "2026-05-26",
+      "miles": 6.27,
+      "km": 10.09,
+      "type": "walk",
+      "time": null,
+      "comment": "4@1:18.  izzy 1@26min, Max 1.27@29min."
     }
   ],
-  "totalActivities": 27,
-  "activeDays": 25,
+  "totalActivities": 28,
+  "activeDays": 26,
   "restDays": 0
 }
