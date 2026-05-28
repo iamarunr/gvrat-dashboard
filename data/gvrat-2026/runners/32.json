@@ -243,9 +243,17 @@
       "type": "run",
       "time": null,
       "comment": "Easy recovery run."
+    },
+    {
+      "date": "2026-05-27",
+      "miles": 5.35,
+      "km": 8.61,
+      "type": "run",
+      "time": null,
+      "comment": "4.12 on the mill, then 1.23 on the road."
     }
   ],
-  "totalActivities": 23,
-  "activeDays": 19,
+  "totalActivities": 24,
+  "activeDays": 20,
   "restDays": 7
 }

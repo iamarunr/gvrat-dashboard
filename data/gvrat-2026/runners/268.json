@@ -219,9 +219,17 @@
       "type": "walk",
       "time": null,
       "comment": "morning walk then lots of errands"
+    },
+    {
+      "date": "2026-05-27",
+      "miles": 5.2,
+      "km": 8.37,
+      "type": "walk",
+      "time": null,
+      "comment": "treadmill and morning walk, park meadows"
     }
   ],
-  "totalActivities": 26,
-  "activeDays": 25,
+  "totalActivities": 27,
+  "activeDays": 26,
   "restDays": 1
 }

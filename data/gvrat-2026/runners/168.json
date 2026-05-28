@@ -227,9 +227,17 @@
       "type": "walk",
       "time": null,
       "comment": "SP/Tusc x2"
+    },
+    {
+      "date": "2026-05-27",
+      "miles": 2.49,
+      "km": 4.01,
+      "type": "walk",
+      "time": null,
+      "comment": "TVA ORRB closed"
     }
   ],
-  "totalActivities": 20,
-  "activeDays": 18,
+  "totalActivities": 21,
+  "activeDays": 19,
   "restDays": 8
 }

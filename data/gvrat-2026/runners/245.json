@@ -267,9 +267,25 @@
       "type": "run",
       "time": null,
       "comment": "Plod"
+    },
+    {
+      "date": "2026-05-27",
+      "miles": 4.72,
+      "km": 7.6,
+      "type": "run",
+      "time": null,
+      "comment": "Trail plod"
+    },
+    {
+      "date": "2026-05-27",
+      "miles": 1.17,
+      "km": 1.88,
+      "type": "walk",
+      "time": null,
+      "comment": "Mindi's birthday lunch walk"
     }
   ],
-  "totalActivities": 28,
-  "activeDays": 21,
+  "totalActivities": 30,
+  "activeDays": 22,
   "restDays": 5
 }

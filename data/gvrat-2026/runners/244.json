@@ -206,11 +206,19 @@
     },
     {
       "date": "2026-05-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.02,
+      "km": 6.47,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Remi walk"
+    },
+    {
+      "date": "2026-05-23",
+      "miles": 1.91,
+      "km": 3.07,
+      "type": "walk",
+      "time": null,
+      "comment": "Placing flags at National Memorial Cemetery"
     },
     {
       "date": "2026-05-24",
@@ -222,22 +230,54 @@
     },
     {
       "date": "2026-05-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.33,
+      "km": 8.58,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 1.6,
+      "km": 2.57,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.52,
+      "km": 7.27,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "A.M. walk"
+    },
+    {
+      "date": "2026-05-26",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
+      "time": null,
+      "comment": "P.M. hike - Ridgeback loop w/Jennifer W"
+    },
+    {
+      "date": "2026-05-27",
+      "miles": 2.76,
+      "km": 4.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning Remi walk"
+    },
+    {
+      "date": "2026-05-27",
+      "miles": 3.46,
+      "km": 5.57,
+      "type": "walk",
+      "time": null,
+      "comment": "Hike - Desert Hills short loop"
     }
   ],
-  "totalActivities": 23,
-  "activeDays": 20,
-  "restDays": 6
+  "totalActivities": 31,
+  "activeDays": 24,
+  "restDays": 3
 }
