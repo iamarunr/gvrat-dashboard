@@ -379,9 +379,25 @@
       "type": "walk",
       "time": null,
       "comment": "Multiple walks , walked the boys walked alone walked during hair appointment"
+    },
+    {
+      "date": "2026-05-27",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "run",
+      "time": null,
+      "comment": "Run at Collegedale before work with Cynthia"
+    },
+    {
+      "date": "2026-05-27",
+      "miles": 1.39,
+      "km": 2.24,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk"
     }
   ],
-  "totalActivities": 47,
-  "activeDays": 26,
+  "totalActivities": 49,
+  "activeDays": 27,
   "restDays": 0
 }

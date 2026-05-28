@@ -267,9 +267,17 @@
       "type": "walk",
       "time": null,
       "comment": "walking commute"
+    },
+    {
+      "date": "2026-05-27",
+      "miles": 4.48,
+      "km": 7.21,
+      "type": "walk",
+      "time": null,
+      "comment": "evening tour"
     }
   ],
-  "totalActivities": 33,
-  "activeDays": 26,
+  "totalActivities": 34,
+  "activeDays": 27,
   "restDays": 0
 }

@@ -238,14 +238,22 @@
     },
     {
       "date": "2026-05-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.75,
+      "km": 9.25,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "KC Walkabout"
+    },
+    {
+      "date": "2026-05-27",
+      "miles": 1.44,
+      "km": 2.32,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking to the garden"
     }
   ],
-  "totalActivities": 18,
-  "activeDays": 14,
-  "restDays": 12
+  "totalActivities": 20,
+  "activeDays": 16,
+  "restDays": 11
 }

@@ -443,9 +443,33 @@
       "type": "walk",
       "time": null,
       "comment": "Recovery walk"
+    },
+    {
+      "date": "2026-05-27",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "run",
+      "time": null,
+      "comment": "Bridges"
+    },
+    {
+      "date": "2026-05-27",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk with Melissa"
+    },
+    {
+      "date": "2026-05-27",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening"
     }
   ],
-  "totalActivities": 55,
-  "activeDays": 26,
+  "totalActivities": 58,
+  "activeDays": 27,
   "restDays": 0
 }
