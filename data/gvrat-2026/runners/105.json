@@ -219,9 +219,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walked 6 miles early this morning. Then 2.11 miles with Eddie \ud83d\udc15, also including mowing the yard."
+    },
+    {
+      "date": "2026-05-28",
+      "miles": 20.6,
+      "km": 33.15,
+      "type": "walk",
+      "time": null,
+      "comment": "4:00pm to midnight first \"day\" of \"The Sticks\" 2026"
     }
   ],
-  "totalActivities": 27,
-  "activeDays": 27,
+  "totalActivities": 28,
+  "activeDays": 28,
   "restDays": 0
 }

@@ -395,9 +395,25 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk"
+    },
+    {
+      "date": "2026-05-28",
+      "miles": 3.16,
+      "km": 5.09,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening walk at enterprise with Cynthia"
+    },
+    {
+      "date": "2026-05-28",
+      "miles": 2.14,
+      "km": 3.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning walk and some extra stepping"
     }
   ],
-  "totalActivities": 49,
-  "activeDays": 27,
+  "totalActivities": 51,
+  "activeDays": 28,
   "restDays": 0
 }

@@ -219,9 +219,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total\u2026. Last walks with Reo\u2026I miss that dog."
+    },
+    {
+      "date": "2026-05-28",
+      "miles": 5.25,
+      "km": 8.45,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total\u2026. Missing Reo"
     }
   ],
-  "totalActivities": 25,
-  "activeDays": 25,
+  "totalActivities": 26,
+  "activeDays": 26,
   "restDays": 2
 }
