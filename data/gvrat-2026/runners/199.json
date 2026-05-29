@@ -275,9 +275,17 @@
       "type": "walk",
       "time": null,
       "comment": "evening tour"
+    },
+    {
+      "date": "2026-05-28",
+      "miles": 4.98,
+      "km": 8.01,
+      "type": "walk",
+      "time": null,
+      "comment": "Shadow in the forest"
     }
   ],
-  "totalActivities": 34,
-  "activeDays": 27,
+  "totalActivities": 35,
+  "activeDays": 28,
   "restDays": 0
 }

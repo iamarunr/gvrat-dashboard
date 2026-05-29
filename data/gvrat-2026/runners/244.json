@@ -275,9 +275,17 @@
       "type": "walk",
       "time": null,
       "comment": "Hike - Desert Hills short loop"
+    },
+    {
+      "date": "2026-05-28",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 31,
   "activeDays": 24,
-  "restDays": 3
+  "restDays": 4
 }

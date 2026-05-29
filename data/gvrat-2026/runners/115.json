@@ -515,9 +515,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-28",
+      "miles": 2.24,
+      "km": 3.6,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-28",
+      "miles": 3.34,
+      "km": 5.38,
+      "type": "run",
+      "time": null,
+      "comment": "Run with Elliot"
     }
   ],
-  "totalActivities": 61,
-  "activeDays": 24,
+  "totalActivities": 63,
+  "activeDays": 25,
   "restDays": 3
 }

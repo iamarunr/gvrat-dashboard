@@ -235,9 +235,17 @@
       "type": "walk",
       "time": null,
       "comment": "Izzy, 2, 43:30.  Max, 2.15, 45:45.  1.5 with Terre, 25:45"
+    },
+    {
+      "date": "2026-05-28",
+      "miles": 10.02,
+      "km": 16.13,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 29,
-  "activeDays": 27,
+  "totalActivities": 30,
+  "activeDays": 28,
   "restDays": 0
 }

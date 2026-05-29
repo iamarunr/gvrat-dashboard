@@ -486,14 +486,46 @@
     },
     {
       "date": "2026-05-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.3,
+      "km": 2.09,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "morning walk, run day off"
+    },
+    {
+      "date": "2026-05-27",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": "dog walk"
+    },
+    {
+      "date": "2026-05-28",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
+      "time": null,
+      "comment": "rest week run"
+    },
+    {
+      "date": "2026-05-28",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "golf walk"
+    },
+    {
+      "date": "2026-05-28",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": "dog walk"
     }
   ],
-  "totalActivities": 59,
-  "activeDays": 25,
-  "restDays": 2
+  "totalActivities": 64,
+  "activeDays": 27,
+  "restDays": 1
 }

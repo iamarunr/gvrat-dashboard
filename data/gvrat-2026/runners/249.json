@@ -227,9 +227,17 @@
       "type": "walk",
       "time": null,
       "comment": "H.W with Addison"
+    },
+    {
+      "date": "2026-05-28",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 20,
-  "activeDays": 19,
+  "totalActivities": 21,
+  "activeDays": 20,
   "restDays": 8
 }

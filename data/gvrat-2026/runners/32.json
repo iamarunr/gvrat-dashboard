@@ -251,9 +251,25 @@
       "type": "run",
       "time": null,
       "comment": "4.12 on the mill, then 1.23 on the road."
+    },
+    {
+      "date": "2026-05-28",
+      "miles": 7.55,
+      "km": 12.15,
+      "type": "walk",
+      "time": null,
+      "comment": "Lots of extra walking at work.  It was field day at the school.  Adjusted time for the times I stopped but didn't stop the watch."
+    },
+    {
+      "date": "2026-05-28",
+      "miles": 5.1,
+      "km": 8.21,
+      "type": "run",
+      "time": null,
+      "comment": "Easy run in the campground."
     }
   ],
-  "totalActivities": 24,
-  "activeDays": 20,
+  "totalActivities": 26,
+  "activeDays": 21,
   "restDays": 7
 }
