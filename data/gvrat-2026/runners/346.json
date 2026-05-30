@@ -270,22 +270,38 @@
     },
     {
       "date": "2026-05-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 9.0,
+      "km": 14.48,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "876' ascent.  Franklin Basin Rd"
+    },
+    {
+      "date": "2026-05-27",
+      "miles": 1.3,
+      "km": 2.09,
+      "type": "walk",
+      "time": null,
+      "comment": "154' ascent.  Tony Grove Lake w/ Rick"
     },
     {
       "date": "2026-05-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.71,
+      "km": 5.97,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "597' ascent.  Garden City Foothills"
+    },
+    {
+      "date": "2026-05-29",
+      "miles": 2.34,
+      "km": 3.77,
+      "type": "run",
+      "time": null,
+      "comment": "49' ascent.  Bear Lake Heritage Park loop"
     }
   ],
-  "totalActivities": 33,
-  "activeDays": 26,
-  "restDays": 2
+  "totalActivities": 37,
+  "activeDays": 29,
+  "restDays": 0
 }

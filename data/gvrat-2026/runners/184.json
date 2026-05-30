@@ -411,9 +411,25 @@
       "type": "walk",
       "time": null,
       "comment": "Morning walk and some extra stepping"
+    },
+    {
+      "date": "2026-05-29",
+      "miles": 3.45,
+      "km": 5.55,
+      "type": "run",
+      "time": null,
+      "comment": "Collegedale - 40 sec sprints x8 . Beautiful sunrise and little Debbies"
+    },
+    {
+      "date": "2026-05-29",
+      "miles": 1.25,
+      "km": 2.01,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and some more stepping"
     }
   ],
-  "totalActivities": 51,
-  "activeDays": 28,
+  "totalActivities": 53,
+  "activeDays": 29,
   "restDays": 0
 }

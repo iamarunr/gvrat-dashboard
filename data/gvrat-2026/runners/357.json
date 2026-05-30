@@ -523,9 +523,33 @@
       "type": "walk",
       "time": null,
       "comment": "dog walk"
+    },
+    {
+      "date": "2026-05-29",
+      "miles": 3.3,
+      "km": 5.31,
+      "type": "run",
+      "time": null,
+      "comment": "morning run"
+    },
+    {
+      "date": "2026-05-29",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "walk",
+      "time": null,
+      "comment": "walk to pool, and coffee shop"
+    },
+    {
+      "date": "2026-05-29",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": "dog walk"
     }
   ],
-  "totalActivities": 64,
-  "activeDays": 27,
+  "totalActivities": 67,
+  "activeDays": 28,
   "restDays": 1
 }

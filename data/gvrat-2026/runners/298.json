@@ -267,9 +267,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-29",
+      "miles": 7.0,
+      "km": 11.27,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-05-29",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Work hood walk with Shannon"
     }
   ],
-  "totalActivities": 23,
-  "activeDays": 18,
+  "totalActivities": 25,
+  "activeDays": 19,
   "restDays": 10
 }

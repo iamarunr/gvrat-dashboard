@@ -227,9 +227,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total\u2026. Missing Reo"
+    },
+    {
+      "date": "2026-05-29",
+      "miles": 5.75,
+      "km": 9.25,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total"
     }
   ],
-  "totalActivities": 26,
-  "activeDays": 26,
+  "totalActivities": 27,
+  "activeDays": 27,
   "restDays": 2
 }
