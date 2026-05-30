@@ -283,9 +283,17 @@
       "type": "walk",
       "time": null,
       "comment": "Shadow in the forest"
+    },
+    {
+      "date": "2026-05-29",
+      "miles": 3.65,
+      "km": 5.87,
+      "type": "walk",
+      "time": null,
+      "comment": "damn heat wave"
     }
   ],
-  "totalActivities": 35,
-  "activeDays": 28,
+  "totalActivities": 36,
+  "activeDays": 29,
   "restDays": 0
 }

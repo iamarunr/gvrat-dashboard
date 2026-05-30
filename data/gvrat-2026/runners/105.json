@@ -227,9 +227,17 @@
       "type": "walk",
       "time": null,
       "comment": "4:00pm to midnight first \"day\" of \"The Sticks\" 2026"
+    },
+    {
+      "date": "2026-05-29",
+      "miles": 44.2,
+      "km": 71.13,
+      "type": "walk",
+      "time": null,
+      "comment": "Friday mileage at \"The Sticks.\""
     }
   ],
-  "totalActivities": 28,
-  "activeDays": 28,
+  "totalActivities": 29,
+  "activeDays": 29,
   "restDays": 0
 }

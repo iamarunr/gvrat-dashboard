@@ -267,9 +267,17 @@
       "type": "run",
       "time": null,
       "comment": "Easy run in the campground."
+    },
+    {
+      "date": "2026-05-29",
+      "miles": 6.45,
+      "km": 10.38,
+      "type": "walk",
+      "time": null,
+      "comment": "Extra walking at work during Field Day."
     }
   ],
-  "totalActivities": 26,
-  "activeDays": 21,
+  "totalActivities": 27,
+  "activeDays": 22,
   "restDays": 7
 }

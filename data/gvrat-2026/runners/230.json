@@ -238,19 +238,19 @@
     },
     {
       "date": "2026-05-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.41,
+      "km": 3.88,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Wickford walk"
     },
     {
       "date": "2026-05-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.07,
+      "km": 6.55,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Pitsea RC Club Run - Orange Group"
     },
     {
       "date": "2026-05-28",
@@ -259,9 +259,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-29",
+      "miles": 2.46,
+      "km": 3.96,
+      "type": "run",
+      "time": null,
+      "comment": "Wickford Run"
     }
   ],
-  "totalActivities": 22,
-  "activeDays": 18,
-  "restDays": 10
+  "totalActivities": 25,
+  "activeDays": 21,
+  "restDays": 8
 }

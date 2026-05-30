@@ -454,6 +454,22 @@
     },
     {
       "date": "2026-05-28",
+      "miles": 4.19,
+      "km": 6.74,
+      "type": "walk",
+      "time": null,
+      "comment": "Nose hill"
+    },
+    {
+      "date": "2026-05-28",
+      "miles": 1.99,
+      "km": 3.2,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-29",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -461,7 +477,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 56,
-  "activeDays": 27,
+  "totalActivities": 58,
+  "activeDays": 28,
   "restDays": 1
 }

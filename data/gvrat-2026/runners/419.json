@@ -243,9 +243,17 @@
       "type": "run",
       "time": null,
       "comment": "Petite boucle.Dur 30 degres. Lendemain du Fourcat."
+    },
+    {
+      "date": "2026-05-29",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 20,
   "activeDays": 18,
-  "restDays": 10
+  "restDays": 11
 }

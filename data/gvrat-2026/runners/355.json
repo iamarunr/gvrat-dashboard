@@ -446,22 +446,46 @@
     },
     {
       "date": "2026-05-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.38,
+      "km": 7.05,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "SBR Lauftreff"
+    },
+    {
+      "date": "2026-05-26",
+      "miles": 0.47,
+      "km": 0.76,
+      "type": "walk",
+      "time": null,
+      "comment": "Sonnenb\u00fchl Gehen"
     },
     {
       "date": "2026-05-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.16,
+      "km": 3.48,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Sonnenb\u00fchl Gehen"
     },
     {
       "date": "2026-05-28",
+      "miles": 3.24,
+      "km": 5.21,
+      "type": "run",
+      "time": null,
+      "comment": "W5 Do. Tempo - 2km (5 km gesamt)"
+    },
+    {
+      "date": "2026-05-28",
+      "miles": 0.54,
+      "km": 0.87,
+      "type": "walk",
+      "time": null,
+      "comment": "Sonnenb\u00fchl Gehen"
+    },
+    {
+      "date": "2026-05-29",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -469,7 +493,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 55,
-  "activeDays": 25,
-  "restDays": 3
+  "totalActivities": 60,
+  "activeDays": 28,
+  "restDays": 1
 }

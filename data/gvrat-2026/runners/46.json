@@ -539,9 +539,33 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-29",
+      "miles": 1.02,
+      "km": 1.64,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4009 Nebraska"
+    },
+    {
+      "date": "2026-05-29",
+      "miles": 2.57,
+      "km": 4.14,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-29",
+      "miles": 1.91,
+      "km": 3.07,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 67,
-  "activeDays": 28,
+  "totalActivities": 70,
+  "activeDays": 29,
   "restDays": 0
 }
