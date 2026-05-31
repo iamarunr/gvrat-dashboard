@@ -547,9 +547,25 @@
       "type": "walk",
       "time": null,
       "comment": "dog walk"
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 20.0,
+      "km": 32.19,
+      "type": "run",
+      "time": null,
+      "comment": "long hot run"
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": "dog walk"
     }
   ],
-  "totalActivities": 67,
-  "activeDays": 28,
+  "totalActivities": 69,
+  "activeDays": 29,
   "restDays": 1
 }

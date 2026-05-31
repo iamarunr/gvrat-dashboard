@@ -563,9 +563,33 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 5.02,
+      "km": 8.08,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4010 Kearney NE"
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 3.18,
+      "km": 5.12,
+      "type": "walk",
+      "time": null,
+      "comment": "AM Walk"
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 2.47,
+      "km": 3.98,
+      "type": "walk",
+      "time": null,
+      "comment": "PM Walk"
     }
   ],
-  "totalActivities": 70,
-  "activeDays": 29,
+  "totalActivities": 73,
+  "activeDays": 30,
   "restDays": 0
 }

@@ -307,9 +307,17 @@
       "type": "run",
       "time": null,
       "comment": "Around the moor again!"
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 31,
   "activeDays": 22,
-  "restDays": 7
+  "restDays": 8
 }

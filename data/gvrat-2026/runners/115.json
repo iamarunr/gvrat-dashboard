@@ -555,9 +555,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 11.06,
+      "km": 17.8,
+      "type": "run",
+      "time": null,
+      "comment": "Evening beach run"
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 2.1,
+      "km": 3.38,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 66,
-  "activeDays": 26,
+  "totalActivities": 68,
+  "activeDays": 27,
   "restDays": 3
 }

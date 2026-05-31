@@ -427,9 +427,25 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and some more stepping"
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 5.01,
+      "km": 8.06,
+      "type": "run",
+      "time": null,
+      "comment": "Long run at enterprise alone. 60/30. Ran into guy with big beautiful red bird named Fred. She\u2019s a girl- cute story how she got her name ."
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 2.29,
+      "km": 3.69,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and Costco on purpose"
     }
   ],
-  "totalActivities": 53,
-  "activeDays": 29,
+  "totalActivities": 55,
+  "activeDays": 30,
   "restDays": 0
 }

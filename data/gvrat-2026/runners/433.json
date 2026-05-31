@@ -46,35 +46,59 @@
     },
     {
       "date": "2026-05-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.27,
+      "km": 2.04,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-04",
+      "miles": 2.05,
+      "km": 3.3,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.3,
+      "km": 2.09,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk to post a parcel"
+    },
+    {
+      "date": "2026-05-05",
+      "miles": 4.97,
+      "km": 8.0,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.67,
+      "km": 7.52,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.15,
+      "km": 5.07,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "One Drop"
+    },
+    {
+      "date": "2026-05-07",
+      "miles": 6.35,
+      "km": 10.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Centennial walk"
     },
     {
       "date": "2026-05-08",
@@ -86,43 +110,59 @@
     },
     {
       "date": "2026-05-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.77,
+      "km": 6.07,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walk from light rail"
+    },
+    {
+      "date": "2026-05-09",
+      "miles": 3.14,
+      "km": 5.05,
+      "type": "run",
+      "time": null,
+      "comment": "parkrun w/ Baxter"
     },
     {
       "date": "2026-05-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 12.43,
+      "km": 20.0,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Mothers\u2019 Day run w/ O"
+    },
+    {
+      "date": "2026-05-10",
+      "miles": 1.02,
+      "km": 1.64,
+      "type": "walk",
+      "time": null,
+      "comment": "dog walk"
     },
     {
       "date": "2026-05-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.37,
+      "km": 2.2,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "PM Dog walk"
     },
     {
       "date": "2026-05-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.21,
+      "km": 1.95,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Dog walk and coffee"
     },
     {
       "date": "2026-05-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.39,
+      "km": 2.24,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Dog walk"
     },
     {
       "date": "2026-05-14",
@@ -142,51 +182,75 @@
     },
     {
       "date": "2026-05-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.16,
+      "km": 5.09,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "parkrun w/ Baxter"
     },
     {
       "date": "2026-05-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Evening run"
+    },
+    {
+      "date": "2026-05-17",
+      "miles": 2.48,
+      "km": 3.99,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walks 2"
     },
     {
       "date": "2026-05-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.24,
+      "km": 2.0,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning dog walk and coffee"
+    },
+    {
+      "date": "2026-05-18",
+      "miles": 1.78,
+      "km": 2.86,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk"
     },
     {
       "date": "2026-05-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.24,
+      "km": 2.0,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Evening dog walk"
+    },
+    {
+      "date": "2026-05-19",
+      "miles": 1.24,
+      "km": 2.0,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning dog walk"
     },
     {
       "date": "2026-05-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.24,
+      "km": 2.0,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Dog walk before flight"
     },
     {
       "date": "2026-05-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Cape Town beachfront"
     },
     {
       "date": "2026-05-22",
@@ -198,19 +262,27 @@
     },
     {
       "date": "2026-05-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.13,
+      "km": 5.04,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Rondenbosch Common parkrun"
     },
     {
       "date": "2026-05-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.74,
+      "km": 4.41,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "post marat lost walk"
+    },
+    {
+      "date": "2026-05-24",
+      "miles": 26.51,
+      "km": 42.66,
+      "type": "run",
+      "time": null,
+      "comment": "Cape Town Marathon"
     },
     {
       "date": "2026-05-25",
@@ -222,19 +294,19 @@
     },
     {
       "date": "2026-05-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.17,
+      "km": 3.49,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Fish Hoek"
     },
     {
       "date": "2026-05-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.86,
+      "km": 2.99,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Kalk Bay"
     },
     {
       "date": "2026-05-28",
@@ -246,14 +318,30 @@
     },
     {
       "date": "2026-05-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.84,
+      "km": 1.35,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Home - quick dog walk"
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 1.24,
+      "km": 2.0,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening dog walk"
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 4.35,
+      "km": 7.0,
+      "type": "run",
+      "time": null,
+      "comment": "Parkrun plus extra"
     }
   ],
-  "totalActivities": 4,
-  "activeDays": 2,
-  "restDays": 27
+  "totalActivities": 35,
+  "activeDays": 23,
+  "restDays": 7
 }

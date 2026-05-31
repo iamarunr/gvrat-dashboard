@@ -243,9 +243,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk with Christopher and the dogs.\r\nStill sick."
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk with Christopher and the dogs \r\nStill sick\r\nbut getting there"
     }
   ],
-  "totalActivities": 12,
-  "activeDays": 11,
+  "totalActivities": 13,
+  "activeDays": 12,
   "restDays": 18
 }

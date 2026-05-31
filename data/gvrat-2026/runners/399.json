@@ -251,9 +251,25 @@
       "type": "walk",
       "time": null,
       "comment": "Izzy, 2.06, 42 min.  Max, 2, 45 min.  Ruck 20#, 4, 1:11."
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 6.75,
+      "km": 10.86,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 31,
-  "activeDays": 29,
+  "totalActivities": 33,
+  "activeDays": 30,
   "restDays": 0
 }

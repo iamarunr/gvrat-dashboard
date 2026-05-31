@@ -331,9 +331,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 41.0,
+      "km": 65.98,
+      "type": "run",
+      "time": null,
+      "comment": "Day 1 of the Hotfoot Hampster race."
     }
   ],
-  "totalActivities": 35,
-  "activeDays": 23,
+  "totalActivities": 36,
+  "activeDays": 24,
   "restDays": 6
 }

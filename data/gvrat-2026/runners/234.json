@@ -325,23 +325,39 @@
       "comment": "Marina out and back"
     },
     {
-      "date": "2026-05-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-05-27",
+      "miles": 1.32,
+      "km": 2.12,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Loop around Tony Grove Lake with Terri"
+    },
+    {
+      "date": "2026-05-28",
+      "miles": 3.12,
+      "km": 5.02,
+      "type": "walk",
+      "time": null,
+      "comment": "Union Pacific Rail Trail"
     },
     {
       "date": "2026-05-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.85,
+      "km": 1.37,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Millenium Trail in Park City UT"
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill on a rainy day"
     }
   ],
-  "totalActivities": 37,
-  "activeDays": 24,
-  "restDays": 5
+  "totalActivities": 41,
+  "activeDays": 27,
+  "restDays": 3
 }

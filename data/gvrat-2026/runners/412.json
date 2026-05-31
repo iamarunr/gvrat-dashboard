@@ -206,11 +206,11 @@
     },
     {
       "date": "2026-05-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.05,
+      "km": 9.74,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "nice run until struck by bicycle and got hurt"
     },
     {
       "date": "2026-05-23",
@@ -267,9 +267,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 15,
-  "activeDays": 11,
+  "totalActivities": 16,
+  "activeDays": 12,
   "restDays": 18
 }

@@ -275,9 +275,17 @@
       "type": "walk",
       "time": null,
       "comment": "Extra walking at work during Field Day."
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 8.17,
+      "km": 13.15,
+      "type": "run",
+      "time": null,
+      "comment": "Run through some campgrounds."
     }
   ],
-  "totalActivities": 27,
-  "activeDays": 22,
+  "totalActivities": 28,
+  "activeDays": 23,
   "restDays": 7
 }
