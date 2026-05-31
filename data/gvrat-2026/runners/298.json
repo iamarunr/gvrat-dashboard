@@ -283,9 +283,17 @@
       "type": "walk",
       "time": null,
       "comment": "Work hood walk with Shannon"
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk with Patrick at farmer's market and nearby park"
     }
   ],
-  "totalActivities": 25,
-  "activeDays": 19,
+  "totalActivities": 26,
+  "activeDays": 20,
   "restDays": 10
 }

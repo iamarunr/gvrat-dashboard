@@ -235,9 +235,17 @@
       "type": "run",
       "time": null,
       "comment": "Spruce Grove HOT!!"
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 14,
   "activeDays": 14,
-  "restDays": 15
+  "restDays": 16
 }

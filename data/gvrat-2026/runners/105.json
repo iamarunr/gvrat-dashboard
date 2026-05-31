@@ -235,9 +235,17 @@
       "type": "walk",
       "time": null,
       "comment": "Friday mileage at \"The Sticks.\""
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 38.2,
+      "km": 61.48,
+      "type": "walk",
+      "time": null,
+      "comment": "Saturday mileage at \"The Sticks.\""
     }
   ],
-  "totalActivities": 29,
-  "activeDays": 29,
+  "totalActivities": 30,
+  "activeDays": 30,
   "restDays": 0
 }

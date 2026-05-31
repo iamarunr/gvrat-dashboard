@@ -467,9 +467,25 @@
       "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 10.2,
+      "km": 16.42,
+      "type": "walk",
+      "time": null,
+      "comment": "walk before champions league final"
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 26.3,
+      "km": 42.33,
+      "type": "run",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 58,
-  "activeDays": 29,
+  "totalActivities": 60,
+  "activeDays": 30,
   "restDays": 0
 }

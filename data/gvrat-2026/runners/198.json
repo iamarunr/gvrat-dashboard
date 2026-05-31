@@ -334,43 +334,43 @@
     },
     {
       "date": "2026-05-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.48,
+      "km": 5.6,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.71,
+      "km": 5.97,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.89,
+      "km": 6.26,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.75,
+      "km": 2.82,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 11.2,
+      "km": 18.02,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "St Hans extreme, 6 hour race, I stepped off early"
     },
     {
       "date": "2026-05-29",
@@ -379,9 +379,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 38,
-  "activeDays": 20,
-  "restDays": 9
+  "totalActivities": 43,
+  "activeDays": 25,
+  "restDays": 5
 }

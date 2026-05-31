@@ -235,9 +235,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total"
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 8.5,
+      "km": 13.68,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total- rail trail and garden day"
     }
   ],
-  "totalActivities": 27,
-  "activeDays": 27,
+  "totalActivities": 28,
+  "activeDays": 28,
   "restDays": 2
 }

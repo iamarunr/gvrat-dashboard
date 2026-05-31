@@ -239,8 +239,16 @@
       "type": "buzzard",
       "time": null,
       "comment": "Flying at race pace"
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 4.44,
+      "km": 7.15,
+      "type": "buzzard",
+      "time": null,
+      "comment": "Flying at race pace"
     }
   ],
-  "runnersAhead": 237,
-  "runnersBehind": 242
+  "runnersAhead": 239,
+  "runnersBehind": 241
 }

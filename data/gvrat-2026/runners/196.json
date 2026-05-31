@@ -387,9 +387,33 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 5.07,
+      "km": 8.16,
+      "type": "walk",
+      "time": null,
+      "comment": "Buzzards were lurking on the rooftop"
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 1.35,
+      "km": 2.17,
+      "type": "walk",
+      "time": null,
+      "comment": "TM1"
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "run",
+      "time": null,
+      "comment": "TM Run"
     }
   ],
-  "totalActivities": 40,
-  "activeDays": 21,
+  "totalActivities": 43,
+  "activeDays": 22,
   "restDays": 8
 }

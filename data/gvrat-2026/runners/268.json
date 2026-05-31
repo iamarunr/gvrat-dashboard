@@ -237,15 +237,31 @@
       "comment": "treadmill, morning walk"
     },
     {
-      "date": "2026-05-29",
+      "date": "2026-05-28",
       "miles": 1.35,
       "km": 2.17,
       "type": "run",
       "time": null,
       "comment": "Run clinic"
+    },
+    {
+      "date": "2026-05-29",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 29,
-  "activeDays": 28,
-  "restDays": 1
+  "activeDays": 27,
+  "restDays": 3
 }
