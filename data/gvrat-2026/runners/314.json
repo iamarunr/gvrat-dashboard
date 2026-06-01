@@ -230,22 +230,30 @@
     },
     {
       "date": "2026-05-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.09,
+      "km": 9.8,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.3,
+      "km": 6.92,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-31",
+      "miles": 6.21,
+      "km": 9.99,
+      "type": "run",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 27,
-  "activeDays": 27,
-  "restDays": 3
+  "totalActivities": 30,
+  "activeDays": 30,
+  "restDays": 1
 }

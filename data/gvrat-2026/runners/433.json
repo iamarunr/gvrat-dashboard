@@ -339,9 +339,33 @@
       "type": "run",
       "time": null,
       "comment": "Parkrun plus extra"
+    },
+    {
+      "date": "2026-05-31",
+      "miles": 1.64,
+      "km": 2.64,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk and coffee"
+    },
+    {
+      "date": "2026-05-31",
+      "miles": 4.97,
+      "km": 8.0,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-31",
+      "miles": 1.33,
+      "km": 2.14,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk"
     }
   ],
-  "totalActivities": 35,
-  "activeDays": 23,
+  "totalActivities": 38,
+  "activeDays": 24,
   "restDays": 7
 }

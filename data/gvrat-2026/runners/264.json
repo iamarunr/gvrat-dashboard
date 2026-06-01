@@ -349,6 +349,14 @@
       "comment": "Piccard - W. Gude Dr."
     },
     {
+      "date": "2026-05-28",
+      "miles": 1.36,
+      "km": 2.19,
+      "type": "walk",
+      "time": null,
+      "comment": "Shady Grove Metro to Home"
+    },
+    {
       "date": "2026-05-29",
       "miles": 0.0,
       "km": 0.0,
@@ -363,9 +371,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-31",
+      "miles": 7.69,
+      "km": 12.38,
+      "type": "run",
+      "time": null,
+      "comment": "Rock Creek Trail: Needwood - Aspen Hill Park"
     }
   ],
-  "totalActivities": 35,
-  "activeDays": 20,
+  "totalActivities": 37,
+  "activeDays": 21,
   "restDays": 10
 }

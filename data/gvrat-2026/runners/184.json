@@ -443,9 +443,25 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and Costco on purpose"
+    },
+    {
+      "date": "2026-05-31",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "walk",
+      "time": null,
+      "comment": "Sunday morning walking - enterprise with Cynthia"
+    },
+    {
+      "date": "2026-05-31",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "Sunday evening chores and such"
     }
   ],
-  "totalActivities": 55,
-  "activeDays": 30,
+  "totalActivities": 57,
+  "activeDays": 31,
   "restDays": 0
 }

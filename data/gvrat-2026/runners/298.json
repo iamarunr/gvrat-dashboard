@@ -291,9 +291,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk with Patrick at farmer's market and nearby park"
+    },
+    {
+      "date": "2026-05-31",
+      "miles": 14.5,
+      "km": 23.34,
+      "type": "run",
+      "time": null,
+      "comment": "Plateau Road to Reservoir"
     }
   ],
-  "totalActivities": 26,
-  "activeDays": 20,
+  "totalActivities": 27,
+  "activeDays": 21,
   "restDays": 10
 }

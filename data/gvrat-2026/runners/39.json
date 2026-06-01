@@ -339,9 +339,25 @@
       "type": "walk",
       "time": null,
       "comment": "two dog walks and some mowing"
+    },
+    {
+      "date": "2026-05-31",
+      "miles": 1.86,
+      "km": 2.99,
+      "type": "walk",
+      "time": null,
+      "comment": "two dog walks and some fence repair walking"
+    },
+    {
+      "date": "2026-05-31",
+      "miles": 5.5,
+      "km": 8.85,
+      "type": "walk",
+      "time": null,
+      "comment": "Hike out from Broke Inlet Road to meet W & AB."
     }
   ],
-  "totalActivities": 42,
-  "activeDays": 30,
+  "totalActivities": 44,
+  "activeDays": 31,
   "restDays": 0
 }
