@@ -86,7 +86,10 @@ function shortDate(iso: string): string {
 }
 
 function longDate(iso: string): string {
+  if (!iso || iso === "—") return "—";
+  if (iso.includes("days")) return iso;
   const d = new Date(iso + "T00:00:00");
+  if (isNaN(d.getTime())) return iso;
   return d.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
 }
 
@@ -216,7 +219,7 @@ function ProgressBar({
           {runnerMiles.toFixed(2)} miles completed
         </span>
         <span style={{ fontSize: 14, color: "rgba(255,255,255,0.6)", fontWeight: 500 }}>
-          {milesLeft.toFixed(2)} mi remaining
+          {runnerMiles >= TOTAL_MILES ? "Completed!" : `${milesLeft.toFixed(2)} mi remaining`}
         </span>
       </div>
       <div
@@ -748,7 +751,9 @@ export default async function RunnerPage({
                   }}
                 >
                   <span>🏁</span>
-                  <span style={{ color: "rgba(255,255,255,0.5)" }}>Projected</span>
+                  <span style={{ color: "rgba(255,255,255,0.5)" }}>
+                    {runnerMiles >= TOTAL_MILES ? "Completed" : "Projected"}
+                  </span>
                   <span style={{ color: "#ffffff", fontWeight: 600 }}>
                     {lr?.projectedFinish ? longDate(lr.projectedFinish) : "—"}
                   </span>
@@ -816,7 +821,17 @@ export default async function RunnerPage({
           ) : (
             <>
               <StatCell value={runnerMiles.toFixed(2)} label="Total Miles" color={NAVY} />
-              <StatCell value={milesLeft.toFixed(1)} label="Miles to Finish" color={GOLD} />
+              <StatCell
+                value={runnerMiles >= TOTAL_MILES ? "Finished" : milesLeft.toFixed(1)}
+                label={
+                  runnerMiles >= TOTAL_MILES
+                    ? (lr?.projectedFinish && lr.projectedFinish.includes("days")
+                        ? `in ${lr.projectedFinish}`
+                        : "completed")
+                    : "Miles to Finish"
+                }
+                color={GOLD}
+              />
               <StatCell value={String(dl)} label="Days Until Sep 30" color={NAVY} />
               <StatCell
                 value={avgNeeded.toFixed(2)}

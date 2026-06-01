@@ -15,7 +15,7 @@ export type Runner = {
   age: number;
   miles: number;
   km: number;
-  compPercent: number;
+  compPercent: string;
   currentMile: number;
   lat: number;
   lon: number;

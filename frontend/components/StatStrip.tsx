@@ -1,5 +1,4 @@
-
-import type { MetaData } from "@/lib/data";
+import { MetaData, leaderboardData } from "@/lib/data";
 
 const DISPLAY = "var(--font-display)";
 const NAVY = "#1B3F6E";
@@ -78,6 +77,12 @@ function StatCell({
 }
 
 export default function StatStrip({ meta }: { meta: MetaData }) {
+  const topReal = leaderboardData.runners.find(r => !r.virtual);
+  const isFinished = topReal && topReal.miles >= 679.0;
+  const winnerDays = (isFinished && topReal.projectedFinish && topReal.projectedFinish.includes("days"))
+    ? parseInt(topReal.projectedFinish, 10)
+    : null;
+
   const stats: StatItem[] = [
     {
       label: "Race Day",
@@ -96,7 +101,7 @@ export default function StatStrip({ meta }: { meta: MetaData }) {
       accent: GOLD,
     },
     {
-      label: "Current Leader",
+      label: winnerDays !== null ? `Winner (${winnerDays} days)` : "Current Leader",
       value: meta.leaderName,
       sub: `${meta.leaderMiles} mi`,
       accent: NAVY,

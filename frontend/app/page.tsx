@@ -14,15 +14,13 @@ export default function Home() {
     Math.round((metaData.dayNumber / metaData.totalDays) * 100)
   );
 
-  // Extract top runners
+  // Extract top runners (preserving correct rank order from backend)
   const realRunners = leaderboardData.runners.filter((r) => !r.virtual);
   const topMen = realRunners
     .filter((r) => r.gender === "M")
-    .sort((a, b) => b.miles - a.miles)
     .slice(0, 3);
   const topWomen = realRunners
     .filter((r) => r.gender === "F")
-    .sort((a, b) => b.miles - a.miles)
     .slice(0, 3);
 
   return (
@@ -361,9 +359,17 @@ export default function Home() {
                     <span className="mini-lb-miles" style={{ color: GOLD, fontSize: 17, fontWeight: 700, fontVariantNumeric: "tabular-nums", lineHeight: 1 }}>
                       {r.miles.toFixed(1)} <span style={{ fontSize: 11, color: "rgba(244,166,35,0.6)", fontWeight: 800 }}>MI</span>
                     </span>
-                    <span style={{ color: "rgba(255,255,255,0.4)", fontSize: 13, fontWeight: 600, fontVariantNumeric: "tabular-nums", lineHeight: 1 }}>
-                      {r.km.toFixed(1)} <span style={{ fontSize: 9, color: "rgba(255,255,255,0.3)", fontWeight: 800 }}>KM</span>
-                    </span>
+                    {r.miles >= 679.0 ? (
+                      <span style={{ color: GOLD, fontSize: 12, fontWeight: 700, lineHeight: 1, textTransform: "uppercase", letterSpacing: "0.05em" }}>
+                        {r.projectedFinish && r.projectedFinish.includes("days")
+                          ? `${i === 0 ? "Winner" : "Finisher"} (${parseInt(r.projectedFinish, 10)} days)`
+                          : i === 0 ? "Winner" : "Finisher"}
+                      </span>
+                    ) : (
+                      <span style={{ color: "rgba(255,255,255,0.4)", fontSize: 13, fontWeight: 600, fontVariantNumeric: "tabular-nums", lineHeight: 1 }}>
+                        {r.km.toFixed(1)} <span style={{ fontSize: 9, color: "rgba(255,255,255,0.3)", fontWeight: 800 }}>KM</span>
+                      </span>
+                    )}
                   </div>
                 </div>
               ))}
@@ -403,9 +409,17 @@ export default function Home() {
                     <span className="mini-lb-miles" style={{ color: GOLD, fontSize: 17, fontWeight: 700, fontVariantNumeric: "tabular-nums", lineHeight: 1 }}>
                       {r.miles.toFixed(1)} <span style={{ fontSize: 11, color: "rgba(244,166,35,0.6)", fontWeight: 800 }}>MI</span>
                     </span>
-                    <span style={{ color: "rgba(255,255,255,0.4)", fontSize: 13, fontWeight: 600, fontVariantNumeric: "tabular-nums", lineHeight: 1 }}>
-                      {r.km.toFixed(1)} <span style={{ fontSize: 9, color: "rgba(255,255,255,0.3)", fontWeight: 800 }}>KM</span>
-                    </span>
+                    {r.miles >= 679.0 ? (
+                      <span style={{ color: GOLD, fontSize: 12, fontWeight: 700, lineHeight: 1, textTransform: "uppercase", letterSpacing: "0.05em" }}>
+                        {r.projectedFinish && r.projectedFinish.includes("days")
+                          ? `${i === 0 ? "Winner" : "Finisher"} (${parseInt(r.projectedFinish, 10)} days)`
+                          : i === 0 ? "Winner" : "Finisher"}
+                      </span>
+                    ) : (
+                      <span style={{ color: "rgba(255,255,255,0.4)", fontSize: 13, fontWeight: 600, fontVariantNumeric: "tabular-nums", lineHeight: 1 }}>
+                        {r.km.toFixed(1)} <span style={{ fontSize: 9, color: "rgba(255,255,255,0.3)", fontWeight: 800 }}>KM</span>
+                      </span>
+                    )}
                   </div>
                 </div>
               ))}

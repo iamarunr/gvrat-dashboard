@@ -137,7 +137,7 @@ def test_multi_activity_bib_summed(leaderboard):
 def test_jenna_dagger_comp_percent(leaderboard):
     jenna = next(r for r in leaderboard.runners if r.bib == 4)
     # round(26.3 / 679 * 100, 2) = 3.87
-    assert jenna.compPercent == pytest.approx(3.87, rel=1e-3)
+    assert jenna.compPercent == "3.87%"
 
 
 def test_jenna_dagger_km(leaderboard):
