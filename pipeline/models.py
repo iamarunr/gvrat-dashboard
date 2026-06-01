@@ -79,7 +79,7 @@ class PublicRunner(BaseModel):
     age: int
     miles: float
     km: float
-    compPercent: float
+    compPercent: str
     currentMile: int
     lat: float
     lon: float

@@ -21,8 +21,10 @@ function getCountry(home: string): string {
 function formatProjFinShort(projFin: string): string {
   if (!projFin || projFin === "—") return "—";
   if (projFin === "FINISHED") return "🎉";
+  if (projFin.includes("days")) return projFin;
   try {
     const date = new Date(projFin + "T00:00:00");
+    if (isNaN(date.getTime())) return projFin;
     return date.toLocaleDateString("en-US", { month: "short", day: "numeric" });
   } catch {
     return projFin;
@@ -42,8 +44,39 @@ function sortRunners(rows: Runner[], sort: SortKey): Runner[] {
       case "gender": av = a.gender; bv = b.gender; break;
       case "miles": av = a.miles; bv = b.miles; break;
       case "km": av = a.km; bv = b.km; break;
-      case "comp": av = a.compPercent; bv = b.compPercent; break;
-      case "proj": av = a.projectedFinish; bv = b.projectedFinish; break;
+      case "comp": {
+        const getVal = (r: Runner) => {
+          const pct = parseFloat(r.compPercent);
+          if (!isNaN(pct) && pct >= 100) {
+            if (r.projectedFinish && r.projectedFinish.includes("days")) {
+              const days = parseInt(r.projectedFinish, 10);
+              return isNaN(days) ? 100 : (1100 - days);
+            }
+            return 100;
+          }
+          return isNaN(pct) ? 0 : pct;
+        };
+        av = getVal(a);
+        bv = getVal(b);
+        break;
+      }
+      case "proj": {
+        const getVal = (r: Runner) => {
+          if (!r.projectedFinish || r.projectedFinish === "—") return Infinity;
+          if (r.projectedFinish.includes("days")) {
+            const days = parseInt(r.projectedFinish, 10);
+            return isNaN(days) ? 0 : days;
+          }
+          try {
+            const d = new Date(r.projectedFinish + "T00:00:00");
+            if (!isNaN(d.getTime())) return d.getTime();
+          } catch {}
+          return Infinity;
+        };
+        av = getVal(a);
+        bv = getVal(b);
+        break;
+      }
       case "genderPlace": av = a.genderRank ?? Infinity; bv = b.genderRank ?? Infinity; break;
     }
     if (av < bv) return sort.dir === "asc" ? -1 : 1;
@@ -208,32 +241,28 @@ function DataRow({ r, idx, selectedBib, onMapPin, onNavigate }: RowProps) {
 
       {/* Col 6: Miles + progress bar */}
       <div style={{ display: "flex", flexDirection: "column", gap: 3 }}>
-        {r.miles >= FINISH_MILES ? (
-          <span style={{ fontSize: 12, fontWeight: 600, color: GREEN }}>🎉</span>
-        ) : (
-          <>
-            <span
-              className="tabular-nums"
+        <span
+          className="tabular-nums"
+          style={{
+            fontFamily: DISPLAY,
+            fontWeight: 700,
+            fontSize: 13,
+            color: isBuzzard ? RED : "#1A1A2E",
+          }}
+        >
+          {r.miles.toFixed(2)} {r.miles >= FINISH_MILES && "🎉"}
+        </span>
+        {r.miles < FINISH_MILES && (
+          <div style={{ height: 2, background: "#eeece8", borderRadius: 2, width: "100%" }}>
+            <div
               style={{
-                fontFamily: DISPLAY,
-                fontWeight: 700,
-                fontSize: 13,
-                color: isBuzzard ? RED : "#1A1A2E",
+                height: "100%",
+                background: isBuzzard ? RED : GOLD,
+                borderRadius: 2,
+                width: `${Math.min((r.miles / FINISH_MILES) * 100, 100)}%`,
               }}
-            >
-              {r.miles.toFixed(2)}
-            </span>
-            <div style={{ height: 2, background: "#eeece8", borderRadius: 2, width: "100%" }}>
-              <div
-                style={{
-                  height: "100%",
-                  background: isBuzzard ? RED : GOLD,
-                  borderRadius: 2,
-                  width: `${Math.min(r.compPercent, 100)}%`,
-                }}
-              />
-            </div>
-          </>
+            />
+          </div>
         )}
       </div>
 
@@ -250,7 +279,7 @@ function DataRow({ r, idx, selectedBib, onMapPin, onNavigate }: RowProps) {
         className="hide-tablet tabular-nums"
         style={{ fontSize: 12, color: "rgba(0,0,0,0.4)", textAlign: "right" }}
       >
-        {r.compPercent.toFixed(2)}%
+        {r.compPercent}
       </div>
 
       {/* Col 9: Proj Fin */}
@@ -403,7 +432,7 @@ export default function Leaderboard({ runners, selectedRunner, onSelect }: Props
       <style>{`
           .lb-grid-row {
             display: grid;
-            grid-template-columns: 40px 36px 50px 1fr 24px 72px 60px 54px 70px 70px;
+            grid-template-columns: 40px 36px 50px 1fr 24px 72px 60px 54px 85px 105px;
             gap: 12px;
             padding: 10px 18px;
             align-items: center;

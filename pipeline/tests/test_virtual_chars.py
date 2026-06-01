@@ -103,3 +103,55 @@ def test_gender_ranks_sequential_m(lb):
 def test_gender_ranks_sequential_f(lb):
     f_ranks = sorted(r.genderRank for r in lb.runners if not r.virtual and r.gender == "F")
     assert f_ranks == list(range(1, len(f_ranks) + 1))
+
+
+def test_gbm_completed():
+    from pipeline.config import load_race_config
+    from pipeline.waypoints import parse_gpx
+    from pipeline.virtual_chars import build_gingerbread_man
+    from pipeline.models import PublicRunner
+    
+    config = load_race_config("gvrat-2026")
+    waypoints = parse_gpx(FIXTURES / "route.gpx")
+    
+    # Mock a top runner who completed in 30 days
+    top_runner = PublicRunner(
+        rank=1,
+        rankDisplay="#1",
+        bib=192,
+        firstName="Gordon",
+        lastName="Christie",
+        displayName="Gordon Christie",
+        event=config.abbreviation,
+        home="US-TN",
+        gender="M",
+        age=45,
+        miles=679.0,
+        km=1092.74,
+        compPercent="100.00%",
+        currentMile=679,
+        lat=0.0,
+        lon=0.0,
+        locationDescription="",
+        projectedFinish="30 days",
+        projectedFinishDate="2026-05-30",
+        genderRank=1,
+        eventGen=f"{config.abbreviation}M",
+        virtual=False,
+        virtualType=None,
+        lastActivityDate="2026-05-30",
+    )
+    
+    gbm = build_gingerbread_man(
+        top_runner=top_runner,
+        config=config,
+        waypoints=waypoints,
+        descriptions=None,
+        activities=[],
+        as_of_date=date(2026, 5, 30),
+        overrides={},
+    )
+    
+    assert gbm.miles == 679.0
+    assert gbm.compPercent == "100.00%"
+    assert gbm.projectedFinish == "29 days"

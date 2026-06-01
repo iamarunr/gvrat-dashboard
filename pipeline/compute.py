@@ -54,6 +54,38 @@ def compute_projected_finish(
     return finish_iso, finish_iso
 
 
+def calculate_completion_days(
+    bib: int,
+    activities: list[Activity],
+    start_date: date,
+    total_miles: float,
+    as_of_date: date,
+    overrides: dict,
+) -> Optional[int]:
+    """Calculate the earliest calendar day on which a runner reached or crossed the total miles.
+    May 1st is Day 1. Returns None if they haven't finished."""
+    runner_acts = [a for a in activities if a.bib == bib and a.activityDate <= as_of_date]
+    if not runner_acts:
+        adjustment = overrides.get(str(bib), {}).get("milesAdjustment", 0.0)
+        if round(adjustment, 4) >= total_miles:
+            return 1
+        return None
+
+    # Group miles by activityDate
+    miles_by_date = defaultdict(float)
+    for act in runner_acts:
+        miles_by_date[act.activityDate] += parse_distance(act.tallyValue)
+
+    adjustment = overrides.get(str(bib), {}).get("milesAdjustment", 0.0)
+    cumulative = 0.0
+    for d in sorted(miles_by_date.keys()):
+        cumulative += miles_by_date[d]
+        if round(cumulative + adjustment, 4) >= total_miles:
+            return max(1, (d - start_date).days + 1)
+
+    return None
+
+
 def build_leaderboard(
     participants: list[Participant],
     activities: list[Activity],
@@ -92,7 +124,7 @@ def build_leaderboard(
         config.virtualCharacters.gingerbreadMan.bib,
         config.virtualCharacters.buzzard.bib,
     }
-    runners: list[PublicRunner] = []
+    temp_runners = []
     for p in participants:
         if p.status != "Active":
             continue
@@ -107,9 +139,52 @@ def build_leaderboard(
         proj_finish, proj_finish_date = compute_projected_finish(
             miles, day_number, config, last_act_iso
         )
+        
+        is_finished = miles >= config.totalMiles
+        days = None
+        if is_finished:
+            days = calculate_completion_days(
+                p.bib, activities, config.startDate, config.totalMiles, as_of_date, overrides
+            )
+            if days is None:
+                days = max(1, (as_of_date - config.startDate).days + 1)
+            comp_percent_str = "100.00%"
+            proj_finish = f"{days} days"
+        else:
+            pct = round(miles / config.totalMiles * 100, 2)
+            comp_percent_str = f"{pct:.2f}%"
+
+        temp_runners.append({
+            "participant": p,
+            "raw_miles": miles,
+            "last_act_iso": last_act_iso,
+            "comp_percent_str": comp_percent_str,
+            "wp": wp,
+            "loc_desc": loc_desc,
+            "proj_finish": proj_finish,
+            "proj_finish_date": proj_finish_date,
+            "is_finished": is_finished,
+            "days": days
+        })
+
+    # 4. Sort real runners: finished runners first (fewest days), then active runners (miles desc).
+    temp_runners.sort(key=lambda x: (
+        0 if x["is_finished"] else 1,
+        x["days"] if x["is_finished"] else 0,
+        -x["raw_miles"]
+    ))
+
+    # Construct PublicRunner objects with capped miles and km
+    runners: list[PublicRunner] = []
+    for i, tr in enumerate(temp_runners):
+        p = tr["participant"]
+        miles = tr["raw_miles"]
+        display_miles = min(miles, config.totalMiles)
+        display_km = round(display_miles * 1.60934, 2)
+        
         runners.append(PublicRunner(
             rank=0,
-            rankDisplay="",
+            rankDisplay=f"#{i + 1}",
             bib=p.bib,
             firstName=p.firstName,
             lastName=p.lastName,
@@ -118,28 +193,23 @@ def build_leaderboard(
             home=derive_home(p.country, p.state),
             gender=p.gender,
             age=p.age,
-            miles=miles,
-            km=round(miles * 1.60934, 2),
-            compPercent=round(miles / config.totalMiles * 100, 2),
-            currentMile=current_mile,
-            lat=wp.lat,
-            lon=wp.lon,
-            locationDescription=loc_desc,
-            projectedFinish=proj_finish,
-            projectedFinishDate=proj_finish_date,
+            miles=display_miles,
+            km=display_km,
+            compPercent=tr["comp_percent_str"],
+            currentMile=min(int(display_miles), 680),
+            lat=tr["wp"].lat,
+            lon=tr["wp"].lon,
+            locationDescription=tr["loc_desc"],
+            projectedFinish=tr["proj_finish"],
+            projectedFinishDate=tr["proj_finish_date"],
             genderRank=None,
             eventGen=f"{config.abbreviation}{p.gender}",
             virtual=False,
             virtualType=None,
-            lastActivityDate=last_act_iso,
+            lastActivityDate=tr["last_act_iso"],
         ))
 
-    # 4. Sort real runners by miles desc; assign real-only ranks and rankDisplay.
-    runners.sort(key=lambda r: -r.miles)
-    for i, r in enumerate(runners):
-        r.rankDisplay = f"#{i + 1}"
-
-    # 5. Assign gender ranks among real runners only.
+    # 5. Assign gender ranks among real runners only (already sorted).
     _assign_gender_ranks(runners)
 
     # 6. Insert Buzzard (pace = totalMiles / totalDays per day).
@@ -149,17 +219,30 @@ def build_leaderboard(
 
     # 7. Insert Gingerbread Man (1 mile ahead of the top real runner).
     top_real = next((r for r in runners if not r.virtual), None)
-    top_real_miles = top_real.miles if top_real else 0.0
     gbm = build_gingerbread_man(
         top_real if top_real else _zero_runner(config),
         config,
         waypoints,
         descriptions,
+        activities,
+        as_of_date,
+        overrides,
     )
     runners.append(gbm)
 
-    # 8. Final sort by miles desc; assign overall rank.
-    runners.sort(key=lambda r: -r.miles)
+    # 8. Final sort overall: Gingerbread Man first, then finished runners (fewest days), then active runners (miles desc).
+    def final_sort_key(r: PublicRunner) -> tuple[int, float, float]:
+        if r.virtualType == "gingerbread":
+            return (0, 0.0, 0.0)
+        if "days" in (r.projectedFinish or ""):
+            try:
+                days = int(r.projectedFinish.split()[0])
+            except ValueError:
+                days = 153
+            return (1, float(days), 0.0)
+        return (2, 0.0, -r.miles)
+
+    runners.sort(key=final_sort_key)
     for i, r in enumerate(runners):
         r.rank = i + 1
 
@@ -202,7 +285,7 @@ def _zero_runner(config: RaceConfig) -> PublicRunner:
     return PublicRunner(
         rank=0, rankDisplay="", bib=0, firstName="", lastName="", displayName="",
         event=config.abbreviation, home="", gender="M", age=0,
-        miles=0.0, km=0.0, compPercent=0.0, currentMile=0,
+        miles=0.0, km=0.0, compPercent="0.00%", currentMile=0,
         lat=0.0, lon=0.0, locationDescription="",
         projectedFinish="—", projectedFinishDate=None,
         genderRank=None, eventGen="", virtual=False, virtualType=None,
