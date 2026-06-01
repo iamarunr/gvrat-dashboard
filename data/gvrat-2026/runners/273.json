@@ -299,9 +299,17 @@
       "type": "walk",
       "time": null,
       "comment": "Loosa walks"
+    },
+    {
+      "date": "2026-05-31",
+      "miles": 3.75,
+      "km": 6.04,
+      "type": "walk",
+      "time": null,
+      "comment": "All dog walks"
     }
   ],
-  "totalActivities": 33,
-  "activeDays": 26,
+  "totalActivities": 34,
+  "activeDays": 27,
   "restDays": 4
 }

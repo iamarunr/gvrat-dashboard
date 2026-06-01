@@ -486,22 +486,46 @@
     },
     {
       "date": "2026-05-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.4,
+      "km": 3.86,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Rasen gem\u00e4ht"
     },
     {
       "date": "2026-05-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.08,
+      "km": 3.35,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Rasen gem\u00e4ht"
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 3.92,
+      "km": 6.31,
+      "type": "walk",
+      "time": null,
+      "comment": "Rasen gem\u00e4ht bei Dote"
+    },
+    {
+      "date": "2026-05-31",
+      "miles": 6.21,
+      "km": 9.99,
+      "type": "run",
+      "time": null,
+      "comment": "Lauf gegen Rechts 2026"
+    },
+    {
+      "date": "2026-05-31",
+      "miles": 0.66,
+      "km": 1.06,
+      "type": "run",
+      "time": null,
+      "comment": "Sonnenb\u00fchl Laufen"
     }
   ],
-  "totalActivities": 60,
-  "activeDays": 28,
-  "restDays": 2
+  "totalActivities": 65,
+  "activeDays": 31,
+  "restDays": 0
 }

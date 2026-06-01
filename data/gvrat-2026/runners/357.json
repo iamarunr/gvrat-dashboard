@@ -563,9 +563,25 @@
       "type": "walk",
       "time": null,
       "comment": "dog walk"
+    },
+    {
+      "date": "2026-05-31",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "long dog walk to coffee"
+    },
+    {
+      "date": "2026-05-31",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": "nightly dog walk"
     }
   ],
-  "totalActivities": 69,
-  "activeDays": 29,
+  "totalActivities": 71,
+  "activeDays": 30,
   "restDays": 1
 }

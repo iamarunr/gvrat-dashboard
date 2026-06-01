@@ -338,10 +338,18 @@
       "km": 65.98,
       "type": "run",
       "time": null,
-      "comment": "Day 1 of the Hotfoot Hampster race."
+      "comment": "Day 1 of the Hotfoot Hamster race."
+    },
+    {
+      "date": "2026-05-31",
+      "miles": 11.0,
+      "km": 17.7,
+      "type": "run",
+      "time": null,
+      "comment": "Day 2 of the Hotfoot Hamster race."
     }
   ],
-  "totalActivities": 36,
-  "activeDays": 24,
+  "totalActivities": 37,
+  "activeDays": 25,
   "restDays": 6
 }

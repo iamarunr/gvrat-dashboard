@@ -310,14 +310,38 @@
     },
     {
       "date": "2026-05-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.33,
+      "km": 8.58,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Whoops... late to Parkrun!"
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 3.67,
+      "km": 5.91,
+      "type": "walk",
+      "time": null,
+      "comment": "Breakfast and stuff"
+    },
+    {
+      "date": "2026-05-31",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "run",
+      "time": null,
+      "comment": "So tired"
+    },
+    {
+      "date": "2026-05-31",
+      "miles": 2.52,
+      "km": 4.06,
+      "type": "walk",
+      "time": null,
+      "comment": "Shopping time!"
     }
   ],
-  "totalActivities": 31,
-  "activeDays": 22,
-  "restDays": 8
+  "totalActivities": 35,
+  "activeDays": 24,
+  "restDays": 7
 }

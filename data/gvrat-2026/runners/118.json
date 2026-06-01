@@ -85,14 +85,6 @@
       "comment": "Walking & Working"
     },
     {
-      "date": "2026-05-08",
-      "miles": 2.0,
-      "km": 3.22,
-      "type": "walk",
-      "time": null,
-      "comment": "Walking & Working"
-    },
-    {
       "date": "2026-05-09",
       "miles": 1.0,
       "km": 1.61,
@@ -254,11 +246,11 @@
     },
     {
       "date": "2026-05-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.07,
+      "km": 3.33,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking & Working"
     },
     {
       "date": "2026-05-29",
@@ -270,14 +262,22 @@
     },
     {
       "date": "2026-05-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 20.4,
+      "km": 32.83,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Mammoth March Delaware Valley\u2014Fairhill"
+    },
+    {
+      "date": "2026-05-31",
+      "miles": 4.56,
+      "km": 7.34,
+      "type": "walk",
+      "time": null,
+      "comment": "Hike with Catrina at Fairhill"
     }
   ],
-  "totalActivities": 20,
-  "activeDays": 16,
-  "restDays": 14
+  "totalActivities": 22,
+  "activeDays": 19,
+  "restDays": 12
 }

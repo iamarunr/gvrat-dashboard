@@ -286,30 +286,46 @@
     },
     {
       "date": "2026-05-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.44,
+      "km": 0.71,
+      "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-28",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Helipad Hike"
     },
     {
       "date": "2026-05-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.44,
+      "km": 3.93,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Piestewa Summit"
     },
     {
       "date": "2026-05-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.44,
+      "km": 7.15,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Browns Trail No 133"
+    },
+    {
+      "date": "2026-05-31",
+      "miles": 7.2,
+      "km": 11.59,
+      "type": "walk",
+      "time": null,
+      "comment": "Browns Ranch Hike"
     }
   ],
-  "totalActivities": 31,
-  "activeDays": 23,
-  "restDays": 7
+  "totalActivities": 36,
+  "activeDays": 27,
+  "restDays": 4
 }
