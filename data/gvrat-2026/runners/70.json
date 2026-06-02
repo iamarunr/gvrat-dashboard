@@ -523,9 +523,17 @@
       "type": "walk",
       "time": null,
       "comment": "Afternoon lake loops"
+    },
+    {
+      "date": "2026-06-01",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
+      "time": null,
+      "comment": "Morning"
     }
   ],
-  "totalActivities": 65,
-  "activeDays": 31,
+  "totalActivities": 66,
+  "activeDays": 32,
   "restDays": 0
 }

@@ -291,9 +291,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-01",
+      "miles": 6.27,
+      "km": 10.09,
+      "type": "walk",
+      "time": null,
+      "comment": "Extra walking at work."
+    },
+    {
+      "date": "2026-06-01",
+      "miles": 5.61,
+      "km": 9.03,
+      "type": "run",
+      "time": null,
+      "comment": "Easy run with a few pick ups."
     }
   ],
-  "totalActivities": 28,
-  "activeDays": 23,
+  "totalActivities": 30,
+  "activeDays": 24,
   "restDays": 8
 }

@@ -355,9 +355,25 @@
       "type": "walk",
       "time": null,
       "comment": "Hike out from Broke Inlet Road to meet W & AB."
+    },
+    {
+      "date": "2026-06-01",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "walk",
+      "time": null,
+      "comment": "two dog walks"
+    },
+    {
+      "date": "2026-06-01",
+      "miles": 3.51,
+      "km": 5.65,
+      "type": "walk",
+      "time": null,
+      "comment": "Linear Path"
     }
   ],
-  "totalActivities": 44,
-  "activeDays": 31,
+  "totalActivities": 46,
+  "activeDays": 32,
   "restDays": 0
 }

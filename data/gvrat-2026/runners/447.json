@@ -299,9 +299,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walked from home to meet Jocelyn and Annette to walk to Shatin to Heritage Museum to see the Mona Lisa exhibit. Quite enlightening. Fascinated by da Vinci's Last Supper, showing the experssions and hand gestures of the disciples."
+    },
+    {
+      "date": "2026-06-01",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 23,
   "activeDays": 17,
-  "restDays": 14
+  "restDays": 15
 }

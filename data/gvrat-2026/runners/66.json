@@ -347,9 +347,17 @@
       "type": "run",
       "time": null,
       "comment": "Day 2 of the Hotfoot Hamster race."
+    },
+    {
+      "date": "2026-06-01",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 37,
   "activeDays": 25,
-  "restDays": 6
+  "restDays": 7
 }

@@ -307,9 +307,17 @@
       "type": "walk",
       "time": null,
       "comment": "20 km of Brussels"
+    },
+    {
+      "date": "2026-06-01",
+      "miles": 2.93,
+      "km": 4.72,
+      "type": "walk",
+      "time": null,
+      "comment": "Construction site yay"
     }
   ],
-  "totalActivities": 38,
-  "activeDays": 31,
+  "totalActivities": 39,
+  "activeDays": 32,
   "restDays": 0
 }

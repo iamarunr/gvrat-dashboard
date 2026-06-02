@@ -379,9 +379,33 @@
       "type": "run",
       "time": null,
       "comment": "Rock Creek Trail: Needwood - Aspen Hill Park"
+    },
+    {
+      "date": "2026-06-01",
+      "miles": 3.03,
+      "km": 4.88,
+      "type": "walk",
+      "time": null,
+      "comment": "King Farm Loop with Safeway Pit Stop"
+    },
+    {
+      "date": "2026-06-01",
+      "miles": 1.72,
+      "km": 2.77,
+      "type": "walk",
+      "time": null,
+      "comment": "Office to Medical Center Station"
+    },
+    {
+      "date": "2026-06-01",
+      "miles": 1.47,
+      "km": 2.37,
+      "type": "walk",
+      "time": null,
+      "comment": "Shady Grove Station to Home"
     }
   ],
-  "totalActivities": 37,
-  "activeDays": 21,
+  "totalActivities": 40,
+  "activeDays": 22,
   "restDays": 10
 }
