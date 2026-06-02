@@ -574,14 +574,46 @@
     },
     {
       "date": "2026-05-31",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-05-31",
+      "miles": 14.19,
+      "km": 22.84,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-01",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-01",
+      "miles": 7.06,
+      "km": 11.36,
+      "type": "run",
+      "time": null,
+      "comment": "Westridge group run"
+    },
+    {
+      "date": "2026-06-01",
+      "miles": 4.71,
+      "km": 7.58,
+      "type": "run",
+      "time": null,
+      "comment": "Easy run"
     }
   ],
-  "totalActivities": 68,
-  "activeDays": 27,
-  "restDays": 4
+  "totalActivities": 73,
+  "activeDays": 29,
+  "restDays": 3
 }

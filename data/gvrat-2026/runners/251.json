@@ -251,9 +251,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-01",
+      "miles": 4.49,
+      "km": 7.23,
+      "type": "walk",
+      "time": null,
+      "comment": "GVRAT R3.008"
     }
   ],
-  "totalActivities": 7,
-  "activeDays": 7,
+  "totalActivities": 8,
+  "activeDays": 8,
   "restDays": 24
 }

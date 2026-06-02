@@ -579,9 +579,25 @@
       "type": "walk",
       "time": null,
       "comment": "nightly dog walk"
+    },
+    {
+      "date": "2026-06-01",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
+      "time": null,
+      "comment": "dog run with 1 dog"
+    },
+    {
+      "date": "2026-06-01",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "run",
+      "time": null,
+      "comment": "run after swim with Nicole"
     }
   ],
-  "totalActivities": 71,
-  "activeDays": 30,
+  "totalActivities": 73,
+  "activeDays": 31,
   "restDays": 1
 }

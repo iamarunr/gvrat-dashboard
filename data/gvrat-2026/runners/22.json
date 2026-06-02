@@ -283,9 +283,17 @@
       "type": "run",
       "time": null,
       "comment": "Church Lane to Clear Creek Trail to Limestone Trail"
+    },
+    {
+      "date": "2026-06-01",
+      "miles": 6.09,
+      "km": 9.8,
+      "type": "run",
+      "time": null,
+      "comment": "Pate Hollow Forest Trail"
     }
   ],
-  "totalActivities": 33,
-  "activeDays": 29,
+  "totalActivities": 34,
+  "activeDays": 30,
   "restDays": 2
 }

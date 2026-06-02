@@ -459,9 +459,25 @@
       "type": "walk",
       "time": null,
       "comment": "Sunday evening chores and such"
+    },
+    {
+      "date": "2026-06-01",
+      "miles": 3.25,
+      "km": 5.23,
+      "type": "run",
+      "time": null,
+      "comment": "Threshold run six minutes x 3 at Collegedale with Cynthia"
+    },
+    {
+      "date": "2026-06-01",
+      "miles": 1.45,
+      "km": 2.33,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and rest of day"
     }
   ],
-  "totalActivities": 57,
-  "activeDays": 31,
+  "totalActivities": 59,
+  "activeDays": 32,
   "restDays": 0
 }

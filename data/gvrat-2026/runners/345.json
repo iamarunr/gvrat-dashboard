@@ -251,9 +251,17 @@
       "type": "run",
       "time": null,
       "comment": "poodle vibe"
+    },
+    {
+      "date": "2026-06-01",
+      "miles": 7.46,
+      "km": 12.01,
+      "type": "run",
+      "time": null,
+      "comment": "moon chill"
     }
   ],
-  "totalActivities": 19,
-  "activeDays": 19,
+  "totalActivities": 20,
+  "activeDays": 20,
   "restDays": 12
 }

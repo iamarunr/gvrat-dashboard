@@ -302,22 +302,38 @@
     },
     {
       "date": "2026-05-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
-      "time": null,
-      "comment": ""
-    },
-    {
-      "date": "2026-05-31",
       "miles": 2.25,
       "km": 3.62,
       "type": "run",
       "time": null,
       "comment": "0' ascent.  Rainy-day, pre-travel treadmill run."
+    },
+    {
+      "date": "2026-05-31",
+      "miles": 5.01,
+      "km": 8.06,
+      "type": "walk",
+      "time": null,
+      "comment": "702' ascent.  Mid-Mountain trail w/ Rick."
+    },
+    {
+      "date": "2026-05-31",
+      "miles": 10.03,
+      "km": 16.14,
+      "type": "run",
+      "time": null,
+      "comment": "584' ascent.  Park City paved trails & Round Valley"
+    },
+    {
+      "date": "2026-06-01",
+      "miles": 18.0,
+      "km": 28.97,
+      "type": "run",
+      "time": null,
+      "comment": "2280' ascent.  Mid-Mountain & Spiro onb"
     }
   ],
-  "totalActivities": 38,
-  "activeDays": 30,
-  "restDays": 1
+  "totalActivities": 41,
+  "activeDays": 32,
+  "restDays": 0
 }

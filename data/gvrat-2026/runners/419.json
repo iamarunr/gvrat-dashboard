@@ -275,9 +275,17 @@
       "type": "walk",
       "time": null,
       "comment": "Marche digestive."
+    },
+    {
+      "date": "2026-06-01",
+      "miles": 7.58,
+      "km": 12.2,
+      "type": "run",
+      "time": null,
+      "comment": "Petite boucle doucement au d\u00e9part . Rapide en descente . Bonnes sensations."
     }
   ],
-  "totalActivities": 23,
-  "activeDays": 20,
+  "totalActivities": 24,
+  "activeDays": 21,
   "restDays": 11
 }
