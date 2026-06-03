@@ -283,9 +283,17 @@
       "type": "run",
       "time": null,
       "comment": "Petite boucle doucement au d\u00e9part . Rapide en descente . Bonnes sensations."
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 24,
   "activeDays": 21,
-  "restDays": 11
+  "restDays": 12
 }

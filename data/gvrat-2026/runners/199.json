@@ -315,9 +315,17 @@
       "type": "walk",
       "time": null,
       "comment": "Construction site yay"
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 4.49,
+      "km": 7.23,
+      "type": "walk",
+      "time": null,
+      "comment": "getting passport pics"
     }
   ],
-  "totalActivities": 39,
-  "activeDays": 32,
+  "totalActivities": 40,
+  "activeDays": 33,
   "restDays": 0
 }

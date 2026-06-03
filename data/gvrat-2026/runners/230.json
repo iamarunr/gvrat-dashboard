@@ -270,30 +270,46 @@
     },
     {
       "date": "2026-05-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.19,
+      "km": 5.13,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Wickford Walk"
     },
     {
       "date": "2026-05-31",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.87,
+      "km": 6.23,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Wickford Run/Walk"
     },
     {
       "date": "2026-06-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.4,
+      "km": 10.3,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Wickford Walk"
+    },
+    {
+      "date": "2026-06-01",
+      "miles": 2.82,
+      "km": 4.54,
+      "type": "walk",
+      "time": null,
+      "comment": "Wickford Walk"
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 3.2,
+      "km": 5.15,
+      "type": "run",
+      "time": null,
+      "comment": "Wickford Run"
     }
   ],
-  "totalActivities": 25,
-  "activeDays": 21,
-  "restDays": 11
+  "totalActivities": 30,
+  "activeDays": 25,
+  "restDays": 8
 }

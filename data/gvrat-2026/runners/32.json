@@ -307,9 +307,25 @@
       "type": "run",
       "time": null,
       "comment": "Easy run with a few pick ups."
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 6.1,
+      "km": 9.82,
+      "type": "walk",
+      "time": null,
+      "comment": "Extra walking at work."
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 5.01,
+      "km": 8.06,
+      "type": "run",
+      "time": null,
+      "comment": "The start of speedwork.  warmup, then 4 x 1/4 mile moderately hard, then a cool down."
     }
   ],
-  "totalActivities": 30,
-  "activeDays": 24,
+  "totalActivities": 32,
+  "activeDays": 25,
   "restDays": 8
 }

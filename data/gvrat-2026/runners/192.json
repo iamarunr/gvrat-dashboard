@@ -507,9 +507,25 @@
       "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 1.54,
+      "km": 2.48,
+      "type": "walk",
+      "time": null,
+      "comment": "apocoplyse lightning"
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 3.21,
+      "km": 5.17,
+      "type": "run",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 63,
-  "activeDays": 32,
+  "totalActivities": 65,
+  "activeDays": 33,
   "restDays": 0
 }

@@ -307,9 +307,17 @@
       "type": "walk",
       "time": null,
       "comment": "2@35 min.  1.05 with Max, 24 min.  1.04 with izzy, 21 min"
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "1 warming up for softball, 23 min.  2 with Izzy, 59 min."
     }
   ],
-  "totalActivities": 38,
-  "activeDays": 32,
+  "totalActivities": 39,
+  "activeDays": 33,
   "restDays": 0
 }

@@ -371,9 +371,25 @@
       "type": "walk",
       "time": null,
       "comment": "Linear Path"
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 12.62,
+      "km": 20.31,
+      "type": "run",
+      "time": null,
+      "comment": "Yeticup BYU, 3 yards"
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 1.86,
+      "km": 2.99,
+      "type": "walk",
+      "time": null,
+      "comment": "three dog walks"
     }
   ],
-  "totalActivities": 46,
-  "activeDays": 32,
+  "totalActivities": 48,
+  "activeDays": 33,
   "restDays": 0
 }

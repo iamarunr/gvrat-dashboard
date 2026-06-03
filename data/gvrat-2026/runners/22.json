@@ -291,9 +291,17 @@
       "type": "run",
       "time": null,
       "comment": "Pate Hollow Forest Trail"
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 4.03,
+      "km": 6.49,
+      "type": "run",
+      "time": null,
+      "comment": "Switchyard to B-Line Trail."
     }
   ],
-  "totalActivities": 34,
-  "activeDays": 30,
+  "totalActivities": 35,
+  "activeDays": 31,
   "restDays": 2
 }

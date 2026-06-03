@@ -286,30 +286,46 @@
     },
     {
       "date": "2026-05-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.21,
+      "km": 5.17,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Saturday run"
     },
     {
       "date": "2026-05-31",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 15.62,
+      "km": 25.14,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Sunday long run"
     },
     {
       "date": "2026-06-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.28,
+      "km": 5.28,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Monday"
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 3.17,
+      "km": 5.1,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk with Daisy"
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 4.24,
+      "km": 6.82,
+      "type": "run",
+      "time": null,
+      "comment": "Tuesday run"
     }
   ],
-  "totalActivities": 35,
-  "activeDays": 29,
-  "restDays": 3
+  "totalActivities": 40,
+  "activeDays": 33,
+  "restDays": 0
 }
