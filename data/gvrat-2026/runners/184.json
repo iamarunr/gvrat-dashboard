@@ -475,9 +475,25 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and rest of day"
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening walk at enterprise with Cynthia"
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 2.39,
+      "km": 3.85,
+      "type": "walk",
+      "time": null,
+      "comment": "Midday walk and walk around drs office"
     }
   ],
-  "totalActivities": 59,
-  "activeDays": 32,
+  "totalActivities": 61,
+  "activeDays": 33,
   "restDays": 0
 }

@@ -619,9 +619,33 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 3.02,
+      "km": 4.86,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4013 Sunderbruch Park Davenport IA"
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 1.99,
+      "km": 3.2,
+      "type": "walk",
+      "time": null,
+      "comment": "AM Walk"
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 1.09,
+      "km": 1.75,
+      "type": "walk",
+      "time": null,
+      "comment": "PM Walk Peru Indiana"
     }
   ],
-  "totalActivities": 77,
-  "activeDays": 32,
+  "totalActivities": 80,
+  "activeDays": 33,
   "restDays": 0
 }

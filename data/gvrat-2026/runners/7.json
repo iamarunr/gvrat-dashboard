@@ -326,14 +326,38 @@
     },
     {
       "date": "2026-06-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.14,
+      "km": 9.88,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 0.88,
+      "km": 1.42,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 3.04,
+      "km": 4.89,
+      "type": "walk",
+      "time": null,
+      "comment": "Helipad"
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 1.18,
+      "km": 1.9,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 36,
-  "activeDays": 27,
-  "restDays": 5
+  "totalActivities": 40,
+  "activeDays": 29,
+  "restDays": 4
 }

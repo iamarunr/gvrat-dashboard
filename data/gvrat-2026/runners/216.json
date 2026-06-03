@@ -275,9 +275,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk with Christopher and the dogs.\r\nStill raspy."
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 16,
   "activeDays": 14,
-  "restDays": 18
+  "restDays": 19
 }
