@@ -267,9 +267,17 @@
       "type": "run",
       "time": null,
       "comment": "CD with rocket x"
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "run",
+      "time": null,
+      "comment": "CD, RX2"
     }
   ],
-  "totalActivities": 12,
-  "activeDays": 12,
+  "totalActivities": 13,
+  "activeDays": 13,
   "restDays": 21
 }

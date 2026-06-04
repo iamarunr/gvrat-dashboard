@@ -611,9 +611,25 @@
       "type": "walk",
       "time": null,
       "comment": "Treadmill"
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 5.13,
+      "km": 8.26,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 1.17,
+      "km": 1.88,
+      "type": "walk",
+      "time": null,
+      "comment": "Hiked Beatty"
     }
   ],
-  "totalActivities": 76,
-  "activeDays": 33,
+  "totalActivities": 78,
+  "activeDays": 34,
   "restDays": 0
 }

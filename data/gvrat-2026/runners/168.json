@@ -283,9 +283,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 3.54,
+      "km": 5.7,
+      "type": "walk",
+      "time": null,
+      "comment": "TVA loop; 16# vest; Mag"
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Hood; 10#; Patrice"
     }
   ],
-  "totalActivities": 25,
-  "activeDays": 23,
+  "totalActivities": 27,
+  "activeDays": 24,
   "restDays": 10
 }

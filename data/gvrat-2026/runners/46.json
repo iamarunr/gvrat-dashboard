@@ -643,9 +643,33 @@
       "type": "walk",
       "time": null,
       "comment": "PM Walk Peru Indiana"
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 3.12,
+      "km": 5.02,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4014 Global Running Day Peru Indiana"
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 1.11,
+      "km": 1.79,
+      "type": "walk",
+      "time": null,
+      "comment": "AM Walk"
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 3.29,
+      "km": 5.29,
+      "type": "walk",
+      "time": null,
+      "comment": "PM Walk"
     }
   ],
-  "totalActivities": 80,
-  "activeDays": 33,
+  "totalActivities": 83,
+  "activeDays": 34,
   "restDays": 0
 }

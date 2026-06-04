@@ -315,9 +315,33 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 19.26,
+      "km": 31.0,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog Walking for May 1km per day @ 10 min/km x 31 days"
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "run",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 29,
-  "activeDays": 23,
+  "totalActivities": 32,
+  "activeDays": 24,
   "restDays": 10
 }

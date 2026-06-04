@@ -267,9 +267,17 @@
       "type": "walk",
       "time": null,
       "comment": "mostly walk\u2026"
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 10.01,
+      "km": 16.11,
+      "type": "run",
+      "time": null,
+      "comment": "combo\u2026.."
     }
   ],
-  "totalActivities": 33,
-  "activeDays": 33,
+  "totalActivities": 34,
+  "activeDays": 34,
   "restDays": 0
 }
