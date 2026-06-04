@@ -230,19 +230,35 @@
     },
     {
       "date": "2026-05-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.71,
+      "km": 4.36,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "from mork"
+    },
+    {
+      "date": "2026-05-24",
+      "miles": 0.84,
+      "km": 1.35,
+      "type": "walk",
+      "time": null,
+      "comment": "duolingo walk"
     },
     {
       "date": "2026-05-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.86,
+      "km": 2.99,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "to the wave, around and back"
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 3.29,
+      "km": 5.29,
+      "type": "run",
+      "time": null,
+      "comment": "run + duolingo"
     },
     {
       "date": "2026-05-26",
@@ -254,11 +270,19 @@
     },
     {
       "date": "2026-05-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.17,
+      "km": 5.1,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "eastville and fishpond"
+    },
+    {
+      "date": "2026-05-27",
+      "miles": 1.12,
+      "km": 1.8,
+      "type": "walk",
+      "time": null,
+      "comment": "publow walk by river chew"
     },
     {
       "date": "2026-05-28",
@@ -270,19 +294,19 @@
     },
     {
       "date": "2026-05-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.92,
+      "km": 7.92,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "harry stoke and hambrook"
     },
     {
       "date": "2026-05-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.77,
+      "km": 4.46,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "publow and woolard alpaca walk with guests"
     },
     {
       "date": "2026-05-31",
@@ -302,6 +326,22 @@
     },
     {
       "date": "2026-06-02",
+      "miles": 1.1,
+      "km": 1.77,
+      "type": "walk",
+      "time": null,
+      "comment": "around the pond park"
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 1.1,
+      "km": 1.77,
+      "type": "walk",
+      "time": null,
+      "comment": "duolingo walk"
+    },
+    {
+      "date": "2026-06-03",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -309,7 +349,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 23,
-  "activeDays": 18,
-  "restDays": 15
+  "totalActivities": 33,
+  "activeDays": 24,
+  "restDays": 10
 }

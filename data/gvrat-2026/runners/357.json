@@ -597,15 +597,55 @@
       "comment": "run after swim with Nicole"
     },
     {
-      "date": "2026-06-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-06-01",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "dog walk"
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
+      "time": null,
+      "comment": "dog run"
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": "dog walk"
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "coaching on deck"
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 7.2,
+      "km": 11.59,
+      "type": "run",
+      "time": null,
+      "comment": "morning run"
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 1.6,
+      "km": 2.57,
+      "type": "walk",
+      "time": null,
+      "comment": "walk to pool, coffee, home"
     }
   ],
-  "totalActivities": 73,
-  "activeDays": 31,
-  "restDays": 2
+  "totalActivities": 79,
+  "activeDays": 33,
+  "restDays": 1
 }

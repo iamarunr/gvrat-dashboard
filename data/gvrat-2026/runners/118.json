@@ -286,14 +286,38 @@
     },
     {
       "date": "2026-06-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking & Working"
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 6.1,
+      "km": 9.82,
+      "type": "walk",
+      "time": null,
+      "comment": "Battlefield walkabout"
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking & Working"
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 4.55,
+      "km": 7.32,
+      "type": "walk",
+      "time": null,
+      "comment": "GBR 13th Anniversary Four Score"
     }
   ],
-  "totalActivities": 22,
-  "activeDays": 19,
-  "restDays": 14
+  "totalActivities": 26,
+  "activeDays": 21,
+  "restDays": 13
 }

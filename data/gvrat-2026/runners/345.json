@@ -267,9 +267,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 6.41,
+      "km": 10.32,
+      "type": "run",
+      "time": null,
+      "comment": "NRG coffee run"
     }
   ],
-  "totalActivities": 20,
-  "activeDays": 20,
+  "totalActivities": 21,
+  "activeDays": 21,
   "restDays": 13
 }

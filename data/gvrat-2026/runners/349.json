@@ -395,9 +395,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 3.1,
+      "km": 4.99,
+      "type": "run",
+      "time": null,
+      "comment": "Global Running Day"
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 2.68,
+      "km": 4.31,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 49,
-  "activeDays": 33,
+  "totalActivities": 51,
+  "activeDays": 34,
   "restDays": 0
 }

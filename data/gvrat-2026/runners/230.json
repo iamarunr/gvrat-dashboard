@@ -307,9 +307,17 @@
       "type": "run",
       "time": null,
       "comment": "Wickford Run"
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 2.29,
+      "km": 3.69,
+      "type": "walk",
+      "time": null,
+      "comment": "Wickford Walk"
     }
   ],
-  "totalActivities": 30,
-  "activeDays": 25,
+  "totalActivities": 31,
+  "activeDays": 26,
   "restDays": 8
 }

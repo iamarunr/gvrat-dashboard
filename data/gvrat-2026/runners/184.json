@@ -491,9 +491,25 @@
       "type": "walk",
       "time": null,
       "comment": "Midday walk and walk around drs office"
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 3.2,
+      "km": 5.15,
+      "type": "run",
+      "time": null,
+      "comment": "Global running day run at Collegedale with Cynthia"
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and Walmart"
     }
   ],
-  "totalActivities": 61,
-  "activeDays": 33,
+  "totalActivities": 63,
+  "activeDays": 34,
   "restDays": 0
 }
