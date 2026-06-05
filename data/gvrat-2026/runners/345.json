@@ -275,9 +275,17 @@
       "type": "run",
       "time": null,
       "comment": "NRG coffee run"
+    },
+    {
+      "date": "2026-06-04",
+      "miles": 5.22,
+      "km": 8.4,
+      "type": "run",
+      "time": null,
+      "comment": "Poodle lunch run"
     }
   ],
-  "totalActivities": 21,
-  "activeDays": 21,
+  "totalActivities": 22,
+  "activeDays": 22,
   "restDays": 13
 }

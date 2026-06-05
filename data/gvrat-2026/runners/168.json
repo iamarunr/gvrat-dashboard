@@ -299,9 +299,17 @@
       "type": "walk",
       "time": null,
       "comment": "Hood; 10#; Patrice"
+    },
+    {
+      "date": "2026-06-04",
+      "miles": 2.59,
+      "km": 4.17,
+      "type": "walk",
+      "time": null,
+      "comment": "TVA/ORRB; 16#; Mag."
     }
   ],
-  "totalActivities": 27,
-  "activeDays": 24,
+  "totalActivities": 28,
+  "activeDays": 25,
   "restDays": 10
 }

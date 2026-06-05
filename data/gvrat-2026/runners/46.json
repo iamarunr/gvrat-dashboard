@@ -667,9 +667,33 @@
       "type": "walk",
       "time": null,
       "comment": "PM Walk"
+    },
+    {
+      "date": "2026-06-04",
+      "miles": 3.03,
+      "km": 4.88,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4015 Price Park N Canton OH"
+    },
+    {
+      "date": "2026-06-04",
+      "miles": 2.15,
+      "km": 3.46,
+      "type": "walk",
+      "time": null,
+      "comment": "AM Walk"
+    },
+    {
+      "date": "2026-06-04",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "PM Walk"
     }
   ],
-  "totalActivities": 83,
-  "activeDays": 34,
+  "totalActivities": 86,
+  "activeDays": 35,
   "restDays": 0
 }

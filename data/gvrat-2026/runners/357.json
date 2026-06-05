@@ -643,9 +643,41 @@
       "type": "walk",
       "time": null,
       "comment": "walk to pool, coffee, home"
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": "dog walk"
+    },
+    {
+      "date": "2026-06-04",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
+      "time": null,
+      "comment": "dog run"
+    },
+    {
+      "date": "2026-06-04",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "run",
+      "time": null,
+      "comment": "run after swim"
+    },
+    {
+      "date": "2026-06-04",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": "dog walk"
     }
   ],
-  "totalActivities": 79,
-  "activeDays": 33,
+  "totalActivities": 83,
+  "activeDays": 34,
   "restDays": 1
 }

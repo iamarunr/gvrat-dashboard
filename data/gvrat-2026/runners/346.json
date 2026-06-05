@@ -334,14 +334,38 @@
     },
     {
       "date": "2026-06-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 8.01,
+      "km": 12.89,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "696' ascent.  Round Valley"
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 3.07,
+      "km": 4.94,
+      "type": "run",
+      "time": null,
+      "comment": "358' ascent.  Mid-Mountain east"
     },
     {
       "date": "2026-06-03",
+      "miles": 10.65,
+      "km": 17.14,
+      "type": "run",
+      "time": null,
+      "comment": "2037' ascent.  Silver Lake to near Jupiter Peak"
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 3.23,
+      "km": 5.2,
+      "type": "walk",
+      "time": null,
+      "comment": "509' ascent.  Sultan Trail w/ Rick"
+    },
+    {
+      "date": "2026-06-04",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -349,7 +373,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 41,
-  "activeDays": 32,
-  "restDays": 2
+  "totalActivities": 45,
+  "activeDays": 34,
+  "restDays": 1
 }

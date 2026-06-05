@@ -275,9 +275,17 @@
       "type": "walk",
       "time": null,
       "comment": "Highview warehouse 6 loops around parking lot"
+    },
+    {
+      "date": "2026-06-04",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 27,
   "activeDays": 27,
-  "restDays": 7
+  "restDays": 8
 }

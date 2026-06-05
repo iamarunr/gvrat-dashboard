@@ -307,9 +307,17 @@
       "type": "run",
       "time": null,
       "comment": "Switchyard to B-Line Trail."
+    },
+    {
+      "date": "2026-06-04",
+      "miles": 5.1,
+      "km": 8.21,
+      "type": "run",
+      "time": null,
+      "comment": "Switchyard to B-Line Trail."
     }
   ],
-  "totalActivities": 36,
-  "activeDays": 32,
+  "totalActivities": 37,
+  "activeDays": 33,
   "restDays": 2
 }
