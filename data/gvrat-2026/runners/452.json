@@ -275,9 +275,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total-back home for one day.."
+    },
+    {
+      "date": "2026-06-04",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total- travel day to Williamsburg, VA"
     }
   ],
-  "totalActivities": 32,
-  "activeDays": 32,
+  "totalActivities": 33,
+  "activeDays": 33,
   "restDays": 2
 }

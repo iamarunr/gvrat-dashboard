@@ -331,9 +331,17 @@
       "type": "walk",
       "time": null,
       "comment": "Do walks and mowing and coffee walk"
+    },
+    {
+      "date": "2026-06-04",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 37,
-  "activeDays": 30,
+  "totalActivities": 38,
+  "activeDays": 31,
   "restDays": 4
 }

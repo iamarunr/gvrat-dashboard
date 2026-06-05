@@ -350,11 +350,11 @@
     },
     {
       "date": "2026-06-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.37,
+      "km": 8.64,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Looks like I have a regular route now!"
     },
     {
       "date": "2026-06-03",
@@ -363,9 +363,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-04",
+      "miles": 5.4,
+      "km": 8.69,
+      "type": "run",
+      "time": null,
+      "comment": "The route might change when the Hoppings start"
     }
   ],
-  "totalActivities": 35,
-  "activeDays": 24,
-  "restDays": 10
+  "totalActivities": 37,
+  "activeDays": 26,
+  "restDays": 9
 }

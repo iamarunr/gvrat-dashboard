@@ -326,14 +326,30 @@
     },
     {
       "date": "2026-06-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.24,
+      "km": 10.04,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Extra walking at work.  18,872 steps."
+    },
+    {
+      "date": "2026-06-04",
+      "miles": 2.34,
+      "km": 3.77,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking at work. 7872 steps."
+    },
+    {
+      "date": "2026-06-04",
+      "miles": 5.14,
+      "km": 8.27,
+      "type": "run",
+      "time": null,
+      "comment": "Run with 4 x 1/4 mile repeats."
     }
   ],
-  "totalActivities": 32,
-  "activeDays": 25,
-  "restDays": 9
+  "totalActivities": 35,
+  "activeDays": 27,
+  "restDays": 8
 }

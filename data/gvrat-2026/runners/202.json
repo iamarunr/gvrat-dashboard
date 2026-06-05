@@ -387,9 +387,17 @@
       "type": "walk",
       "time": null,
       "comment": "with a bit of jog thrown in"
+    },
+    {
+      "date": "2026-06-04",
+      "miles": 3.38,
+      "km": 5.44,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 48,
-  "activeDays": 34,
+  "totalActivities": 49,
+  "activeDays": 35,
   "restDays": 0
 }
