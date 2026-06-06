@@ -406,19 +406,43 @@
     },
     {
       "date": "2026-06-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.05,
+      "km": 1.69,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "North Bethesda Metro Station to ARC"
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 1.04,
+      "km": 1.67,
+      "type": "walk",
+      "time": null,
+      "comment": "ARC to North Bethesda Metro Station"
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 1.51,
+      "km": 2.43,
+      "type": "walk",
+      "time": null,
+      "comment": "Shady Grove Metro Station to Home"
     },
     {
       "date": "2026-06-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.39,
+      "km": 2.24,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Home to Shady Grove Metro Station"
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 1.36,
+      "km": 2.19,
+      "type": "walk",
+      "time": null,
+      "comment": "Shady Grove Metro Station to Home"
     },
     {
       "date": "2026-06-04",
@@ -427,9 +451,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-05",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 40,
-  "activeDays": 22,
-  "restDays": 13
+  "totalActivities": 45,
+  "activeDays": 24,
+  "restDays": 12
 }

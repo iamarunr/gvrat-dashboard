@@ -358,22 +358,38 @@
     },
     {
       "date": "2026-06-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.58,
+      "km": 7.37,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-06-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.5,
+      "km": 0.8,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-04",
+      "miles": 4.58,
+      "km": 7.37,
+      "type": "walk",
+      "time": null,
+      "comment": "Helipad plus DC to Telegraph TH"
+    },
+    {
+      "date": "2026-06-05",
+      "miles": 5.44,
+      "km": 8.75,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 40,
-  "activeDays": 29,
-  "restDays": 6
+  "totalActivities": 44,
+  "activeDays": 32,
+  "restDays": 4
 }

@@ -427,9 +427,17 @@
       "type": "walk",
       "time": null,
       "comment": "Hog Hollow with Terri"
+    },
+    {
+      "date": "2026-06-05",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 50,
   "activeDays": 32,
-  "restDays": 3
+  "restDays": 4
 }

@@ -347,9 +347,17 @@
       "type": "run",
       "time": null,
       "comment": "Run with 4 x 1/4 mile repeats."
+    },
+    {
+      "date": "2026-06-05",
+      "miles": 5.5,
+      "km": 8.85,
+      "type": "run",
+      "time": null,
+      "comment": "easy run"
     }
   ],
-  "totalActivities": 35,
-  "activeDays": 27,
+  "totalActivities": 36,
+  "activeDays": 28,
   "restDays": 8
 }

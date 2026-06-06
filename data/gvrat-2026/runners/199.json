@@ -347,9 +347,17 @@
       "type": "walk",
       "time": null,
       "comment": "To the fair"
+    },
+    {
+      "date": "2026-06-05",
+      "miles": 6.29,
+      "km": 10.12,
+      "type": "walk",
+      "time": null,
+      "comment": "Packstation and \"some\" extra"
     }
   ],
-  "totalActivities": 43,
-  "activeDays": 35,
+  "totalActivities": 44,
+  "activeDays": 36,
   "restDays": 0
 }

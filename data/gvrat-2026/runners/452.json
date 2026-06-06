@@ -283,9 +283,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total- travel day to Williamsburg, VA"
+    },
+    {
+      "date": "2026-06-05",
+      "miles": 7.0,
+      "km": 11.27,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total- Williamsburg, mostly around the Powhatan resort"
     }
   ],
-  "totalActivities": 33,
-  "activeDays": 33,
+  "totalActivities": 34,
+  "activeDays": 34,
   "restDays": 2
 }
