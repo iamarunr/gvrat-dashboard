@@ -286,22 +286,30 @@
     },
     {
       "date": "2026-06-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.6,
+      "km": 5.79,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "morning walk, treadmill, ERC SPin class"
     },
     {
       "date": "2026-06-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.2,
+      "km": 3.54,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "light day"
     },
     {
       "date": "2026-06-05",
+      "miles": 2.65,
+      "km": 4.26,
+      "type": "walk",
+      "time": null,
+      "comment": "morning walk, errands"
+    },
+    {
+      "date": "2026-06-06",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -309,7 +317,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 34,
-  "activeDays": 32,
-  "restDays": 4
+  "totalActivities": 37,
+  "activeDays": 35,
+  "restDays": 2
 }

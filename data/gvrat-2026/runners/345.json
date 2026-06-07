@@ -291,9 +291,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-06",
+      "miles": 4.97,
+      "km": 8.0,
+      "type": "run",
+      "time": null,
+      "comment": "Columbus"
     }
   ],
-  "totalActivities": 22,
-  "activeDays": 22,
+  "totalActivities": 23,
+  "activeDays": 23,
   "restDays": 14
 }

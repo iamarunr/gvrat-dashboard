@@ -326,22 +326,46 @@
     },
     {
       "date": "2026-06-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.25,
+      "km": 8.45,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk through neighbourhood after work."
+    },
+    {
+      "date": "2026-06-04",
+      "miles": 2.25,
+      "km": 3.62,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-06-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.53,
+      "km": 8.9,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "3 walks through neighbourhood to check on ducks. Watched lightning show on long evening stroll home from Tai Po"
+    },
+    {
+      "date": "2026-06-06",
+      "miles": 5.53,
+      "km": 8.9,
+      "type": "walk",
+      "time": null,
+      "comment": "Kam Shan Mei, Long Hill and Wong Ma Tei - in thunderstorms and lightning with J"
+    },
+    {
+      "date": "2026-06-06",
+      "miles": 1.25,
+      "km": 2.01,
+      "type": "walk",
+      "time": null,
+      "comment": "Thunderstorm cut climb short w/ J"
     }
   ],
-  "totalActivities": 23,
-  "activeDays": 17,
-  "restDays": 19
+  "totalActivities": 28,
+  "activeDays": 20,
+  "restDays": 17
 }

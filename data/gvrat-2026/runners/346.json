@@ -366,22 +366,46 @@
     },
     {
       "date": "2026-06-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "292' ascent.  Park City Union Pacific RT"
+    },
+    {
+      "date": "2026-06-04",
+      "miles": 2.07,
+      "km": 3.33,
+      "type": "walk",
+      "time": null,
+      "comment": "207' ascent.  Hog Hollow w/ Rick"
     },
     {
       "date": "2026-06-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 11.07,
+      "km": 17.82,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "1785' ascent.  Silver Lake <-> Bonanza Flats"
+    },
+    {
+      "date": "2026-06-05",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "walk",
+      "time": null,
+      "comment": "387' ascent.  Bonanza Flats w/ Rick"
+    },
+    {
+      "date": "2026-06-06",
+      "miles": 7.01,
+      "km": 11.28,
+      "type": "run",
+      "time": null,
+      "comment": "584' ascent.  Round Valley"
     }
   ],
-  "totalActivities": 45,
-  "activeDays": 34,
-  "restDays": 2
+  "totalActivities": 50,
+  "activeDays": 37,
+  "restDays": 0
 }
