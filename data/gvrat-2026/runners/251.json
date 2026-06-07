@@ -262,11 +262,11 @@
     },
     {
       "date": "2026-06-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.42,
+      "km": 5.5,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "GVRAT R3.009"
     },
     {
       "date": "2026-06-03",
@@ -278,11 +278,11 @@
     },
     {
       "date": "2026-06-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.76,
+      "km": 2.83,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "GVRAT R3.010"
     },
     {
       "date": "2026-06-05",
@@ -291,9 +291,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-06",
+      "miles": 14.91,
+      "km": 24.0,
+      "type": "walk",
+      "time": null,
+      "comment": "GVRAT R3.011"
     }
   ],
-  "totalActivities": 8,
-  "activeDays": 8,
-  "restDays": 28
+  "totalActivities": 11,
+  "activeDays": 11,
+  "restDays": 26
 }

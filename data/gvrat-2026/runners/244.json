@@ -278,35 +278,51 @@
     },
     {
       "date": "2026-05-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.6,
+      "km": 9.01,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning Walk w/Remi then solo"
     },
     {
       "date": "2026-05-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.6,
+      "km": 5.79,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning Remi walk"
+    },
+    {
+      "date": "2026-05-29",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Desert Hills short tower road loop w/B"
     },
     {
       "date": "2026-05-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.25,
+      "km": 2.01,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Quick morning Remi walk before heading to Prescott"
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 5.2,
+      "km": 8.37,
+      "type": "walk",
+      "time": null,
+      "comment": "Watson Lake/Peavine Loop w/Stephanie & Grace"
     },
     {
       "date": "2026-05-31",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.25,
+      "km": 11.67,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Browns Ranch hike w/T"
     },
     {
       "date": "2026-06-01",
@@ -318,38 +334,62 @@
     },
     {
       "date": "2026-06-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning Walk w/Remi then solo"
     },
     {
       "date": "2026-06-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning Remi Walk"
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 3.35,
+      "km": 5.39,
+      "type": "walk",
+      "time": null,
+      "comment": "Desert Hills Short Cut loop"
     },
     {
       "date": "2026-06-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.5,
+      "km": 8.85,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning Walk w/Remi then solo"
     },
     {
       "date": "2026-06-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.25,
+      "km": 6.84,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning walk w/Remi"
+    },
+    {
+      "date": "2026-06-06",
+      "miles": 1.3,
+      "km": 2.09,
+      "type": "walk",
+      "time": null,
+      "comment": "Quick Remi walk before hiking"
+    },
+    {
+      "date": "2026-06-06",
+      "miles": 10.5,
+      "km": 16.9,
+      "type": "walk",
+      "time": null,
+      "comment": "Go John > Quartz > Slate > Clay Mine > Go John climb > return to TH w/T & Jennifer M"
     }
   ],
-  "totalActivities": 31,
-  "activeDays": 24,
-  "restDays": 12
+  "totalActivities": 44,
+  "activeDays": 33,
+  "restDays": 4
 }

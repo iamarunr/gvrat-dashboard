@@ -355,9 +355,17 @@
       "type": "walk",
       "time": null,
       "comment": "Packstation and \"some\" extra"
+    },
+    {
+      "date": "2026-06-06",
+      "miles": 2.71,
+      "km": 4.36,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 44,
-  "activeDays": 36,
+  "totalActivities": 45,
+  "activeDays": 37,
   "restDays": 0
 }
