@@ -339,9 +339,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-07",
+      "miles": 5.76,
+      "km": 9.27,
+      "type": "walk",
+      "time": null,
+      "comment": "Hike at Bledsoe"
     }
   ],
-  "totalActivities": 25,
-  "activeDays": 20,
+  "totalActivities": 26,
+  "activeDays": 21,
   "restDays": 17
 }

@@ -334,30 +334,38 @@
     },
     {
       "date": "2026-06-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-06-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-06-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 13.7,
+      "km": 22.05,
+      "type": "run",
+      "time": null,
+      "comment": "Santa Rosa, NM Roadrunner Race For The Arts"
+    },
+    {
+      "date": "2026-06-07",
+      "miles": 1.3,
+      "km": 2.09,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 26,
-  "activeDays": 19,
-  "restDays": 18
+  "totalActivities": 30,
+  "activeDays": 23,
+  "restDays": 15
 }

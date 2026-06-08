@@ -403,9 +403,17 @@
       "type": "run",
       "time": null,
       "comment": "584' ascent.  Round Valley"
+    },
+    {
+      "date": "2026-06-07",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 50,
   "activeDays": 37,
-  "restDays": 0
+  "restDays": 1
 }

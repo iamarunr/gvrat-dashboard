@@ -627,9 +627,17 @@
       "type": "walk",
       "time": null,
       "comment": "After the race"
+    },
+    {
+      "date": "2026-06-07",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Recovery"
     }
   ],
-  "totalActivities": 78,
-  "activeDays": 37,
+  "totalActivities": 79,
+  "activeDays": 38,
   "restDays": 0
 }

@@ -182,75 +182,75 @@
     },
     {
       "date": "2026-05-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.9,
+      "km": 1.45,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "So sick. Not sure I\u2019m going to survive this.\ud83d\udc94\ud83d\ude2d\ud83d\ude14"
     },
     {
       "date": "2026-05-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.6,
+      "km": 0.97,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Recovering from being in the ER on Friday. I\u2019m in so much pain. \ud83d\ude2d\ud83d\ude2d\ud83d\udc94\ud83d\udc94"
     },
     {
       "date": "2026-05-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.8,
+      "km": 1.29,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Back in the ER for another 4 hours. \ud83d\ude2d\ud83d\udc94\ud83d\ude14 I\u2019m in so much pain\u2026. \ud83d\ude2d\ud83d\ude2d"
     },
     {
       "date": "2026-05-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.2,
+      "km": 8.37,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Feeling a little better today after my visit to the ER and all the pain meds they gave me. Walked in the yard and at the Nursery with Stephanie. Feeling very weak."
     },
     {
       "date": "2026-05-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.6,
+      "km": 4.18,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Feeling too weak to do much today. I managed a few miles in the yard today."
     },
     {
       "date": "2026-05-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.6,
+      "km": 4.18,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Still feeling very weak. I have to stay close to the house because I\u2019m not feeling well. Yard miles."
     },
     {
       "date": "2026-05-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.6,
+      "km": 4.18,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Still feeling very weak. Went outside to walk in the yard and get some sunshine. This is all I could manage."
     },
     {
       "date": "2026-05-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.2,
+      "km": 8.37,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Feeling stronger today. The pain has reduced a little bit s I walked with Stephanie and then walked in the yard. I\u2019m so slow. Not sure how I will ever recover from this."
     },
     {
       "date": "2026-05-31",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.1,
+      "km": 6.6,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Not feeling as strong today. Still in a lot of pain. Pushed myself to do this many miles. Yard miles. Had to take lots of breaks."
     },
     {
       "date": "2026-06-01",
@@ -299,9 +299,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-07",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 18,
-  "activeDays": 18,
-  "restDays": 19
+  "totalActivities": 27,
+  "activeDays": 27,
+  "restDays": 11
 }

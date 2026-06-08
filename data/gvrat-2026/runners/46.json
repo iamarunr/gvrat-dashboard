@@ -715,9 +715,25 @@
       "type": "run",
       "time": null,
       "comment": "RSD 4017"
+    },
+    {
+      "date": "2026-06-07",
+      "miles": 4.81,
+      "km": 7.74,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4018 Canton OH MultiUse Path"
+    },
+    {
+      "date": "2026-06-07",
+      "miles": 3.06,
+      "km": 4.92,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 89,
-  "activeDays": 37,
+  "totalActivities": 91,
+  "activeDays": 38,
   "restDays": 0
 }

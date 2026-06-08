@@ -654,22 +654,38 @@
     },
     {
       "date": "2026-06-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.6,
+      "km": 0.97,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Dog walk."
+    },
+    {
+      "date": "2026-06-05",
+      "miles": 1.77,
+      "km": 2.85,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
     },
     {
       "date": "2026-06-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 20.24,
+      "km": 32.57,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Mammoth March Boston 2026"
+    },
+    {
+      "date": "2026-06-07",
+      "miles": 0.85,
+      "km": 1.37,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
     }
   ],
-  "totalActivities": 81,
-  "activeDays": 35,
-  "restDays": 2
+  "totalActivities": 85,
+  "activeDays": 38,
+  "restDays": 0
 }

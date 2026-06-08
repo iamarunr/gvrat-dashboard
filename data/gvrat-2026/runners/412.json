@@ -331,9 +331,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-07",
+      "miles": 1.1,
+      "km": 1.77,
+      "type": "walk",
+      "time": null,
+      "comment": "slow walk, testing, passed."
     }
   ],
-  "totalActivities": 17,
-  "activeDays": 13,
+  "totalActivities": 18,
+  "activeDays": 14,
   "restDays": 24
 }

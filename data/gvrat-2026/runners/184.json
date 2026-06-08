@@ -539,9 +539,25 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and walked all three dogs / Russell went  with us"
+    },
+    {
+      "date": "2026-06-07",
+      "miles": 3.51,
+      "km": 5.65,
+      "type": "run",
+      "time": null,
+      "comment": "Solo run - alternate loop , Sunday .  Low humidity and lil bit of sprinkles"
+    },
+    {
+      "date": "2026-06-07",
+      "miles": 1.49,
+      "km": 2.4,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and grocery shopping"
     }
   ],
-  "totalActivities": 67,
-  "activeDays": 37,
+  "totalActivities": 69,
+  "activeDays": 38,
   "restDays": 0
 }

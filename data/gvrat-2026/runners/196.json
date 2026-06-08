@@ -501,15 +501,63 @@
       "comment": "early morning"
     },
     {
-      "date": "2026-06-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-06-05",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Finishing the evening at Sly Park"
+    },
+    {
+      "date": "2026-06-06",
+      "miles": 3.58,
+      "km": 5.76,
+      "type": "walk",
+      "time": null,
+      "comment": "Sly Park camping morning"
+    },
+    {
+      "date": "2026-06-06",
+      "miles": 0.51,
+      "km": 0.82,
+      "type": "walk",
+      "time": null,
+      "comment": "Quick half loop with dan and dog at Sly Park"
+    },
+    {
+      "date": "2026-06-06",
+      "miles": 0.65,
+      "km": 1.05,
+      "type": "walk",
+      "time": null,
+      "comment": "To finish the daily goat at Sly Park"
+    },
+    {
+      "date": "2026-06-07",
+      "miles": 0.5,
+      "km": 0.8,
+      "type": "walk",
+      "time": null,
+      "comment": "Wake up walk at Sly Park"
+    },
+    {
+      "date": "2026-06-07",
+      "miles": 3.53,
+      "km": 5.68,
+      "type": "walk",
+      "time": null,
+      "comment": "Nice evening walk with tired dog."
+    },
+    {
+      "date": "2026-06-07",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "walk",
+      "time": null,
+      "comment": "TM"
     }
   ],
-  "totalActivities": 52,
-  "activeDays": 26,
-  "restDays": 11
+  "totalActivities": 59,
+  "activeDays": 28,
+  "restDays": 10
 }
