@@ -254,17 +254,17 @@
     },
     {
       "date": "2026-05-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.13,
+      "km": 9.87,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.7,
+      "km": 2.74,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
@@ -286,9 +286,9 @@
     },
     {
       "date": "2026-05-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.28,
+      "km": 6.89,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
@@ -302,17 +302,25 @@
     },
     {
       "date": "2026-06-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.8,
+      "km": 2.9,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-06-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.63,
+      "km": 4.23,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
@@ -363,9 +371,17 @@
       "type": "walk",
       "time": null,
       "comment": "Thunderstorm cut climb short w/ J"
+    },
+    {
+      "date": "2026-06-07",
+      "miles": 4.05,
+      "km": 6.52,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk in TPK w/ Jocelyn, Norman and Bishop"
     }
   ],
-  "totalActivities": 28,
-  "activeDays": 20,
-  "restDays": 17
+  "totalActivities": 35,
+  "activeDays": 26,
+  "restDays": 12
 }

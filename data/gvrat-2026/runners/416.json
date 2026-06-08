@@ -181,6 +181,14 @@
       "comment": ""
     },
     {
+      "date": "2026-05-21",
+      "miles": 2.89,
+      "km": 4.65,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
       "date": "2026-05-22",
       "miles": 0.0,
       "km": 0.0,
@@ -198,25 +206,33 @@
     },
     {
       "date": "2026-05-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.48,
+      "km": 7.21,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.27,
+      "km": 3.65,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-25",
+      "miles": 3.03,
+      "km": 4.88,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
@@ -230,49 +246,73 @@
     },
     {
       "date": "2026-05-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.74,
+      "km": 7.63,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-05-28",
+      "miles": 2.21,
+      "km": 3.56,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.52,
+      "km": 5.66,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.11,
+      "km": 8.22,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-05-31",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.98,
+      "km": 8.01,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
+      "date": "2026-05-31",
+      "miles": 2.48,
+      "km": 3.99,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill walk with Peach"
+    },
+    {
       "date": "2026-06-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.13,
+      "km": 5.04,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-06-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.48,
+      "km": 7.21,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-02",
+      "miles": 0.3,
+      "km": 0.48,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
@@ -286,11 +326,11 @@
     },
     {
       "date": "2026-06-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.02,
+      "km": 4.86,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Evening stroll"
     },
     {
       "date": "2026-06-05",
@@ -302,6 +342,14 @@
     },
     {
       "date": "2026-06-06",
+      "miles": 5.15,
+      "km": 8.29,
+      "type": "walk",
+      "time": null,
+      "comment": "Getting hot out there \u00f0\u009f\u00a5\u00b5"
+    },
+    {
+      "date": "2026-06-07",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -309,7 +357,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 12,
-  "activeDays": 11,
-  "restDays": 26
+  "totalActivities": 28,
+  "activeDays": 22,
+  "restDays": 16
 }

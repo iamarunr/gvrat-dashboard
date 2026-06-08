@@ -299,9 +299,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total- Donald\u2019s graduation!!"
+    },
+    {
+      "date": "2026-06-07",
+      "miles": 4.75,
+      "km": 7.64,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total- travel back from W\u2019burg"
     }
   ],
-  "totalActivities": 35,
-  "activeDays": 35,
+  "totalActivities": 36,
+  "activeDays": 36,
   "restDays": 2
 }

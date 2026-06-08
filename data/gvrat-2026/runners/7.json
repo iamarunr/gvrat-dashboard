@@ -395,9 +395,17 @@
       "type": "walk",
       "time": null,
       "comment": "Go John > Quartz > Slate -- Summer is here!!!"
+    },
+    {
+      "date": "2026-06-07",
+      "miles": 5.05,
+      "km": 8.13,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk"
     }
   ],
-  "totalActivities": 45,
-  "activeDays": 33,
+  "totalActivities": 46,
+  "activeDays": 34,
   "restDays": 4
 }

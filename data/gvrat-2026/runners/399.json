@@ -355,9 +355,41 @@
       "type": "walk",
       "time": null,
       "comment": "Izzy, 1.06, 22 min.  Max, 2.09, 45 min."
+    },
+    {
+      "date": "2026-06-07",
+      "miles": 5.35,
+      "km": 8.61,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk to track, some lazy sprints, walk home."
+    },
+    {
+      "date": "2026-06-07",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Ruck with 20#"
+    },
+    {
+      "date": "2026-06-07",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-07",
+      "miles": 1.26,
+      "km": 2.03,
+      "type": "walk",
+      "time": null,
+      "comment": "With Izzy."
     }
   ],
-  "totalActivities": 44,
-  "activeDays": 37,
+  "totalActivities": 48,
+  "activeDays": 38,
   "restDays": 0
 }
