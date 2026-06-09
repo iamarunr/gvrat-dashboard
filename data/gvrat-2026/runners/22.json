@@ -339,9 +339,17 @@
       "type": "run",
       "time": null,
       "comment": "Church Lane to Clear Creek to Limestone Trail."
+    },
+    {
+      "date": "2026-06-08",
+      "miles": 5.02,
+      "km": 8.08,
+      "type": "run",
+      "time": null,
+      "comment": "Clear Creek Trail to Church Lane."
     }
   ],
-  "totalActivities": 40,
-  "activeDays": 36,
+  "totalActivities": 41,
+  "activeDays": 37,
   "restDays": 2
 }

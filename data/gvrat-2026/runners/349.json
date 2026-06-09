@@ -451,9 +451,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-08",
+      "miles": 3.1,
+      "km": 4.99,
+      "type": "run",
+      "time": null,
+      "comment": "Hot & Humid and Zilker west hills"
+    },
+    {
+      "date": "2026-06-08",
+      "miles": 2.9,
+      "km": 4.67,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 56,
-  "activeDays": 38,
+  "totalActivities": 58,
+  "activeDays": 39,
   "restDays": 0
 }

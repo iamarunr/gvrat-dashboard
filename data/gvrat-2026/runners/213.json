@@ -411,9 +411,17 @@
       "type": "walk",
       "time": null,
       "comment": "Nashville"
+    },
+    {
+      "date": "2026-06-08",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "walk",
+      "time": null,
+      "comment": "Nashville"
     }
   ],
-  "totalActivities": 42,
-  "activeDays": 29,
+  "totalActivities": 43,
+  "activeDays": 30,
   "restDays": 9
 }

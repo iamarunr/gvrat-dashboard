@@ -307,9 +307,17 @@
       "type": "run",
       "time": null,
       "comment": "Long Sunday"
+    },
+    {
+      "date": "2026-06-08",
+      "miles": 6.21,
+      "km": 9.99,
+      "type": "run",
+      "time": null,
+      "comment": "Quarry loop"
     }
   ],
-  "totalActivities": 24,
-  "activeDays": 24,
+  "totalActivities": 25,
+  "activeDays": 25,
   "restDays": 14
 }
