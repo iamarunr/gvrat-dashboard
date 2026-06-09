@@ -454,30 +454,38 @@
     },
     {
       "date": "2026-06-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.76,
+      "km": 6.05,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "(Mostly) Suds & Soles 5k Course Pub Run"
     },
     {
       "date": "2026-06-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.3,
+      "km": 5.31,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "King Farm Loop"
     },
     {
       "date": "2026-06-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.38,
+      "km": 5.44,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "King Farm Loop"
+    },
+    {
+      "date": "2026-06-08",
+      "miles": 3.81,
+      "km": 6.13,
+      "type": "walk",
+      "time": null,
+      "comment": "Bethesda Work Loop"
     }
   ],
-  "totalActivities": 45,
-  "activeDays": 24,
-  "restDays": 14
+  "totalActivities": 49,
+  "activeDays": 28,
+  "restDays": 11
 }

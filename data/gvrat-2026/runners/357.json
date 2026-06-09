@@ -710,14 +710,38 @@
     },
     {
       "date": "2026-06-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "long dog walk to coffee"
+    },
+    {
+      "date": "2026-06-08",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": "dog walk"
+    },
+    {
+      "date": "2026-06-08",
+      "miles": 7.2,
+      "km": 11.59,
+      "type": "run",
+      "time": null,
+      "comment": "run after swim"
+    },
+    {
+      "date": "2026-06-08",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": "dog walk"
     }
   ],
-  "totalActivities": 87,
-  "activeDays": 36,
-  "restDays": 2
+  "totalActivities": 91,
+  "activeDays": 38,
+  "restDays": 1
 }

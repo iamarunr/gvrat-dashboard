@@ -307,9 +307,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walked 2 miles with Eddie and Mavi this afternoon and 1.58 miles later tonight."
+    },
+    {
+      "date": "2026-06-08",
+      "miles": 2.15,
+      "km": 3.46,
+      "type": "walk",
+      "time": null,
+      "comment": "Walked with Eddie and Mavi 1.0 mile today at 95\u00b0 and 1.15 miles tonight at 70\u00b0."
     }
   ],
-  "totalActivities": 38,
-  "activeDays": 38,
+  "totalActivities": 39,
+  "activeDays": 39,
   "restDays": 0
 }

@@ -635,9 +635,17 @@
       "type": "walk",
       "time": null,
       "comment": "Recovery"
+    },
+    {
+      "date": "2026-06-08",
+      "miles": 9.0,
+      "km": 14.48,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 79,
-  "activeDays": 38,
+  "totalActivities": 80,
+  "activeDays": 39,
   "restDays": 0
 }

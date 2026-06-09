@@ -731,9 +731,41 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-08",
+      "miles": 1.11,
+      "km": 1.79,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4019 Cuyahoga Valley NP Run"
+    },
+    {
+      "date": "2026-06-08",
+      "miles": 2.14,
+      "km": 3.44,
+      "type": "walk",
+      "time": null,
+      "comment": "CVNP"
+    },
+    {
+      "date": "2026-06-08",
+      "miles": 1.7,
+      "km": 2.74,
+      "type": "walk",
+      "time": null,
+      "comment": "Peninsula OH"
+    },
+    {
+      "date": "2026-06-08",
+      "miles": 4.55,
+      "km": 7.32,
+      "type": "walk",
+      "time": null,
+      "comment": "Chesterton Indiana"
     }
   ],
-  "totalActivities": 91,
-  "activeDays": 38,
+  "totalActivities": 95,
+  "activeDays": 39,
   "restDays": 0
 }

@@ -555,9 +555,17 @@
       "type": "walk",
       "time": null,
       "comment": "TM"
+    },
+    {
+      "date": "2026-06-08",
+      "miles": 4.15,
+      "km": 6.68,
+      "type": "walk",
+      "time": null,
+      "comment": "Maidu with C+L"
     }
   ],
-  "totalActivities": 59,
-  "activeDays": 28,
+  "totalActivities": 60,
+  "activeDays": 29,
   "restDays": 10
 }

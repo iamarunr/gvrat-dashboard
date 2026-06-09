@@ -323,9 +323,17 @@
       "type": "walk",
       "time": null,
       "comment": "LOTW"
+    },
+    {
+      "date": "2026-06-08",
+      "miles": 2.26,
+      "km": 3.64,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill 1% incline"
     }
   ],
-  "totalActivities": 19,
-  "activeDays": 17,
+  "totalActivities": 20,
+  "activeDays": 18,
   "restDays": 21
 }

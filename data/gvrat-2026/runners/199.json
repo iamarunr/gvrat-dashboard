@@ -371,9 +371,17 @@
       "type": "walk",
       "time": null,
       "comment": "in the sunshine with cows"
+    },
+    {
+      "date": "2026-06-08",
+      "miles": 3.8,
+      "km": 6.12,
+      "type": "walk",
+      "time": null,
+      "comment": "the usual round"
     }
   ],
-  "totalActivities": 46,
-  "activeDays": 38,
+  "totalActivities": 47,
+  "activeDays": 39,
   "restDays": 0
 }
