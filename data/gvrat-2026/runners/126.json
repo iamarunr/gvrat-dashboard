@@ -323,9 +323,17 @@
       "type": "walk",
       "time": null,
       "comment": "Last Quarter \ud83c\udf17 moon, 10 rabbits \ud83d\udc07\ud83d\udc30, 1 squirrel \ud83d\udc3f\ufe0f\ud83d\udc3f\ufe0f"
+    },
+    {
+      "date": "2026-06-09",
+      "miles": 5.41,
+      "km": 8.71,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 40,
-  "activeDays": 39,
+  "totalActivities": 41,
+  "activeDays": 40,
   "restDays": 0
 }

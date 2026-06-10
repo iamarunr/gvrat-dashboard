@@ -563,9 +563,25 @@
       "type": "walk",
       "time": null,
       "comment": "AM walk ; walked all the dogs and then lone walk"
+    },
+    {
+      "date": "2026-06-09",
+      "miles": 3.34,
+      "km": 5.38,
+      "type": "run",
+      "time": null,
+      "comment": "Collegedale - sprints 2x3 -15 seconds"
+    },
+    {
+      "date": "2026-06-09",
+      "miles": 1.36,
+      "km": 2.19,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and some more"
     }
   ],
-  "totalActivities": 70,
-  "activeDays": 39,
+  "totalActivities": 72,
+  "activeDays": 40,
   "restDays": 0
 }

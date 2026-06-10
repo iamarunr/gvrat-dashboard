@@ -763,9 +763,25 @@
       "type": "walk",
       "time": null,
       "comment": "Chesterton Indiana"
+    },
+    {
+      "date": "2026-06-09",
+      "miles": 4.04,
+      "km": 6.5,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4020 Indiana Dunes NP"
+    },
+    {
+      "date": "2026-06-09",
+      "miles": 5.46,
+      "km": 8.79,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 95,
-  "activeDays": 39,
+  "totalActivities": 97,
+  "activeDays": 40,
   "restDays": 0
 }

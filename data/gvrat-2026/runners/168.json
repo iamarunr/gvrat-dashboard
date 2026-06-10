@@ -318,11 +318,11 @@
     },
     {
       "date": "2026-06-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.75,
+      "km": 4.43,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Sp and Flo Mag walks."
     },
     {
       "date": "2026-06-07",
@@ -339,9 +339,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-09",
+      "miles": 3.81,
+      "km": 6.13,
+      "type": "walk",
+      "time": null,
+      "comment": "TVA loop w/ORRB; 10#; M."
+    },
+    {
+      "date": "2026-06-09",
+      "miles": 4.26,
+      "km": 6.86,
+      "type": "walk",
+      "time": null,
+      "comment": "HT at noon; Pack; Patrice w/DT stop; forgot to stop watch."
     }
   ],
-  "totalActivities": 29,
-  "activeDays": 26,
-  "restDays": 13
+  "totalActivities": 32,
+  "activeDays": 28,
+  "restDays": 12
 }

@@ -317,12 +317,20 @@
       "comment": "Wickford Walk"
     },
     {
-      "date": "2026-06-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-06-03",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Putting up the C2C signs"
+    },
+    {
+      "date": "2026-06-04",
+      "miles": 2.21,
+      "km": 3.56,
+      "type": "walk",
+      "time": null,
+      "comment": "Wickford Walk"
     },
     {
       "date": "2026-06-05",
@@ -334,19 +342,19 @@
     },
     {
       "date": "2026-06-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.95,
+      "km": 7.97,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Wickford Walk"
     },
     {
       "date": "2026-06-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.11,
+      "km": 9.83,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Wickford Walk"
     },
     {
       "date": "2026-06-08",
@@ -355,9 +363,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-09",
+      "miles": 3.58,
+      "km": 5.76,
+      "type": "walk",
+      "time": null,
+      "comment": "Wickford Walk"
     }
   ],
-  "totalActivities": 31,
-  "activeDays": 26,
-  "restDays": 13
+  "totalActivities": 36,
+  "activeDays": 30,
+  "restDays": 10
 }

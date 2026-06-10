@@ -379,9 +379,17 @@
       "type": "walk",
       "time": null,
       "comment": "the usual round"
+    },
+    {
+      "date": "2026-06-09",
+      "miles": 4.98,
+      "km": 8.01,
+      "type": "walk",
+      "time": null,
+      "comment": "two rounds to the construction"
     }
   ],
-  "totalActivities": 47,
-  "activeDays": 39,
+  "totalActivities": 48,
+  "activeDays": 40,
   "restDays": 0
 }
