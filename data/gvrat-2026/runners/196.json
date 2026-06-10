@@ -563,9 +563,41 @@
       "type": "walk",
       "time": null,
       "comment": "Maidu with C+L"
+    },
+    {
+      "date": "2026-06-08",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "walk",
+      "time": null,
+      "comment": "TM"
+    },
+    {
+      "date": "2026-06-09",
+      "miles": 2.12,
+      "km": 3.41,
+      "type": "walk",
+      "time": null,
+      "comment": "TM W"
+    },
+    {
+      "date": "2026-06-09",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "run",
+      "time": null,
+      "comment": "TM R"
+    },
+    {
+      "date": "2026-06-09",
+      "miles": 2.41,
+      "km": 3.88,
+      "type": "walk",
+      "time": null,
+      "comment": "Neighborhood walk"
     }
   ],
-  "totalActivities": 60,
-  "activeDays": 29,
+  "totalActivities": 64,
+  "activeDays": 30,
   "restDays": 10
 }

@@ -310,14 +310,22 @@
     },
     {
       "date": "2026-06-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.5,
+      "km": 7.24,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Daily total- back in Westfield after Virginia trip.  Day off from work"
+    },
+    {
+      "date": "2026-06-09",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total - Tuesday rail trail and garden work"
     }
   ],
-  "totalActivities": 36,
-  "activeDays": 36,
-  "restDays": 3
+  "totalActivities": 38,
+  "activeDays": 38,
+  "restDays": 2
 }

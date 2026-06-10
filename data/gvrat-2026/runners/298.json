@@ -379,9 +379,17 @@
       "type": "run",
       "time": null,
       "comment": "Mags"
+    },
+    {
+      "date": "2026-06-09",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 32,
   "activeDays": 24,
-  "restDays": 15
+  "restDays": 16
 }
