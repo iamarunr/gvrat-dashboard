@@ -422,6 +422,22 @@
     },
     {
       "date": "2026-06-09",
+      "miles": 3.3,
+      "km": 5.31,
+      "type": "walk",
+      "time": null,
+      "comment": "Shopping at Farmfoods!"
+    },
+    {
+      "date": "2026-06-09",
+      "miles": 5.4,
+      "km": 8.69,
+      "type": "run",
+      "time": null,
+      "comment": "My (almost) regular route!"
+    },
+    {
+      "date": "2026-06-10",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -429,7 +445,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 42,
-  "activeDays": 29,
+  "totalActivities": 44,
+  "activeDays": 30,
   "restDays": 11
 }

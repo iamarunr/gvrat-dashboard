@@ -323,9 +323,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walla Walla strong head wind"
+    },
+    {
+      "date": "2026-06-10",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Walla walla 30 mi bike tour."
     }
   ],
-  "totalActivities": 40,
-  "activeDays": 40,
+  "totalActivities": 41,
+  "activeDays": 41,
   "restDays": 0
 }

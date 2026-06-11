@@ -419,9 +419,17 @@
       "type": "walk",
       "time": null,
       "comment": "Helipad w/ Guad"
+    },
+    {
+      "date": "2026-06-10",
+      "miles": 3.45,
+      "km": 5.55,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk"
     }
   ],
-  "totalActivities": 48,
-  "activeDays": 36,
+  "totalActivities": 49,
+  "activeDays": 37,
   "restDays": 4
 }

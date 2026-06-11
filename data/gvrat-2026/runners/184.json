@@ -579,9 +579,17 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and some more"
+    },
+    {
+      "date": "2026-06-10",
+      "miles": 4.1,
+      "km": 6.6,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning walk evening walk and lil in between"
     }
   ],
-  "totalActivities": 72,
-  "activeDays": 40,
+  "totalActivities": 73,
+  "activeDays": 41,
   "restDays": 0
 }

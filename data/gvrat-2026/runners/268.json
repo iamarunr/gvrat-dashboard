@@ -326,22 +326,30 @@
     },
     {
       "date": "2026-06-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "morning walk, Rec center, evening walk"
     },
     {
       "date": "2026-06-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.45,
+      "km": 7.16,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "long morning walk"
+    },
+    {
+      "date": "2026-06-10",
+      "miles": 4.5,
+      "km": 7.24,
+      "type": "walk",
+      "time": null,
+      "comment": "morning walk, two dog walks, rec center, parking lots"
     }
   ],
-  "totalActivities": 39,
-  "activeDays": 37,
-  "restDays": 3
+  "totalActivities": 42,
+  "activeDays": 40,
+  "restDays": 1
 }

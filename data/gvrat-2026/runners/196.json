@@ -595,9 +595,33 @@
       "type": "walk",
       "time": null,
       "comment": "Neighborhood walk"
+    },
+    {
+      "date": "2026-06-10",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "TM1"
+    },
+    {
+      "date": "2026-06-10",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "TM2"
+    },
+    {
+      "date": "2026-06-10",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "TM3"
     }
   ],
-  "totalActivities": 64,
-  "activeDays": 30,
+  "totalActivities": 67,
+  "activeDays": 31,
   "restDays": 10
 }
