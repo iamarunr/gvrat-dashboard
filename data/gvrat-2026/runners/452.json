@@ -323,9 +323,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total - Tuesday rail trail and garden work"
+    },
+    {
+      "date": "2026-06-10",
+      "miles": 6.75,
+      "km": 10.86,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total-rail trail and garden"
     }
   ],
-  "totalActivities": 38,
-  "activeDays": 38,
+  "totalActivities": 39,
+  "activeDays": 39,
   "restDays": 2
 }

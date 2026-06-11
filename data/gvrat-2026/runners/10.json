@@ -302,22 +302,30 @@
     },
     {
       "date": "2026-06-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.4,
+      "km": 3.86,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-06-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.8,
+      "km": 4.51,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-06-09",
+      "miles": 27.4,
+      "km": 44.1,
+      "type": "run",
+      "time": null,
+      "comment": "State 47 RI plus before/after"
+    },
+    {
+      "date": "2026-06-10",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -325,7 +333,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 37,
-  "activeDays": 37,
-  "restDays": 3
+  "totalActivities": 40,
+  "activeDays": 40,
+  "restDays": 1
 }

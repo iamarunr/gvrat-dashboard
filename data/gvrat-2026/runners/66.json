@@ -406,30 +406,62 @@
     },
     {
       "date": "2026-06-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.04,
+      "km": 3.28,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking the dogs."
     },
     {
       "date": "2026-06-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.91,
+      "km": 1.46,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-06-08",
+      "miles": 3.44,
+      "km": 5.54,
+      "type": "run",
+      "time": null,
+      "comment": "Aravaipa Monday Fun Group."
     },
     {
       "date": "2026-06-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.91,
+      "km": 1.46,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-06-10",
+      "miles": 0.58,
+      "km": 0.93,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-06-10",
+      "miles": 3.29,
+      "km": 5.29,
+      "type": "run",
+      "time": null,
+      "comment": "Aravaipa Wednesday Fun Group"
+    },
+    {
+      "date": "2026-06-10",
+      "miles": 1.56,
+      "km": 2.51,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs."
     }
   ],
-  "totalActivities": 44,
-  "activeDays": 31,
-  "restDays": 9
+  "totalActivities": 51,
+  "activeDays": 35,
+  "restDays": 6
 }

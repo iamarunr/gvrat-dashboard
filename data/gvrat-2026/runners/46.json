@@ -779,9 +779,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-10",
+      "miles": 2.02,
+      "km": 3.25,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4021 Chesterton IN"
+    },
+    {
+      "date": "2026-06-10",
+      "miles": 3.58,
+      "km": 5.76,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 97,
-  "activeDays": 40,
+  "totalActivities": 99,
+  "activeDays": 41,
   "restDays": 0
 }
