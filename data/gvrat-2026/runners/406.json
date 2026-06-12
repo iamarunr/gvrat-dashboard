@@ -331,9 +331,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-11",
+      "miles": 7.09,
+      "km": 11.41,
+      "type": "run",
+      "time": null,
+      "comment": "Single track trail run"
     }
   ],
-  "totalActivities": 19,
-  "activeDays": 19,
+  "totalActivities": 20,
+  "activeDays": 20,
   "restDays": 22
 }

@@ -422,22 +422,46 @@
     },
     {
       "date": "2026-06-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.47,
+      "km": 5.58,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "823' ascent.  Heavenly & TRT"
     },
     {
       "date": "2026-06-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.18,
+      "km": 6.73,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "810' ascent.  Tahoe Ridge Resort <-> TRT northbound"
+    },
+    {
+      "date": "2026-06-11",
+      "miles": 4.52,
+      "km": 7.27,
+      "type": "run",
+      "time": null,
+      "comment": "810' ascent.  Tahoe Ridge Resort <-> Van Sickle Trail"
+    },
+    {
+      "date": "2026-06-11",
+      "miles": 0.43,
+      "km": 0.69,
+      "type": "walk",
+      "time": null,
+      "comment": "46' ascent.  Walk from TRR to runner meeting"
+    },
+    {
+      "date": "2026-06-11",
+      "miles": 0.47,
+      "km": 0.76,
+      "type": "walk",
+      "time": null,
+      "comment": "132' ascent.  Walk back to TRR from runner meeting"
     }
   ],
-  "totalActivities": 52,
-  "activeDays": 39,
-  "restDays": 2
+  "totalActivities": 57,
+  "activeDays": 42,
+  "restDays": 0
 }

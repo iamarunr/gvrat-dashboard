@@ -347,9 +347,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk with Christopher and the dogs"
+    },
+    {
+      "date": "2026-06-11",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk/run with Sheri"
     }
   ],
-  "totalActivities": 21,
-  "activeDays": 19,
+  "totalActivities": 22,
+  "activeDays": 20,
   "restDays": 22
 }

@@ -619,9 +619,33 @@
       "type": "walk",
       "time": null,
       "comment": "TM3"
+    },
+    {
+      "date": "2026-06-11",
+      "miles": 2.15,
+      "km": 3.46,
+      "type": "walk",
+      "time": null,
+      "comment": "First of the day before the heat"
+    },
+    {
+      "date": "2026-06-11",
+      "miles": 2.05,
+      "km": 3.3,
+      "type": "walk",
+      "time": null,
+      "comment": "2nd"
+    },
+    {
+      "date": "2026-06-11",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "walk",
+      "time": null,
+      "comment": "The end...for today that is.   :0)"
     }
   ],
-  "totalActivities": 67,
-  "activeDays": 31,
+  "totalActivities": 70,
+  "activeDays": 32,
   "restDays": 10
 }

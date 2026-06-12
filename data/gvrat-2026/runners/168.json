@@ -358,14 +358,30 @@
     },
     {
       "date": "2026-06-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.95,
+      "km": 4.75,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "TVA loop; no ORRB; Mag; 10#"
+    },
+    {
+      "date": "2026-06-11",
+      "miles": 5.48,
+      "km": 8.82,
+      "type": "walk",
+      "time": null,
+      "comment": "HT; pack; Jeania; TVA loop with ORRB laps"
+    },
+    {
+      "date": "2026-06-11",
+      "miles": 2.59,
+      "km": 4.17,
+      "type": "walk",
+      "time": null,
+      "comment": "Serengeti/pedo; 16#; Mag."
     }
   ],
-  "totalActivities": 32,
-  "activeDays": 28,
-  "restDays": 13
+  "totalActivities": 35,
+  "activeDays": 30,
+  "restDays": 12
 }
