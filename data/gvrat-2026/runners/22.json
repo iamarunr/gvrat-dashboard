@@ -363,9 +363,17 @@
       "type": "run",
       "time": null,
       "comment": "Switchyard to B-Line Trail"
+    },
+    {
+      "date": "2026-06-11",
+      "miles": 7.2,
+      "km": 11.59,
+      "type": "run",
+      "time": null,
+      "comment": "Switchyard to B-Line to Limestone"
     }
   ],
-  "totalActivities": 43,
-  "activeDays": 39,
+  "totalActivities": 44,
+  "activeDays": 40,
   "restDays": 2
 }

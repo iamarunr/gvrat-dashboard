@@ -326,14 +326,6 @@
     },
     {
       "date": "2026-06-02",
-      "miles": 4.24,
-      "km": 6.82,
-      "type": "run",
-      "time": null,
-      "comment": "Tuesday run"
-    },
-    {
-      "date": "2026-06-02",
       "miles": 3.17,
       "km": 5.1,
       "type": "walk",
@@ -382,38 +374,54 @@
     },
     {
       "date": "2026-06-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.32,
+      "km": 5.34,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Recovery run"
     },
     {
       "date": "2026-06-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.21,
+      "km": 5.17,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Monday w Daisy"
     },
     {
       "date": "2026-06-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.17,
+      "km": 5.1,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walk w Daisy"
+    },
+    {
+      "date": "2026-06-09",
+      "miles": 5.16,
+      "km": 8.3,
+      "type": "run",
+      "time": null,
+      "comment": "Track night 400m relay"
     },
     {
       "date": "2026-06-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.21,
+      "km": 5.17,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Recovery run"
+    },
+    {
+      "date": "2026-06-11",
+      "miles": 3.23,
+      "km": 5.2,
+      "type": "run",
+      "time": null,
+      "comment": "Run with Daisy"
     }
   ],
-  "totalActivities": 47,
-  "activeDays": 37,
-  "restDays": 4
+  "totalActivities": 52,
+  "activeDays": 42,
+  "restDays": 0
 }

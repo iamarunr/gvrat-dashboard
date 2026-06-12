@@ -443,9 +443,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-11",
+      "miles": 5.39,
+      "km": 8.67,
+      "type": "run",
+      "time": null,
+      "comment": "Regular route but in reverse!"
     }
   ],
-  "totalActivities": 44,
-  "activeDays": 30,
+  "totalActivities": 45,
+  "activeDays": 31,
   "restDays": 11
 }

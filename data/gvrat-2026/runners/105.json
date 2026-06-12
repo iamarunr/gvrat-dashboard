@@ -331,9 +331,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walked 1.06 miles with Eddie\ud83d\udc15this morning and 3.50 miles this afternoon from Dillon's to home at 96\u00b0\ud83e\udd75 Found two pennies and a 7/16\" socket. Plus mowed the yard too."
+    },
+    {
+      "date": "2026-06-11",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 41,
   "activeDays": 41,
-  "restDays": 0
+  "restDays": 1
 }
