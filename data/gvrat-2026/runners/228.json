@@ -339,9 +339,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walla walla bike tour 32 mi"
+    },
+    {
+      "date": "2026-06-12",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 42,
-  "activeDays": 42,
+  "totalActivities": 43,
+  "activeDays": 43,
   "restDays": 0
 }

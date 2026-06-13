@@ -339,9 +339,17 @@
       "type": "walk",
       "time": null,
       "comment": "CS & CD"
+    },
+    {
+      "date": "2026-06-12",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "walk",
+      "time": null,
+      "comment": "JF"
     }
   ],
-  "totalActivities": 16,
-  "activeDays": 16,
+  "totalActivities": 17,
+  "activeDays": 17,
   "restDays": 26
 }

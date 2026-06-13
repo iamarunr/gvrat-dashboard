@@ -643,9 +643,25 @@
       "type": "walk",
       "time": null,
       "comment": "The end...for today that is.   :0)"
+    },
+    {
+      "date": "2026-06-12",
+      "miles": 1.45,
+      "km": 2.33,
+      "type": "walk",
+      "time": null,
+      "comment": "Warm up walk"
+    },
+    {
+      "date": "2026-06-12",
+      "miles": 4.6,
+      "km": 7.4,
+      "type": "run",
+      "time": null,
+      "comment": "Hot morning run at the lake."
     }
   ],
-  "totalActivities": 70,
-  "activeDays": 32,
+  "totalActivities": 72,
+  "activeDays": 33,
   "restDays": 10
 }
