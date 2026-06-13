@@ -430,62 +430,86 @@
     },
     {
       "date": "2026-06-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.83,
+      "km": 6.16,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Round Valley Trails"
+    },
+    {
+      "date": "2026-06-05",
+      "miles": 2.54,
+      "km": 4.09,
+      "type": "walk",
+      "time": null,
+      "comment": "Bonanza Flats with Terri"
     },
     {
       "date": "2026-06-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.16,
+      "km": 8.3,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Park City Rail Trail"
+    },
+    {
+      "date": "2026-06-06",
+      "miles": 0.57,
+      "km": 0.92,
+      "type": "walk",
+      "time": null,
+      "comment": "Millenium Trail"
     },
     {
       "date": "2026-06-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.6,
+      "km": 2.57,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Royal Street Loop"
     },
     {
       "date": "2026-06-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.36,
+      "km": 8.63,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Mid Mountain Trail Out and Back"
     },
     {
       "date": "2026-06-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.01,
+      "km": 3.23,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Treadmill"
     },
     {
       "date": "2026-06-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.07,
+      "km": 4.94,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Garden City Loop"
     },
     {
       "date": "2026-06-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.21,
+      "km": 8.38,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Sweetwater Lollipop"
+    },
+    {
+      "date": "2026-06-12",
+      "miles": 6.45,
+      "km": 10.38,
+      "type": "walk",
+      "time": null,
+      "comment": "Garden City Canyon"
     }
   ],
-  "totalActivities": 50,
-  "activeDays": 32,
-  "restDays": 10
+  "totalActivities": 60,
+  "activeDays": 40,
+  "restDays": 3
 }

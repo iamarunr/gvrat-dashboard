@@ -771,9 +771,25 @@
       "type": "walk",
       "time": null,
       "comment": "Dog walk."
+    },
+    {
+      "date": "2026-06-12",
+      "miles": 6.5,
+      "km": 10.46,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-12",
+      "miles": 0.7,
+      "km": 1.13,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
     }
   ],
-  "totalActivities": 96,
-  "activeDays": 42,
+  "totalActivities": 98,
+  "activeDays": 43,
   "restDays": 0
 }

@@ -787,9 +787,17 @@
       "type": "run",
       "time": null,
       "comment": "morning easy run"
+    },
+    {
+      "date": "2026-06-12",
+      "miles": 6.2,
+      "km": 9.98,
+      "type": "run",
+      "time": null,
+      "comment": "morning run"
     }
   ],
-  "totalActivities": 97,
-  "activeDays": 41,
+  "totalActivities": 98,
+  "activeDays": 42,
   "restDays": 1
 }

@@ -379,9 +379,17 @@
       "type": "walk",
       "time": null,
       "comment": "Serengeti/pedo; 16#; Mag."
+    },
+    {
+      "date": "2026-06-12",
+      "miles": 3.84,
+      "km": 6.18,
+      "type": "walk",
+      "time": null,
+      "comment": "TVA w/ORRB; 16#; Mag (w/H2O breaks)"
     }
   ],
-  "totalActivities": 35,
-  "activeDays": 30,
+  "totalActivities": 36,
+  "activeDays": 31,
   "restDays": 12
 }

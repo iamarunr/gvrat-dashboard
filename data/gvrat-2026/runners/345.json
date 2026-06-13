@@ -339,9 +339,17 @@
       "type": "run",
       "time": null,
       "comment": "Wildwood"
+    },
+    {
+      "date": "2026-06-12",
+      "miles": 3.73,
+      "km": 6.0,
+      "type": "run",
+      "time": null,
+      "comment": "Plymouth lap"
     }
   ],
-  "totalActivities": 27,
-  "activeDays": 27,
+  "totalActivities": 28,
+  "activeDays": 28,
   "restDays": 15
 }

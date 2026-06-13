@@ -603,9 +603,17 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and rest of day"
+    },
+    {
+      "date": "2026-06-12",
+      "miles": 4.4,
+      "km": 7.08,
+      "type": "walk",
+      "time": null,
+      "comment": "TGIF morning walk and then some"
     }
   ],
-  "totalActivities": 75,
-  "activeDays": 42,
+  "totalActivities": 76,
+  "activeDays": 43,
   "restDays": 0
 }
