@@ -390,14 +390,30 @@
     },
     {
       "date": "2026-06-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.4,
+      "km": 5.47,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-13",
+      "miles": 13.15,
+      "km": 21.16,
+      "type": "run",
+      "time": null,
+      "comment": "Yellowstone Half Marathon"
+    },
+    {
+      "date": "2026-06-13",
+      "miles": 6.05,
+      "km": 9.74,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 48,
-  "activeDays": 42,
-  "restDays": 1
+  "totalActivities": 51,
+  "activeDays": 44,
+  "restDays": 0
 }

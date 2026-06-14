@@ -387,9 +387,25 @@
       "type": "walk",
       "time": null,
       "comment": "TVA w/ORRB; 16#; Mag (w/H2O breaks)"
+    },
+    {
+      "date": "2026-06-13",
+      "miles": 3.96,
+      "km": 6.37,
+      "type": "walk",
+      "time": null,
+      "comment": "TVA/ORRB; Mag; 16#"
+    },
+    {
+      "date": "2026-06-13",
+      "miles": 4.3,
+      "km": 6.92,
+      "type": "walk",
+      "time": null,
+      "comment": "'Hood; Pack; Patrice; HT (too long Chevron stop)"
     }
   ],
-  "totalActivities": 36,
-  "activeDays": 31,
+  "totalActivities": 38,
+  "activeDays": 32,
   "restDays": 12
 }

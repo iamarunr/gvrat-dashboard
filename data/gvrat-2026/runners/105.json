@@ -334,22 +334,30 @@
     },
     {
       "date": "2026-06-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
-      "time": null,
-      "comment": ""
-    },
-    {
-      "date": "2026-06-12",
       "miles": 5.55,
       "km": 8.93,
       "type": "walk",
       "time": null,
       "comment": "Walked 3.50 miles to change a flat tire for Karen this afternoon. A mile with Eddie this morning and 1.05 miles with Eddie tonight. Found eight pennies\ud83e\udd11"
+    },
+    {
+      "date": "2026-06-12",
+      "miles": 17.03,
+      "km": 27.41,
+      "type": "walk",
+      "time": null,
+      "comment": "Walked 16.172 miles in first 5 1/2 hours at Heat Wave 6/12/24 races this evening. Plus 0.86 miles with Eddie at home before the race."
+    },
+    {
+      "date": "2026-06-13",
+      "miles": 17.05,
+      "km": 27.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Walked 15.932 miles in the last six hours of the Heat Wave\u2600\ufe0f\ud83d\udd25\ud83c\udf216/12/24 hour races this morning. Plus 1.13 miles with Eddie\ud83d\udc15 back at home later today."
     }
   ],
-  "totalActivities": 42,
-  "activeDays": 42,
-  "restDays": 1
+  "totalActivities": 44,
+  "activeDays": 44,
+  "restDays": 0
 }

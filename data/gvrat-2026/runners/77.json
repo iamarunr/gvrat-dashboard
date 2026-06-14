@@ -347,9 +347,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-13",
+      "miles": 26.2,
+      "km": 42.16,
+      "type": "run",
+      "time": null,
+      "comment": "The Jackal Marathon in Jackson, TN"
     }
   ],
-  "totalActivities": 20,
-  "activeDays": 20,
+  "totalActivities": 21,
+  "activeDays": 21,
   "restDays": 23
 }

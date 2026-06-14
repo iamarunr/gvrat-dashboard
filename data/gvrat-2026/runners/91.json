@@ -534,14 +534,46 @@
     },
     {
       "date": "2026-06-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.05,
+      "km": 4.91,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-12",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-13",
+      "miles": 3.13,
+      "km": 5.04,
+      "type": "run",
+      "time": null,
+      "comment": "5k with the grand."
+    },
+    {
+      "date": "2026-06-13",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-13",
+      "miles": 6.1,
+      "km": 9.82,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 65,
-  "activeDays": 41,
-  "restDays": 2
+  "totalActivities": 70,
+  "activeDays": 43,
+  "restDays": 1
 }

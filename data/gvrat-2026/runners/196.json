@@ -659,9 +659,25 @@
       "type": "run",
       "time": null,
       "comment": "Hot morning run at the lake."
+    },
+    {
+      "date": "2026-06-13",
+      "miles": 4.75,
+      "km": 7.64,
+      "type": "walk",
+      "time": null,
+      "comment": "Maidu walk"
+    },
+    {
+      "date": "2026-06-13",
+      "miles": 2.02,
+      "km": 3.25,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill @ 10.0"
     }
   ],
-  "totalActivities": 72,
-  "activeDays": 33,
+  "totalActivities": 74,
+  "activeDays": 34,
   "restDays": 10
 }

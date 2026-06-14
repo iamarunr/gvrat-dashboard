@@ -611,9 +611,25 @@
       "type": "walk",
       "time": null,
       "comment": "TGIF morning walk and then some"
+    },
+    {
+      "date": "2026-06-13",
+      "miles": 4.31,
+      "km": 6.94,
+      "type": "run",
+      "time": null,
+      "comment": "Enterprise-hot morning do not feel like garmins execution score matches how my effort feels - 49% today"
+    },
+    {
+      "date": "2026-06-13",
+      "miles": 2.69,
+      "km": 4.33,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and shopping on purpose without much luck"
     }
   ],
-  "totalActivities": 76,
-  "activeDays": 43,
+  "totalActivities": 78,
+  "activeDays": 44,
   "restDays": 0
 }

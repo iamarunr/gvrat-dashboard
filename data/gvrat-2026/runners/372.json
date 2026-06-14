@@ -454,14 +454,30 @@
     },
     {
       "date": "2026-06-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.94,
+      "km": 9.56,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "I've done that a few times now!"
+    },
+    {
+      "date": "2026-06-13",
+      "miles": 3.27,
+      "km": 5.26,
+      "type": "walk",
+      "time": null,
+      "comment": "Post-Parkrun stuff"
+    },
+    {
+      "date": "2026-06-13",
+      "miles": 5.84,
+      "km": 9.4,
+      "type": "run",
+      "time": null,
+      "comment": "Getting to and doing Leazes Parkrun"
     }
   ],
-  "totalActivities": 45,
-  "activeDays": 31,
-  "restDays": 12
+  "totalActivities": 48,
+  "activeDays": 33,
+  "restDays": 11
 }

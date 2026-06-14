@@ -347,9 +347,17 @@
       "type": "run",
       "time": null,
       "comment": "Plymouth lap"
+    },
+    {
+      "date": "2026-06-13",
+      "miles": 7.46,
+      "km": 12.01,
+      "type": "run",
+      "time": null,
+      "comment": "Quarry trails"
     }
   ],
-  "totalActivities": 28,
-  "activeDays": 28,
+  "totalActivities": 29,
+  "activeDays": 29,
   "restDays": 15
 }
