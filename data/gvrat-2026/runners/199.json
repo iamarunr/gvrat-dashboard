@@ -411,9 +411,25 @@
       "type": "run",
       "time": null,
       "comment": "second run"
+    },
+    {
+      "date": "2026-06-13",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "to the school celebration"
+    },
+    {
+      "date": "2026-06-13",
+      "miles": 2.86,
+      "km": 4.6,
+      "type": "walk",
+      "time": null,
+      "comment": "looping"
     }
   ],
-  "totalActivities": 51,
-  "activeDays": 43,
+  "totalActivities": 53,
+  "activeDays": 44,
   "restDays": 0
 }
