@@ -403,9 +403,25 @@
       "type": "walk",
       "time": null,
       "comment": "'Hood; Pack; Patrice; HT (too long Chevron stop)"
+    },
+    {
+      "date": "2026-06-14",
+      "miles": 1.95,
+      "km": 3.14,
+      "type": "walk",
+      "time": null,
+      "comment": "SP; Mag; 16#; Swim break"
+    },
+    {
+      "date": "2026-06-14",
+      "miles": 5.17,
+      "km": 8.32,
+      "type": "walk",
+      "time": null,
+      "comment": "'Hood b4 storms; Pack; Solo HT; Tr shoes on pavement - no tape."
     }
   ],
-  "totalActivities": 38,
-  "activeDays": 32,
+  "totalActivities": 40,
+  "activeDays": 33,
   "restDays": 12
 }

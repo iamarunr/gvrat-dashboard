@@ -341,12 +341,20 @@
       "comment": "Marche digestive."
     },
     {
-      "date": "2026-06-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-06-08",
+      "miles": 1.86,
+      "km": 2.99,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Marche forc\u00e9e."
+    },
+    {
+      "date": "2026-06-09",
+      "miles": 1.86,
+      "km": 2.99,
+      "type": "walk",
+      "time": null,
+      "comment": "Marche forc\u00e9e."
     },
     {
       "date": "2026-06-10",
@@ -358,11 +366,11 @@
     },
     {
       "date": "2026-06-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 11.56,
+      "km": 18.6,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Boucle par Celles- Freychenet."
     },
     {
       "date": "2026-06-12",
@@ -374,14 +382,22 @@
     },
     {
       "date": "2026-06-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.53,
+      "km": 12.12,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Petite boucle. Nouvelles chaussures.Rapide."
+    },
+    {
+      "date": "2026-06-14",
+      "miles": 7.54,
+      "km": 12.13,
+      "type": "run",
+      "time": null,
+      "comment": "Petite boucle.Dur."
     }
   ],
-  "totalActivities": 28,
-  "activeDays": 25,
-  "restDays": 19
+  "totalActivities": 33,
+  "activeDays": 29,
+  "restDays": 16
 }

@@ -427,9 +427,17 @@
       "type": "walk",
       "time": null,
       "comment": "looping"
+    },
+    {
+      "date": "2026-06-14",
+      "miles": 2.62,
+      "km": 4.22,
+      "type": "run",
+      "time": null,
+      "comment": "Kitzenhauslauf (RACE)"
     }
   ],
-  "totalActivities": 53,
-  "activeDays": 44,
+  "totalActivities": 54,
+  "activeDays": 45,
   "restDays": 0
 }

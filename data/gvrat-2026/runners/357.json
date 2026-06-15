@@ -797,15 +797,47 @@
       "comment": "morning run"
     },
     {
-      "date": "2026-06-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-06-12",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "dog walk"
+    },
+    {
+      "date": "2026-06-13",
+      "miles": 14.3,
+      "km": 23.01,
+      "type": "run",
+      "time": null,
+      "comment": "trail run"
+    },
+    {
+      "date": "2026-06-13",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": "dog walk"
+    },
+    {
+      "date": "2026-06-14",
+      "miles": 2.2,
+      "km": 3.54,
+      "type": "walk",
+      "time": null,
+      "comment": "dog walk to coffee"
+    },
+    {
+      "date": "2026-06-14",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": "dog walk"
     }
   ],
-  "totalActivities": 98,
-  "activeDays": 42,
-  "restDays": 2
+  "totalActivities": 103,
+  "activeDays": 44,
+  "restDays": 1
 }
