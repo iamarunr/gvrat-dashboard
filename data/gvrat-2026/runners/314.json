@@ -342,22 +342,30 @@
     },
     {
       "date": "2026-06-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.84,
+      "km": 9.4,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-06-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.74,
+      "km": 2.8,
+      "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-14",
+      "miles": 8.45,
+      "km": 13.6,
+      "type": "run",
+      "time": null,
+      "comment": "Jukola Orienteering Relay 2026"
     }
   ],
-  "totalActivities": 40,
-  "activeDays": 40,
-  "restDays": 4
+  "totalActivities": 43,
+  "activeDays": 43,
+  "restDays": 2
 }

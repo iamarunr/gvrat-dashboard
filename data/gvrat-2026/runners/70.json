@@ -731,9 +731,17 @@
       "type": "walk",
       "time": null,
       "comment": "Kendall to Corbin plus"
+    },
+    {
+      "date": "2026-06-14",
+      "miles": 14.5,
+      "km": 23.34,
+      "type": "run",
+      "time": null,
+      "comment": "Run/walk trail run by the river RSP"
     }
   ],
-  "totalActivities": 91,
-  "activeDays": 44,
+  "totalActivities": 92,
+  "activeDays": 45,
   "restDays": 0
 }

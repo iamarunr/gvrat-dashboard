@@ -355,9 +355,17 @@
       "type": "walk",
       "time": null,
       "comment": "Bike path Tipp to Troy, turn at cemetery"
+    },
+    {
+      "date": "2026-06-14",
+      "miles": 7.09,
+      "km": 11.41,
+      "type": "walk",
+      "time": null,
+      "comment": "Finishing up bike paths north of downtown Dayton along Miami and Stillwater rivers."
     }
   ],
-  "totalActivities": 32,
-  "activeDays": 32,
+  "totalActivities": 33,
+  "activeDays": 33,
   "restDays": 12
 }

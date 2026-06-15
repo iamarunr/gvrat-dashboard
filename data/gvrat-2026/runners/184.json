@@ -627,9 +627,25 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and shopping on purpose without much luck"
+    },
+    {
+      "date": "2026-06-14",
+      "miles": 4.01,
+      "km": 6.45,
+      "type": "run",
+      "time": null,
+      "comment": "Sunday morning run at Collegedale.  Very hot"
+    },
+    {
+      "date": "2026-06-14",
+      "miles": 2.39,
+      "km": 3.85,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and cleaning day well sorta"
     }
   ],
-  "totalActivities": 78,
-  "activeDays": 44,
+  "totalActivities": 80,
+  "activeDays": 45,
   "restDays": 0
 }

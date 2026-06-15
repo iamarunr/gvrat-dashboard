@@ -843,9 +843,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-14",
+      "miles": 5.02,
+      "km": 8.08,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4025 Lindale TX 77\u00b0 w/ 80% humidity"
+    },
+    {
+      "date": "2026-06-14",
+      "miles": 3.96,
+      "km": 6.37,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 105,
-  "activeDays": 44,
+  "totalActivities": 107,
+  "activeDays": 45,
   "restDays": 0
 }

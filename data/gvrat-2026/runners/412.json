@@ -387,9 +387,17 @@
       "type": "walk",
       "time": null,
       "comment": "neighborhood"
+    },
+    {
+      "date": "2026-06-14",
+      "miles": 2.65,
+      "km": 4.26,
+      "type": "walk",
+      "time": null,
+      "comment": "Yokes/mailbox"
     }
   ],
-  "totalActivities": 23,
-  "activeDays": 19,
+  "totalActivities": 24,
+  "activeDays": 20,
   "restDays": 25
 }
