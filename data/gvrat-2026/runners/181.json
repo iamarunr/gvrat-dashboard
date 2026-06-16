@@ -363,9 +363,17 @@
       "type": "run",
       "time": null,
       "comment": "JF  W/J"
+    },
+    {
+      "date": "2026-06-15",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "run",
+      "time": null,
+      "comment": "JF , OL"
     }
   ],
-  "totalActivities": 19,
-  "activeDays": 19,
+  "totalActivities": 20,
+  "activeDays": 20,
   "restDays": 26
 }

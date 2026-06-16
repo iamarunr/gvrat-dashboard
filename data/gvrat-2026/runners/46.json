@@ -859,9 +859,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-15",
+      "miles": 2.01,
+      "km": 3.23,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4026 Tyler State Park trail run"
+    },
+    {
+      "date": "2026-06-15",
+      "miles": 5.49,
+      "km": 8.84,
+      "type": "walk",
+      "time": null,
+      "comment": "Hiked at Tyler State Park TX"
     }
   ],
-  "totalActivities": 107,
-  "activeDays": 45,
+  "totalActivities": 109,
+  "activeDays": 46,
   "restDays": 0
 }

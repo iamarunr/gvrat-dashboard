@@ -491,9 +491,41 @@
       "type": "walk",
       "time": null,
       "comment": "1.25 with each dog."
+    },
+    {
+      "date": "2026-06-15",
+      "miles": 6.23,
+      "km": 10.03,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-15",
+      "miles": 2.86,
+      "km": 4.6,
+      "type": "walk",
+      "time": null,
+      "comment": "With Izzy"
+    },
+    {
+      "date": "2026-06-15",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-15",
+      "miles": 2.31,
+      "km": 3.72,
+      "type": "walk",
+      "time": null,
+      "comment": "Izzy, 1.24, 27 min.  Max, 1.07, 22 min."
     }
   ],
-  "totalActivities": 61,
-  "activeDays": 45,
+  "totalActivities": 65,
+  "activeDays": 46,
   "restDays": 0
 }

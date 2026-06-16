@@ -739,9 +739,17 @@
       "type": "run",
       "time": null,
       "comment": "Run/walk trail run by the river RSP"
+    },
+    {
+      "date": "2026-06-15",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 92,
-  "activeDays": 45,
+  "totalActivities": 93,
+  "activeDays": 46,
   "restDays": 0
 }

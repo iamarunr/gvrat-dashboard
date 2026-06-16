@@ -395,9 +395,17 @@
       "type": "run",
       "time": null,
       "comment": "Switchyard Park to B-Line Trail"
+    },
+    {
+      "date": "2026-06-15",
+      "miles": 8.61,
+      "km": 13.86,
+      "type": "run",
+      "time": null,
+      "comment": "Church Lane to Clear Creek Trail to Limestone Trail"
     }
   ],
-  "totalActivities": 47,
-  "activeDays": 43,
+  "totalActivities": 48,
+  "activeDays": 44,
   "restDays": 2
 }

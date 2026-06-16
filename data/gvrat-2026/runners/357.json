@@ -835,9 +835,17 @@
       "type": "walk",
       "time": null,
       "comment": "dog walk"
+    },
+    {
+      "date": "2026-06-15",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "run",
+      "time": null,
+      "comment": "morning run after swim"
     }
   ],
-  "totalActivities": 103,
-  "activeDays": 44,
+  "totalActivities": 104,
+  "activeDays": 45,
   "restDays": 1
 }

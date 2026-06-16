@@ -395,9 +395,17 @@
       "type": "walk",
       "time": null,
       "comment": "Yokes/mailbox"
+    },
+    {
+      "date": "2026-06-15",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Centennial Trail with Sylvia"
     }
   ],
-  "totalActivities": 24,
-  "activeDays": 20,
+  "totalActivities": 25,
+  "activeDays": 21,
   "restDays": 25
 }

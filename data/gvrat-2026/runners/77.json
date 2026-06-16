@@ -358,14 +358,22 @@
     },
     {
       "date": "2026-06-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 26.2,
+      "km": 42.16,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "The Backass Jackal Marathon in Jackson, TN"
+    },
+    {
+      "date": "2026-06-15",
+      "miles": 26.2,
+      "km": 42.16,
+      "type": "run",
+      "time": null,
+      "comment": "The Asphalt Jackal Marathon at Pinson Mounds State Park, TN"
     }
   ],
-  "totalActivities": 21,
-  "activeDays": 21,
-  "restDays": 24
+  "totalActivities": 23,
+  "activeDays": 23,
+  "restDays": 23
 }

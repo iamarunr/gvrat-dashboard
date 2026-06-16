@@ -643,9 +643,17 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and cleaning day well sorta"
+    },
+    {
+      "date": "2026-06-15",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "run",
+      "time": null,
+      "comment": "Morning walk , dog walk and evening walk to get it done"
     }
   ],
-  "totalActivities": 80,
-  "activeDays": 45,
+  "totalActivities": 81,
+  "activeDays": 46,
   "restDays": 0
 }
