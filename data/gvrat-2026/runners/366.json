@@ -358,14 +358,22 @@
     },
     {
       "date": "2026-06-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.2,
+      "km": 9.98,
+      "type": "walk",
+      "time": null,
+      "comment": "Disc golf"
+    },
+    {
+      "date": "2026-06-15",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 42,
-  "activeDays": 42,
-  "restDays": 3
+  "totalActivities": 44,
+  "activeDays": 44,
+  "restDays": 2
 }

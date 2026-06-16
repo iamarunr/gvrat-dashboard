@@ -507,9 +507,17 @@
       "type": "run",
       "time": null,
       "comment": "two non-parkruns"
+    },
+    {
+      "date": "2026-06-15",
+      "miles": 1.86,
+      "km": 2.99,
+      "type": "walk",
+      "time": null,
+      "comment": "two dog walks and some farm walking"
     }
   ],
-  "totalActivities": 62,
-  "activeDays": 44,
+  "totalActivities": 63,
+  "activeDays": 45,
   "restDays": 1
 }

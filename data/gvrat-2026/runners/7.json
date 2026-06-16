@@ -430,11 +430,19 @@
     },
     {
       "date": "2026-06-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.25,
+      "km": 0.4,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "TRNP"
+    },
+    {
+      "date": "2026-06-11",
+      "miles": 0.26,
+      "km": 0.42,
+      "type": "walk",
+      "time": null,
+      "comment": "TRNP"
     },
     {
       "date": "2026-06-12",
@@ -446,11 +454,11 @@
     },
     {
       "date": "2026-06-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.56,
+      "km": 2.51,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Fort Ransom State Park Mini Hike"
     },
     {
       "date": "2026-06-14",
@@ -459,9 +467,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-15",
+      "miles": 7.55,
+      "km": 12.15,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk and Hill Repeats"
     }
   ],
-  "totalActivities": 49,
-  "activeDays": 37,
-  "restDays": 8
+  "totalActivities": 53,
+  "activeDays": 40,
+  "restDays": 6
 }

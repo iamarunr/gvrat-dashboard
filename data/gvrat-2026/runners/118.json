@@ -403,9 +403,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-15",
+      "miles": 4.06,
+      "km": 6.53,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking & Working"
+    },
+    {
+      "date": "2026-06-15",
+      "miles": 2.9,
+      "km": 4.67,
+      "type": "walk",
+      "time": null,
+      "comment": "Charcoal Hearth Trail"
     }
   ],
-  "totalActivities": 32,
-  "activeDays": 27,
+  "totalActivities": 34,
+  "activeDays": 28,
   "restDays": 18
 }
