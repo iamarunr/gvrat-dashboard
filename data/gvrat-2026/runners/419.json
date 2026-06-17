@@ -403,9 +403,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-16",
+      "miles": 8.86,
+      "km": 14.26,
+      "type": "run",
+      "time": null,
+      "comment": "Boucle Freychenet-croisement d'Armentieres."
     }
   ],
-  "totalActivities": 33,
-  "activeDays": 29,
+  "totalActivities": 34,
+  "activeDays": 30,
   "restDays": 17
 }

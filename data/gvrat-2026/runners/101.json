@@ -683,9 +683,17 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-16",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "Push mow"
     }
   ],
-  "totalActivities": 84,
-  "activeDays": 45,
+  "totalActivities": 85,
+  "activeDays": 46,
   "restDays": 1
 }

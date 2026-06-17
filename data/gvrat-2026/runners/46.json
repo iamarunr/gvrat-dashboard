@@ -875,9 +875,25 @@
       "type": "walk",
       "time": null,
       "comment": "Hiked at Tyler State Park TX"
+    },
+    {
+      "date": "2026-06-16",
+      "miles": 6.07,
+      "km": 9.77,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4027 Mineola Road Run"
+    },
+    {
+      "date": "2026-06-16",
+      "miles": 2.96,
+      "km": 4.76,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 109,
-  "activeDays": 46,
+  "totalActivities": 111,
+  "activeDays": 47,
   "restDays": 0
 }

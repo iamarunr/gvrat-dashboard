@@ -438,14 +438,30 @@
     },
     {
       "date": "2026-06-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.01,
+      "km": 6.45,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking at work."
+    },
+    {
+      "date": "2026-06-15",
+      "miles": 1.68,
+      "km": 2.7,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk with my wife."
+    },
+    {
+      "date": "2026-06-16",
+      "miles": 4.64,
+      "km": 7.47,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking at work.  13,754 total steps.  Still no running, damn achillies."
     }
   ],
-  "totalActivities": 43,
-  "activeDays": 34,
-  "restDays": 12
+  "totalActivities": 46,
+  "activeDays": 36,
+  "restDays": 11
 }

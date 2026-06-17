@@ -371,9 +371,17 @@
       "type": "run",
       "time": null,
       "comment": "Geese"
+    },
+    {
+      "date": "2026-06-16",
+      "miles": 5.95,
+      "km": 9.58,
+      "type": "run",
+      "time": null,
+      "comment": "Suburbs"
     }
   ],
-  "totalActivities": 31,
-  "activeDays": 31,
+  "totalActivities": 32,
+  "activeDays": 32,
   "restDays": 15
 }

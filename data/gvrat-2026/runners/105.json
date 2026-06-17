@@ -371,9 +371,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walked 2.22 miles with Eddie\ud83d\udc15 wanted to stay close to home in case Karen Kutie Pie needed me."
+    },
+    {
+      "date": "2026-06-16",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 46,
   "activeDays": 46,
-  "restDays": 0
+  "restDays": 1
 }

@@ -510,30 +510,46 @@
     },
     {
       "date": "2026-06-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.21,
+      "km": 6.78,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Bear Lake Scenic Trail"
     },
     {
       "date": "2026-06-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.22,
+      "km": 8.4,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Sweetwater Lollipop"
+    },
+    {
+      "date": "2026-06-14",
+      "miles": 2.68,
+      "km": 4.31,
+      "type": "walk",
+      "time": null,
+      "comment": "Mike's Market to Marina and back"
     },
     {
       "date": "2026-06-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.21,
+      "km": 9.99,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Franklin Basin"
+    },
+    {
+      "date": "2026-06-16",
+      "miles": 4.08,
+      "km": 6.57,
+      "type": "run",
+      "time": null,
+      "comment": "Shundahai Neighborhood"
     }
   ],
-  "totalActivities": 60,
-  "activeDays": 40,
-  "restDays": 6
+  "totalActivities": 65,
+  "activeDays": 44,
+  "restDays": 3
 }

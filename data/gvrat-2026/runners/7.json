@@ -475,9 +475,25 @@
       "type": "walk",
       "time": null,
       "comment": "Walk and Hill Repeats"
+    },
+    {
+      "date": "2026-06-16",
+      "miles": 3.44,
+      "km": 5.54,
+      "type": "walk",
+      "time": null,
+      "comment": "School > Helipad"
+    },
+    {
+      "date": "2026-06-16",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": "Post work mile"
     }
   ],
-  "totalActivities": 53,
-  "activeDays": 40,
+  "totalActivities": 55,
+  "activeDays": 41,
   "restDays": 6
 }

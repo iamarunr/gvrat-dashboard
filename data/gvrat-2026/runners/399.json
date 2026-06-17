@@ -523,9 +523,25 @@
       "type": "walk",
       "time": null,
       "comment": "Izzy, 1.24, 27 min.  Max, 1.07, 22 min."
+    },
+    {
+      "date": "2026-06-16",
+      "miles": 3.22,
+      "km": 5.18,
+      "type": "walk",
+      "time": null,
+      "comment": "Izzy, 1.58, 35 min.  max, 1.64, 36 min."
+    },
+    {
+      "date": "2026-06-16",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 65,
-  "activeDays": 46,
+  "totalActivities": 67,
+  "activeDays": 47,
   "restDays": 0
 }

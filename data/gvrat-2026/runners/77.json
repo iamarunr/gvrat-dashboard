@@ -371,9 +371,17 @@
       "type": "run",
       "time": null,
       "comment": "The Asphalt Jackal Marathon at Pinson Mounds State Park, TN"
+    },
+    {
+      "date": "2026-06-16",
+      "miles": 26.2,
+      "km": 42.16,
+      "type": "run",
+      "time": null,
+      "comment": "Dragonfly Jackal Marathon at Pinson Mounds State Park, TN"
     }
   ],
-  "totalActivities": 23,
-  "activeDays": 23,
+  "totalActivities": 24,
+  "activeDays": 24,
   "restDays": 23
 }
