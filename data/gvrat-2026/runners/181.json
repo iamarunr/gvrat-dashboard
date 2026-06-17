@@ -371,9 +371,17 @@
       "type": "run",
       "time": null,
       "comment": "JF , OL"
+    },
+    {
+      "date": "2026-06-16",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "walk",
+      "time": null,
+      "comment": "W at RS"
     }
   ],
-  "totalActivities": 20,
-  "activeDays": 20,
+  "totalActivities": 21,
+  "activeDays": 21,
   "restDays": 26
 }

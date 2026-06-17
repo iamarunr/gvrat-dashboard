@@ -403,9 +403,17 @@
       "type": "run",
       "time": null,
       "comment": "Church Lane to Clear Creek Trail to Limestone Trail"
+    },
+    {
+      "date": "2026-06-16",
+      "miles": 6.01,
+      "km": 9.67,
+      "type": "run",
+      "time": null,
+      "comment": "Tapp Road to Clear Creek to Limestone Trail."
     }
   ],
-  "totalActivities": 48,
-  "activeDays": 44,
+  "totalActivities": 49,
+  "activeDays": 45,
   "restDays": 2
 }

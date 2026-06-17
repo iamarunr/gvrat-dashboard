@@ -443,9 +443,17 @@
       "type": "walk",
       "time": null,
       "comment": "pump goat"
+    },
+    {
+      "date": "2026-06-16",
+      "miles": 6.29,
+      "km": 10.12,
+      "type": "walk",
+      "time": null,
+      "comment": "Looking at the new construction stuff with +1"
     }
   ],
-  "totalActivities": 55,
-  "activeDays": 46,
+  "totalActivities": 56,
+  "activeDays": 47,
   "restDays": 0
 }

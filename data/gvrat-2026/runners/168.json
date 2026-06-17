@@ -435,9 +435,25 @@
       "type": "walk",
       "time": null,
       "comment": "TVA w/ORRB; 16#; Mag w/H2O stop; Cool and breezy."
+    },
+    {
+      "date": "2026-06-16",
+      "miles": 3.22,
+      "km": 5.18,
+      "type": "walk",
+      "time": null,
+      "comment": "TVA Waterfall; 16#; Maggie with splash time."
+    },
+    {
+      "date": "2026-06-16",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Solo Flo; Mag at SP; no pack/vest."
     }
   ],
-  "totalActivities": 42,
-  "activeDays": 34,
+  "totalActivities": 44,
+  "activeDays": 35,
   "restDays": 12
 }

@@ -403,9 +403,17 @@
       "type": "walk",
       "time": null,
       "comment": "Centennial Trail with Sylvia"
+    },
+    {
+      "date": "2026-06-16",
+      "miles": 3.33,
+      "km": 5.36,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 25,
-  "activeDays": 21,
+  "totalActivities": 26,
+  "activeDays": 22,
   "restDays": 25
 }
