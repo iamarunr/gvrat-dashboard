@@ -379,9 +379,17 @@
       "type": "walk",
       "time": null,
       "comment": "some running\u2026.but mostly walking\u2026tmill combo\u2026"
+    },
+    {
+      "date": "2026-06-17",
+      "miles": 5.35,
+      "km": 8.61,
+      "type": "walk",
+      "time": null,
+      "comment": "tmill\u2026combo\u2026"
     }
   ],
-  "totalActivities": 47,
-  "activeDays": 47,
+  "totalActivities": 48,
+  "activeDays": 48,
   "restDays": 0
 }

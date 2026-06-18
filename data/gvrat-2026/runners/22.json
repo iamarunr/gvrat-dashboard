@@ -411,9 +411,17 @@
       "type": "run",
       "time": null,
       "comment": "Tapp Road to Clear Creek to Limestone Trail."
+    },
+    {
+      "date": "2026-06-17",
+      "miles": 5.09,
+      "km": 8.19,
+      "type": "run",
+      "time": null,
+      "comment": "Switchyard to B-Line"
     }
   ],
-  "totalActivities": 49,
-  "activeDays": 45,
+  "totalActivities": 50,
+  "activeDays": 46,
   "restDays": 2
 }

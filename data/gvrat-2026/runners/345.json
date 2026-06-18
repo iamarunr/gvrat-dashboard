@@ -379,9 +379,17 @@
       "type": "run",
       "time": null,
       "comment": "Suburbs"
+    },
+    {
+      "date": "2026-06-17",
+      "miles": 6.37,
+      "km": 10.25,
+      "type": "run",
+      "time": null,
+      "comment": "Urban wildlife"
     }
   ],
-  "totalActivities": 32,
-  "activeDays": 32,
+  "totalActivities": 33,
+  "activeDays": 33,
   "restDays": 15
 }

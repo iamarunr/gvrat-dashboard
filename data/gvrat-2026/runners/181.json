@@ -379,9 +379,17 @@
       "type": "walk",
       "time": null,
       "comment": "W at RS"
+    },
+    {
+      "date": "2026-06-17",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 21,
-  "activeDays": 21,
+  "totalActivities": 22,
+  "activeDays": 22,
   "restDays": 26
 }
