@@ -542,14 +542,22 @@
     },
     {
       "date": "2026-06-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.35,
+      "km": 2.17,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Shady Grove Metro Station to Home"
     },
     {
       "date": "2026-06-16",
+      "miles": 3.7,
+      "km": 5.95,
+      "type": "run",
+      "time": null,
+      "comment": "SHMP Track Workout #1 (16 laps in reality, Strava had a hiccup)"
+    },
+    {
+      "date": "2026-06-17",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -557,7 +565,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 51,
-  "activeDays": 29,
-  "restDays": 18
+  "totalActivities": 53,
+  "activeDays": 31,
+  "restDays": 17
 }

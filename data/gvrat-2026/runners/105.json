@@ -374,14 +374,22 @@
     },
     {
       "date": "2026-06-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walked 2.50 miles with Eddie\ud83d\udc15. Didn't do much else today. \ud83e\udd37\u200d\u2642\ufe0f"
+    },
+    {
+      "date": "2026-06-17",
+      "miles": 4.12,
+      "km": 6.63,
+      "type": "walk",
+      "time": null,
+      "comment": "Walked this afternoon at 102\u00b0 too hot\ud83c\udf21\ud83e\udd75\u2600\ufe0f\ud83d\udd25for Eddie. Found a quarter and a penny\ud83e\udd11"
     }
   ],
-  "totalActivities": 46,
-  "activeDays": 46,
-  "restDays": 1
+  "totalActivities": 48,
+  "activeDays": 48,
+  "restDays": 0
 }

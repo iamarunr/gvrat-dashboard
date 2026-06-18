@@ -459,9 +459,25 @@
       "type": "walk",
       "time": null,
       "comment": "Walking at work.  13,754 total steps.  Still no running, damn achillies."
+    },
+    {
+      "date": "2026-06-17",
+      "miles": 4.69,
+      "km": 7.55,
+      "type": "run",
+      "time": null,
+      "comment": "Easy run"
+    },
+    {
+      "date": "2026-06-17",
+      "miles": 4.64,
+      "km": 7.47,
+      "type": "walk",
+      "time": null,
+      "comment": "13,937 total steps while doing extra walking at work."
     }
   ],
-  "totalActivities": 46,
-  "activeDays": 36,
+  "totalActivities": 48,
+  "activeDays": 37,
   "restDays": 11
 }

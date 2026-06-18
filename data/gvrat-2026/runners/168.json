@@ -451,9 +451,17 @@
       "type": "walk",
       "time": null,
       "comment": "Solo Flo; Mag at SP; no pack/vest."
+    },
+    {
+      "date": "2026-06-17",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "TVA loop only; 10#; Mag h2o break"
     }
   ],
-  "totalActivities": 44,
-  "activeDays": 35,
+  "totalActivities": 45,
+  "activeDays": 36,
   "restDays": 12
 }

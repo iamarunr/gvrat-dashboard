@@ -539,9 +539,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-17",
+      "miles": 4.56,
+      "km": 7.34,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-17",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Ruck with 20#"
     }
   ],
-  "totalActivities": 67,
-  "activeDays": 47,
+  "totalActivities": 69,
+  "activeDays": 48,
   "restDays": 0
 }

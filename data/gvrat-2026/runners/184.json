@@ -667,9 +667,17 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and rest of day"
+    },
+    {
+      "date": "2026-06-17",
+      "miles": 4.1,
+      "km": 6.6,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning walk and evening walk after Mexican and margaritas"
     }
   ],
-  "totalActivities": 83,
-  "activeDays": 47,
+  "totalActivities": 84,
+  "activeDays": 48,
   "restDays": 0
 }
