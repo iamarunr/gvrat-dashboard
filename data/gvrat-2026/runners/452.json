@@ -387,9 +387,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total-rail trail and campus walks"
+    },
+    {
+      "date": "2026-06-18",
+      "miles": 4.75,
+      "km": 7.64,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total"
     }
   ],
-  "totalActivities": 45,
-  "activeDays": 45,
+  "totalActivities": 46,
+  "activeDays": 46,
   "restDays": 3
 }

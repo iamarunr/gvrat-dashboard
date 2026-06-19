@@ -558,14 +558,22 @@
     },
     {
       "date": "2026-06-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.47,
+      "km": 2.37,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Shady Grove Metro Station to Home"
+    },
+    {
+      "date": "2026-06-18",
+      "miles": 5.49,
+      "km": 8.84,
+      "type": "run",
+      "time": null,
+      "comment": "Piccard Dr. - JBJ Hybrid Route Run"
     }
   ],
-  "totalActivities": 53,
-  "activeDays": 31,
-  "restDays": 17
+  "totalActivities": 55,
+  "activeDays": 33,
+  "restDays": 16
 }

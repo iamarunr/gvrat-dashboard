@@ -459,9 +459,41 @@
       "type": "walk",
       "time": null,
       "comment": "TVA loop only; 10#; Mag h2o break"
+    },
+    {
+      "date": "2026-06-17",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "TVA loop; Maggie w/water break; 10#"
+    },
+    {
+      "date": "2026-06-17",
+      "miles": 1.47,
+      "km": 2.37,
+      "type": "walk",
+      "time": null,
+      "comment": "TVA flat; PM; Mag"
+    },
+    {
+      "date": "2026-06-18",
+      "miles": 2.97,
+      "km": 4.78,
+      "type": "walk",
+      "time": null,
+      "comment": "TVA loop; 16# and very hungry; noon; Mag w/water break."
+    },
+    {
+      "date": "2026-06-18",
+      "miles": 3.22,
+      "km": 5.18,
+      "type": "run",
+      "time": null,
+      "comment": "TVA flat; no pack; heat and gut (smash burger fixed) training; didn't start watch for first .8"
     }
   ],
-  "totalActivities": 45,
-  "activeDays": 36,
+  "totalActivities": 49,
+  "activeDays": 37,
   "restDays": 12
 }

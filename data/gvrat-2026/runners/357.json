@@ -861,7 +861,39 @@
       "comment": "morning dog run"
     },
     {
+      "date": "2026-06-16",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": "dog walk"
+    },
+    {
       "date": "2026-06-17",
+      "miles": 5.6,
+      "km": 9.01,
+      "type": "run",
+      "time": null,
+      "comment": "morning run with tempo laps"
+    },
+    {
+      "date": "2026-06-18",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": "dog walk"
+    },
+    {
+      "date": "2026-06-18",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
+      "time": null,
+      "comment": "morning run"
+    },
+    {
+      "date": "2026-06-18",
       "miles": 1.2,
       "km": 1.93,
       "type": "walk",
@@ -869,7 +901,7 @@
       "comment": "dog walk"
     }
   ],
-  "totalActivities": 107,
-  "activeDays": 47,
+  "totalActivities": 111,
+  "activeDays": 48,
   "restDays": 1
 }
