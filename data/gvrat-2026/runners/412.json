@@ -419,9 +419,17 @@
       "type": "walk",
       "time": null,
       "comment": "neighborhood walk"
+    },
+    {
+      "date": "2026-06-18",
+      "miles": 4.1,
+      "km": 6.6,
+      "type": "walk",
+      "time": null,
+      "comment": "slow walk, used my poles"
     }
   ],
-  "totalActivities": 27,
-  "activeDays": 23,
+  "totalActivities": 28,
+  "activeDays": 24,
   "restDays": 25
 }

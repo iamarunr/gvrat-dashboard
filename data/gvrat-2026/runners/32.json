@@ -475,9 +475,17 @@
       "type": "walk",
       "time": null,
       "comment": "13,937 total steps while doing extra walking at work."
+    },
+    {
+      "date": "2026-06-18",
+      "miles": 4.12,
+      "km": 6.63,
+      "type": "run",
+      "time": null,
+      "comment": "easy run."
     }
   ],
-  "totalActivities": 48,
-  "activeDays": 37,
+  "totalActivities": 49,
+  "activeDays": 38,
   "restDays": 11
 }

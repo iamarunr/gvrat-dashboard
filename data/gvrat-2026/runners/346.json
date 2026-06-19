@@ -462,54 +462,78 @@
     },
     {
       "date": "2026-06-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 44.5,
+      "km": 71.62,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Tahoe 200 - Day 1"
     },
     {
       "date": "2026-06-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 50.6,
+      "km": 81.43,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Tahoe 200 - Day 2"
     },
     {
       "date": "2026-06-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 43.0,
+      "km": 69.2,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Tahoe 200 - Day 3"
     },
     {
       "date": "2026-06-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 43.7,
+      "km": 70.33,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Tahoe 200 - Day 4"
     },
     {
       "date": "2026-06-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 21.98,
+      "km": 35.37,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Tahoe 200 - Day 5"
     },
     {
       "date": "2026-06-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.21,
+      "km": 0.34,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "20' ascent.  Supercharger walk (Wells, NV)"
+    },
+    {
+      "date": "2026-06-17",
+      "miles": 0.32,
+      "km": 0.51,
+      "type": "walk",
+      "time": null,
+      "comment": "36' ascent.  Supercharger walk (Tremonton, UT)"
+    },
+    {
+      "date": "2026-06-17",
+      "miles": 1.53,
+      "km": 2.46,
+      "type": "walk",
+      "time": null,
+      "comment": "125' ascent.  Logan River Trail by Stokes Nature Center"
+    },
+    {
+      "date": "2026-06-18",
+      "miles": 5.53,
+      "km": 8.9,
+      "type": "walk",
+      "time": null,
+      "comment": "659' ascent.  Beaver Creek w/ Rick"
     }
   ],
-  "totalActivities": 57,
-  "activeDays": 42,
-  "restDays": 6
+  "totalActivities": 66,
+  "activeDays": 49,
+  "restDays": 0
 }

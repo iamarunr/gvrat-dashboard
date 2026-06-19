@@ -419,9 +419,25 @@
       "type": "run",
       "time": null,
       "comment": "Switchyard to B-Line"
+    },
+    {
+      "date": "2026-06-18",
+      "miles": 4.06,
+      "km": 6.53,
+      "type": "run",
+      "time": null,
+      "comment": "Switchyard Park to B-Line Trail"
+    },
+    {
+      "date": "2026-06-18",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Switcyard Park to B-Line Trail with Tazzie"
     }
   ],
-  "totalActivities": 50,
-  "activeDays": 46,
+  "totalActivities": 52,
+  "activeDays": 47,
   "restDays": 2
 }

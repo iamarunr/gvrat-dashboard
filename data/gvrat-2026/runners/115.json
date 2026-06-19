@@ -891,9 +891,33 @@
       "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-18",
+      "miles": 0.74,
+      "km": 1.19,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk back from the stadium (World cup)"
+    },
+    {
+      "date": "2026-06-18",
+      "miles": 0.8,
+      "km": 1.29,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk to the stadium (World Cup)"
+    },
+    {
+      "date": "2026-06-18",
+      "miles": 1.77,
+      "km": 2.85,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk with E to karate camp"
     }
   ],
-  "totalActivities": 103,
-  "activeDays": 40,
+  "totalActivities": 106,
+  "activeDays": 41,
   "restDays": 8
 }

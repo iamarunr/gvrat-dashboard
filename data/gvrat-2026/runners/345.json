@@ -387,9 +387,17 @@
       "type": "run",
       "time": null,
       "comment": "Urban wildlife"
+    },
+    {
+      "date": "2026-06-18",
+      "miles": 6.97,
+      "km": 11.22,
+      "type": "run",
+      "time": null,
+      "comment": "River trail"
     }
   ],
-  "totalActivities": 33,
-  "activeDays": 33,
+  "totalActivities": 34,
+  "activeDays": 34,
   "restDays": 15
 }

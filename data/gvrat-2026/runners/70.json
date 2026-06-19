@@ -795,9 +795,33 @@
       "type": "walk",
       "time": null,
       "comment": "Evening with Melissa"
+    },
+    {
+      "date": "2026-06-18",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "run",
+      "time": null,
+      "comment": "Morning"
+    },
+    {
+      "date": "2026-06-18",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "run",
+      "time": null,
+      "comment": "Evening"
+    },
+    {
+      "date": "2026-06-18",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Lunch"
     }
   ],
-  "totalActivities": 99,
-  "activeDays": 48,
+  "totalActivities": 102,
+  "activeDays": 49,
   "restDays": 0
 }
