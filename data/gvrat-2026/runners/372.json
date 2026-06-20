@@ -510,11 +510,19 @@
     },
     {
       "date": "2026-06-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.19,
+      "km": 1.92,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Hi there Aldi!"
+    },
+    {
+      "date": "2026-06-17",
+      "miles": 6.04,
+      "km": 9.72,
+      "type": "run",
+      "time": null,
+      "comment": "Regular run"
     },
     {
       "date": "2026-06-18",
@@ -523,9 +531,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-19",
+      "miles": 3.72,
+      "km": 5.99,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk home after shopping"
+    },
+    {
+      "date": "2026-06-19",
+      "miles": 2.48,
+      "km": 3.99,
+      "type": "run",
+      "time": null,
+      "comment": "Shorter than planned because of the Hoppings"
     }
   ],
-  "totalActivities": 50,
-  "activeDays": 34,
-  "restDays": 15
+  "totalActivities": 54,
+  "activeDays": 36,
+  "restDays": 14
 }

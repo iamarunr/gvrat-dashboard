@@ -419,9 +419,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk with Christopher and the dogs"
+    },
+    {
+      "date": "2026-06-19",
+      "miles": 3.88,
+      "km": 6.24,
+      "type": "run",
+      "time": null,
+      "comment": "Run/Walk at the Gravel Pond trail"
     }
   ],
-  "totalActivities": 28,
-  "activeDays": 25,
+  "totalActivities": 29,
+  "activeDays": 26,
   "restDays": 24
 }

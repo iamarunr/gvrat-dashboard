@@ -435,9 +435,17 @@
       "type": "walk",
       "time": null,
       "comment": "Switcyard Park to B-Line Trail with Tazzie"
+    },
+    {
+      "date": "2026-06-19",
+      "miles": 9.12,
+      "km": 14.68,
+      "type": "run",
+      "time": null,
+      "comment": "Church lane to Clear Creek to Limestone Trail."
     }
   ],
-  "totalActivities": 52,
-  "activeDays": 47,
+  "totalActivities": 53,
+  "activeDays": 48,
   "restDays": 2
 }

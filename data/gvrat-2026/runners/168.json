@@ -491,9 +491,25 @@
       "type": "run",
       "time": null,
       "comment": "TVA flat; no pack; heat and gut (smash burger fixed) training; didn't start watch for first .8"
+    },
+    {
+      "date": "2026-06-19",
+      "miles": 3.19,
+      "km": 5.13,
+      "type": "walk",
+      "time": null,
+      "comment": "TVA Bertha-Bridge; 16#; Mag w/w"
+    },
+    {
+      "date": "2026-06-19",
+      "miles": 1.52,
+      "km": 2.45,
+      "type": "walk",
+      "time": null,
+      "comment": "TVA flat; 10#; Too hot for Maggie"
     }
   ],
-  "totalActivities": 49,
-  "activeDays": 37,
+  "totalActivities": 51,
+  "activeDays": 38,
   "restDays": 12
 }

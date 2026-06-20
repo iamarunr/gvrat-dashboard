@@ -507,9 +507,33 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-19",
+      "miles": 1.32,
+      "km": 2.12,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk"
+    },
+    {
+      "date": "2026-06-19",
+      "miles": 1.05,
+      "km": 1.69,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk"
+    },
+    {
+      "date": "2026-06-19",
+      "miles": 2.19,
+      "km": 3.52,
+      "type": "walk",
+      "time": null,
+      "comment": "Piestewa Summit"
     }
   ],
-  "totalActivities": 56,
-  "activeDays": 42,
+  "totalActivities": 59,
+  "activeDays": 43,
   "restDays": 7
 }
