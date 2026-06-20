@@ -454,8 +454,8 @@
     },
     {
       "date": "2026-06-17",
-      "miles": 3.11,
-      "km": 5.01,
+      "miles": 2.94,
+      "km": 4.73,
       "type": "walk",
       "time": null,
       "comment": "Ice and kids"
@@ -467,9 +467,17 @@
       "type": "walk",
       "time": null,
       "comment": "Shadow in the forest"
+    },
+    {
+      "date": "2026-06-19",
+      "miles": 28.45,
+      "km": 45.79,
+      "type": "run",
+      "time": null,
+      "comment": "Venntriologie Etappe 1 und 2"
     }
   ],
-  "totalActivities": 58,
-  "activeDays": 49,
+  "totalActivities": 59,
+  "activeDays": 50,
   "restDays": 0
 }

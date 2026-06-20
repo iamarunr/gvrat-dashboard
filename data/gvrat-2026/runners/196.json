@@ -739,9 +739,17 @@
       "type": "walk",
       "time": null,
       "comment": "Windy evening walk"
+    },
+    {
+      "date": "2026-06-19",
+      "miles": 1.66,
+      "km": 2.67,
+      "type": "walk",
+      "time": null,
+      "comment": "First of the day TM1"
     }
   ],
-  "totalActivities": 81,
-  "activeDays": 38,
+  "totalActivities": 82,
+  "activeDays": 39,
   "restDays": 11
 }

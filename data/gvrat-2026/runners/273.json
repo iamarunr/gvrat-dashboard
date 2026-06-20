@@ -486,22 +486,30 @@
     },
     {
       "date": "2026-06-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
-      "time": null,
-      "comment": ""
-    },
-    {
-      "date": "2026-06-18",
       "miles": 3.0,
       "km": 4.83,
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-18",
+      "miles": 6.5,
+      "km": 10.46,
+      "type": "walk",
+      "time": null,
+      "comment": "Hike chimney top and walk around"
+    },
+    {
+      "date": "2026-06-19",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 57,
-  "activeDays": 44,
-  "restDays": 5
+  "totalActivities": 59,
+  "activeDays": 46,
+  "restDays": 4
 }

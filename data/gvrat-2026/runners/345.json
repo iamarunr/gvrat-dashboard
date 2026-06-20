@@ -395,9 +395,17 @@
       "type": "run",
       "time": null,
       "comment": "River trail"
+    },
+    {
+      "date": "2026-06-19",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "run",
+      "time": null,
+      "comment": "Quick hit"
     }
   ],
-  "totalActivities": 34,
-  "activeDays": 34,
+  "totalActivities": 35,
+  "activeDays": 35,
   "restDays": 15
 }
