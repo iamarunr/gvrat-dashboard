@@ -507,9 +507,17 @@
       "type": "walk",
       "time": null,
       "comment": "TVA flat; 10#; Too hot for Maggie"
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 51,
   "activeDays": 38,
-  "restDays": 12
+  "restDays": 13
 }

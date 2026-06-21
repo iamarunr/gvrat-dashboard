@@ -435,9 +435,17 @@
       "type": "walk",
       "time": null,
       "comment": "morning walk and errands"
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 53,
   "activeDays": 49,
-  "restDays": 1
+  "restDays": 2
 }

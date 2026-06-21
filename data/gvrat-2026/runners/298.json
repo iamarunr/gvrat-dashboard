@@ -475,9 +475,17 @@
       "type": "walk",
       "time": null,
       "comment": "Treadmill"
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 2.4,
+      "km": 3.86,
+      "type": "walk",
+      "time": null,
+      "comment": "Farmer's market and pond with Patrick"
     }
   ],
-  "totalActivities": 37,
-  "activeDays": 28,
+  "totalActivities": 38,
+  "activeDays": 29,
   "restDays": 22
 }

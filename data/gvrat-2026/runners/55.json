@@ -931,9 +931,17 @@
       "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 3.33,
+      "km": 5.36,
+      "type": "run",
+      "time": null,
+      "comment": "Final run, finished GVRAT!"
     }
   ],
-  "totalActivities": 115,
-  "activeDays": 49,
+  "totalActivities": 116,
+  "activeDays": 50,
   "restDays": 1
 }

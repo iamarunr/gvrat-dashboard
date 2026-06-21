@@ -398,14 +398,22 @@
     },
     {
       "date": "2026-06-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Out and back day, Tadmore."
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 7.39,
+      "km": 11.89,
+      "type": "walk",
+      "time": null,
+      "comment": "Loop from home, St. Paul, park and loop.  Saw HS XC jog by me :).  Nice seeing him more than Xmas morning run."
     }
   ],
-  "totalActivities": 37,
-  "activeDays": 37,
-  "restDays": 13
+  "totalActivities": 39,
+  "activeDays": 39,
+  "restDays": 12
 }

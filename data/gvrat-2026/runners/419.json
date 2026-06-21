@@ -398,14 +398,6 @@
     },
     {
       "date": "2026-06-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
-      "time": null,
-      "comment": ""
-    },
-    {
-      "date": "2026-06-16",
       "miles": 8.86,
       "km": 14.26,
       "type": "run",
@@ -413,31 +405,47 @@
       "comment": "Boucle Freychenet-croisement d'Armentieres."
     },
     {
-      "date": "2026-06-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
-      "time": null,
-      "comment": ""
-    },
-    {
-      "date": "2026-06-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
-      "time": null,
-      "comment": ""
-    },
-    {
-      "date": "2026-06-19",
+      "date": "2026-06-16",
       "miles": 1.43,
       "km": 2.3,
       "type": "walk",
       "time": null,
       "comment": "Marche."
+    },
+    {
+      "date": "2026-06-17",
+      "miles": 1.86,
+      "km": 2.99,
+      "type": "walk",
+      "time": null,
+      "comment": "Marche rapide."
+    },
+    {
+      "date": "2026-06-18",
+      "miles": 9.36,
+      "km": 15.06,
+      "type": "run",
+      "time": null,
+      "comment": "Moyenne boucle."
+    },
+    {
+      "date": "2026-06-19",
+      "miles": 3.23,
+      "km": 5.2,
+      "type": "walk",
+      "time": null,
+      "comment": "Marche."
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 7.54,
+      "km": 12.13,
+      "type": "run",
+      "time": null,
+      "comment": "Petite boucle."
     }
   ],
-  "totalActivities": 35,
-  "activeDays": 31,
-  "restDays": 19
+  "totalActivities": 39,
+  "activeDays": 35,
+  "restDays": 16
 }

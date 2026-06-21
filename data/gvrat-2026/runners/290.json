@@ -398,6 +398,14 @@
     },
     {
       "date": "2026-06-19",
+      "miles": 3.7,
+      "km": 5.95,
+      "type": "walk",
+      "time": null,
+      "comment": "Feeling exhausted and depleted. These miles were a struggle but I got it done. \u2714\ufe0f\ud83d\udcaa\ud83c\udffc"
+    },
+    {
+      "date": "2026-06-20",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -405,7 +413,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 45,
-  "activeDays": 45,
+  "totalActivities": 46,
+  "activeDays": 46,
   "restDays": 5
 }

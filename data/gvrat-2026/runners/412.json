@@ -435,9 +435,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 2.52,
+      "km": 4.06,
+      "type": "walk",
+      "time": null,
+      "comment": "neighborhood"
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 2.73,
+      "km": 4.39,
+      "type": "walk",
+      "time": null,
+      "comment": "neighborhood"
     }
   ],
-  "totalActivities": 28,
-  "activeDays": 24,
+  "totalActivities": 30,
+  "activeDays": 25,
   "restDays": 26
 }
