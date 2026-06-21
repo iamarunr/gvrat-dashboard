@@ -475,9 +475,17 @@
       "type": "run",
       "time": null,
       "comment": "Venntriologie Etappe 1 und 2"
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 3.54,
+      "km": 5.7,
+      "type": "walk",
+      "time": null,
+      "comment": "With +1 in the forest"
     }
   ],
-  "totalActivities": 59,
-  "activeDays": 50,
+  "totalActivities": 60,
+  "activeDays": 51,
   "restDays": 0
 }

@@ -547,9 +547,17 @@
       "type": "run",
       "time": null,
       "comment": "Shorter than planned because of the Hoppings"
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 54,
   "activeDays": 36,
-  "restDays": 14
+  "restDays": 15
 }

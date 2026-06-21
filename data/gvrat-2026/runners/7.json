@@ -531,9 +531,17 @@
       "type": "walk",
       "time": null,
       "comment": "Piestewa Summit"
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 8.03,
+      "km": 12.92,
+      "type": "walk",
+      "time": null,
+      "comment": "SoMo hike"
     }
   ],
-  "totalActivities": 59,
-  "activeDays": 43,
+  "totalActivities": 60,
+  "activeDays": 44,
   "restDays": 7
 }

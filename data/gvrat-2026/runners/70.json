@@ -827,9 +827,25 @@
       "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk with girls UD towards Upriver Dam"
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "walk",
+      "time": null,
+      "comment": "Afternoon dog walk"
     }
   ],
-  "totalActivities": 103,
-  "activeDays": 50,
+  "totalActivities": 105,
+  "activeDays": 51,
   "restDays": 0
 }

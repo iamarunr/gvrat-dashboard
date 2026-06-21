@@ -747,9 +747,49 @@
       "type": "walk",
       "time": null,
       "comment": "First of the day TM1"
+    },
+    {
+      "date": "2026-06-19",
+      "miles": 2.01,
+      "km": 3.23,
+      "type": "walk",
+      "time": null,
+      "comment": "Gotta get 'er done"
+    },
+    {
+      "date": "2026-06-19",
+      "miles": 1.44,
+      "km": 2.32,
+      "type": "run",
+      "time": null,
+      "comment": "Last little bit"
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 0.57,
+      "km": 0.92,
+      "type": "run",
+      "time": null,
+      "comment": "Thought I was gonna walk but decided to run."
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 6.23,
+      "km": 10.03,
+      "type": "run",
+      "time": null,
+      "comment": "Beautiful solo 10 k at the lake."
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 1.28,
+      "km": 2.06,
+      "type": "walk",
+      "time": null,
+      "comment": "Cool down walk."
     }
   ],
-  "totalActivities": 82,
-  "activeDays": 39,
+  "totalActivities": 87,
+  "activeDays": 40,
   "restDays": 11
 }

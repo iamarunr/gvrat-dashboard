@@ -427,9 +427,17 @@
       "type": "run",
       "time": null,
       "comment": "Run/Walk at the Gravel Pond trail"
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 29,
   "activeDays": 26,
-  "restDays": 24
+  "restDays": 25
 }

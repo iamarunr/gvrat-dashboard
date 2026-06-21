@@ -715,9 +715,25 @@
       "type": "walk",
       "time": null,
       "comment": "Technological difficulties with watch but got enough steps"
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 5.4,
+      "km": 8.69,
+      "type": "run",
+      "time": null,
+      "comment": "Long run at enterprise.  Garmin gave me 59% execution score - best I\u2019ve had to date"
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown and walked the doggies"
     }
   ],
-  "totalActivities": 89,
-  "activeDays": 50,
+  "totalActivities": 91,
+  "activeDays": 51,
   "restDays": 0
 }

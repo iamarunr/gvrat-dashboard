@@ -542,14 +542,22 @@
     },
     {
       "date": "2026-06-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.62,
+      "km": 1.0,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "morning dog walk"
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 0.62,
+      "km": 1.0,
+      "type": "walk",
+      "time": null,
+      "comment": "morning dog walk"
     }
   ],
-  "totalActivities": 66,
-  "activeDays": 48,
-  "restDays": 2
+  "totalActivities": 68,
+  "activeDays": 50,
+  "restDays": 1
 }

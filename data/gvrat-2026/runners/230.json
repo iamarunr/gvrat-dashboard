@@ -422,38 +422,54 @@
     },
     {
       "date": "2026-06-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.8,
+      "km": 4.51,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Track Session"
     },
     {
       "date": "2026-06-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.74,
+      "km": 6.02,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Pitsea RC Club Run - Orange Group"
     },
     {
       "date": "2026-06-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.46,
+      "km": 3.96,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Stratford Walk"
     },
     {
       "date": "2026-06-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.07,
+      "km": 8.16,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Wickford Walk"
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 3.15,
+      "km": 5.07,
+      "type": "run",
+      "time": null,
+      "comment": "Wickford parkrun"
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 5.53,
+      "km": 8.9,
+      "type": "walk",
+      "time": null,
+      "comment": "Wickford Walk"
     }
   ],
-  "totalActivities": 38,
-  "activeDays": 32,
-  "restDays": 18
+  "totalActivities": 44,
+  "activeDays": 37,
+  "restDays": 14
 }
