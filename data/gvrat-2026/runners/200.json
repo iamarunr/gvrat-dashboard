@@ -542,30 +542,38 @@
     },
     {
       "date": "2026-06-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Am Mile"
     },
     {
       "date": "2026-06-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Am mile"
     },
     {
       "date": "2026-06-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 20.0,
+      "km": 32.19,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "NCR long"
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "run",
+      "time": null,
+      "comment": "Neighborhood loop"
     }
   ],
-  "totalActivities": 67,
-  "activeDays": 48,
-  "restDays": 3
+  "totalActivities": 71,
+  "activeDays": 52,
+  "restDays": 0
 }

@@ -611,9 +611,17 @@
       "type": "walk",
       "time": null,
       "comment": "With Izzy"
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 3.06,
+      "km": 4.92,
+      "type": "walk",
+      "time": null,
+      "comment": "1.53 with each dog."
     }
   ],
-  "totalActivities": 76,
-  "activeDays": 51,
+  "totalActivities": 77,
+  "activeDays": 52,
   "restDays": 0
 }

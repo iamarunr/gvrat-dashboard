@@ -534,14 +534,22 @@
     },
     {
       "date": "2026-06-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.04,
+      "km": 9.72,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "1119' ascent.  Bunchgrass trail."
     },
     {
       "date": "2026-06-20",
+      "miles": 26.14,
+      "km": 42.07,
+      "type": "run",
+      "time": null,
+      "comment": "6834' ascent.  Logan Peak Trail Marathon"
+    },
+    {
+      "date": "2026-06-21",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -549,7 +557,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 66,
-  "activeDays": 49,
-  "restDays": 2
+  "totalActivities": 68,
+  "activeDays": 51,
+  "restDays": 1
 }

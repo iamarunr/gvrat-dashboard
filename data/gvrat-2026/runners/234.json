@@ -550,38 +550,46 @@
     },
     {
       "date": "2026-06-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.23,
+      "km": 6.81,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Bear Lake Scenic Trail 4 miler"
     },
     {
       "date": "2026-06-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.64,
+      "km": 9.08,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Beaver Creek with Terri"
     },
     {
       "date": "2026-06-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.2,
+      "km": 11.59,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Temple Fork Road and Sawmill Trail"
     },
     {
       "date": "2026-06-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.06,
+      "km": 4.92,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Bear Lake Scenic Trail out and back to Marina"
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 6.19,
+      "km": 9.96,
+      "type": "run",
+      "time": null,
+      "comment": "Tony Grove Road up and down"
     }
   ],
-  "totalActivities": 65,
-  "activeDays": 44,
-  "restDays": 7
+  "totalActivities": 70,
+  "activeDays": 49,
+  "restDays": 3
 }

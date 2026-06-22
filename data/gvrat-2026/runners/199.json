@@ -483,9 +483,17 @@
       "type": "walk",
       "time": null,
       "comment": "With +1 in the forest"
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 6.38,
+      "km": 10.27,
+      "type": "walk",
+      "time": null,
+      "comment": "Adventure walk to Steinbachhochwald"
     }
   ],
-  "totalActivities": 60,
-  "activeDays": 51,
+  "totalActivities": 61,
+  "activeDays": 52,
   "restDays": 0
 }
