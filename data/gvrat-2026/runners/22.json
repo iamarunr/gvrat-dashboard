@@ -451,9 +451,17 @@
       "type": "run",
       "time": null,
       "comment": "Switchyard Park to Church Lane Bridge."
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 7.2,
+      "km": 11.59,
+      "type": "run",
+      "time": null,
+      "comment": "Switchyard to Limestone Trail."
     }
   ],
-  "totalActivities": 54,
-  "activeDays": 49,
+  "totalActivities": 55,
+  "activeDays": 50,
   "restDays": 2
 }

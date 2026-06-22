@@ -422,78 +422,94 @@
     },
     {
       "date": "2026-06-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.22,
+      "km": 5.18,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Run with Daisy"
     },
     {
       "date": "2026-06-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.23,
+      "km": 5.2,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Saturday run"
     },
     {
       "date": "2026-06-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 9.06,
+      "km": 14.58,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Sunday longer run"
     },
     {
       "date": "2026-06-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.22,
+      "km": 5.18,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Run with Daisy"
     },
     {
       "date": "2026-06-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.17,
+      "km": 11.54,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Track night"
+    },
+    {
+      "date": "2026-06-16",
+      "miles": 3.16,
+      "km": 5.09,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk with Daisy"
     },
     {
       "date": "2026-06-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.22,
+      "km": 5.18,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Recovery run"
     },
     {
       "date": "2026-06-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.21,
+      "km": 5.17,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Run with Daisy"
     },
     {
       "date": "2026-06-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.22,
+      "km": 5.18,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Run with Kaela- San Diego"
     },
     {
       "date": "2026-06-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.03,
+      "km": 6.49,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Run in SD"
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 5.13,
+      "km": 8.26,
+      "type": "run",
+      "time": null,
+      "comment": "Run with Kaela- SD"
     }
   ],
-  "totalActivities": 52,
-  "activeDays": 42,
-  "restDays": 9
+  "totalActivities": 63,
+  "activeDays": 52,
+  "restDays": 0
 }

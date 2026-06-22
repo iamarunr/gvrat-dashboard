@@ -891,9 +891,17 @@
       "type": "walk",
       "time": null,
       "comment": "Hiked Beatty"
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 6.9,
+      "km": 11.1,
+      "type": "run",
+      "time": null,
+      "comment": "Beatty trail"
     }
   ],
-  "totalActivities": 111,
-  "activeDays": 51,
+  "totalActivities": 112,
+  "activeDays": 52,
   "restDays": 0
 }

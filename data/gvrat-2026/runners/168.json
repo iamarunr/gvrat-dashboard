@@ -510,14 +510,38 @@
     },
     {
       "date": "2026-06-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.66,
+      "km": 5.89,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "TVA flat; 16#; Mag"
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 3.91,
+      "km": 6.29,
+      "type": "walk",
+      "time": null,
+      "comment": "TVA/ORRB; 16#; Mag w/water stop"
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 1.23,
+      "km": 1.98,
+      "type": "walk",
+      "time": null,
+      "comment": "Diebert; Maggie/turtle time"
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 4.19,
+      "km": 6.74,
+      "type": "walk",
+      "time": null,
+      "comment": "'Hood; 10#; sol0 HT/GT(hibachi)"
     }
   ],
-  "totalActivities": 51,
-  "activeDays": 38,
-  "restDays": 13
+  "totalActivities": 55,
+  "activeDays": 40,
+  "restDays": 12
 }

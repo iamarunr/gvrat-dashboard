@@ -523,9 +523,25 @@
       "type": "walk",
       "time": null,
       "comment": "After dinner stroll"
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 4.55,
+      "km": 7.32,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 1.4,
+      "km": 2.25,
+      "type": "walk",
+      "time": null,
+      "comment": "Second amble around the hood"
     }
   ],
-  "totalActivities": 61,
-  "activeDays": 47,
+  "totalActivities": 63,
+  "activeDays": 48,
   "restDays": 4
 }

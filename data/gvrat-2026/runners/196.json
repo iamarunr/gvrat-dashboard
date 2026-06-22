@@ -787,9 +787,33 @@
       "type": "walk",
       "time": null,
       "comment": "Cool down walk."
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "TM1"
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "TM2"
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 2.04,
+      "km": 3.28,
+      "type": "walk",
+      "time": null,
+      "comment": "With dee.oh.gee."
     }
   ],
-  "totalActivities": 87,
-  "activeDays": 40,
+  "totalActivities": 90,
+  "activeDays": 41,
   "restDays": 11
 }

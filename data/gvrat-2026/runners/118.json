@@ -454,14 +454,30 @@
     },
     {
       "date": "2026-06-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.4,
+      "km": 8.69,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Barbour Rock via Western Rim Trail"
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 3.76,
+      "km": 6.05,
+      "type": "walk",
+      "time": null,
+      "comment": "Pine Creek Rail Trail \u2014 Pag Omar to Wellsboro"
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 3.56,
+      "km": 5.73,
+      "type": "walk",
+      "time": null,
+      "comment": "Wellsboro to Pag Omar"
     }
   ],
-  "totalActivities": 37,
-  "activeDays": 31,
-  "restDays": 20
+  "totalActivities": 40,
+  "activeDays": 33,
+  "restDays": 19
 }

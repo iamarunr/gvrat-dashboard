@@ -550,14 +550,38 @@
     },
     {
       "date": "2026-06-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.66,
+      "km": 5.89,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Post-parkrun stuff"
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 5.97,
+      "km": 9.61,
+      "type": "run",
+      "time": null,
+      "comment": "Parkrun (Leazes)"
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 4.6,
+      "km": 7.4,
+      "type": "walk",
+      "time": null,
+      "comment": "All for a junk letter"
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 5.45,
+      "km": 8.77,
+      "type": "run",
+      "time": null,
+      "comment": "Around the moor/Hoppings"
     }
   ],
-  "totalActivities": 54,
-  "activeDays": 36,
-  "restDays": 15
+  "totalActivities": 58,
+  "activeDays": 38,
+  "restDays": 14
 }

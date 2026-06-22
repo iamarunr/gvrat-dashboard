@@ -443,9 +443,17 @@
       "type": "run",
       "time": null,
       "comment": "Petite boucle."
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 6.76,
+      "km": 10.88,
+      "type": "run",
+      "time": null,
+      "comment": "San Martin-Mondini-Nalzen."
     }
   ],
-  "totalActivities": 39,
-  "activeDays": 35,
+  "totalActivities": 40,
+  "activeDays": 36,
   "restDays": 16
 }

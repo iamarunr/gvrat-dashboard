@@ -485,6 +485,14 @@
       "comment": "easy run."
     },
     {
+      "date": "2026-06-18",
+      "miles": 4.12,
+      "km": 6.63,
+      "type": "run",
+      "time": null,
+      "comment": "Brewery run with the ACR Run Club."
+    },
+    {
       "date": "2026-06-19",
       "miles": 4.06,
       "km": 6.53,
@@ -493,15 +501,39 @@
       "comment": "Easy on the achillies."
     },
     {
-      "date": "2026-06-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-06-19",
+      "miles": 4.06,
+      "km": 6.53,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Easy with some pick ups."
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 2.36,
+      "km": 3.8,
+      "type": "walk",
+      "time": null,
+      "comment": "A walk with Gina to the OC boardwalk."
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 5.36,
+      "km": 8.63,
+      "type": "run",
+      "time": null,
+      "comment": "Cape May Pt 5 miler and a warmup."
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 3.15,
+      "km": 5.07,
+      "type": "walk",
+      "time": null,
+      "comment": "Just a walk to give the achillies a break."
     }
   ],
-  "totalActivities": 50,
-  "activeDays": 39,
-  "restDays": 12
+  "totalActivities": 55,
+  "activeDays": 41,
+  "restDays": 11
 }

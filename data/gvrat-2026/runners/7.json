@@ -539,9 +539,25 @@
       "type": "walk",
       "time": null,
       "comment": "SoMo hike"
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 3.58,
+      "km": 5.76,
+      "type": "walk",
+      "time": null,
+      "comment": "Neighborhood hike with B"
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 3.02,
+      "km": 4.86,
+      "type": "walk",
+      "time": null,
+      "comment": "Starbucks Walk"
     }
   ],
-  "totalActivities": 60,
-  "activeDays": 44,
+  "totalActivities": 62,
+  "activeDays": 45,
   "restDays": 7
 }

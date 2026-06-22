@@ -902,22 +902,46 @@
     },
     {
       "date": "2026-06-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "dog walk and rain walk"
     },
     {
       "date": "2026-06-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "dog walk with Andy and Mary"
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 10.0,
+      "km": 16.09,
+      "type": "run",
+      "time": null,
+      "comment": "half road half trail run"
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 4.5,
+      "km": 7.24,
+      "type": "run",
+      "time": null,
+      "comment": "downtown run"
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 3.2,
+      "km": 5.15,
+      "type": "walk",
+      "time": null,
+      "comment": "morning walk and dog walk"
     }
   ],
-  "totalActivities": 111,
-  "activeDays": 48,
-  "restDays": 3
+  "totalActivities": 116,
+  "activeDays": 51,
+  "restDays": 1
 }

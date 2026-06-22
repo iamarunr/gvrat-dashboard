@@ -731,9 +731,17 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown and walked the doggies"
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 4.01,
+      "km": 6.45,
+      "type": "run",
+      "time": null,
+      "comment": "Enterprise run with Cynthia"
     }
   ],
-  "totalActivities": 91,
-  "activeDays": 51,
+  "totalActivities": 92,
+  "activeDays": 52,
   "restDays": 0
 }

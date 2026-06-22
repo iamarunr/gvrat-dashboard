@@ -499,9 +499,25 @@
       "type": "walk",
       "time": null,
       "comment": "weighted ruck"
+    },
+    {
+      "date": "2026-06-20",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 11.83,
+      "km": 19.04,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 53,
-  "activeDays": 42,
+  "totalActivities": 55,
+  "activeDays": 43,
   "restDays": 9
 }
