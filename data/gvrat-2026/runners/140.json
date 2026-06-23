@@ -390,19 +390,19 @@
     },
     {
       "date": "2026-06-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "E"
     },
     {
       "date": "2026-06-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.77,
+      "km": 6.07,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "E + 4 ST"
     },
     {
       "date": "2026-06-19",
@@ -414,22 +414,30 @@
     },
     {
       "date": "2026-06-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.89,
+      "km": 4.65,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Tri @ Castaic"
     },
     {
       "date": "2026-06-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.07,
+      "km": 4.94,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "E, horrible"
+    },
+    {
+      "date": "2026-06-22",
+      "miles": 10.01,
+      "km": 16.11,
+      "type": "run",
+      "time": null,
+      "comment": "L"
     }
   ],
-  "totalActivities": 36,
-  "activeDays": 35,
-  "restDays": 17
+  "totalActivities": 41,
+  "activeDays": 40,
+  "restDays": 13
 }

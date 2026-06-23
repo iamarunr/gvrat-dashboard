@@ -507,9 +507,17 @@
       "type": "run",
       "time": null,
       "comment": "Run with Kaela- SD"
+    },
+    {
+      "date": "2026-06-22",
+      "miles": 10.21,
+      "km": 16.43,
+      "type": "run",
+      "time": null,
+      "comment": "Long run Monday"
     }
   ],
-  "totalActivities": 63,
-  "activeDays": 52,
+  "totalActivities": 64,
+  "activeDays": 53,
   "restDays": 0
 }

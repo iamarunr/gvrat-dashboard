@@ -427,9 +427,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk with weight vest"
+    },
+    {
+      "date": "2026-06-22",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "run",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 26,
-  "activeDays": 25,
+  "totalActivities": 27,
+  "activeDays": 26,
   "restDays": 27
 }

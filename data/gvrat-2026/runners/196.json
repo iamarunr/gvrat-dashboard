@@ -811,9 +811,25 @@
       "type": "walk",
       "time": null,
       "comment": "With dee.oh.gee."
+    },
+    {
+      "date": "2026-06-22",
+      "miles": 2.52,
+      "km": 4.06,
+      "type": "walk",
+      "time": null,
+      "comment": "TM1"
+    },
+    {
+      "date": "2026-06-22",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "run",
+      "time": null,
+      "comment": "TM2"
     }
   ],
-  "totalActivities": 90,
-  "activeDays": 41,
+  "totalActivities": 92,
+  "activeDays": 42,
   "restDays": 11
 }

@@ -899,9 +899,25 @@
       "type": "run",
       "time": null,
       "comment": "Beatty trail"
+    },
+    {
+      "date": "2026-06-22",
+      "miles": 2.01,
+      "km": 3.23,
+      "type": "run",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-06-22",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
     }
   ],
-  "totalActivities": 112,
-  "activeDays": 52,
+  "totalActivities": 114,
+  "activeDays": 53,
   "restDays": 0
 }

@@ -939,9 +939,25 @@
       "type": "walk",
       "time": null,
       "comment": "morning walk and dog walk"
+    },
+    {
+      "date": "2026-06-22",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "run",
+      "time": null,
+      "comment": "run after swim"
+    },
+    {
+      "date": "2026-06-22",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 116,
-  "activeDays": 51,
+  "totalActivities": 118,
+  "activeDays": 52,
   "restDays": 1
 }

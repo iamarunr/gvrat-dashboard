@@ -918,30 +918,70 @@
     },
     {
       "date": "2026-06-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.77,
+      "km": 2.85,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-19",
+      "miles": 10.07,
+      "km": 16.21,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-19",
+      "miles": 1.75,
+      "km": 2.82,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-06-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.04,
+      "km": 6.5,
+      "type": "run",
+      "time": null,
+      "comment": "Run with Elliot"
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 13.31,
+      "km": 21.42,
+      "type": "run",
+      "time": null,
+      "comment": "Trails."
+    },
+    {
+      "date": "2026-06-22",
+      "miles": 1.24,
+      "km": 2.0,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
-      "date": "2026-06-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-06-22",
+      "miles": 7.04,
+      "km": 11.33,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Group run at Westridge."
+    },
+    {
+      "date": "2026-06-22",
+      "miles": 3.33,
+      "km": 5.36,
+      "type": "run",
+      "time": null,
+      "comment": "Lunch run"
     }
   ],
-  "totalActivities": 106,
-  "activeDays": 41,
-  "restDays": 11
+  "totalActivities": 114,
+  "activeDays": 45,
+  "restDays": 8
 }

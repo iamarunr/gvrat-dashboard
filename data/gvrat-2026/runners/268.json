@@ -438,22 +438,30 @@
     },
     {
       "date": "2026-06-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walk and swim"
     },
     {
       "date": "2026-06-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "travel day, lets of airport walking, treadmill"
+    },
+    {
+      "date": "2026-06-22",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "Not much walking today"
     }
   ],
-  "totalActivities": 53,
-  "activeDays": 49,
-  "restDays": 3
+  "totalActivities": 56,
+  "activeDays": 52,
+  "restDays": 1
 }
