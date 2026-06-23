@@ -539,9 +539,25 @@
       "type": "walk",
       "time": null,
       "comment": "'Hood; 10#; sol0 HT/GT(hibachi)"
+    },
+    {
+      "date": "2026-06-22",
+      "miles": 2.65,
+      "km": 4.26,
+      "type": "walk",
+      "time": null,
+      "comment": "'Hood AM & Dieber PM combo"
+    },
+    {
+      "date": "2026-06-22",
+      "miles": 2.62,
+      "km": 4.22,
+      "type": "walk",
+      "time": null,
+      "comment": "TVA ORRB; 16#; Mag; Rain; HT & GT (mexican)"
     }
   ],
-  "totalActivities": 55,
-  "activeDays": 40,
+  "totalActivities": 57,
+  "activeDays": 41,
   "restDays": 12
 }

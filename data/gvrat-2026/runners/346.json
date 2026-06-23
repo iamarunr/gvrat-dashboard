@@ -550,14 +550,30 @@
     },
     {
       "date": "2026-06-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "39' ascent.  Bear Lake & Sweetwater Park"
+    },
+    {
+      "date": "2026-06-22",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "run",
+      "time": null,
+      "comment": "906' ascent.  Peter Sinks - Burnt Fork loop"
+    },
+    {
+      "date": "2026-06-22",
+      "miles": 2.47,
+      "km": 3.98,
+      "type": "walk",
+      "time": null,
+      "comment": "72' ascent.  Bear Lake Heritage Park loop w/ Rick"
     }
   ],
-  "totalActivities": 68,
-  "activeDays": 51,
-  "restDays": 1
+  "totalActivities": 71,
+  "activeDays": 53,
+  "restDays": 0
 }

@@ -419,9 +419,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total\u2014 long morning walk and lots of gardening"
+    },
+    {
+      "date": "2026-06-22",
+      "miles": 7.0,
+      "km": 11.27,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total"
     }
   ],
-  "totalActivities": 49,
-  "activeDays": 49,
+  "totalActivities": 50,
+  "activeDays": 50,
   "restDays": 3
 }

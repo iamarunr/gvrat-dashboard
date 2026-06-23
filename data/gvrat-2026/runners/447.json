@@ -486,6 +486,14 @@
     },
     {
       "date": "2026-06-21",
+      "miles": 7.44,
+      "km": 11.97,
+      "type": "walk",
+      "time": null,
+      "comment": "From Tai Wo along riverfront to waterfront and home, stopping to look for D."
+    },
+    {
+      "date": "2026-06-22",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -493,7 +501,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 35,
-  "activeDays": 26,
+  "totalActivities": 36,
+  "activeDays": 27,
   "restDays": 26
 }

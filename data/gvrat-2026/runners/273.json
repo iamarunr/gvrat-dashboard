@@ -539,9 +539,17 @@
       "type": "walk",
       "time": null,
       "comment": "Second amble around the hood"
+    },
+    {
+      "date": "2026-06-22",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 63,
-  "activeDays": 48,
+  "totalActivities": 64,
+  "activeDays": 49,
   "restDays": 4
 }

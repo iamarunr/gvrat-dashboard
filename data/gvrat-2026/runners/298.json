@@ -491,9 +491,17 @@
       "type": "run",
       "time": null,
       "comment": "Green Mountain loop with Becky"
+    },
+    {
+      "date": "2026-06-22",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
     }
   ],
-  "totalActivities": 39,
-  "activeDays": 30,
+  "totalActivities": 40,
+  "activeDays": 31,
   "restDays": 22
 }

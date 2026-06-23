@@ -739,9 +739,25 @@
       "type": "run",
       "time": null,
       "comment": "Enterprise run with Cynthia"
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 2.99,
+      "km": 4.81,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walking vans Chattanooga market"
+    },
+    {
+      "date": "2026-06-22",
+      "miles": 3.4,
+      "km": 5.47,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning walk and dog walking . Monday kicked my butt"
     }
   ],
-  "totalActivities": 92,
-  "activeDays": 52,
+  "totalActivities": 94,
+  "activeDays": 53,
   "restDays": 0
 }

@@ -459,9 +459,17 @@
       "type": "run",
       "time": null,
       "comment": "Switchyard to Limestone Trail."
+    },
+    {
+      "date": "2026-06-22",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Weir Trail by Griffey Lake."
     }
   ],
-  "totalActivities": 55,
-  "activeDays": 50,
+  "totalActivities": 56,
+  "activeDays": 51,
   "restDays": 2
 }

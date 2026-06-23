@@ -491,9 +491,17 @@
       "type": "walk",
       "time": null,
       "comment": "Adventure walk to Steinbachhochwald"
+    },
+    {
+      "date": "2026-06-22",
+      "miles": 3.6,
+      "km": 5.79,
+      "type": "walk",
+      "time": null,
+      "comment": "Check Construction site"
     }
   ],
-  "totalActivities": 61,
-  "activeDays": 52,
+  "totalActivities": 62,
+  "activeDays": 53,
   "restDays": 0
 }

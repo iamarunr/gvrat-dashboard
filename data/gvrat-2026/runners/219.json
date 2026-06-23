@@ -451,9 +451,17 @@
       "type": "run",
       "time": null,
       "comment": "On treadmill"
+    },
+    {
+      "date": "2026-06-22",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 27,
   "activeDays": 23,
-  "restDays": 29
+  "restDays": 30
 }
