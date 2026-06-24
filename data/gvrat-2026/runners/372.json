@@ -587,9 +587,17 @@
       "type": "walk",
       "time": null,
       "comment": "Wedding... waste of time!"
+    },
+    {
+      "date": "2026-06-23",
+      "miles": 5.45,
+      "km": 8.77,
+      "type": "run",
+      "time": null,
+      "comment": "Soooo hot!"
     }
   ],
-  "totalActivities": 59,
-  "activeDays": 39,
+  "totalActivities": 60,
+  "activeDays": 40,
   "restDays": 14
 }

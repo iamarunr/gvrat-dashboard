@@ -427,9 +427,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-23",
+      "miles": 6.34,
+      "km": 10.2,
+      "type": "run",
+      "time": null,
+      "comment": "Pre flight run"
     }
   ],
-  "totalActivities": 36,
-  "activeDays": 36,
+  "totalActivities": 37,
+  "activeDays": 37,
   "restDays": 17
 }
