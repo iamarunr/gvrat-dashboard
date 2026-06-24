@@ -915,9 +915,41 @@
       "type": "walk",
       "time": null,
       "comment": "Treadmill"
+    },
+    {
+      "date": "2026-06-23",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-06-23",
+      "miles": 1.4,
+      "km": 2.25,
+      "type": "walk",
+      "time": null,
+      "comment": "Hiked Beatty"
+    },
+    {
+      "date": "2026-06-23",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "run",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-06-23",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
     }
   ],
-  "totalActivities": 114,
-  "activeDays": 53,
+  "totalActivities": 118,
+  "activeDays": 54,
   "restDays": 0
 }

@@ -467,9 +467,17 @@
       "type": "walk",
       "time": null,
       "comment": "Weir Trail by Griffey Lake."
+    },
+    {
+      "date": "2026-06-23",
+      "miles": 5.09,
+      "km": 8.19,
+      "type": "run",
+      "time": null,
+      "comment": "Switchyard Park to B-Line Trail."
     }
   ],
-  "totalActivities": 56,
-  "activeDays": 51,
+  "totalActivities": 57,
+  "activeDays": 52,
   "restDays": 2
 }

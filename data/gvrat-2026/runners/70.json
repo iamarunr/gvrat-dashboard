@@ -875,9 +875,33 @@
       "type": "walk",
       "time": null,
       "comment": "Evening"
+    },
+    {
+      "date": "2026-06-23",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "run",
+      "time": null,
+      "comment": "Moro"
+    },
+    {
+      "date": "2026-06-23",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Lunchyy"
+    },
+    {
+      "date": "2026-06-23",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening"
     }
   ],
-  "totalActivities": 109,
-  "activeDays": 53,
+  "totalActivities": 112,
+  "activeDays": 54,
   "restDays": 0
 }

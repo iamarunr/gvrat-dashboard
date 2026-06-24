@@ -755,9 +755,25 @@
       "type": "walk",
       "time": null,
       "comment": "Morning walk and dog walking . Monday kicked my butt"
+    },
+    {
+      "date": "2026-06-23",
+      "miles": 3.22,
+      "km": 5.18,
+      "type": "run",
+      "time": null,
+      "comment": "Sprints at Collegedale"
+    },
+    {
+      "date": "2026-06-23",
+      "miles": 2.38,
+      "km": 3.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk; walked Tap and then walked Ted and scooter"
     }
   ],
-  "totalActivities": 94,
-  "activeDays": 53,
+  "totalActivities": 96,
+  "activeDays": 54,
   "restDays": 0
 }

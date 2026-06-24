@@ -470,22 +470,38 @@
     },
     {
       "date": "2026-06-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 13.16,
+      "km": 21.18,
+      "type": "run",
+      "time": null,
+      "comment": "Ironman 70.3 Coeur d'Alene"
+    },
+    {
+      "date": "2026-06-21",
+      "miles": 5.63,
+      "km": 9.06,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-06-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.1,
+      "km": 4.99,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-23",
+      "miles": 4.7,
+      "km": 7.56,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 58,
-  "activeDays": 51,
-  "restDays": 2
+  "totalActivities": 62,
+  "activeDays": 54,
+  "restDays": 0
 }

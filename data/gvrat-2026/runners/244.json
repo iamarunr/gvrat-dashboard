@@ -566,14 +566,22 @@
     },
     {
       "date": "2026-06-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.75,
+      "km": 7.64,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Zion Hike - Watchman Trail with 2 loops at top"
+    },
+    {
+      "date": "2026-06-23",
+      "miles": 7.1,
+      "km": 11.43,
+      "type": "walk",
+      "time": null,
+      "comment": "Bryce Hike - Navajo > Peekaboo > Queens Garden (Wall Street closed \ud83d\ude10)"
     }
   ],
-  "totalActivities": 63,
-  "activeDays": 45,
-  "restDays": 8
+  "totalActivities": 65,
+  "activeDays": 47,
+  "restDays": 7
 }

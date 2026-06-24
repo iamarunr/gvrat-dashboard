@@ -643,9 +643,17 @@
       "type": "walk",
       "time": null,
       "comment": "With Izzy"
+    },
+    {
+      "date": "2026-06-23",
+      "miles": 2.2,
+      "km": 3.54,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 80,
-  "activeDays": 53,
+  "totalActivities": 81,
+  "activeDays": 54,
   "restDays": 0
 }

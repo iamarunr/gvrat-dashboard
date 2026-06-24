@@ -483,9 +483,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-23",
+      "miles": 7.08,
+      "km": 11.39,
+      "type": "walk",
+      "time": null,
+      "comment": "Battlefield Walkabout"
     }
   ],
-  "totalActivities": 40,
-  "activeDays": 33,
+  "totalActivities": 41,
+  "activeDays": 34,
   "restDays": 20
 }

@@ -427,9 +427,17 @@
       "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-23",
+      "miles": 11.33,
+      "km": 18.23,
+      "type": "walk",
+      "time": null,
+      "comment": "treadmill\u2026combo\u2026."
     }
   ],
-  "totalActivities": 53,
-  "activeDays": 53,
+  "totalActivities": 54,
+  "activeDays": 54,
   "restDays": 0
 }

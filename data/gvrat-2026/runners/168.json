@@ -555,9 +555,17 @@
       "type": "walk",
       "time": null,
       "comment": "TVA ORRB; 16#; Mag; Rain; HT & GT (mexican)"
+    },
+    {
+      "date": "2026-06-23",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 57,
   "activeDays": 41,
-  "restDays": 12
+  "restDays": 13
 }
