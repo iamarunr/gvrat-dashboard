@@ -435,9 +435,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total"
+    },
+    {
+      "date": "2026-06-24",
+      "miles": 7.25,
+      "km": 11.67,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total- park and campus"
     }
   ],
-  "totalActivities": 51,
-  "activeDays": 51,
+  "totalActivities": 52,
+  "activeDays": 52,
   "restDays": 3
 }

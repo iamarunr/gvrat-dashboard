@@ -1035,9 +1035,25 @@
       "type": "walk",
       "time": null,
       "comment": "PM sweatfest"
+    },
+    {
+      "date": "2026-06-24",
+      "miles": 1.02,
+      "km": 1.64,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4035"
+    },
+    {
+      "date": "2026-06-24",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 129,
-  "activeDays": 54,
+  "totalActivities": 131,
+  "activeDays": 55,
   "restDays": 0
 }

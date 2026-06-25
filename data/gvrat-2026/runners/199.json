@@ -507,9 +507,17 @@
       "type": "run",
       "time": null,
       "comment": "Sweating my .... off"
+    },
+    {
+      "date": "2026-06-24",
+      "miles": 4.75,
+      "km": 7.64,
+      "type": "walk",
+      "time": null,
+      "comment": "construction site extended version"
     }
   ],
-  "totalActivities": 63,
-  "activeDays": 54,
+  "totalActivities": 64,
+  "activeDays": 55,
   "restDays": 0
 }

@@ -542,14 +542,22 @@
     },
     {
       "date": "2026-06-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.15,
+      "km": 6.68,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Trying to just walk, the achillies is at about 80% recovered."
+    },
+    {
+      "date": "2026-06-24",
+      "miles": 3.07,
+      "km": 4.94,
+      "type": "walk",
+      "time": null,
+      "comment": "slogging on the sore achillies."
     }
   ],
-  "totalActivities": 55,
-  "activeDays": 41,
-  "restDays": 13
+  "totalActivities": 57,
+  "activeDays": 43,
+  "restDays": 12
 }

@@ -651,9 +651,41 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-24",
+      "miles": 4.43,
+      "km": 7.13,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-24",
+      "miles": 2.7,
+      "km": 4.35,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walking.  Izzy, 1.33.  Max, 1.37."
+    },
+    {
+      "date": "2026-06-24",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-24",
+      "miles": 1.8,
+      "km": 2.9,
+      "type": "walk",
+      "time": null,
+      "comment": "With Izzy"
     }
   ],
-  "totalActivities": 81,
-  "activeDays": 54,
+  "totalActivities": 85,
+  "activeDays": 55,
   "restDays": 0
 }

@@ -963,9 +963,17 @@
       "type": "run",
       "time": null,
       "comment": "morning run"
+    },
+    {
+      "date": "2026-06-24",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 119,
   "activeDays": 53,
-  "restDays": 1
+  "restDays": 2
 }

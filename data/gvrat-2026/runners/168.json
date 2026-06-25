@@ -558,14 +558,38 @@
     },
     {
       "date": "2026-06-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.06,
+      "km": 6.53,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "TVA/ORRB; 16#; Mag."
+    },
+    {
+      "date": "2026-06-23",
+      "miles": 2.58,
+      "km": 4.15,
+      "type": "walk",
+      "time": null,
+      "comment": "Diebert solo; Flo w/Mag. (forgot to start watch)"
+    },
+    {
+      "date": "2026-06-24",
+      "miles": 2.89,
+      "km": 4.65,
+      "type": "walk",
+      "time": null,
+      "comment": "TVA/ORRB; 10#; Mag; HT-PM"
+    },
+    {
+      "date": "2026-06-24",
+      "miles": 2.32,
+      "km": 3.73,
+      "type": "walk",
+      "time": null,
+      "comment": "Mag. 'hood AM; Diebert work break"
     }
   ],
-  "totalActivities": 57,
-  "activeDays": 41,
-  "restDays": 13
+  "totalActivities": 61,
+  "activeDays": 43,
+  "restDays": 12
 }
