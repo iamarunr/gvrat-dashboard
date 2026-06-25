@@ -574,14 +574,22 @@
     },
     {
       "date": "2026-06-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.03,
+      "km": 11.31,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "892' ascent.  Fish Haven Canyon"
+    },
+    {
+      "date": "2026-06-24",
+      "miles": 13.81,
+      "km": 22.22,
+      "type": "run",
+      "time": null,
+      "comment": "2448' ascent.  Steam Mill Lake, Shorty's Cutoff & Franklin Basin"
     }
   ],
-  "totalActivities": 71,
-  "activeDays": 53,
-  "restDays": 1
+  "totalActivities": 73,
+  "activeDays": 55,
+  "restDays": 0
 }

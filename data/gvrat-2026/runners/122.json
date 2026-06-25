@@ -435,9 +435,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-24",
+      "miles": 0.8,
+      "km": 1.29,
+      "type": "walk",
+      "time": null,
+      "comment": "Light stretch of the legs with John after traveling. North Cascades, Newhalem, WA"
     }
   ],
-  "totalActivities": 41,
-  "activeDays": 41,
+  "totalActivities": 42,
+  "activeDays": 42,
   "restDays": 13
 }

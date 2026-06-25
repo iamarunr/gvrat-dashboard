@@ -835,9 +835,17 @@
       "type": "walk",
       "time": null,
       "comment": "Less than the minimum but greater than zero."
+    },
+    {
+      "date": "2026-06-24",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 93,
-  "activeDays": 43,
+  "totalActivities": 94,
+  "activeDays": 44,
   "restDays": 11
 }
