@@ -566,22 +566,46 @@
     },
     {
       "date": "2026-06-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.74,
+      "km": 1.19,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walk"
+    },
+    {
+      "date": "2026-06-23",
+      "miles": 2.14,
+      "km": 3.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk"
     },
     {
       "date": "2026-06-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walk"
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 0.45,
+      "km": 0.72,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk"
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Hike from School"
     }
   ],
-  "totalActivities": 63,
-  "activeDays": 46,
-  "restDays": 9
+  "totalActivities": 68,
+  "activeDays": 49,
+  "restDays": 7
 }

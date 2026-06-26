@@ -483,9 +483,17 @@
       "type": "run",
       "time": null,
       "comment": "Switchyard Park to Church Lane Bridge"
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 5.09,
+      "km": 8.19,
+      "type": "run",
+      "time": null,
+      "comment": "Switchyard to B-Line Trail to Hopscotch Cafe"
     }
   ],
-  "totalActivities": 58,
-  "activeDays": 53,
+  "totalActivities": 59,
+  "activeDays": 54,
   "restDays": 2
 }

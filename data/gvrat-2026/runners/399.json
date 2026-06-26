@@ -683,9 +683,41 @@
       "type": "walk",
       "time": null,
       "comment": "With Izzy"
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 6.24,
+      "km": 10.04,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 4.32,
+      "km": 6.95,
+      "type": "walk",
+      "time": null,
+      "comment": "Izzy, 2.32.  Max, 2.0"
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 1.22,
+      "km": 1.96,
+      "type": "walk",
+      "time": null,
+      "comment": "Picked up car."
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 1.08,
+      "km": 1.74,
+      "type": "walk",
+      "time": null,
+      "comment": "With Izzy"
     }
   ],
-  "totalActivities": 85,
-  "activeDays": 55,
+  "totalActivities": 89,
+  "activeDays": 56,
   "restDays": 0
 }

@@ -515,9 +515,17 @@
       "type": "walk",
       "time": null,
       "comment": "construction site extended version"
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 3.45,
+      "km": 5.55,
+      "type": "walk",
+      "time": null,
+      "comment": "hot hot hot hot hot"
     }
   ],
-  "totalActivities": 64,
-  "activeDays": 55,
+  "totalActivities": 65,
+  "activeDays": 56,
   "restDays": 0
 }

@@ -643,9 +643,25 @@
       "type": "walk",
       "time": null,
       "comment": "https://connect.garmin.com/modern/activity/23370096428?share_unique_id=1018"
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 1.51,
+      "km": 2.43,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 3.57,
+      "km": 5.75,
+      "type": "walk",
+      "time": null,
+      "comment": "https://connect.garmin.com/modern/activity/23378114840?share_unique_id=1022"
     }
   ],
-  "totalActivities": 63,
-  "activeDays": 38,
+  "totalActivities": 65,
+  "activeDays": 39,
   "restDays": 17
 }

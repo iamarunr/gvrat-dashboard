@@ -779,9 +779,25 @@
       "type": "walk",
       "time": null,
       "comment": "Walked alone ; walked with the boys and walked Tap"
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 3.26,
+      "km": 5.25,
+      "type": "run",
+      "time": null,
+      "comment": "Threshold run at Collegedale"
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 1.74,
+      "km": 2.8,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and walked Tap too"
     }
   ],
-  "totalActivities": 97,
-  "activeDays": 55,
+  "totalActivities": 99,
+  "activeDays": 56,
   "restDays": 0
 }
