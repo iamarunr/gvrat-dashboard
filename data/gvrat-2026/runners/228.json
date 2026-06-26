@@ -451,9 +451,17 @@
       "type": "walk",
       "time": null,
       "comment": "92 degrees"
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 4.5,
+      "km": 7.24,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 53,
-  "activeDays": 52,
+  "totalActivities": 54,
+  "activeDays": 53,
   "restDays": 3
 }

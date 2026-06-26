@@ -483,9 +483,17 @@
       "type": "walk",
       "time": null,
       "comment": "Centennial Trail"
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 5.97,
+      "km": 9.61,
+      "type": "walk",
+      "time": null,
+      "comment": "Belle Terre"
     }
   ],
-  "totalActivities": 33,
-  "activeDays": 28,
+  "totalActivities": 34,
+  "activeDays": 29,
   "restDays": 27
 }

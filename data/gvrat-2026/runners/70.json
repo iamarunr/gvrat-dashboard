@@ -923,9 +923,33 @@
       "type": "walk",
       "time": null,
       "comment": "Riverfront with Melissa"
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "run",
+      "time": null,
+      "comment": "Morning"
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening"
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "walk",
+      "time": null,
+      "comment": "Lunch"
     }
   ],
-  "totalActivities": 115,
-  "activeDays": 55,
+  "totalActivities": 118,
+  "activeDays": 56,
   "restDays": 0
 }

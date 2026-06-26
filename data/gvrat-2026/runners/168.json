@@ -587,9 +587,17 @@
       "type": "walk",
       "time": null,
       "comment": "Mag. 'hood AM; Diebert work break"
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 4.03,
+      "km": 6.49,
+      "type": "walk",
+      "time": null,
+      "comment": "TVA loop w/ORRB; 16#; Mag h2o break"
     }
   ],
-  "totalActivities": 61,
-  "activeDays": 43,
+  "totalActivities": 62,
+  "activeDays": 44,
   "restDays": 12
 }

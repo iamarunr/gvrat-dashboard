@@ -443,9 +443,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walked 1.5 miles with Eddie\ud83d\udc15and 6.81 miles later tonight 73\u00b0 out tonight surprisingly not humid even with all the rain\ud83c\udf27 today."
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 55,
   "activeDays": 55,
-  "restDays": 0
+  "restDays": 1
 }

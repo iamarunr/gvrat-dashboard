@@ -443,9 +443,33 @@
       "type": "walk",
       "time": null,
       "comment": "Light stretch of the legs with John after traveling. North Cascades, Newhalem, WA"
+    },
+    {
+      "date": "2026-06-24",
+      "miles": 4.82,
+      "km": 7.76,
+      "type": "walk",
+      "time": null,
+      "comment": "4416 vertical to lookout tower."
+    },
+    {
+      "date": "2026-06-24",
+      "miles": 4.88,
+      "km": 7.85,
+      "type": "walk",
+      "time": null,
+      "comment": "Back to van from lookout tower.  Overloaded everything today, but made it."
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 6.05,
+      "km": 9.74,
+      "type": "walk",
+      "time": null,
+      "comment": "Recovery day? 2500 vert we\u2019re doing a loop, but stopped at snow pack."
     }
   ],
-  "totalActivities": 42,
-  "activeDays": 42,
+  "totalActivities": 45,
+  "activeDays": 43,
   "restDays": 13
 }

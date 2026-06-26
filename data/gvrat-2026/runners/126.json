@@ -422,38 +422,46 @@
     },
     {
       "date": "2026-06-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.45,
+      "km": 10.38,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Summer Solstice\ud83c\udf1e, Orange cat \ud83d\udc08, 9 rabbits \ud83d\udc07\ud83d\udc30\ud83d\udc07\ud83d\udc30\ud83d\udc07\ud83d\udc30\ud83d\udc07\ud83d\udc07\ud83d\udc07, 1 opossum \ud83e\udda1, First Quarter \ud83c\udf13 moon"
     },
     {
       "date": "2026-06-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.4,
+      "km": 8.69,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-06-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.35,
+      "km": 8.61,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-06-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.33,
+      "km": 8.58,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 5.2,
+      "km": 8.37,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 52,
-  "activeDays": 51,
-  "restDays": 4
+  "totalActivities": 57,
+  "activeDays": 56,
+  "restDays": 0
 }
