@@ -606,14 +606,30 @@
     },
     {
       "date": "2026-06-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.29,
+      "km": 3.69,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Boring old shopping!"
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 5.49,
+      "km": 8.84,
+      "type": "run",
+      "time": null,
+      "comment": "Very hot in England!"
+    },
+    {
+      "date": "2026-06-26",
+      "miles": 5.91,
+      "km": 9.51,
+      "type": "run",
+      "time": null,
+      "comment": "Still very hot"
     }
   ],
-  "totalActivities": 60,
-  "activeDays": 40,
-  "restDays": 16
+  "totalActivities": 63,
+  "activeDays": 42,
+  "restDays": 15
 }

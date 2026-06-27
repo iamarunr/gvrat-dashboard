@@ -603,9 +603,25 @@
       "type": "walk",
       "time": null,
       "comment": "Hike from School"
+    },
+    {
+      "date": "2026-06-26",
+      "miles": 0.58,
+      "km": 0.93,
+      "type": "walk",
+      "time": null,
+      "comment": "walk to trailhead"
+    },
+    {
+      "date": "2026-06-26",
+      "miles": 5.41,
+      "km": 8.71,
+      "type": "walk",
+      "time": null,
+      "comment": "Pie and Freedom"
     }
   ],
-  "totalActivities": 68,
-  "activeDays": 49,
+  "totalActivities": 70,
+  "activeDays": 50,
   "restDays": 7
 }

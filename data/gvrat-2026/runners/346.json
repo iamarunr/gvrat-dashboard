@@ -590,14 +590,30 @@
     },
     {
       "date": "2026-06-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "125' ascent.  Union Pacific rail trail from Wanship, UT"
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 1.51,
+      "km": 2.43,
+      "type": "walk",
+      "time": null,
+      "comment": "200' ascent.  Silverlake neighborhood w/ Rick."
+    },
+    {
+      "date": "2026-06-26",
+      "miles": 6.63,
+      "km": 10.67,
+      "type": "run",
+      "time": null,
+      "comment": "1184' ascent.  9K, Bloods Lake, Bonanza Flats (Lil Quakies)"
     }
   ],
-  "totalActivities": 73,
-  "activeDays": 55,
-  "restDays": 1
+  "totalActivities": 76,
+  "activeDays": 57,
+  "restDays": 0
 }

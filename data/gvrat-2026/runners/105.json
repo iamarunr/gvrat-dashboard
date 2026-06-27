@@ -446,14 +446,22 @@
     },
     {
       "date": "2026-06-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.31,
+      "km": 2.11,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walked 1.31 miles with Eddie \ud83d\udc15 after surgery on his foot. then stayed in out of the rain and flooding\u26c8\u26a1\ud83c\udf27\ud83c\udf0a"
+    },
+    {
+      "date": "2026-06-26",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "walk",
+      "time": null,
+      "comment": "Walked 1.50 miles with Eddie\ud83d\udc15after Karen's chemotherapy infusion today."
     }
   ],
-  "totalActivities": 55,
-  "activeDays": 55,
-  "restDays": 1
+  "totalActivities": 57,
+  "activeDays": 57,
+  "restDays": 0
 }

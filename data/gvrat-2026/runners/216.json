@@ -483,9 +483,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk with Christopher and the dogs"
+    },
+    {
+      "date": "2026-06-26",
+      "miles": 0.6,
+      "km": 0.97,
+      "type": "walk",
+      "time": null,
+      "comment": "Cabrini Shrine"
     }
   ],
-  "totalActivities": 33,
-  "activeDays": 29,
+  "totalActivities": 34,
+  "activeDays": 30,
   "restDays": 27
 }

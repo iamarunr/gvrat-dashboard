@@ -606,22 +606,54 @@
     },
     {
       "date": "2026-06-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.09,
+      "km": 6.58,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "SHMP Tuesday Hills Workout"
     },
     {
       "date": "2026-06-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.28,
+      "km": 2.06,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Office to Medical Center Metro Station"
+    },
+    {
+      "date": "2026-06-24",
+      "miles": 4.04,
+      "km": 6.5,
+      "type": "walk",
+      "time": null,
+      "comment": "Rockville Metro Station to Home (355 - W. Gude)"
     },
     {
       "date": "2026-06-25",
+      "miles": 1.32,
+      "km": 2.12,
+      "type": "walk",
+      "time": null,
+      "comment": "Medical Center Metro Station to Office"
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 1.31,
+      "km": 2.11,
+      "type": "walk",
+      "time": null,
+      "comment": "Office to Medical Center Metro Station"
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 3.17,
+      "km": 5.1,
+      "type": "walk",
+      "time": null,
+      "comment": "Montgomery College to Home"
+    },
+    {
+      "date": "2026-06-26",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -629,7 +661,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 59,
-  "activeDays": 37,
-  "restDays": 19
+  "totalActivities": 65,
+  "activeDays": 40,
+  "restDays": 17
 }

@@ -499,9 +499,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-26",
+      "miles": 47.0,
+      "km": 75.64,
+      "type": "run",
+      "time": null,
+      "comment": "Birthday \"run\".  47 miles for 47 years."
     }
   ],
-  "totalActivities": 38,
-  "activeDays": 32,
+  "totalActivities": 39,
+  "activeDays": 33,
   "restDays": 24
 }

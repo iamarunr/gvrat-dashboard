@@ -595,9 +595,25 @@
       "type": "walk",
       "time": null,
       "comment": "TVA loop w/ORRB; 16#; Mag h2o break"
+    },
+    {
+      "date": "2026-06-26",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "walk",
+      "time": null,
+      "comment": "TVA ORRB OB; 16#; Mag water break"
+    },
+    {
+      "date": "2026-06-26",
+      "miles": 5.42,
+      "km": 8.72,
+      "type": "walk",
+      "time": null,
+      "comment": "HT/GT (veggie plate) in 'hood; pack; Patrice; Chevron & DG stops"
     }
   ],
-  "totalActivities": 62,
-  "activeDays": 44,
+  "totalActivities": 64,
+  "activeDays": 45,
   "restDays": 12
 }

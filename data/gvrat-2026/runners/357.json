@@ -1011,9 +1011,17 @@
       "type": "walk",
       "time": null,
       "comment": "walk to packet pick up"
+    },
+    {
+      "date": "2026-06-26",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 125,
   "activeDays": 55,
-  "restDays": 1
+  "restDays": 2
 }
