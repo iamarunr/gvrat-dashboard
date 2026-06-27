@@ -491,9 +491,17 @@
       "type": "run",
       "time": null,
       "comment": "Switchyard to B-Line Trail to Hopscotch Cafe"
+    },
+    {
+      "date": "2026-06-26",
+      "miles": 5.08,
+      "km": 8.18,
+      "type": "run",
+      "time": null,
+      "comment": "Switchyard to B-Line Trail"
     }
   ],
-  "totalActivities": 59,
-  "activeDays": 54,
+  "totalActivities": 60,
+  "activeDays": 55,
   "restDays": 2
 }

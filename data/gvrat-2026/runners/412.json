@@ -491,9 +491,17 @@
       "type": "walk",
       "time": null,
       "comment": "Belle Terre"
+    },
+    {
+      "date": "2026-06-26",
+      "miles": 3.2,
+      "km": 5.15,
+      "type": "walk",
+      "time": null,
+      "comment": "neighborhood"
     }
   ],
-  "totalActivities": 34,
-  "activeDays": 29,
+  "totalActivities": 35,
+  "activeDays": 30,
   "restDays": 27
 }

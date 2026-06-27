@@ -467,9 +467,17 @@
       "type": "walk",
       "time": null,
       "comment": "Recovery day? 2500 vert we\u2019re doing a loop, but stopped at snow pack."
+    },
+    {
+      "date": "2026-06-26",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 45,
   "activeDays": 43,
-  "restDays": 13
+  "restDays": 14
 }
