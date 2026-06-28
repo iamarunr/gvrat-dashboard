@@ -955,9 +955,33 @@
       "type": "run",
       "time": null,
       "comment": "Morning"
+    },
+    {
+      "date": "2026-06-27",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
+      "time": null,
+      "comment": "Morning"
+    },
+    {
+      "date": "2026-06-27",
+      "miles": 11.0,
+      "km": 17.7,
+      "type": "run",
+      "time": null,
+      "comment": "Green bluff big loop in late morning"
+    },
+    {
+      "date": "2026-06-27",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
+      "time": null,
+      "comment": "Late afternoon"
     }
   ],
-  "totalActivities": 119,
-  "activeDays": 57,
+  "totalActivities": 122,
+  "activeDays": 58,
   "restDays": 0
 }

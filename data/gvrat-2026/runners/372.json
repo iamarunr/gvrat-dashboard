@@ -627,9 +627,25 @@
       "type": "run",
       "time": null,
       "comment": "Still very hot"
+    },
+    {
+      "date": "2026-06-27",
+      "miles": 2.6,
+      "km": 4.18,
+      "type": "walk",
+      "time": null,
+      "comment": "Home after Parkrun and breakfast"
+    },
+    {
+      "date": "2026-06-27",
+      "miles": 5.55,
+      "km": 8.93,
+      "type": "run",
+      "time": null,
+      "comment": "Parkrun (including a lap of Leazes Park with Roland)"
     }
   ],
-  "totalActivities": 63,
-  "activeDays": 42,
+  "totalActivities": 65,
+  "activeDays": 43,
   "restDays": 15
 }

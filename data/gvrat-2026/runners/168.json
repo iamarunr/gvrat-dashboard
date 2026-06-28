@@ -611,9 +611,33 @@
       "type": "walk",
       "time": null,
       "comment": "HT/GT (veggie plate) in 'hood; pack; Patrice; Chevron & DG stops"
+    },
+    {
+      "date": "2026-06-27",
+      "miles": 2.69,
+      "km": 4.33,
+      "type": "walk",
+      "time": null,
+      "comment": "TVA flat; Mag AM"
+    },
+    {
+      "date": "2026-06-27",
+      "miles": 2.04,
+      "km": 3.28,
+      "type": "walk",
+      "time": null,
+      "comment": "Diebert; HT"
+    },
+    {
+      "date": "2026-06-27",
+      "miles": 0.87,
+      "km": 1.4,
+      "type": "walk",
+      "time": null,
+      "comment": "McF; Mag got too hot"
     }
   ],
-  "totalActivities": 64,
-  "activeDays": 45,
+  "totalActivities": 67,
+  "activeDays": 46,
   "restDays": 12
 }

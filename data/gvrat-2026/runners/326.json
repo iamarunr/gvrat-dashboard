@@ -691,9 +691,17 @@
       "type": "walk",
       "time": null,
       "comment": "Treadmill"
+    },
+    {
+      "date": "2026-06-27",
+      "miles": 10.0,
+      "km": 16.09,
+      "type": "walk",
+      "time": null,
+      "comment": "Burma Road + extra"
     }
   ],
-  "totalActivities": 84,
-  "activeDays": 55,
+  "totalActivities": 85,
+  "activeDays": 56,
   "restDays": 2
 }

@@ -598,30 +598,38 @@
     },
     {
       "date": "2026-06-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.92,
+      "km": 1.48,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking the dogs."
     },
     {
       "date": "2026-06-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.91,
+      "km": 1.46,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking the dogs."
     },
     {
       "date": "2026-06-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.92,
+      "km": 1.48,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-06-27",
+      "miles": 12.03,
+      "km": 19.36,
+      "type": "run",
+      "time": null,
+      "comment": "Black Canyon Trail."
     }
   ],
-  "totalActivities": 68,
-  "activeDays": 48,
-  "restDays": 9
+  "totalActivities": 72,
+  "activeDays": 52,
+  "restDays": 6
 }

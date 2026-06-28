@@ -875,9 +875,25 @@
       "type": "walk",
       "time": null,
       "comment": "all i can do today"
+    },
+    {
+      "date": "2026-06-27",
+      "miles": 4.85,
+      "km": 7.81,
+      "type": "walk",
+      "time": null,
+      "comment": "JS park with CA CW LF"
+    },
+    {
+      "date": "2026-06-27",
+      "miles": 3.84,
+      "km": 6.18,
+      "type": "walk",
+      "time": null,
+      "comment": "dog's turn"
     }
   ],
-  "totalActivities": 98,
-  "activeDays": 46,
+  "totalActivities": 100,
+  "activeDays": 47,
   "restDays": 11
 }

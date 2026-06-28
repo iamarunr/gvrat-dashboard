@@ -803,9 +803,25 @@
       "type": "walk",
       "time": null,
       "comment": "Early Friday morning walk by myself - yesterday was very stressful still trying fi shake it off"
+    },
+    {
+      "date": "2026-06-27",
+      "miles": 6.51,
+      "km": 10.48,
+      "type": "run",
+      "time": null,
+      "comment": "Enterprise- ran with Kimmie for lil bit then alone rest of the way"
+    },
+    {
+      "date": "2026-06-27",
+      "miles": 1.19,
+      "km": 1.92,
+      "type": "walk",
+      "time": null,
+      "comment": "Rest of day with fam"
     }
   ],
-  "totalActivities": 100,
-  "activeDays": 57,
+  "totalActivities": 102,
+  "activeDays": 58,
   "restDays": 0
 }

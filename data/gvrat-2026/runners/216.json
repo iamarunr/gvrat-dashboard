@@ -491,9 +491,17 @@
       "type": "walk",
       "time": null,
       "comment": "Cabrini Shrine"
+    },
+    {
+      "date": "2026-06-27",
+      "miles": 4.02,
+      "km": 6.47,
+      "type": "run",
+      "time": null,
+      "comment": "Run/walk behind Gravel Pond"
     }
   ],
-  "totalActivities": 34,
-  "activeDays": 30,
+  "totalActivities": 35,
+  "activeDays": 31,
   "restDays": 27
 }

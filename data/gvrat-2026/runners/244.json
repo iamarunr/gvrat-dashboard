@@ -598,14 +598,30 @@
     },
     {
       "date": "2026-06-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Piestewa > Freedom Trail w/T & M"
+    },
+    {
+      "date": "2026-06-27",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning Remi walk"
+    },
+    {
+      "date": "2026-06-27",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "walk",
+      "time": null,
+      "comment": "Desert Vista Hike w/M - Great Horned Owl loop > Union Peak"
     }
   ],
-  "totalActivities": 66,
-  "activeDays": 48,
-  "restDays": 9
+  "totalActivities": 69,
+  "activeDays": 50,
+  "restDays": 8
 }
