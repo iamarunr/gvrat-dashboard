@@ -531,9 +531,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-27",
+      "miles": 1.25,
+      "km": 2.01,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk around Leadville with Dad and Claire"
+    },
+    {
+      "date": "2026-06-27",
+      "miles": 20.2,
+      "km": 32.51,
+      "type": "run",
+      "time": null,
+      "comment": "Leadville Heavy Half"
     }
   ],
-  "totalActivities": 41,
-  "activeDays": 32,
+  "totalActivities": 43,
+  "activeDays": 33,
   "restDays": 25
 }

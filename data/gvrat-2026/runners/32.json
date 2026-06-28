@@ -566,6 +566,14 @@
     },
     {
       "date": "2026-06-26",
+      "miles": 5.17,
+      "km": 8.32,
+      "type": "run",
+      "time": null,
+      "comment": "Slogging with the bad achillies."
+    },
+    {
+      "date": "2026-06-27",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -573,7 +581,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 57,
-  "activeDays": 43,
+  "totalActivities": 58,
+  "activeDays": 44,
   "restDays": 14
 }

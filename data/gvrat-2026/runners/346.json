@@ -611,9 +611,17 @@
       "type": "run",
       "time": null,
       "comment": "1184' ascent.  9K, Bloods Lake, Bonanza Flats (Lil Quakies)"
+    },
+    {
+      "date": "2026-06-27",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 76,
   "activeDays": 57,
-  "restDays": 0
+  "restDays": 1
 }

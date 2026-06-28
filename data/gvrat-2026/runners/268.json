@@ -470,22 +470,30 @@
     },
     {
       "date": "2026-06-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "morning walk, treadmill, spin"
     },
     {
       "date": "2026-06-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.6,
+      "km": 4.18,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "treadmill, Barre"
     },
     {
       "date": "2026-06-26",
+      "miles": 3.2,
+      "km": 5.15,
+      "type": "walk",
+      "time": null,
+      "comment": "morning walk, dog walk"
+    },
+    {
+      "date": "2026-06-27",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -493,7 +501,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 57,
-  "activeDays": 53,
-  "restDays": 4
+  "totalActivities": 60,
+  "activeDays": 56,
+  "restDays": 2
 }

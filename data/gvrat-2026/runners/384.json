@@ -462,14 +462,22 @@
     },
     {
       "date": "2026-06-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-27",
+      "miles": 5.05,
+      "km": 8.13,
+      "type": "walk",
+      "time": null,
+      "comment": "more running.  knee doing well."
     }
   ],
-  "totalActivities": 38,
-  "activeDays": 37,
-  "restDays": 20
+  "totalActivities": 40,
+  "activeDays": 39,
+  "restDays": 19
 }

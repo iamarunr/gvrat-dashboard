@@ -619,9 +619,17 @@
       "type": "walk",
       "time": null,
       "comment": "Pie and Freedom"
+    },
+    {
+      "date": "2026-06-27",
+      "miles": 4.44,
+      "km": 7.15,
+      "type": "walk",
+      "time": null,
+      "comment": "Neighborhood Hike w/ B"
     }
   ],
-  "totalActivities": 70,
-  "activeDays": 50,
+  "totalActivities": 71,
+  "activeDays": 51,
   "restDays": 7
 }
