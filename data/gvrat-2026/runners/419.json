@@ -454,11 +454,11 @@
     },
     {
       "date": "2026-06-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.88,
+      "km": 7.85,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Petite boucle par Mondini."
     },
     {
       "date": "2026-06-23",
@@ -470,11 +470,11 @@
     },
     {
       "date": "2026-06-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.8,
+      "km": 4.51,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Marche rapide."
     },
     {
       "date": "2026-06-25",
@@ -486,11 +486,11 @@
     },
     {
       "date": "2026-06-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.86,
+      "km": 2.99,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Marche forc\u00e9e."
     },
     {
       "date": "2026-06-27",
@@ -499,9 +499,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-28",
+      "miles": 11.17,
+      "km": 17.98,
+      "type": "run",
+      "time": null,
+      "comment": "Boucle par Celles Freychenet."
     }
   ],
-  "totalActivities": 40,
-  "activeDays": 36,
-  "restDays": 22
+  "totalActivities": 44,
+  "activeDays": 40,
+  "restDays": 19
 }

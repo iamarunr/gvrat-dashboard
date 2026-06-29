@@ -1323,9 +1323,41 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-28",
+      "miles": 9.0,
+      "km": 14.48,
+      "type": "walk",
+      "time": null,
+      "comment": "Camptown races trail + few bonus"
+    },
+    {
+      "date": "2026-06-28",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-28",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Lake mohawk"
+    },
+    {
+      "date": "2026-06-28",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 165,
-  "activeDays": 58,
+  "totalActivities": 169,
+  "activeDays": 59,
   "restDays": 0
 }

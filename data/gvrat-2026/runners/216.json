@@ -499,9 +499,25 @@
       "type": "run",
       "time": null,
       "comment": "Run/walk behind Gravel Pond"
+    },
+    {
+      "date": "2026-06-28",
+      "miles": 0.54,
+      "km": 0.87,
+      "type": "walk",
+      "time": null,
+      "comment": "LOTW"
+    },
+    {
+      "date": "2026-06-28",
+      "miles": 2.82,
+      "km": 4.54,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk with Christopher and the dogs."
     }
   ],
-  "totalActivities": 35,
-  "activeDays": 31,
+  "totalActivities": 37,
+  "activeDays": 32,
   "restDays": 27
 }

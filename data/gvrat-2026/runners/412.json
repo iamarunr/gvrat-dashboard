@@ -507,9 +507,17 @@
       "type": "walk",
       "time": null,
       "comment": "errand with a detour"
+    },
+    {
+      "date": "2026-06-28",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "walk to store"
     }
   ],
-  "totalActivities": 36,
-  "activeDays": 31,
+  "totalActivities": 37,
+  "activeDays": 32,
   "restDays": 27
 }

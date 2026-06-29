@@ -467,9 +467,17 @@
       "type": "run",
       "time": null,
       "comment": "balmain"
+    },
+    {
+      "date": "2026-06-28",
+      "miles": 6.49,
+      "km": 10.44,
+      "type": "run",
+      "time": null,
+      "comment": "hills are back"
     }
   ],
-  "totalActivities": 39,
-  "activeDays": 39,
+  "totalActivities": 40,
+  "activeDays": 40,
   "restDays": 19
 }

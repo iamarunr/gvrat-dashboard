@@ -566,9 +566,9 @@
     },
     {
       "date": "2026-06-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.2,
+      "km": 3.54,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
@@ -590,30 +590,38 @@
     },
     {
       "date": "2026-06-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 34.2,
+      "km": 55.04,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Six Days in the Dome"
     },
     {
       "date": "2026-06-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 45.5,
+      "km": 73.22,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Six Days in the Dome"
     },
     {
       "date": "2026-06-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 10.4,
+      "km": 16.74,
+      "type": "walk",
+      "time": null,
+      "comment": "Six Days in the Dome"
+    },
+    {
+      "date": "2026-06-28",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 65,
-  "activeDays": 47,
-  "restDays": 11
+  "totalActivities": 70,
+  "activeDays": 52,
+  "restDays": 7
 }

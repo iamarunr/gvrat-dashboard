@@ -1046,22 +1046,62 @@
     },
     {
       "date": "2026-06-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.75,
+      "km": 7.64,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
+      "date": "2026-06-25",
+      "miles": 0.85,
+      "km": 1.37,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 0.85,
+      "km": 1.37,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
+    },
+    {
       "date": "2026-06-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.85,
+      "km": 1.37,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
+    },
+    {
+      "date": "2026-06-27",
+      "miles": 2.1,
+      "km": 3.38,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-06-27",
+      "miles": 1.28,
+      "km": 2.06,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
+    },
+    {
+      "date": "2026-06-27",
+      "miles": 33.56,
+      "km": 54.01,
+      "type": "run",
+      "time": null,
+      "comment": "Moonwacker 2026"
+    },
+    {
+      "date": "2026-06-28",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -1069,7 +1109,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 130,
-  "activeDays": 55,
-  "restDays": 3
+  "totalActivities": 137,
+  "activeDays": 58,
+  "restDays": 1
 }

@@ -542,14 +542,30 @@
     },
     {
       "date": "2026-06-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-28",
+      "miles": 6.21,
+      "km": 9.99,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-28",
+      "miles": 18.64,
+      "km": 30.0,
+      "type": "walk",
+      "time": null,
+      "comment": "1km Dog walking per day in June"
     }
   ],
-  "totalActivities": 49,
-  "activeDays": 39,
-  "restDays": 19
+  "totalActivities": 52,
+  "activeDays": 41,
+  "restDays": 18
 }

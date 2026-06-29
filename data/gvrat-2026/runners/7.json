@@ -627,9 +627,17 @@
       "type": "walk",
       "time": null,
       "comment": "Neighborhood Hike w/ B"
+    },
+    {
+      "date": "2026-06-28",
+      "miles": 5.27,
+      "km": 8.48,
+      "type": "walk",
+      "time": null,
+      "comment": "Mt Peeley"
     }
   ],
-  "totalActivities": 71,
-  "activeDays": 51,
+  "totalActivities": 72,
+  "activeDays": 52,
   "restDays": 7
 }

@@ -627,9 +627,17 @@
       "type": "run",
       "time": null,
       "comment": "Black Canyon Trail."
+    },
+    {
+      "date": "2026-06-28",
+      "miles": 2.19,
+      "km": 3.52,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs and a turtle."
     }
   ],
-  "totalActivities": 72,
-  "activeDays": 52,
+  "totalActivities": 73,
+  "activeDays": 53,
   "restDays": 6
 }

@@ -606,14 +606,22 @@
     },
     {
       "date": "2026-06-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.34,
+      "km": 8.59,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "parkrun and three dog walks"
+    },
+    {
+      "date": "2026-06-28",
+      "miles": 0.62,
+      "km": 1.0,
+      "type": "walk",
+      "time": null,
+      "comment": "morning dog walk"
     }
   ],
-  "totalActivities": 73,
-  "activeDays": 55,
-  "restDays": 3
+  "totalActivities": 75,
+  "activeDays": 57,
+  "restDays": 2
 }
