@@ -979,9 +979,17 @@
       "type": "walk",
       "time": null,
       "comment": "Late afternoon"
+    },
+    {
+      "date": "2026-06-28",
+      "miles": 12.0,
+      "km": 19.31,
+      "type": "run",
+      "time": null,
+      "comment": "Rimrock with the girls"
     }
   ],
-  "totalActivities": 122,
-  "activeDays": 58,
+  "totalActivities": 123,
+  "activeDays": 59,
   "restDays": 0
 }

@@ -805,6 +805,14 @@
       "comment": "Early Friday morning walk by myself - yesterday was very stressful still trying fi shake it off"
     },
     {
+      "date": "2026-06-26",
+      "miles": 2.18,
+      "km": 3.51,
+      "type": "walk",
+      "time": null,
+      "comment": "Forgot to log this activity so going back and adding"
+    },
+    {
       "date": "2026-06-27",
       "miles": 6.51,
       "km": 10.48,
@@ -819,9 +827,17 @@
       "type": "walk",
       "time": null,
       "comment": "Rest of day with fam"
+    },
+    {
+      "date": "2026-06-28",
+      "miles": 3.1,
+      "km": 4.99,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning walk and evening walk and went down the hiwassee"
     }
   ],
-  "totalActivities": 102,
-  "activeDays": 58,
+  "totalActivities": 104,
+  "activeDays": 59,
   "restDays": 0
 }

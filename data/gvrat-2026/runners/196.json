@@ -891,9 +891,33 @@
       "type": "walk",
       "time": null,
       "comment": "dog's turn"
+    },
+    {
+      "date": "2026-06-28",
+      "miles": 2.21,
+      "km": 3.56,
+      "type": "walk",
+      "time": null,
+      "comment": "1st"
+    },
+    {
+      "date": "2026-06-28",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "2nd"
+    },
+    {
+      "date": "2026-06-28",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "3rd"
     }
   ],
-  "totalActivities": 100,
-  "activeDays": 47,
+  "totalActivities": 103,
+  "activeDays": 48,
   "restDays": 11
 }

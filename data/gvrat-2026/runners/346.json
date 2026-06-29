@@ -614,14 +614,30 @@
     },
     {
       "date": "2026-06-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "686' ascent.  Round Valley from Quinn's"
+    },
+    {
+      "date": "2026-06-28",
+      "miles": 10.0,
+      "km": 16.09,
+      "type": "run",
+      "time": null,
+      "comment": "1066' ascent.  Sinks Rd"
+    },
+    {
+      "date": "2026-06-28",
+      "miles": 3.1,
+      "km": 4.99,
+      "type": "walk",
+      "time": null,
+      "comment": "479' ascent.  Shundahai"
     }
   ],
-  "totalActivities": 76,
-  "activeDays": 57,
-  "restDays": 1
+  "totalActivities": 79,
+  "activeDays": 59,
+  "restDays": 0
 }
