@@ -635,9 +635,33 @@
       "type": "walk",
       "time": null,
       "comment": "Walking the dogs and a turtle."
+    },
+    {
+      "date": "2026-06-29",
+      "miles": 0.91,
+      "km": 1.46,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-06-29",
+      "miles": 3.15,
+      "km": 5.07,
+      "type": "run",
+      "time": null,
+      "comment": "Aravaipa Monday Super Fun Group."
+    },
+    {
+      "date": "2026-06-29",
+      "miles": 1.09,
+      "km": 1.75,
+      "type": "walk",
+      "time": null,
+      "comment": "Circle of Hell loop."
     }
   ],
-  "totalActivities": 73,
-  "activeDays": 53,
+  "totalActivities": 76,
+  "activeDays": 54,
   "restDays": 6
 }

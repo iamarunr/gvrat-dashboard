@@ -1035,9 +1035,41 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-29",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog park and back"
+    },
+    {
+      "date": "2026-06-29",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk"
+    },
+    {
+      "date": "2026-06-29",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk with Andy and Mary"
+    },
+    {
+      "date": "2026-06-29",
+      "miles": 43.0,
+      "km": 69.2,
+      "type": "run",
+      "time": null,
+      "comment": "Pacing Ali during Black Hills 100 miler"
     }
   ],
-  "totalActivities": 125,
-  "activeDays": 55,
+  "totalActivities": 129,
+  "activeDays": 56,
   "restDays": 4
 }

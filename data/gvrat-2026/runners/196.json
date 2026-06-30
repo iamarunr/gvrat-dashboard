@@ -915,9 +915,33 @@
       "type": "walk",
       "time": null,
       "comment": "3rd"
+    },
+    {
+      "date": "2026-06-29",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "walk",
+      "time": null,
+      "comment": "With dog"
+    },
+    {
+      "date": "2026-06-29",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "walk",
+      "time": null,
+      "comment": "Indoor"
+    },
+    {
+      "date": "2026-06-29",
+      "miles": 2.15,
+      "km": 3.46,
+      "type": "walk",
+      "time": null,
+      "comment": "A little tumble"
     }
   ],
-  "totalActivities": 103,
-  "activeDays": 48,
+  "totalActivities": 106,
+  "activeDays": 49,
   "restDays": 11
 }
