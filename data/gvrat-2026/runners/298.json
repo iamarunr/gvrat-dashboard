@@ -555,9 +555,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-29",
+      "miles": 2.3,
+      "km": 3.7,
+      "type": "walk",
+      "time": null,
+      "comment": "Recovery walk around Twin Lakes"
+    },
+    {
+      "date": "2026-06-29",
+      "miles": 2.75,
+      "km": 4.43,
+      "type": "walk",
+      "time": null,
+      "comment": "Recovery walk in work hood"
     }
   ],
-  "totalActivities": 43,
-  "activeDays": 33,
+  "totalActivities": 45,
+  "activeDays": 34,
   "restDays": 26
 }

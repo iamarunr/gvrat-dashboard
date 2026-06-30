@@ -835,9 +835,25 @@
       "type": "walk",
       "time": null,
       "comment": "Morning walk and evening walk and went down the hiwassee"
+    },
+    {
+      "date": "2026-06-29",
+      "miles": 3.15,
+      "km": 5.07,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening walk at enterprise.  Lil cooler but not much . Gnats so bad"
+    },
+    {
+      "date": "2026-06-29",
+      "miles": 1.95,
+      "km": 3.14,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning walk and lil more"
     }
   ],
-  "totalActivities": 104,
-  "activeDays": 59,
+  "totalActivities": 106,
+  "activeDays": 60,
   "restDays": 0
 }

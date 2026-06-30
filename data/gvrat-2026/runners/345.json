@@ -475,9 +475,17 @@
       "type": "run",
       "time": null,
       "comment": "hills are back"
+    },
+    {
+      "date": "2026-06-29",
+      "miles": 7.58,
+      "km": 12.2,
+      "type": "run",
+      "time": null,
+      "comment": "more hills"
     }
   ],
-  "totalActivities": 40,
-  "activeDays": 40,
+  "totalActivities": 41,
+  "activeDays": 41,
   "restDays": 19
 }

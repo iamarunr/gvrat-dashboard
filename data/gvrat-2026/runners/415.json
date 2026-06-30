@@ -502,38 +502,54 @@
     },
     {
       "date": "2026-06-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.7,
+      "km": 9.17,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-06-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.5,
+      "km": 8.85,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-06-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.8,
+      "km": 7.72,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-06-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.7,
+      "km": 12.39,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-06-28",
+      "miles": 13.33,
+      "km": 21.45,
+      "type": "run",
+      "time": null,
+      "comment": "Missoula Half"
+    },
+    {
+      "date": "2026-06-28",
+      "miles": 5.93,
+      "km": 9.54,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-29",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -541,7 +557,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 62,
-  "activeDays": 54,
-  "restDays": 5
+  "totalActivities": 68,
+  "activeDays": 59,
+  "restDays": 1
 }

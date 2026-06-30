@@ -638,14 +638,38 @@
     },
     {
       "date": "2026-06-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.96,
+      "km": 4.76,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "TVA/ORRB OB; Pack; Mag water break; TEVA w/think injini"
+    },
+    {
+      "date": "2026-06-28",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "walk",
+      "time": null,
+      "comment": "MLP; Linden; McF w/Maggie; Tevas with thick injini"
+    },
+    {
+      "date": "2026-06-29",
+      "miles": 3.94,
+      "km": 6.34,
+      "type": "walk",
+      "time": null,
+      "comment": "TVA/ORRB loop; 10#; Mag water break"
+    },
+    {
+      "date": "2026-06-29",
+      "miles": 4.03,
+      "km": 6.49,
+      "type": "walk",
+      "time": null,
+      "comment": "'Hood; Pack; HT (105); Hungry; ATM stop; solo"
     }
   ],
-  "totalActivities": 67,
-  "activeDays": 46,
-  "restDays": 13
+  "totalActivities": 71,
+  "activeDays": 48,
+  "restDays": 12
 }

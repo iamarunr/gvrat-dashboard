@@ -662,22 +662,30 @@
     },
     {
       "date": "2026-06-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.66,
+      "km": 10.72,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "SHMP Long Run #3 - Matthew Henson Trail"
     },
     {
       "date": "2026-06-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.45,
+      "km": 3.94,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "King Farm Loop (up Gaither)"
+    },
+    {
+      "date": "2026-06-29",
+      "miles": 1.43,
+      "km": 2.3,
+      "type": "walk",
+      "time": null,
+      "comment": "Criswell Honda to Germantown Transit Center"
     }
   ],
-  "totalActivities": 65,
-  "activeDays": 40,
-  "restDays": 19
+  "totalActivities": 68,
+  "activeDays": 43,
+  "restDays": 17
 }
