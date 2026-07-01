@@ -646,22 +646,38 @@
     },
     {
       "date": "2026-06-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.83,
+      "km": 2.95,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Hello Herons!"
     },
     {
       "date": "2026-06-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.54,
+      "km": 4.09,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Twisted ankle time"
+    },
+    {
+      "date": "2026-06-29",
+      "miles": 1.57,
+      "km": 2.53,
+      "type": "walk",
+      "time": null,
+      "comment": "Limped home"
+    },
+    {
+      "date": "2026-06-30",
+      "miles": 3.3,
+      "km": 5.31,
+      "type": "walk",
+      "time": null,
+      "comment": "Farmfoods fun!"
     }
   ],
-  "totalActivities": 65,
-  "activeDays": 43,
-  "restDays": 17
+  "totalActivities": 69,
+  "activeDays": 46,
+  "restDays": 15
 }

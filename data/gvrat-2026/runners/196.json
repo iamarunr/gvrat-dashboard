@@ -939,9 +939,33 @@
       "type": "walk",
       "time": null,
       "comment": "A little tumble"
+    },
+    {
+      "date": "2026-06-30",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "June homestretch"
+    },
+    {
+      "date": "2026-06-30",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "Last indoor of the day"
+    },
+    {
+      "date": "2026-06-30",
+      "miles": 2.73,
+      "km": 4.39,
+      "type": "walk",
+      "time": null,
+      "comment": "And we\u2019ve finally passed the buzzard!"
     }
   ],
-  "totalActivities": 106,
-  "activeDays": 49,
+  "totalActivities": 109,
+  "activeDays": 50,
   "restDays": 11
 }

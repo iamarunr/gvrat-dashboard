@@ -851,9 +851,25 @@
       "type": "walk",
       "time": null,
       "comment": "Morning walk and lil more"
+    },
+    {
+      "date": "2026-06-30",
+      "miles": 3.26,
+      "km": 5.25,
+      "type": "run",
+      "time": null,
+      "comment": "Struggle bus run"
+    },
+    {
+      "date": "2026-06-30",
+      "miles": 2.04,
+      "km": 3.28,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and last walk with the Melton family"
     }
   ],
-  "totalActivities": 106,
-  "activeDays": 60,
+  "totalActivities": 108,
+  "activeDays": 61,
   "restDays": 0
 }

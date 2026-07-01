@@ -595,9 +595,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-06-30",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-30",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Heat wave"
     }
   ],
-  "totalActivities": 63,
-  "activeDays": 49,
+  "totalActivities": 65,
+  "activeDays": 50,
   "restDays": 11
 }
