@@ -483,9 +483,25 @@
       "type": "run",
       "time": null,
       "comment": "more hills"
+    },
+    {
+      "date": "2026-06-30",
+      "miles": 7.08,
+      "km": 11.39,
+      "type": "run",
+      "time": null,
+      "comment": "work to home"
+    },
+    {
+      "date": "2026-06-30",
+      "miles": 8.45,
+      "km": 13.6,
+      "type": "run",
+      "time": null,
+      "comment": "OTB with Stuart"
     }
   ],
-  "totalActivities": 41,
-  "activeDays": 41,
+  "totalActivities": 43,
+  "activeDays": 42,
   "restDays": 19
 }

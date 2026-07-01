@@ -491,9 +491,17 @@
       "type": "walk",
       "time": null,
       "comment": "Full Moon \ud83c\udf15"
+    },
+    {
+      "date": "2026-06-30",
+      "miles": 5.5,
+      "km": 8.85,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 61,
-  "activeDays": 60,
+  "totalActivities": 62,
+  "activeDays": 61,
   "restDays": 0
 }

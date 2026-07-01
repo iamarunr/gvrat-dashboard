@@ -627,9 +627,17 @@
       "type": "walk",
       "time": null,
       "comment": "two dog walks"
+    },
+    {
+      "date": "2026-06-30",
+      "miles": 1.43,
+      "km": 2.3,
+      "type": "walk",
+      "time": null,
+      "comment": "two dog walks"
     }
   ],
-  "totalActivities": 76,
-  "activeDays": 58,
+  "totalActivities": 77,
+  "activeDays": 59,
   "restDays": 2
 }

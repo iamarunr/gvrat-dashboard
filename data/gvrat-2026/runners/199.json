@@ -542,22 +542,30 @@
     },
     {
       "date": "2026-06-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.32,
+      "km": 5.34,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "enorm in form in steckenborn (event)"
     },
     {
       "date": "2026-06-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.52,
+      "km": 7.27,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "into the forest, hunted by the buzzard"
+    },
+    {
+      "date": "2026-06-30",
+      "miles": 3.68,
+      "km": 5.92,
+      "type": "walk",
+      "time": null,
+      "comment": "no construction anymore"
     }
   ],
-  "totalActivities": 67,
-  "activeDays": 58,
-  "restDays": 2
+  "totalActivities": 70,
+  "activeDays": 61,
+  "restDays": 0
 }

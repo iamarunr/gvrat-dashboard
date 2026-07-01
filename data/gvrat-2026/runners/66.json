@@ -659,9 +659,17 @@
       "type": "walk",
       "time": null,
       "comment": "Circle of Hell loop."
+    },
+    {
+      "date": "2026-06-30",
+      "miles": 0.92,
+      "km": 1.48,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs."
     }
   ],
-  "totalActivities": 76,
-  "activeDays": 54,
+  "totalActivities": 77,
+  "activeDays": 55,
   "restDays": 6
 }
