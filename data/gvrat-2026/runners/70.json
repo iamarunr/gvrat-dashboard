@@ -1011,9 +1011,25 @@
       "type": "walk",
       "time": null,
       "comment": "Lunch"
+    },
+    {
+      "date": "2026-07-01",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "run",
+      "time": null,
+      "comment": "Morning"
+    },
+    {
+      "date": "2026-07-01",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening riverfront to restaurant and back with the best in the west girls"
     }
   ],
-  "totalActivities": 126,
-  "activeDays": 61,
+  "totalActivities": 128,
+  "activeDays": 62,
   "restDays": 0
 }

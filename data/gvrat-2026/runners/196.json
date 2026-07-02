@@ -963,9 +963,25 @@
       "type": "walk",
       "time": null,
       "comment": "And we\u2019ve finally passed the buzzard!"
+    },
+    {
+      "date": "2026-07-01",
+      "miles": 3.07,
+      "km": 4.94,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-01",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 109,
-  "activeDays": 50,
+  "totalActivities": 111,
+  "activeDays": 51,
   "restDays": 11
 }

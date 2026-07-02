@@ -603,9 +603,17 @@
       "type": "run",
       "time": null,
       "comment": "Easy run."
+    },
+    {
+      "date": "2026-07-01",
+      "miles": 6.38,
+      "km": 10.27,
+      "type": "run",
+      "time": null,
+      "comment": "Easy run and 115 pushups."
     }
   ],
-  "totalActivities": 62,
-  "activeDays": 48,
+  "totalActivities": 63,
+  "activeDays": 49,
   "restDays": 13
 }

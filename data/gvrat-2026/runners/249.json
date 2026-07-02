@@ -494,14 +494,22 @@
     },
     {
       "date": "2026-06-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 14.0,
+      "km": 22.53,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "H.W"
+    },
+    {
+      "date": "2026-07-01",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "HI 105"
     }
   ],
-  "totalActivities": 51,
-  "activeDays": 50,
-  "restDays": 11
+  "totalActivities": 53,
+  "activeDays": 52,
+  "restDays": 10
 }

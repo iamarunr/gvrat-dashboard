@@ -1435,9 +1435,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-01",
+      "miles": 9.1,
+      "km": 14.64,
+      "type": "walk",
+      "time": null,
+      "comment": "Finale with #RaisingHill"
+    },
+    {
+      "date": "2026-07-01",
+      "miles": 1.9,
+      "km": 3.06,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 179,
-  "activeDays": 61,
+  "totalActivities": 181,
+  "activeDays": 62,
   "restDays": 0
 }
