@@ -646,14 +646,30 @@
     },
     {
       "date": "2026-06-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Helipad Hike"
+    },
+    {
+      "date": "2026-06-30",
+      "miles": 0.44,
+      "km": 0.71,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk"
+    },
+    {
+      "date": "2026-07-01",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "walk",
+      "time": null,
+      "comment": "Piestewa + Freedom + Road"
     }
   ],
-  "totalActivities": 72,
-  "activeDays": 52,
-  "restDays": 9
+  "totalActivities": 75,
+  "activeDays": 54,
+  "restDays": 8
 }

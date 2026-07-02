@@ -731,9 +731,25 @@
       "type": "walk",
       "time": null,
       "comment": "Treadmill"
+    },
+    {
+      "date": "2026-07-01",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "walk",
+      "time": null,
+      "comment": "Canyon"
+    },
+    {
+      "date": "2026-07-01",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Canyon"
     }
   ],
-  "totalActivities": 88,
-  "activeDays": 58,
+  "totalActivities": 90,
+  "activeDays": 59,
   "restDays": 3
 }

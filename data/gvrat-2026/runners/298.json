@@ -579,9 +579,17 @@
       "type": "walk",
       "time": null,
       "comment": "Work hood recovery walk"
+    },
+    {
+      "date": "2026-07-01",
+      "miles": 3.12,
+      "km": 5.02,
+      "type": "walk",
+      "time": null,
+      "comment": "Work hood recovery walk"
     }
   ],
-  "totalActivities": 46,
-  "activeDays": 35,
+  "totalActivities": 47,
+  "activeDays": 36,
   "restDays": 26
 }

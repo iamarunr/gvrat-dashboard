@@ -563,9 +563,17 @@
       "type": "walk",
       "time": null,
       "comment": "no construction anymore"
+    },
+    {
+      "date": "2026-07-01",
+      "miles": 4.73,
+      "km": 7.61,
+      "type": "run",
+      "time": null,
+      "comment": "Heat set"
     }
   ],
-  "totalActivities": 70,
-  "activeDays": 61,
+  "totalActivities": 71,
+  "activeDays": 62,
   "restDays": 0
 }

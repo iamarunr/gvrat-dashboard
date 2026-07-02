@@ -1155,9 +1155,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-01",
+      "miles": 3.12,
+      "km": 5.02,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4042 Road Run"
+    },
+    {
+      "date": "2026-07-01",
+      "miles": 4.21,
+      "km": 6.78,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 144,
-  "activeDays": 61,
+  "totalActivities": 146,
+  "activeDays": 62,
   "restDays": 0
 }

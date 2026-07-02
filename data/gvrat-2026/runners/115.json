@@ -1069,15 +1069,47 @@
       "comment": "westridge"
     },
     {
+      "date": "2026-06-29",
+      "miles": 3.33,
+      "km": 5.36,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
       "date": "2026-06-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 9.27,
+      "km": 14.92,
+      "type": "run",
+      "time": null,
+      "comment": "beach run"
+    },
+    {
+      "date": "2026-07-01",
+      "miles": 6.8,
+      "km": 10.94,
+      "type": "run",
+      "time": null,
+      "comment": "treadmill"
+    },
+    {
+      "date": "2026-07-01",
+      "miles": 7.07,
+      "km": 11.38,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-01",
+      "miles": 1.46,
+      "km": 2.35,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 124,
-  "activeDays": 51,
-  "restDays": 10
+  "totalActivities": 129,
+  "activeDays": 53,
+  "restDays": 9
 }
