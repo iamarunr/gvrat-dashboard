@@ -499,9 +499,17 @@
       "type": "walk",
       "time": null,
       "comment": "Not as hot as yesterday so Eddie\ud83d\udc15 got to go on a couple of my miles today. Still 80\u00b0 at 3:00 this morning."
+    },
+    {
+      "date": "2026-07-02",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 62,
   "activeDays": 62,
-  "restDays": 0
+  "restDays": 1
 }

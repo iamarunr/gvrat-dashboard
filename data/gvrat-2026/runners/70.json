@@ -1027,9 +1027,33 @@
       "type": "walk",
       "time": null,
       "comment": "Evening riverfront to restaurant and back with the best in the west girls"
+    },
+    {
+      "date": "2026-07-02",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
+      "time": null,
+      "comment": "Morning"
+    },
+    {
+      "date": "2026-07-02",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "walk",
+      "time": null,
+      "comment": "Afternoon"
+    },
+    {
+      "date": "2026-07-02",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "run",
+      "time": null,
+      "comment": "Evening"
     }
   ],
-  "totalActivities": 128,
-  "activeDays": 62,
+  "totalActivities": 131,
+  "activeDays": 63,
   "restDays": 0
 }

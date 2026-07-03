@@ -571,9 +571,17 @@
       "type": "run",
       "time": null,
       "comment": "Heat set"
+    },
+    {
+      "date": "2026-07-02",
+      "miles": 4.26,
+      "km": 6.86,
+      "type": "run",
+      "time": null,
+      "comment": "super humid, mega sweat"
     }
   ],
-  "totalActivities": 71,
-  "activeDays": 62,
+  "totalActivities": 72,
+  "activeDays": 63,
   "restDays": 0
 }

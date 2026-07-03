@@ -523,9 +523,17 @@
       "type": "walk",
       "time": null,
       "comment": "driveway"
+    },
+    {
+      "date": "2026-07-02",
+      "miles": 1.1,
+      "km": 1.77,
+      "type": "walk",
+      "time": null,
+      "comment": "treadmill"
     }
   ],
-  "totalActivities": 14,
-  "activeDays": 11,
+  "totalActivities": 15,
+  "activeDays": 12,
   "restDays": 51
 }

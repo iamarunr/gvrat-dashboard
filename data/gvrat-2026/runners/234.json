@@ -699,9 +699,25 @@
       "type": "run",
       "time": null,
       "comment": "Temple Fork Road"
+    },
+    {
+      "date": "2026-07-01",
+      "miles": 3.06,
+      "km": 4.92,
+      "type": "walk",
+      "time": null,
+      "comment": "Shundahai Neighborhood with Terri"
+    },
+    {
+      "date": "2026-07-02",
+      "miles": 9.2,
+      "km": 14.81,
+      "type": "run",
+      "time": null,
+      "comment": "Franklin Basin Road"
     }
   ],
-  "totalActivities": 84,
-  "activeDays": 59,
+  "totalActivities": 86,
+  "activeDays": 60,
   "restDays": 3
 }

@@ -539,9 +539,17 @@
       "type": "run",
       "time": null,
       "comment": "Alter-G anti-gravity treadmill"
+    },
+    {
+      "date": "2026-07-02",
+      "miles": 4.15,
+      "km": 6.68,
+      "type": "walk",
+      "time": null,
+      "comment": "neighborhood"
     }
   ],
-  "totalActivities": 39,
-  "activeDays": 34,
+  "totalActivities": 40,
+  "activeDays": 35,
   "restDays": 28
 }

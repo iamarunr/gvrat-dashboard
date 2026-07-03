@@ -685,12 +685,52 @@
       "comment": "Criswell Honda to Germantown Transit Center"
     },
     {
-      "date": "2026-06-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-06-29",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "North Bethesda Metro Station to ARC"
+    },
+    {
+      "date": "2026-06-29",
+      "miles": 1.24,
+      "km": 2.0,
+      "type": "walk",
+      "time": null,
+      "comment": "ARC to North Bethesda Metro Station with a Loop Around the Platform"
+    },
+    {
+      "date": "2026-06-29",
+      "miles": 1.42,
+      "km": 2.29,
+      "type": "walk",
+      "time": null,
+      "comment": "Shady Grove Metro Station to Home"
+    },
+    {
+      "date": "2026-06-30",
+      "miles": 1.44,
+      "km": 2.32,
+      "type": "walk",
+      "time": null,
+      "comment": "Home to Shady Grove Metro Station"
+    },
+    {
+      "date": "2026-06-30",
+      "miles": 1.42,
+      "km": 2.29,
+      "type": "walk",
+      "time": null,
+      "comment": "Germantown Transit Center to Criswell Honda"
+    },
+    {
+      "date": "2026-06-30",
+      "miles": 3.42,
+      "km": 5.5,
+      "type": "run",
+      "time": null,
+      "comment": "SHMP Track Workout"
     },
     {
       "date": "2026-07-01",
@@ -699,9 +739,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-02",
+      "miles": 3.19,
+      "km": 5.13,
+      "type": "run",
+      "time": null,
+      "comment": "Piccard - W. Gude Dr - Loop Run"
+    },
+    {
+      "date": "2026-07-02",
+      "miles": 1.74,
+      "km": 2.8,
+      "type": "walk",
+      "time": null,
+      "comment": "King Farm Half-Loop (Watkins Pond Blvd - Grand Champion - Piccard)"
     }
   ],
-  "totalActivities": 68,
-  "activeDays": 43,
-  "restDays": 19
+  "totalActivities": 76,
+  "activeDays": 45,
+  "restDays": 18
 }
