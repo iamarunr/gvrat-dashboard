@@ -499,9 +499,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total"
+    },
+    {
+      "date": "2026-07-02",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total- it\u2019s hot today"
     }
   ],
-  "totalActivities": 59,
-  "activeDays": 59,
+  "totalActivities": 60,
+  "activeDays": 60,
   "restDays": 3
 }

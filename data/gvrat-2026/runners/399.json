@@ -827,9 +827,33 @@
       "type": "walk",
       "time": null,
       "comment": "With Izzy"
+    },
+    {
+      "date": "2026-07-02",
+      "miles": 4.28,
+      "km": 6.89,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-02",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "walk",
+      "time": null,
+      "comment": "Ruck 20#"
+    },
+    {
+      "date": "2026-07-02",
+      "miles": 1.41,
+      "km": 2.27,
+      "type": "walk",
+      "time": null,
+      "comment": "With Izzy"
     }
   ],
-  "totalActivities": 103,
-  "activeDays": 62,
+  "totalActivities": 106,
+  "activeDays": 63,
   "restDays": 0
 }

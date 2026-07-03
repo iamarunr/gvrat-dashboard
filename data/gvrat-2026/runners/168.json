@@ -683,9 +683,33 @@
       "type": "walk",
       "time": null,
       "comment": "SP; 16#; Right lower back and left thigh; Mag"
+    },
+    {
+      "date": "2026-07-01",
+      "miles": 1.37,
+      "km": 2.2,
+      "type": "walk",
+      "time": null,
+      "comment": "SP; Mag with water break; 16#"
+    },
+    {
+      "date": "2026-07-02",
+      "miles": 3.33,
+      "km": 5.36,
+      "type": "walk",
+      "time": null,
+      "comment": "109 index; GT (full lunch with dairy); no pack; all black; Chevron stop; Patrice"
+    },
+    {
+      "date": "2026-07-02",
+      "miles": 4.02,
+      "km": 6.47,
+      "type": "walk",
+      "time": null,
+      "comment": "McF; Mag with swim time; 16#; 6 am with 96 index"
     }
   ],
-  "totalActivities": 73,
-  "activeDays": 50,
+  "totalActivities": 76,
+  "activeDays": 51,
   "restDays": 12
 }
