@@ -595,9 +595,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-03",
+      "miles": 2.77,
+      "km": 4.46,
+      "type": "walk",
+      "time": null,
+      "comment": "Recovery walk aroubd 28th St. Mall"
     }
   ],
-  "totalActivities": 47,
-  "activeDays": 36,
+  "totalActivities": 48,
+  "activeDays": 37,
   "restDays": 27
 }

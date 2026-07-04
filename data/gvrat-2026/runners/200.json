@@ -637,47 +637,63 @@
       "comment": "AM"
     },
     {
-      "date": "2026-06-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-06-27",
+      "miles": 22.0,
+      "km": 35.41,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Ncr"
+    },
+    {
+      "date": "2026-06-28",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "run",
+      "time": null,
+      "comment": "Quarry"
     },
     {
       "date": "2026-06-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Am"
     },
     {
       "date": "2026-06-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Am"
     },
     {
       "date": "2026-07-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Am"
     },
     {
       "date": "2026-07-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Am"
+    },
+    {
+      "date": "2026-07-03",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "run",
+      "time": null,
+      "comment": "Am and dump run"
     }
   ],
-  "totalActivities": 79,
-  "activeDays": 58,
-  "restDays": 5
+  "totalActivities": 86,
+  "activeDays": 64,
+  "restDays": 0
 }

@@ -619,9 +619,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-03",
+      "miles": 7.05,
+      "km": 11.35,
+      "type": "run",
+      "time": null,
+      "comment": "It was a hot one."
     }
   ],
-  "totalActivities": 63,
-  "activeDays": 49,
+  "totalActivities": 64,
+  "activeDays": 50,
   "restDays": 14
 }

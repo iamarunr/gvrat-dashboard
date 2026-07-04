@@ -547,9 +547,17 @@
       "type": "walk",
       "time": null,
       "comment": "neighborhood"
+    },
+    {
+      "date": "2026-07-03",
+      "miles": 7.21,
+      "km": 11.6,
+      "type": "walk",
+      "time": null,
+      "comment": "Centennial Trail"
     }
   ],
-  "totalActivities": 40,
-  "activeDays": 35,
+  "totalActivities": 41,
+  "activeDays": 36,
   "restDays": 28
 }

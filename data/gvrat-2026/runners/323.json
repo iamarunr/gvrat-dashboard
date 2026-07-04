@@ -683,9 +683,17 @@
       "type": "walk",
       "time": null,
       "comment": "po mleko z mama"
+    },
+    {
+      "date": "2026-07-03",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 67,
   "activeDays": 45,
-  "restDays": 18
+  "restDays": 19
 }

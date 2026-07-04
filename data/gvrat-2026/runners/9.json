@@ -507,9 +507,17 @@
       "type": "run",
       "time": null,
       "comment": "and another degas vous all over again\u2026"
+    },
+    {
+      "date": "2026-07-03",
+      "miles": 5.05,
+      "km": 8.13,
+      "type": "run",
+      "time": null,
+      "comment": "should be a slog activity\u2026did start out as run\u2026.but\u2026."
     }
   ],
-  "totalActivities": 63,
-  "activeDays": 63,
+  "totalActivities": 64,
+  "activeDays": 64,
   "restDays": 0
 }
