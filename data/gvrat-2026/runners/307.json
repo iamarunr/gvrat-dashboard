@@ -558,54 +558,78 @@
     },
     {
       "date": "2026-06-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.32,
+      "km": 10.17,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Boogie Nights 10k"
     },
     {
       "date": "2026-06-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 12.51,
+      "km": 20.13,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Attempted long run"
     },
     {
       "date": "2026-06-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.23,
+      "km": 5.2,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Recovery run"
     },
     {
       "date": "2026-06-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.09,
+      "km": 8.19,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Del Mar!"
     },
     {
       "date": "2026-07-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.05,
+      "km": 6.52,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Del Mar"
+    },
+    {
+      "date": "2026-07-01",
+      "miles": 2.56,
+      "km": 4.12,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk to and from SD Fair and concert"
     },
     {
       "date": "2026-07-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.02,
+      "km": 6.47,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Del Mar"
+    },
+    {
+      "date": "2026-07-02",
+      "miles": 3.62,
+      "km": 5.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk to/ from meals"
+    },
+    {
+      "date": "2026-07-03",
+      "miles": 4.03,
+      "km": 6.49,
+      "type": "run",
+      "time": null,
+      "comment": "Del Mar- Solana Beach"
     }
   ],
-  "totalActivities": 69,
-  "activeDays": 57,
-  "restDays": 6
+  "totalActivities": 78,
+  "activeDays": 64,
+  "restDays": 0
 }

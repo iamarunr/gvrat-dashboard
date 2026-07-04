@@ -707,9 +707,17 @@
       "type": "walk",
       "time": null,
       "comment": "McF; Mag with swim time; 16#; 6 am with 96 index"
+    },
+    {
+      "date": "2026-07-03",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "McF; Mag swim x2; 10#; shade"
     }
   ],
-  "totalActivities": 76,
-  "activeDays": 51,
+  "totalActivities": 77,
+  "activeDays": 52,
   "restDays": 12
 }

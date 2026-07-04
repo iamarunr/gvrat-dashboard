@@ -515,9 +515,17 @@
       "type": "run",
       "time": null,
       "comment": "Classic"
+    },
+    {
+      "date": "2026-07-03",
+      "miles": 6.21,
+      "km": 9.99,
+      "type": "run",
+      "time": null,
+      "comment": "Slow Solo"
     }
   ],
-  "totalActivities": 44,
-  "activeDays": 43,
+  "totalActivities": 45,
+  "activeDays": 44,
   "restDays": 20
 }

@@ -675,9 +675,17 @@
       "type": "run",
       "time": null,
       "comment": "3389' ascent.  The Bear 2026 revised course ending (Beaver Mtn to Garden City)"
+    },
+    {
+      "date": "2026-07-03",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 84,
   "activeDays": 63,
-  "restDays": 0
+  "restDays": 1
 }

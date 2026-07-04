@@ -891,9 +891,25 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and walk to nail salon and back"
+    },
+    {
+      "date": "2026-07-03",
+      "miles": 3.17,
+      "km": 5.1,
+      "type": "run",
+      "time": null,
+      "comment": "Enterprise threshold run -17 minutes hot \u00f0\u009f\u00a5\u00b5 hot \u00f0\u009f\u00a5\u00b5 hot \u00f0\u009f\u00a5\u00b5"
+    },
+    {
+      "date": "2026-07-03",
+      "miles": 1.53,
+      "km": 2.46,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk day at the river"
     }
   ],
-  "totalActivities": 111,
-  "activeDays": 63,
+  "totalActivities": 113,
+  "activeDays": 64,
   "restDays": 0
 }

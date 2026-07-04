@@ -502,14 +502,22 @@
     },
     {
       "date": "2026-07-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.75,
+      "km": 2.82,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walked with Eddie\ud83d\udc15 today before it got too hot\ud83c\udf21"
+    },
+    {
+      "date": "2026-07-03",
+      "miles": 2.13,
+      "km": 3.43,
+      "type": "walk",
+      "time": null,
+      "comment": "Walked with Eddie\ud83d\udc15 today. Eddie doesn't like \ud83c\udf86\ud83e\udde8\ud83c\udf87 booms so kept it short."
     }
   ],
-  "totalActivities": 62,
-  "activeDays": 62,
-  "restDays": 1
+  "totalActivities": 64,
+  "activeDays": 64,
+  "restDays": 0
 }
