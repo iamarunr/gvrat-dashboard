@@ -686,11 +686,11 @@
     },
     {
       "date": "2026-07-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.45,
+      "km": 11.99,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "My foot wasn't feeling too bad"
     },
     {
       "date": "2026-07-03",
@@ -699,9 +699,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-04",
+      "miles": 5.34,
+      "km": 8.59,
+      "type": "run",
+      "time": null,
+      "comment": "Late for Parkrun then the last 3k with Roland"
+    },
+    {
+      "date": "2026-07-04",
+      "miles": 4.35,
+      "km": 7.0,
+      "type": "walk",
+      "time": null,
+      "comment": "Shopping!"
     }
   ],
-  "totalActivities": 69,
-  "activeDays": 46,
-  "restDays": 18
+  "totalActivities": 72,
+  "activeDays": 48,
+  "restDays": 17
 }

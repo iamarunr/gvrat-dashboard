@@ -523,9 +523,17 @@
       "type": "run",
       "time": null,
       "comment": "Slow Solo"
+    },
+    {
+      "date": "2026-07-04",
+      "miles": 15.53,
+      "km": 24.99,
+      "type": "run",
+      "time": null,
+      "comment": "longer than expected"
     }
   ],
-  "totalActivities": 45,
-  "activeDays": 44,
+  "totalActivities": 46,
+  "activeDays": 45,
   "restDays": 20
 }

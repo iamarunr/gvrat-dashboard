@@ -587,9 +587,17 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-04",
+      "miles": 3.69,
+      "km": 5.94,
+      "type": "walk",
+      "time": null,
+      "comment": "trip to Eupen"
     }
   ],
-  "totalActivities": 73,
-  "activeDays": 64,
+  "totalActivities": 74,
+  "activeDays": 65,
   "restDays": 0
 }

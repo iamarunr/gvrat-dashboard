@@ -683,9 +683,17 @@
       "type": "walk",
       "time": null,
       "comment": "Marshall Gulch + Aspen Loop + Road (Mt Lemmon)"
+    },
+    {
+      "date": "2026-07-04",
+      "miles": 9.1,
+      "km": 14.64,
+      "type": "walk",
+      "time": null,
+      "comment": "Tom's Thumb +"
     }
   ],
-  "totalActivities": 77,
-  "activeDays": 56,
+  "totalActivities": 78,
+  "activeDays": 57,
   "restDays": 8
 }

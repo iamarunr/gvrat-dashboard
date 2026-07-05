@@ -907,9 +907,25 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk day at the river"
+    },
+    {
+      "date": "2026-07-04",
+      "miles": 1.53,
+      "km": 2.46,
+      "type": "run",
+      "time": null,
+      "comment": "Interval workout on treadmill- slept in and too hot outside but too hot inside too"
+    },
+    {
+      "date": "2026-07-04",
+      "miles": 2.47,
+      "km": 3.98,
+      "type": "walk",
+      "time": null,
+      "comment": "Collegedale for firework show"
     }
   ],
-  "totalActivities": 113,
-  "activeDays": 64,
+  "totalActivities": 115,
+  "activeDays": 65,
   "restDays": 0
 }

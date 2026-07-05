@@ -1067,9 +1067,25 @@
       "type": "walk",
       "time": null,
       "comment": "Evening"
+    },
+    {
+      "date": "2026-07-04",
+      "miles": 10.0,
+      "km": 16.09,
+      "type": "walk",
+      "time": null,
+      "comment": "Silver and Medical lake with  Mary"
+    },
+    {
+      "date": "2026-07-04",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Afternoon"
     }
   ],
-  "totalActivities": 133,
-  "activeDays": 64,
+  "totalActivities": 135,
+  "activeDays": 65,
   "restDays": 0
 }

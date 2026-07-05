@@ -555,9 +555,17 @@
       "type": "walk",
       "time": null,
       "comment": "Centennial Trail"
+    },
+    {
+      "date": "2026-07-04",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "run",
+      "time": null,
+      "comment": "BRRC 4th of July Run"
     }
   ],
-  "totalActivities": 41,
-  "activeDays": 36,
+  "totalActivities": 42,
+  "activeDays": 37,
   "restDays": 28
 }
