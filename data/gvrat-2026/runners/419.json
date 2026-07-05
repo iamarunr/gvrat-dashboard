@@ -542,14 +542,22 @@
     },
     {
       "date": "2026-07-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.8,
+      "km": 4.51,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Marche forc\u00e9e."
+    },
+    {
+      "date": "2026-07-04",
+      "miles": 16.12,
+      "km": 25.94,
+      "type": "run",
+      "time": null,
+      "comment": "Grande boucle par Montferrier,col de la loze,Freychenet,Nalzen."
     }
   ],
-  "totalActivities": 47,
-  "activeDays": 43,
-  "restDays": 21
+  "totalActivities": 49,
+  "activeDays": 45,
+  "restDays": 20
 }

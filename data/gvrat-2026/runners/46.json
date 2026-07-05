@@ -1190,14 +1190,30 @@
     },
     {
       "date": "2026-07-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.31,
+      "km": 2.11,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4044 Albuquerque Run"
+    },
+    {
+      "date": "2026-07-03",
+      "miles": 5.29,
+      "km": 8.51,
+      "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-04",
+      "miles": 10.01,
+      "km": 16.11,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4045 Tramway MultiUse Trl Run"
     }
   ],
-  "totalActivities": 148,
-  "activeDays": 63,
-  "restDays": 1
+  "totalActivities": 151,
+  "activeDays": 65,
+  "restDays": 0
 }

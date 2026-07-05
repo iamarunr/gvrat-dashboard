@@ -627,9 +627,17 @@
       "type": "run",
       "time": null,
       "comment": "It was a hot one."
+    },
+    {
+      "date": "2026-07-04",
+      "miles": 5.41,
+      "km": 8.71,
+      "type": "run",
+      "time": null,
+      "comment": "Another toasty run."
     }
   ],
-  "totalActivities": 64,
-  "activeDays": 50,
+  "totalActivities": 65,
+  "activeDays": 51,
   "restDays": 14
 }

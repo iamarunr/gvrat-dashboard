@@ -515,9 +515,17 @@
       "type": "run",
       "time": null,
       "comment": "should be a slog activity\u2026did start out as run\u2026.but\u2026."
+    },
+    {
+      "date": "2026-07-04",
+      "miles": 8.28,
+      "km": 13.33,
+      "type": "run",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 64,
-  "activeDays": 64,
+  "totalActivities": 65,
+  "activeDays": 65,
   "restDays": 0
 }

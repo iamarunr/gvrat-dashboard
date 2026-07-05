@@ -678,14 +678,30 @@
     },
     {
       "date": "2026-07-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 8.01,
+      "km": 12.89,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "971' ascent.  Temple Peak lollipop w/ fox sighting \ud83e\udd8a\ud83d\ude00"
+    },
+    {
+      "date": "2026-07-03",
+      "miles": 4.41,
+      "km": 7.1,
+      "type": "walk",
+      "time": null,
+      "comment": "728' ascent.  Burnt Fork w/ Rick"
+    },
+    {
+      "date": "2026-07-04",
+      "miles": 2.3,
+      "km": 3.7,
+      "type": "walk",
+      "time": null,
+      "comment": "52' ascent.  Bear Lake Heritage Park loop.  This was supposed to be an 8 mile run, but I've developed a hamstring strain, so ended up just doing a short walk."
     }
   ],
-  "totalActivities": 84,
-  "activeDays": 63,
-  "restDays": 1
+  "totalActivities": 87,
+  "activeDays": 65,
+  "restDays": 0
 }

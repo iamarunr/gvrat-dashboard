@@ -518,30 +518,46 @@
     },
     {
       "date": "2026-06-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.65,
+      "km": 7.48,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "swim, bike, walk"
     },
     {
       "date": "2026-07-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.7,
+      "km": 5.95,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-07-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "walk",
+      "time": null,
+      "comment": "morning walk, barre class"
+    },
+    {
+      "date": "2026-07-03",
+      "miles": 1.38,
+      "km": 2.22,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-07-03",
+      "miles": 2.67,
+      "km": 4.3,
+      "type": "run",
+      "time": null,
+      "comment": "run after swim"
+    },
+    {
+      "date": "2026-07-04",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -549,7 +565,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 63,
-  "activeDays": 59,
-  "restDays": 5
+  "totalActivities": 68,
+  "activeDays": 63,
+  "restDays": 2
 }
