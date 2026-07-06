@@ -718,22 +718,38 @@
     },
     {
       "date": "2026-07-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.15,
+      "km": 6.68,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Upper Garden City Canyon"
+    },
+    {
+      "date": "2026-07-03",
+      "miles": 4.54,
+      "km": 7.31,
+      "type": "walk",
+      "time": null,
+      "comment": "Burnt Fork"
     },
     {
       "date": "2026-07-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.23,
+      "km": 8.42,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "5 Miles for the 4th of July"
+    },
+    {
+      "date": "2026-07-05",
+      "miles": 3.87,
+      "km": 6.23,
+      "type": "run",
+      "time": null,
+      "comment": "Sweetwater Park Drive to Sweetwater Parkway and Back"
     }
   ],
-  "totalActivities": 86,
-  "activeDays": 60,
-  "restDays": 5
+  "totalActivities": 90,
+  "activeDays": 63,
+  "restDays": 3
 }

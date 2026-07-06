@@ -1211,9 +1211,25 @@
       "type": "run",
       "time": null,
       "comment": "RSD 4045 Tramway MultiUse Trl Run"
+    },
+    {
+      "date": "2026-07-05",
+      "miles": 2.01,
+      "km": 3.23,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4046 Domingo Baca Park Run"
+    },
+    {
+      "date": "2026-07-05",
+      "miles": 5.25,
+      "km": 8.45,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 151,
-  "activeDays": 65,
+  "totalActivities": 153,
+  "activeDays": 66,
   "restDays": 0
 }

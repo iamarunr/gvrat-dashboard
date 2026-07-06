@@ -691,9 +691,17 @@
       "type": "walk",
       "time": null,
       "comment": "Tom's Thumb +"
+    },
+    {
+      "date": "2026-07-05",
+      "miles": 4.84,
+      "km": 7.79,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 78,
-  "activeDays": 57,
+  "totalActivities": 79,
+  "activeDays": 58,
   "restDays": 8
 }

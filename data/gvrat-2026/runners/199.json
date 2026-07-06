@@ -595,9 +595,17 @@
       "type": "walk",
       "time": null,
       "comment": "trip to Eupen"
+    },
+    {
+      "date": "2026-07-05",
+      "miles": 6.32,
+      "km": 10.17,
+      "type": "run",
+      "time": null,
+      "comment": "through the rain, finally"
     }
   ],
-  "totalActivities": 74,
-  "activeDays": 65,
+  "totalActivities": 75,
+  "activeDays": 66,
   "restDays": 0
 }

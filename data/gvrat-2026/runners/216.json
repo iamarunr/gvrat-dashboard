@@ -579,9 +579,17 @@
       "type": "walk",
       "time": null,
       "comment": "LOTW"
+    },
+    {
+      "date": "2026-07-05",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "run",
+      "time": null,
+      "comment": "Run/walk at the Gravel Pond"
     }
   ],
-  "totalActivities": 43,
-  "activeDays": 36,
+  "totalActivities": 44,
+  "activeDays": 37,
   "restDays": 29
 }

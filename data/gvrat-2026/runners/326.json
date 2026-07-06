@@ -771,9 +771,17 @@
       "type": "walk",
       "time": null,
       "comment": "Black Crater Hike plus extra"
+    },
+    {
+      "date": "2026-07-05",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
     }
   ],
-  "totalActivities": 93,
-  "activeDays": 62,
+  "totalActivities": 94,
+  "activeDays": 63,
   "restDays": 3
 }

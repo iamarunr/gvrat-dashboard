@@ -566,25 +566,33 @@
     },
     {
       "date": "2026-06-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.27,
+      "km": 5.26,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 2.35,
+      "km": 3.78,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-06-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.2,
+      "km": 8.37,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-06-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.03,
+      "km": 6.49,
+      "type": "run",
       "time": null,
       "comment": ""
     },
@@ -598,17 +606,17 @@
     },
     {
       "date": "2026-06-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-06-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.54,
+      "km": 8.92,
+      "type": "run",
       "time": null,
       "comment": ""
     },
@@ -622,22 +630,30 @@
     },
     {
       "date": "2026-07-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.62,
+      "km": 9.04,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-07-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.5,
+      "km": 8.85,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-07-04",
+      "miles": 5.57,
+      "km": 8.96,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-05",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -645,7 +661,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 62,
-  "activeDays": 47,
-  "restDays": 18
+  "totalActivities": 71,
+  "activeDays": 55,
+  "restDays": 11
 }
