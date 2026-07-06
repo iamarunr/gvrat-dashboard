@@ -414,11 +414,11 @@
     },
     {
       "date": "2026-06-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 10.05,
+      "km": 16.17,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "https://strava.app.link/uwDfztyOx4b"
     },
     {
       "date": "2026-06-21",
@@ -430,11 +430,11 @@
     },
     {
       "date": "2026-06-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "https://strava.app.link/BvaXWhFOx4b"
     },
     {
       "date": "2026-06-23",
@@ -446,11 +446,11 @@
     },
     {
       "date": "2026-06-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.95,
+      "km": 6.36,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "https://strava.app.link/R6uYxMNOx4b"
     },
     {
       "date": "2026-06-25",
@@ -470,11 +470,11 @@
     },
     {
       "date": "2026-06-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 87.44,
+      "km": 140.72,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "https://strava.app.link/KqwsPfTOx4b\r\n\r\nMoving time was 24:53:44 but system didn't allow me to submit beyond 24-hrs.\r\nThis was the 2026 Western States time."
     },
     {
       "date": "2026-06-28",
@@ -518,14 +518,22 @@
     },
     {
       "date": "2026-07-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.01,
+      "km": 9.67,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "https://strava.app.link/N92f1eePx4b"
     },
     {
       "date": "2026-07-04",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "run",
+      "time": null,
+      "comment": "https://strava.app.link/JoajdQiPx4b"
+    },
+    {
+      "date": "2026-07-05",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -533,7 +541,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 36,
-  "activeDays": 35,
-  "restDays": 30
+  "totalActivities": 42,
+  "activeDays": 41,
+  "restDays": 25
 }

@@ -715,9 +715,33 @@
       "type": "walk",
       "time": null,
       "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-07-05",
+      "miles": 1.97,
+      "km": 3.17,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-07-05",
+      "miles": 2.79,
+      "km": 4.49,
+      "type": "run",
+      "time": null,
+      "comment": "Feeble run walk effort."
+    },
+    {
+      "date": "2026-07-05",
+      "miles": 0.67,
+      "km": 1.08,
+      "type": "walk",
+      "time": null,
+      "comment": "Neighborhood lap."
     }
   ],
-  "totalActivities": 83,
-  "activeDays": 59,
+  "totalActivities": 86,
+  "activeDays": 60,
   "restDays": 6
 }

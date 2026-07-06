@@ -534,6 +534,14 @@
     },
     {
       "date": "2026-07-04",
+      "miles": 5.3,
+      "km": 8.53,
+      "type": "walk",
+      "time": null,
+      "comment": "yak peak hike"
+    },
+    {
+      "date": "2026-07-05",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -541,7 +549,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 31,
-  "activeDays": 29,
+  "totalActivities": 32,
+  "activeDays": 30,
   "restDays": 36
 }

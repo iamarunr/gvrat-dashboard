@@ -478,11 +478,11 @@
     },
     {
       "date": "2026-06-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.37,
+      "km": 2.2,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Langdon Hills Walk"
     },
     {
       "date": "2026-06-23",
@@ -494,11 +494,11 @@
     },
     {
       "date": "2026-06-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.83,
+      "km": 6.16,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Pitsea RC Club Run - Orange Group"
     },
     {
       "date": "2026-06-25",
@@ -510,11 +510,11 @@
     },
     {
       "date": "2026-06-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.49,
+      "km": 5.62,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Treadmill Run - Intervals"
     },
     {
       "date": "2026-06-27",
@@ -526,11 +526,19 @@
     },
     {
       "date": "2026-06-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walk to and From Supermarketathon Run"
+    },
+    {
+      "date": "2026-06-28",
+      "miles": 15.22,
+      "km": 24.49,
+      "type": "run",
+      "time": null,
+      "comment": "Supermarketathon"
     },
     {
       "date": "2026-06-29",
@@ -542,19 +550,19 @@
     },
     {
       "date": "2026-06-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.62,
+      "km": 4.22,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Track Session"
     },
     {
       "date": "2026-07-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.7,
+      "km": 4.35,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Putting Up the C2C Signs"
     },
     {
       "date": "2026-07-02",
@@ -574,14 +582,22 @@
     },
     {
       "date": "2026-07-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 13.24,
+      "km": 21.31,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Women's Run Series Battersea Park"
+    },
+    {
+      "date": "2026-07-05",
+      "miles": 6.25,
+      "km": 10.06,
+      "type": "run",
+      "time": null,
+      "comment": "Billericay 10k"
     }
   ],
-  "totalActivities": 45,
-  "activeDays": 38,
-  "restDays": 27
+  "totalActivities": 54,
+  "activeDays": 46,
+  "restDays": 20
 }

@@ -563,9 +563,17 @@
       "type": "run",
       "time": null,
       "comment": "BRRC 4th of July Run"
+    },
+    {
+      "date": "2026-07-05",
+      "miles": 4.05,
+      "km": 6.52,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 42,
-  "activeDays": 37,
+  "totalActivities": 43,
+  "activeDays": 38,
   "restDays": 28
 }

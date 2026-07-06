@@ -534,14 +534,22 @@
     },
     {
       "date": "2026-07-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.07,
+      "km": 9.77,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Dam/Aullwood slow with little energy."
+    },
+    {
+      "date": "2026-07-05",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "walk",
+      "time": null,
+      "comment": "Out and back; humid"
     }
   ],
-  "totalActivities": 52,
-  "activeDays": 50,
-  "restDays": 15
+  "totalActivities": 54,
+  "activeDays": 52,
+  "restDays": 14
 }

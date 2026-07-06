@@ -699,9 +699,17 @@
       "type": "run",
       "time": null,
       "comment": "lunch run"
+    },
+    {
+      "date": "2026-07-05",
+      "miles": 9.12,
+      "km": 14.68,
+      "type": "run",
+      "time": null,
+      "comment": "morning run"
     }
   ],
-  "totalActivities": 68,
-  "activeDays": 46,
+  "totalActivities": 69,
+  "activeDays": 47,
   "restDays": 19
 }

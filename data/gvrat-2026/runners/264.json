@@ -758,22 +758,30 @@
     },
     {
       "date": "2026-07-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.22,
+      "km": 6.79,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "King Farm Loop+ Redland/Gaither  to CVS"
     },
     {
       "date": "2026-07-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.02,
+      "km": 11.3,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "SHMP Long Run #4 - Needwood"
+    },
+    {
+      "date": "2026-07-05",
+      "miles": 2.49,
+      "km": 4.01,
+      "type": "walk",
+      "time": null,
+      "comment": "Half-King Farm Loop up Gaither (Storm's a-comin'!)"
     }
   ],
-  "totalActivities": 76,
-  "activeDays": 45,
-  "restDays": 20
+  "totalActivities": 79,
+  "activeDays": 48,
+  "restDays": 18
 }

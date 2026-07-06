@@ -1123,9 +1123,25 @@
       "type": "run",
       "time": null,
       "comment": "Fredonia"
+    },
+    {
+      "date": "2026-07-05",
+      "miles": 4.52,
+      "km": 7.27,
+      "type": "run",
+      "time": null,
+      "comment": "Fredonia"
+    },
+    {
+      "date": "2026-07-05",
+      "miles": 1.1,
+      "km": 1.77,
+      "type": "walk",
+      "time": null,
+      "comment": "Dunkirk"
     }
   ],
-  "totalActivities": 139,
-  "activeDays": 64,
+  "totalActivities": 141,
+  "activeDays": 65,
   "restDays": 1
 }

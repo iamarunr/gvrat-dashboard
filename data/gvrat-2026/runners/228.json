@@ -526,22 +526,30 @@
     },
     {
       "date": "2026-07-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 14.0,
+      "km": 22.53,
+      "type": "walk",
+      "time": null,
+      "comment": "Popsicle half marsthon"
+    },
+    {
+      "date": "2026-07-04",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
-      "date": "2026-07-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-07-05",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 60,
-  "activeDays": 58,
-  "restDays": 7
+  "totalActivities": 63,
+  "activeDays": 61,
+  "restDays": 5
 }
