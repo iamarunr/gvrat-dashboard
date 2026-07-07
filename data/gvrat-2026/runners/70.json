@@ -1086,14 +1086,38 @@
     },
     {
       "date": "2026-07-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Afternoon"
+    },
+    {
+      "date": "2026-07-05",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning"
+    },
+    {
+      "date": "2026-07-06",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Afternoon"
+    },
+    {
+      "date": "2026-07-06",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "run",
+      "time": null,
+      "comment": "Hot!  Evening run U District"
     }
   ],
-  "totalActivities": 135,
-  "activeDays": 65,
-  "restDays": 1
+  "totalActivities": 139,
+  "activeDays": 67,
+  "restDays": 0
 }

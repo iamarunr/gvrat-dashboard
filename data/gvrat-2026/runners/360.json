@@ -795,9 +795,25 @@
       "type": "walk",
       "time": null,
       "comment": "Hot walk with hubs \u00f0\u009f\u00a5\u00b5\u00f0\u009f\u00a5\u00b5"
+    },
+    {
+      "date": "2026-07-06",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-06",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 94,
-  "activeDays": 61,
+  "totalActivities": 96,
+  "activeDays": 62,
   "restDays": 5
 }

@@ -747,9 +747,33 @@
       "type": "run",
       "time": null,
       "comment": "Sweetwater Park Drive to Sweetwater Parkway and Back"
+    },
+    {
+      "date": "2026-07-05",
+      "miles": 6.19,
+      "km": 9.96,
+      "type": "walk",
+      "time": null,
+      "comment": "Slideout Canyon with Terri"
+    },
+    {
+      "date": "2026-07-06",
+      "miles": 2.7,
+      "km": 4.35,
+      "type": "run",
+      "time": null,
+      "comment": "Playa Ostional Interval Run on Treadmill"
+    },
+    {
+      "date": "2026-07-06",
+      "miles": 3.34,
+      "km": 5.38,
+      "type": "walk",
+      "time": null,
+      "comment": "Bear Lake Scenic Trail"
     }
   ],
-  "totalActivities": 90,
-  "activeDays": 63,
+  "totalActivities": 93,
+  "activeDays": 64,
   "restDays": 3
 }
