@@ -643,9 +643,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-06",
+      "miles": 4.07,
+      "km": 6.55,
+      "type": "walk",
+      "time": null,
+      "comment": "Just a hot walk"
     }
   ],
-  "totalActivities": 65,
-  "activeDays": 51,
+  "totalActivities": 66,
+  "activeDays": 52,
   "restDays": 15
 }

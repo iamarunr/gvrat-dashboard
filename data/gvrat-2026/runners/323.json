@@ -707,9 +707,17 @@
       "type": "run",
       "time": null,
       "comment": "morning run"
+    },
+    {
+      "date": "2026-07-06",
+      "miles": 0.98,
+      "km": 1.58,
+      "type": "walk",
+      "time": null,
+      "comment": "night walk"
     }
   ],
-  "totalActivities": 69,
-  "activeDays": 47,
+  "totalActivities": 70,
+  "activeDays": 48,
   "restDays": 19
 }

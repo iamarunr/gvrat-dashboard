@@ -838,22 +838,38 @@
     },
     {
       "date": "2026-07-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.0,
+      "km": 11.27,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-07-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.66,
+      "km": 1.06,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-04",
+      "miles": 0.37,
+      "km": 0.6,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-07-05",
+      "miles": 6.09,
+      "km": 9.8,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-06",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -861,7 +877,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 98,
-  "activeDays": 57,
-  "restDays": 9
+  "totalActivities": 102,
+  "activeDays": 60,
+  "restDays": 7
 }

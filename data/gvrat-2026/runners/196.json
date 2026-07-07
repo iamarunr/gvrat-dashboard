@@ -1027,9 +1027,17 @@
       "type": "walk",
       "time": null,
       "comment": "Omg. What a makeup day!"
+    },
+    {
+      "date": "2026-07-06",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
+      "time": null,
+      "comment": "All day."
     }
   ],
-  "totalActivities": 116,
-  "activeDays": 54,
+  "totalActivities": 117,
+  "activeDays": 55,
   "restDays": 12
 }

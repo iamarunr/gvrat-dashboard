@@ -699,9 +699,17 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-06",
+      "miles": 5.07,
+      "km": 8.16,
+      "type": "walk",
+      "time": null,
+      "comment": "Pyramid w/ B"
     }
   ],
-  "totalActivities": 79,
-  "activeDays": 58,
+  "totalActivities": 80,
+  "activeDays": 59,
   "restDays": 8
 }

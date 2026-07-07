@@ -619,9 +619,25 @@
       "type": "walk",
       "time": null,
       "comment": "Walk with Patrick at Fairgrounds"
+    },
+    {
+      "date": "2026-07-06",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-07-06",
+      "miles": 3.25,
+      "km": 5.23,
+      "type": "walk",
+      "time": null,
+      "comment": "Work neighborhood walk"
     }
   ],
-  "totalActivities": 49,
-  "activeDays": 38,
+  "totalActivities": 51,
+  "activeDays": 39,
   "restDays": 28
 }

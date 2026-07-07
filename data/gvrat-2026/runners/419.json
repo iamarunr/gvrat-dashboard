@@ -563,9 +563,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-06",
+      "miles": 4.83,
+      "km": 7.77,
+      "type": "run",
+      "time": null,
+      "comment": "Petite boucle par Mondini."
     }
   ],
-  "totalActivities": 49,
-  "activeDays": 45,
+  "totalActivities": 50,
+  "activeDays": 46,
   "restDays": 21
 }

@@ -779,9 +779,17 @@
       "type": "walk",
       "time": null,
       "comment": "Half-King Farm Loop up Gaither (Storm's a-comin'!)"
+    },
+    {
+      "date": "2026-07-06",
+      "miles": 5.24,
+      "km": 8.43,
+      "type": "run",
+      "time": null,
+      "comment": "SHMP Monday Run - Capital Crescent Trail"
     }
   ],
-  "totalActivities": 79,
-  "activeDays": 48,
+  "totalActivities": 80,
+  "activeDays": 49,
   "restDays": 18
 }

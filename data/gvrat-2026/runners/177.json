@@ -1139,9 +1139,25 @@
       "type": "walk",
       "time": null,
       "comment": "Dunkirk"
+    },
+    {
+      "date": "2026-07-06",
+      "miles": 5.13,
+      "km": 8.26,
+      "type": "run",
+      "time": null,
+      "comment": "Fredonia"
+    },
+    {
+      "date": "2026-07-06",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "Point Gratiot"
     }
   ],
-  "totalActivities": 141,
-  "activeDays": 65,
+  "totalActivities": 143,
+  "activeDays": 66,
   "restDays": 1
 }
