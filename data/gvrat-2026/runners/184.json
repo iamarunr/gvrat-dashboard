@@ -939,9 +939,25 @@
       "type": "walk",
       "time": null,
       "comment": "Morning walk , walk around beauty parlor and evening walk"
+    },
+    {
+      "date": "2026-07-07",
+      "miles": 3.26,
+      "km": 5.25,
+      "type": "run",
+      "time": null,
+      "comment": "Collegedale run before work"
+    },
+    {
+      "date": "2026-07-07",
+      "miles": 1.54,
+      "km": 2.48,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and rest of day"
     }
   ],
-  "totalActivities": 117,
-  "activeDays": 67,
+  "totalActivities": 119,
+  "activeDays": 68,
   "restDays": 0
 }

@@ -550,35 +550,43 @@
     },
     {
       "date": "2026-06-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.95,
+      "km": 7.97,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Lebanon Valley Rail Trail"
     },
     {
       "date": "2026-07-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.97,
+      "km": 6.39,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "GBR Federal Pointe Inn"
+    },
+    {
+      "date": "2026-07-01",
+      "miles": 1.56,
+      "km": 2.51,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking & Working"
     },
     {
       "date": "2026-07-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.12,
+      "km": 6.63,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking & Working"
     },
     {
       "date": "2026-07-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.03,
+      "km": 4.88,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking & Working"
     },
     {
       "date": "2026-07-04",
@@ -590,11 +598,11 @@
     },
     {
       "date": "2026-07-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking & Working"
     },
     {
       "date": "2026-07-06",
@@ -603,9 +611,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-07",
+      "miles": 3.12,
+      "km": 5.02,
+      "type": "walk",
+      "time": null,
+      "comment": "Cavalry Field"
     }
   ],
-  "totalActivities": 46,
-  "activeDays": 38,
-  "restDays": 29
+  "totalActivities": 53,
+  "activeDays": 44,
+  "restDays": 24
 }

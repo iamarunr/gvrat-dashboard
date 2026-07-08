@@ -635,9 +635,17 @@
       "type": "walk",
       "time": null,
       "comment": "Work neighborhood walk"
+    },
+    {
+      "date": "2026-07-07",
+      "miles": 5.5,
+      "km": 8.85,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
     }
   ],
-  "totalActivities": 51,
-  "activeDays": 39,
+  "totalActivities": 52,
+  "activeDays": 40,
   "restDays": 28
 }

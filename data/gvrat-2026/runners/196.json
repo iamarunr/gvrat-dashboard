@@ -1035,9 +1035,25 @@
       "type": "walk",
       "time": null,
       "comment": "All day."
+    },
+    {
+      "date": "2026-07-07",
+      "miles": 3.05,
+      "km": 4.91,
+      "type": "walk",
+      "time": null,
+      "comment": "Brisk morning with D. O. G."
+    },
+    {
+      "date": "2026-07-07",
+      "miles": 3.05,
+      "km": 4.91,
+      "type": "walk",
+      "time": null,
+      "comment": "Finish."
     }
   ],
-  "totalActivities": 117,
-  "activeDays": 55,
+  "totalActivities": 119,
+  "activeDays": 56,
   "restDays": 12
 }

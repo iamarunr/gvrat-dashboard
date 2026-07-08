@@ -702,22 +702,46 @@
     },
     {
       "date": "2026-07-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "1167' ascent.  Uphill treadmill (hamstring rehab)"
+    },
+    {
+      "date": "2026-07-05",
+      "miles": 7.0,
+      "km": 11.27,
+      "type": "walk",
+      "time": null,
+      "comment": "1204' ascent.  Slideout Canyon w/ Rick"
     },
     {
       "date": "2026-07-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 9.26,
+      "km": 14.9,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "1804' ascent.  Richardson & Hodges Canyons.  A little bit of easy running to test the hamstring."
+    },
+    {
+      "date": "2026-07-07",
+      "miles": 8.03,
+      "km": 12.92,
+      "type": "run",
+      "time": null,
+      "comment": "167' ascent.  Union Pacific Rail Trail from Wanship, UT.  Very easy continuous running - testing the hamstring."
+    },
+    {
+      "date": "2026-07-07",
+      "miles": 3.13,
+      "km": 5.04,
+      "type": "walk",
+      "time": null,
+      "comment": "394' ascent.  Mid Mountain Trail w/ Rick"
     }
   ],
-  "totalActivities": 87,
-  "activeDays": 65,
-  "restDays": 2
+  "totalActivities": 92,
+  "activeDays": 68,
+  "restDays": 0
 }

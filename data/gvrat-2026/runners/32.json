@@ -651,9 +651,17 @@
       "type": "walk",
       "time": null,
       "comment": "Just a hot walk"
+    },
+    {
+      "date": "2026-07-07",
+      "miles": 6.53,
+      "km": 10.51,
+      "type": "run",
+      "time": null,
+      "comment": "Run with some pushups."
     }
   ],
-  "totalActivities": 66,
-  "activeDays": 52,
+  "totalActivities": 67,
+  "activeDays": 53,
   "restDays": 15
 }

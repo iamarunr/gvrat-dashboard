@@ -563,9 +563,17 @@
       "type": "walk",
       "time": null,
       "comment": "driveway"
+    },
+    {
+      "date": "2026-07-07",
+      "miles": 2.18,
+      "km": 3.51,
+      "type": "walk",
+      "time": null,
+      "comment": "soccer conditioning"
     }
   ],
-  "totalActivities": 19,
-  "activeDays": 16,
+  "totalActivities": 20,
+  "activeDays": 17,
   "restDays": 51
 }
