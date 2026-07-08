@@ -718,22 +718,30 @@
     },
     {
       "date": "2026-07-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 10.0,
+      "km": 16.09,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Around the moor even though bits were closed off!"
     },
     {
       "date": "2026-07-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.35,
+      "km": 8.61,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Regular lap, Hoppings all gone!"
+    },
+    {
+      "date": "2026-07-07",
+      "miles": 1.95,
+      "km": 3.14,
+      "type": "walk",
+      "time": null,
+      "comment": "Hello Herons!"
     }
   ],
-  "totalActivities": 72,
-  "activeDays": 48,
-  "restDays": 19
+  "totalActivities": 75,
+  "activeDays": 51,
+  "restDays": 17
 }

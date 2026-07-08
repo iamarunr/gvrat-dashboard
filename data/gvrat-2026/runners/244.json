@@ -723,9 +723,17 @@
       "type": "walk",
       "time": null,
       "comment": "Desert Hills short loop hike to tower road and then some"
+    },
+    {
+      "date": "2026-07-07",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 80,
   "activeDays": 57,
-  "restDays": 10
+  "restDays": 11
 }

@@ -539,9 +539,17 @@
       "type": "run",
       "time": null,
       "comment": "Trail run in the heat."
+    },
+    {
+      "date": "2026-07-07",
+      "miles": 4.39,
+      "km": 7.07,
+      "type": "run",
+      "time": null,
+      "comment": "Trail run."
     }
   ],
-  "totalActivities": 34,
-  "activeDays": 34,
+  "totalActivities": 35,
+  "activeDays": 35,
   "restDays": 33
 }
