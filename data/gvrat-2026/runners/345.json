@@ -555,9 +555,17 @@
       "type": "run",
       "time": null,
       "comment": "after work"
+    },
+    {
+      "date": "2026-07-08",
+      "miles": 6.29,
+      "km": 10.12,
+      "type": "run",
+      "time": null,
+      "comment": "frain"
     }
   ],
-  "totalActivities": 47,
-  "activeDays": 46,
+  "totalActivities": 48,
+  "activeDays": 47,
   "restDays": 22
 }

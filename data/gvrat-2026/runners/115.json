@@ -1195,9 +1195,17 @@
       "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-08",
+      "miles": 7.05,
+      "km": 11.35,
+      "type": "run",
+      "time": null,
+      "comment": "Westridge"
     }
   ],
-  "totalActivities": 140,
-  "activeDays": 59,
+  "totalActivities": 141,
+  "activeDays": 60,
   "restDays": 9
 }

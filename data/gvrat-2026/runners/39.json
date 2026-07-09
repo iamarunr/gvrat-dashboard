@@ -691,9 +691,17 @@
       "type": "walk",
       "time": null,
       "comment": "two dog walks"
+    },
+    {
+      "date": "2026-07-08",
+      "miles": 3.92,
+      "km": 6.31,
+      "type": "walk",
+      "time": null,
+      "comment": "one dog walk and a not parkrun"
     }
   ],
-  "totalActivities": 84,
-  "activeDays": 66,
+  "totalActivities": 85,
+  "activeDays": 67,
   "restDays": 2
 }

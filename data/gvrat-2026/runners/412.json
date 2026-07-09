@@ -587,9 +587,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-08",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "anti-gravity treadmill"
     }
   ],
-  "totalActivities": 44,
-  "activeDays": 39,
+  "totalActivities": 45,
+  "activeDays": 40,
   "restDays": 29
 }

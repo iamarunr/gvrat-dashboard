@@ -574,14 +574,30 @@
     },
     {
       "date": "2026-07-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 9.65,
+      "km": 15.53,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Boucle par Freychenet Celles ."
+    },
+    {
+      "date": "2026-07-07",
+      "miles": 1.47,
+      "km": 2.37,
+      "type": "walk",
+      "time": null,
+      "comment": "Marche retour de la boucle par Land\u00e8s."
+    },
+    {
+      "date": "2026-07-08",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "walk",
+      "time": null,
+      "comment": "Marche ."
     }
   ],
-  "totalActivities": 50,
-  "activeDays": 46,
-  "restDays": 22
+  "totalActivities": 53,
+  "activeDays": 48,
+  "restDays": 21
 }
