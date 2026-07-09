@@ -1251,9 +1251,25 @@
       "type": "run",
       "time": null,
       "comment": "RSD 4048"
+    },
+    {
+      "date": "2026-07-07",
+      "miles": 4.31,
+      "km": 6.94,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-08",
+      "miles": 4.06,
+      "km": 6.53,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4049 - Alameda Open Space Bosque Multiuse path Run"
     }
   ],
-  "totalActivities": 156,
-  "activeDays": 68,
+  "totalActivities": 158,
+  "activeDays": 69,
   "restDays": 0
 }

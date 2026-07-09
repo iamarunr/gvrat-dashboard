@@ -790,14 +790,30 @@
     },
     {
       "date": "2026-07-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.87,
+      "km": 6.23,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Bethesda Office Loop"
+    },
+    {
+      "date": "2026-07-07",
+      "miles": 5.03,
+      "km": 8.09,
+      "type": "run",
+      "time": null,
+      "comment": "SHMP Track Workout"
+    },
+    {
+      "date": "2026-07-08",
+      "miles": 4.15,
+      "km": 6.68,
+      "type": "walk",
+      "time": null,
+      "comment": "Office-NIH Loop"
     }
   ],
-  "totalActivities": 80,
-  "activeDays": 49,
-  "restDays": 19
+  "totalActivities": 83,
+  "activeDays": 51,
+  "restDays": 18
 }

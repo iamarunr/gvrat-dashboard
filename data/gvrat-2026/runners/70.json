@@ -1147,9 +1147,33 @@
       "type": "run",
       "time": null,
       "comment": "Evening- hot!!! \u00f0\u009f\u00a5\u00b5"
+    },
+    {
+      "date": "2026-07-08",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "run",
+      "time": null,
+      "comment": "Morning\u2026 already hot \ud83e\udd75"
+    },
+    {
+      "date": "2026-07-08",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Lunchtime"
+    },
+    {
+      "date": "2026-07-08",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Riverfront with Melissa"
     }
   ],
-  "totalActivities": 143,
-  "activeDays": 68,
+  "totalActivities": 146,
+  "activeDays": 69,
   "restDays": 0
 }

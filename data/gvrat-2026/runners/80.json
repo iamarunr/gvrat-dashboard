@@ -571,9 +571,25 @@
       "type": "walk",
       "time": null,
       "comment": "soccer conditioning"
+    },
+    {
+      "date": "2026-07-07",
+      "miles": 0.2,
+      "km": 0.32,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-08",
+      "miles": 2.08,
+      "km": 3.35,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 20,
-  "activeDays": 17,
+  "totalActivities": 22,
+  "activeDays": 18,
   "restDays": 51
 }

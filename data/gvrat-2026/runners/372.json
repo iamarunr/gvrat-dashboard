@@ -739,9 +739,25 @@
       "type": "walk",
       "time": null,
       "comment": "Hello Herons!"
+    },
+    {
+      "date": "2026-07-08",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "run",
+      "time": null,
+      "comment": "Heatwave three begins!"
+    },
+    {
+      "date": "2026-07-08",
+      "miles": 5.19,
+      "km": 8.35,
+      "type": "walk",
+      "time": null,
+      "comment": "All that way and no shopping!"
     }
   ],
-  "totalActivities": 75,
-  "activeDays": 51,
+  "totalActivities": 77,
+  "activeDays": 52,
   "restDays": 17
 }

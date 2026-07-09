@@ -603,9 +603,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-08",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "run",
+      "time": null,
+      "comment": "Run/walk at the Gravel Pond"
     }
   ],
-  "totalActivities": 44,
-  "activeDays": 37,
+  "totalActivities": 45,
+  "activeDays": 38,
   "restDays": 31
 }

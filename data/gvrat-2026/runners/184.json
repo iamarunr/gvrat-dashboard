@@ -955,9 +955,17 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and rest of day"
+    },
+    {
+      "date": "2026-07-08",
+      "miles": 4.4,
+      "km": 7.08,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning walk and walked the dogs at enterprise in the evening"
     }
   ],
-  "totalActivities": 119,
-  "activeDays": 68,
+  "totalActivities": 120,
+  "activeDays": 69,
   "restDays": 0
 }
