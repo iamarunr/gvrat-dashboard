@@ -595,9 +595,17 @@
       "type": "walk",
       "time": null,
       "comment": "Marche ."
+    },
+    {
+      "date": "2026-07-09",
+      "miles": 7.57,
+      "km": 12.18,
+      "type": "run",
+      "time": null,
+      "comment": "Petite boucle encore sous la canicule depuis 15 jours...et ce n est pas fini..."
     }
   ],
-  "totalActivities": 53,
-  "activeDays": 48,
+  "totalActivities": 54,
+  "activeDays": 49,
   "restDays": 21
 }

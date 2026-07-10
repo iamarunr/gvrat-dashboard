@@ -963,9 +963,25 @@
       "type": "walk",
       "time": null,
       "comment": "Morning walk and walked the dogs at enterprise in the evening"
+    },
+    {
+      "date": "2026-07-09",
+      "miles": 3.21,
+      "km": 5.17,
+      "type": "run",
+      "time": null,
+      "comment": "Collegedale Friday Eve run before work"
+    },
+    {
+      "date": "2026-07-09",
+      "miles": 1.39,
+      "km": 2.24,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown and rest  of day"
     }
   ],
-  "totalActivities": 120,
-  "activeDays": 69,
+  "totalActivities": 122,
+  "activeDays": 70,
   "restDays": 0
 }

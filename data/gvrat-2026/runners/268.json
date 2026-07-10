@@ -558,46 +558,54 @@
     },
     {
       "date": "2026-07-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.4,
+      "km": 3.86,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-07-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.25,
+      "km": 3.62,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "swim and bike morning"
     },
     {
       "date": "2026-07-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.85,
+      "km": 4.59,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "morning walk and fit club"
     },
     {
       "date": "2026-07-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.7,
+      "km": 4.35,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "morning walk"
     },
     {
       "date": "2026-07-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.8,
+      "km": 7.72,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "morning walk, fit club, evening walk"
+    },
+    {
+      "date": "2026-07-09",
+      "miles": 2.7,
+      "km": 4.35,
+      "type": "walk",
+      "time": null,
+      "comment": "morning walk, barre, evening walk"
     }
   ],
-  "totalActivities": 68,
-  "activeDays": 63,
-  "restDays": 6
+  "totalActivities": 74,
+  "activeDays": 69,
+  "restDays": 1
 }
