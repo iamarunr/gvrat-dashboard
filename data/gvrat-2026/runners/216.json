@@ -611,9 +611,17 @@
       "type": "run",
       "time": null,
       "comment": "Run/walk at the Gravel Pond"
+    },
+    {
+      "date": "2026-07-09",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill 1-2-1% elevation"
     }
   ],
-  "totalActivities": 45,
-  "activeDays": 38,
+  "totalActivities": 46,
+  "activeDays": 39,
   "restDays": 31
 }

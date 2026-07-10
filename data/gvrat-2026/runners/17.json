@@ -590,9 +590,17 @@
     },
     {
       "date": "2026-07-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.52,
+      "km": 2.45,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-06",
+      "miles": 4.4,
+      "km": 7.08,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
@@ -606,14 +614,22 @@
     },
     {
       "date": "2026-07-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.07,
+      "km": 11.38,
+      "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-09",
+      "miles": 5.52,
+      "km": 8.88,
+      "type": "walk",
+      "time": null,
+      "comment": "Hike bledsoe"
     }
   ],
-  "totalActivities": 43,
-  "activeDays": 36,
-  "restDays": 33
+  "totalActivities": 47,
+  "activeDays": 39,
+  "restDays": 31
 }
