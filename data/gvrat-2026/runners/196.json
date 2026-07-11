@@ -1067,9 +1067,25 @@
       "type": "walk",
       "time": null,
       "comment": "Long tm walk."
+    },
+    {
+      "date": "2026-07-10",
+      "miles": 3.15,
+      "km": 5.07,
+      "type": "walk",
+      "time": null,
+      "comment": "Early morning beat the heat"
+    },
+    {
+      "date": "2026-07-10",
+      "miles": 1.35,
+      "km": 2.17,
+      "type": "walk",
+      "time": null,
+      "comment": "To daily goal."
     }
   ],
-  "totalActivities": 121,
-  "activeDays": 58,
+  "totalActivities": 123,
+  "activeDays": 59,
   "restDays": 12
 }

@@ -670,22 +670,38 @@
     },
     {
       "date": "2026-07-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.1,
+      "km": 8.21,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Del Mar to SB"
     },
     {
       "date": "2026-07-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.26,
+      "km": 5.25,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Easy run before bike"
+    },
+    {
+      "date": "2026-07-09",
+      "miles": 1.26,
+      "km": 2.03,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk to from dinner"
+    },
+    {
+      "date": "2026-07-10",
+      "miles": 5.1,
+      "km": 8.21,
+      "type": "run",
+      "time": null,
+      "comment": "Del Mar to SB"
     }
   ],
-  "totalActivities": 83,
-  "activeDays": 68,
-  "restDays": 2
+  "totalActivities": 87,
+  "activeDays": 71,
+  "restDays": 0
 }

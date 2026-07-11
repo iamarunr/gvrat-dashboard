@@ -603,9 +603,17 @@
       "type": "walk",
       "time": null,
       "comment": "morning walk, barre, evening walk"
+    },
+    {
+      "date": "2026-07-10",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 74,
   "activeDays": 69,
-  "restDays": 1
+  "restDays": 2
 }

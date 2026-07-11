@@ -563,9 +563,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total- travel back to Kingsley"
+    },
+    {
+      "date": "2026-07-10",
+      "miles": 5.25,
+      "km": 8.45,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total- Kingsley - checking bees with Bud"
     }
   ],
-  "totalActivities": 67,
-  "activeDays": 67,
+  "totalActivities": 68,
+  "activeDays": 68,
   "restDays": 3
 }

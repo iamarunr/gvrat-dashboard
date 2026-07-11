@@ -742,22 +742,30 @@
     },
     {
       "date": "2026-07-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 18.37,
+      "km": 29.56,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "3652' ascent.  Wasatch Crest, Desolation & Dog Lakes"
     },
     {
       "date": "2026-07-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 9.01,
+      "km": 14.5,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "1516' ascent.  Charlie's 9K, Bloods Lake, Bonanza Flats (BLT)"
+    },
+    {
+      "date": "2026-07-10",
+      "miles": 5.4,
+      "km": 8.69,
+      "type": "run",
+      "time": null,
+      "comment": "705' ascent.  Bonanza Loop Trail w/ Rick & moose!"
     }
   ],
-  "totalActivities": 92,
-  "activeDays": 68,
-  "restDays": 2
+  "totalActivities": 95,
+  "activeDays": 71,
+  "restDays": 0
 }

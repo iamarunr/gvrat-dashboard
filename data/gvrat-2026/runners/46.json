@@ -1283,9 +1283,25 @@
       "type": "run",
       "time": null,
       "comment": "RSD 4050"
+    },
+    {
+      "date": "2026-07-09",
+      "miles": 4.64,
+      "km": 7.47,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-10",
+      "miles": 1.02,
+      "km": 1.64,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4051"
     }
   ],
-  "totalActivities": 160,
-  "activeDays": 70,
+  "totalActivities": 162,
+  "activeDays": 71,
   "restDays": 0
 }

@@ -630,14 +630,22 @@
     },
     {
       "date": "2026-07-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.87,
+      "km": 6.23,
+      "type": "run",
+      "time": null,
+      "comment": "sweating in the forest"
+    },
+    {
+      "date": "2026-07-10",
+      "miles": 3.62,
+      "km": 5.83,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 78,
-  "activeDays": 69,
-  "restDays": 1
+  "totalActivities": 80,
+  "activeDays": 71,
+  "restDays": 0
 }

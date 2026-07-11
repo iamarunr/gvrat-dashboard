@@ -603,9 +603,17 @@
       "type": "run",
       "time": null,
       "comment": "Petite boucle encore sous la canicule depuis 15 jours...et ce n est pas fini..."
+    },
+    {
+      "date": "2026-07-10",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 54,
   "activeDays": 49,
-  "restDays": 21
+  "restDays": 22
 }
