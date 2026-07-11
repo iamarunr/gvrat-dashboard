@@ -619,9 +619,17 @@
       "type": "walk",
       "time": null,
       "comment": "Treadmill 1-2-1% elevation"
+    },
+    {
+      "date": "2026-07-10",
+      "miles": 2.39,
+      "km": 3.85,
+      "type": "walk",
+      "time": null,
+      "comment": "walk with Christopher and the dogs"
     }
   ],
-  "totalActivities": 46,
-  "activeDays": 39,
+  "totalActivities": 47,
+  "activeDays": 40,
   "restDays": 31
 }

@@ -819,9 +819,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-10",
+      "miles": 4.24,
+      "km": 6.82,
+      "type": "walk",
+      "time": null,
+      "comment": "Office - NIH Loop"
     }
   ],
-  "totalActivities": 83,
-  "activeDays": 51,
+  "totalActivities": 84,
+  "activeDays": 52,
   "restDays": 19
 }

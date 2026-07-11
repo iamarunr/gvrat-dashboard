@@ -979,9 +979,17 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown and rest  of day"
+    },
+    {
+      "date": "2026-07-10",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning walk and trip to Costco"
     }
   ],
-  "totalActivities": 122,
-  "activeDays": 70,
+  "totalActivities": 123,
+  "activeDays": 71,
   "restDays": 0
 }
