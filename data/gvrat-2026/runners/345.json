@@ -579,9 +579,17 @@
       "type": "run",
       "time": null,
       "comment": "extension to willoughby"
+    },
+    {
+      "date": "2026-07-11",
+      "miles": 15.53,
+      "km": 24.99,
+      "type": "run",
+      "time": null,
+      "comment": "Long one"
     }
   ],
-  "totalActivities": 50,
-  "activeDays": 49,
+  "totalActivities": 51,
+  "activeDays": 50,
   "restDays": 22
 }

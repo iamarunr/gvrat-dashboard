@@ -1190,14 +1190,38 @@
     },
     {
       "date": "2026-07-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Morning"
+    },
+    {
+      "date": "2026-07-10",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Afternoon"
+    },
+    {
+      "date": "2026-07-11",
+      "miles": 8.5,
+      "km": 13.68,
+      "type": "run",
+      "time": null,
+      "comment": "Morning. Smoke in the air \u00f0\u009f\u00a4\u00a2"
+    },
+    {
+      "date": "2026-07-11",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Afternoon, wind changed and smoke is better"
     }
   ],
-  "totalActivities": 148,
-  "activeDays": 70,
-  "restDays": 1
+  "totalActivities": 152,
+  "activeDays": 72,
+  "restDays": 0
 }

@@ -1083,9 +1083,17 @@
       "type": "walk",
       "time": null,
       "comment": "To daily goal."
+    },
+    {
+      "date": "2026-07-11",
+      "miles": 5.73,
+      "km": 9.22,
+      "type": "walk",
+      "time": null,
+      "comment": "With all the girls at the lake."
     }
   ],
-  "totalActivities": 123,
-  "activeDays": 59,
+  "totalActivities": 124,
+  "activeDays": 60,
   "restDays": 12
 }

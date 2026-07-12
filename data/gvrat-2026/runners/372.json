@@ -771,9 +771,17 @@
       "type": "walk",
       "time": null,
       "comment": "This might pay off during Liverpool to Leeds!"
+    },
+    {
+      "date": "2026-07-11",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 78,
   "activeDays": 53,
-  "restDays": 18
+  "restDays": 19
 }

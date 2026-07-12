@@ -582,14 +582,22 @@
     },
     {
       "date": "2026-07-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.1,
+      "km": 9.82,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Thick humid air slowing me down"
+    },
+    {
+      "date": "2026-07-11",
+      "miles": 6.05,
+      "km": 9.74,
+      "type": "walk",
+      "time": null,
+      "comment": "Northmont high school, Kimmel road loop."
     }
   ],
-  "totalActivities": 58,
-  "activeDays": 56,
-  "restDays": 15
+  "totalActivities": 60,
+  "activeDays": 58,
+  "restDays": 14
 }

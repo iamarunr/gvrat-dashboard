@@ -726,38 +726,54 @@
     },
     {
       "date": "2026-07-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.5,
+      "km": 8.85,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning walk in the hood"
     },
     {
       "date": "2026-07-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.24,
+      "km": 3.6,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning Remi Walk"
     },
     {
       "date": "2026-07-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.53,
+      "km": 7.29,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning walk in the hood"
     },
     {
       "date": "2026-07-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.3,
+      "km": 8.53,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Piestewa > Freedom trail w/T & M"
+    },
+    {
+      "date": "2026-07-11",
+      "miles": 3.9,
+      "km": 6.28,
+      "type": "walk",
+      "time": null,
+      "comment": "Desert Hills hike - Sidewinder > Tower Hill Road loop"
+    },
+    {
+      "date": "2026-07-11",
+      "miles": 10.3,
+      "km": 16.58,
+      "type": "walk",
+      "time": null,
+      "comment": "Shaw Butte + 2nd Tower Repeats w/T, M & Jennifer M"
     }
   ],
-  "totalActivities": 80,
-  "activeDays": 57,
-  "restDays": 14
+  "totalActivities": 86,
+  "activeDays": 62,
+  "restDays": 10
 }

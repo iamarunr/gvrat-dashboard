@@ -742,14 +742,22 @@
     },
     {
       "date": "2026-07-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.03,
+      "km": 8.09,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Piestewa + Freedom"
+    },
+    {
+      "date": "2026-07-11",
+      "miles": 10.23,
+      "km": 16.46,
+      "type": "walk",
+      "time": null,
+      "comment": "Shaw Butte Hill repeats"
     }
   ],
-  "totalActivities": 84,
-  "activeDays": 62,
-  "restDays": 9
+  "totalActivities": 86,
+  "activeDays": 64,
+  "restDays": 8
 }

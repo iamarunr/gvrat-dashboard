@@ -987,9 +987,25 @@
       "type": "walk",
       "time": null,
       "comment": "Morning walk and trip to Costco"
+    },
+    {
+      "date": "2026-07-11",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "run",
+      "time": null,
+      "comment": "Quick 5k before day with jams"
+    },
+    {
+      "date": "2026-07-11",
+      "miles": 1.89,
+      "km": 3.04,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and time with Jammaw"
     }
   ],
-  "totalActivities": 123,
-  "activeDays": 71,
+  "totalActivities": 125,
+  "activeDays": 72,
   "restDays": 0
 }

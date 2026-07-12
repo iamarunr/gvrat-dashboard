@@ -1227,9 +1227,17 @@
       "type": "walk",
       "time": null,
       "comment": "Hiked Beatty"
+    },
+    {
+      "date": "2026-07-11",
+      "miles": 11.0,
+      "km": 17.7,
+      "type": "run",
+      "time": null,
+      "comment": "Treadmill walk / run"
     }
   ],
-  "totalActivities": 152,
-  "activeDays": 70,
+  "totalActivities": 153,
+  "activeDays": 71,
   "restDays": 1
 }
