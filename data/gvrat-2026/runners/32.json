@@ -686,14 +686,22 @@
     },
     {
       "date": "2026-07-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.02,
+      "km": 9.69,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Easy run"
+    },
+    {
+      "date": "2026-07-11",
+      "miles": 11.35,
+      "km": 18.27,
+      "type": "run",
+      "time": null,
+      "comment": "Bridge loop with Phil"
     }
   ],
-  "totalActivities": 70,
-  "activeDays": 55,
-  "restDays": 16
+  "totalActivities": 72,
+  "activeDays": 57,
+  "restDays": 15
 }

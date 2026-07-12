@@ -667,9 +667,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-11",
+      "miles": 1.75,
+      "km": 2.82,
+      "type": "walk",
+      "time": null,
+      "comment": "Farmer's market and walk with Patrick"
     }
   ],
-  "totalActivities": 53,
-  "activeDays": 41,
+  "totalActivities": 54,
+  "activeDays": 42,
   "restDays": 30
 }

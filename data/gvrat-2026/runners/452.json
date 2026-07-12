@@ -571,9 +571,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total- Kingsley - checking bees with Bud"
+    },
+    {
+      "date": "2026-07-11",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total"
     }
   ],
-  "totalActivities": 68,
-  "activeDays": 68,
+  "totalActivities": 69,
+  "activeDays": 69,
   "restDays": 3
 }

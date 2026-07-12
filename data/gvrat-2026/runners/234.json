@@ -774,38 +774,62 @@
     },
     {
       "date": "2026-07-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.23,
+      "km": 10.03,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Historic Union Pacific Rail Trail"
+    },
+    {
+      "date": "2026-07-07",
+      "miles": 3.21,
+      "km": 5.17,
+      "type": "walk",
+      "time": null,
+      "comment": "Mid Mountain Trail with Terri"
     },
     {
       "date": "2026-07-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.93,
+      "km": 9.54,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Round Valley"
     },
     {
       "date": "2026-07-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.36,
+      "km": 10.24,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Park City Rail Trail"
     },
     {
       "date": "2026-07-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.54,
+      "km": 8.92,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Bonanza Loop Trail with Terri"
+    },
+    {
+      "date": "2026-07-10",
+      "miles": 2.31,
+      "km": 3.72,
+      "type": "walk",
+      "time": null,
+      "comment": "Silver Lake Area with Terri"
+    },
+    {
+      "date": "2026-07-11",
+      "miles": 6.33,
+      "km": 10.19,
+      "type": "run",
+      "time": null,
+      "comment": "Park City Rail Trail"
     }
   ],
-  "totalActivities": 93,
-  "activeDays": 64,
-  "restDays": 7
+  "totalActivities": 100,
+  "activeDays": 69,
+  "restDays": 3
 }
