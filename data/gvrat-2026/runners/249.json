@@ -595,9 +595,17 @@
       "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-12",
+      "miles": 6.75,
+      "km": 10.86,
+      "type": "run",
+      "time": null,
+      "comment": "Cool summer morning double tri."
     }
   ],
-  "totalActivities": 63,
-  "activeDays": 61,
+  "totalActivities": 64,
+  "activeDays": 62,
   "restDays": 11
 }

@@ -630,22 +630,30 @@
     },
     {
       "date": "2026-07-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.0,
+      "km": 11.27,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-07-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.5,
+      "km": 12.07,
+      "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-12",
+      "miles": 22.0,
+      "km": 35.41,
+      "type": "walk",
+      "time": null,
+      "comment": "Midnight Madness course"
     }
   ],
-  "totalActivities": 75,
-  "activeDays": 67,
-  "restDays": 5
+  "totalActivities": 78,
+  "activeDays": 70,
+  "restDays": 3
 }

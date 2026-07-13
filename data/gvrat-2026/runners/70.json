@@ -1219,9 +1219,25 @@
       "type": "walk",
       "time": null,
       "comment": "Afternoon, wind changed and smoke is better"
+    },
+    {
+      "date": "2026-07-12",
+      "miles": 8.5,
+      "km": 13.68,
+      "type": "walk",
+      "time": null,
+      "comment": "Silver lake long loop with the girls"
+    },
+    {
+      "date": "2026-07-12",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening"
     }
   ],
-  "totalActivities": 152,
-  "activeDays": 72,
+  "totalActivities": 154,
+  "activeDays": 73,
   "restDays": 0
 }

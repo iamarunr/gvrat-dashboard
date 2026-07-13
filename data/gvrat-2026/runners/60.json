@@ -923,9 +923,17 @@
       "type": "walk",
       "time": null,
       "comment": "FIFA fan walk"
+    },
+    {
+      "date": "2026-07-12",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 108,
-  "activeDays": 65,
+  "totalActivities": 109,
+  "activeDays": 66,
   "restDays": 7
 }

@@ -1003,9 +1003,25 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and time with Jammaw"
+    },
+    {
+      "date": "2026-07-12",
+      "miles": 3.21,
+      "km": 5.17,
+      "type": "walk",
+      "time": null,
+      "comment": "Enterprise walk with Cynthia"
+    },
+    {
+      "date": "2026-07-12",
+      "miles": 1.49,
+      "km": 2.4,
+      "type": "walk",
+      "time": null,
+      "comment": "Another trip to costco"
     }
   ],
-  "totalActivities": 125,
-  "activeDays": 72,
+  "totalActivities": 127,
+  "activeDays": 73,
   "restDays": 0
 }

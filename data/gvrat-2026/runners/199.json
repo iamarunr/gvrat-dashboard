@@ -659,9 +659,17 @@
       "type": "walk",
       "time": null,
       "comment": "To the forest cafe"
+    },
+    {
+      "date": "2026-07-12",
+      "miles": 8.92,
+      "km": 14.36,
+      "type": "walk",
+      "time": null,
+      "comment": "sweating in a forest near Roermond (NL)"
     }
   ],
-  "totalActivities": 82,
-  "activeDays": 72,
+  "totalActivities": 83,
+  "activeDays": 73,
   "restDays": 0
 }
