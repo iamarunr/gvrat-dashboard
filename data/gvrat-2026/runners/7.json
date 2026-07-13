@@ -755,9 +755,17 @@
       "type": "walk",
       "time": null,
       "comment": "Shaw Butte Hill repeats"
+    },
+    {
+      "date": "2026-07-12",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 86,
-  "activeDays": 64,
+  "totalActivities": 87,
+  "activeDays": 65,
   "restDays": 8
 }

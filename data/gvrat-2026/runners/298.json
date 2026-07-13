@@ -675,9 +675,17 @@
       "type": "walk",
       "time": null,
       "comment": "Farmer's market and walk with Patrick"
+    },
+    {
+      "date": "2026-07-12",
+      "miles": 10.04,
+      "km": 16.16,
+      "type": "run",
+      "time": null,
+      "comment": "Mags from Ned with Leyla"
     }
   ],
-  "totalActivities": 54,
-  "activeDays": 42,
+  "totalActivities": 55,
+  "activeDays": 43,
   "restDays": 30
 }

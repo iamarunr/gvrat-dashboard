@@ -774,30 +774,46 @@
     },
     {
       "date": "2026-07-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.56,
+      "km": 0.9,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-07-09",
+      "miles": 3.62,
+      "km": 5.83,
+      "type": "run",
+      "time": null,
+      "comment": "Cactus Huggers Trail Group."
     },
     {
       "date": "2026-07-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.01,
+      "km": 1.63,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking the dogs."
     },
     {
       "date": "2026-07-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.74,
+      "km": 12.46,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Pass Mountain Trail."
+    },
+    {
+      "date": "2026-07-12",
+      "miles": 2.02,
+      "km": 3.25,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs."
     }
   ],
-  "totalActivities": 90,
-  "activeDays": 63,
-  "restDays": 9
+  "totalActivities": 95,
+  "activeDays": 67,
+  "restDays": 6
 }

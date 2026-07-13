@@ -765,15 +765,47 @@
       "comment": "705' ascent.  Bonanza Loop Trail w/ Rick & moose!"
     },
     {
-      "date": "2026-07-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-07-10",
+      "miles": 2.27,
+      "km": 3.65,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "243' ascent.  Silver Lake area w/ Rick"
+    },
+    {
+      "date": "2026-07-11",
+      "miles": 0.53,
+      "km": 0.85,
+      "type": "run",
+      "time": null,
+      "comment": "33' ascent.  Warmup for Deer Creek Half Marathon - Part I"
+    },
+    {
+      "date": "2026-07-11",
+      "miles": 0.53,
+      "km": 0.85,
+      "type": "run",
+      "time": null,
+      "comment": "16' ascent.  Warmup for Deer Creek Half Marathon - Part II"
+    },
+    {
+      "date": "2026-07-11",
+      "miles": 13.1,
+      "km": 21.08,
+      "type": "run",
+      "time": null,
+      "comment": "1237' ascent.  Deer Creek Half Marathon"
+    },
+    {
+      "date": "2026-07-12",
+      "miles": 10.68,
+      "km": 17.19,
+      "type": "walk",
+      "time": null,
+      "comment": "3363' ascent.  Naomi Peak, High Lake & Tony Grove Lake"
     }
   ],
-  "totalActivities": 95,
-  "activeDays": 71,
-  "restDays": 1
+  "totalActivities": 100,
+  "activeDays": 73,
+  "restDays": 0
 }

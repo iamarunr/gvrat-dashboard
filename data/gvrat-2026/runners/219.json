@@ -598,22 +598,46 @@
     },
     {
       "date": "2026-07-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 51.46,
+      "km": 82.82,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Merrill\u2019s Mile 48 hour run \u2014 day 2"
     },
     {
       "date": "2026-07-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 42.48,
+      "km": 68.36,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Merrill\u2019s Mile \u2014 2nd day"
+    },
+    {
+      "date": "2026-07-11",
+      "miles": 8.05,
+      "km": 12.96,
+      "type": "run",
+      "time": null,
+      "comment": "Merrill\u2019s Mile, day 2 \u2014 final push to 100."
+    },
+    {
+      "date": "2026-07-12",
+      "miles": 7.01,
+      "km": 11.28,
+      "type": "run",
+      "time": null,
+      "comment": "Merrill\u2019s Mile \u2014 getting in a few miles on the last morning."
+    },
+    {
+      "date": "2026-07-12",
+      "miles": 0.35,
+      "km": 0.56,
+      "type": "walk",
+      "time": null,
+      "comment": "Merrill\u2019s Mile \u2014 post race walk to get the car."
     }
   ],
-  "totalActivities": 37,
-  "activeDays": 33,
-  "restDays": 39
+  "totalActivities": 42,
+  "activeDays": 36,
+  "restDays": 37
 }

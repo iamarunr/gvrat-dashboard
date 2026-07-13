@@ -1091,9 +1091,25 @@
       "type": "walk",
       "time": null,
       "comment": "With all the girls at the lake."
+    },
+    {
+      "date": "2026-07-12",
+      "miles": 7.0,
+      "km": 11.27,
+      "type": "walk",
+      "time": null,
+      "comment": "Mild morning walk"
+    },
+    {
+      "date": "2026-07-12",
+      "miles": 2.04,
+      "km": 3.28,
+      "type": "walk",
+      "time": null,
+      "comment": "Warm evening"
     }
   ],
-  "totalActivities": 124,
-  "activeDays": 60,
+  "totalActivities": 126,
+  "activeDays": 61,
   "restDays": 12
 }

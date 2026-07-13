@@ -1315,9 +1315,25 @@
       "type": "run",
       "time": null,
       "comment": "RSD 4052 Sedona AZ"
+    },
+    {
+      "date": "2026-07-11",
+      "miles": 6.46,
+      "km": 10.4,
+      "type": "walk",
+      "time": null,
+      "comment": "Lots of walking in Sedona AZ"
+    },
+    {
+      "date": "2026-07-12",
+      "miles": 3.03,
+      "km": 4.88,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4053 Sedona AZ"
     }
   ],
-  "totalActivities": 164,
-  "activeDays": 72,
+  "totalActivities": 166,
+  "activeDays": 73,
   "restDays": 0
 }

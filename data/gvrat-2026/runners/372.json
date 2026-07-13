@@ -774,14 +774,30 @@
     },
     {
       "date": "2026-07-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.67,
+      "km": 4.3,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Post Parkrun stuff"
+    },
+    {
+      "date": "2026-07-11",
+      "miles": 5.59,
+      "km": 9.0,
+      "type": "run",
+      "time": null,
+      "comment": "Parkrun with Roland"
+    },
+    {
+      "date": "2026-07-12",
+      "miles": 12.0,
+      "km": 19.31,
+      "type": "run",
+      "time": null,
+      "comment": "Quite a warm one!"
     }
   ],
-  "totalActivities": 78,
-  "activeDays": 53,
-  "restDays": 19
+  "totalActivities": 81,
+  "activeDays": 55,
+  "restDays": 18
 }
