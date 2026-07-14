@@ -582,22 +582,30 @@
     },
     {
       "date": "2026-07-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 45.0,
+      "km": 72.42,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Merrills Mile"
     },
     {
       "date": "2026-07-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 58.0,
+      "km": 93.34,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Merrills Mile"
     },
     {
       "date": "2026-07-12",
+      "miles": 22.0,
+      "km": 35.41,
+      "type": "walk",
+      "time": null,
+      "comment": "Merrills mile"
+    },
+    {
+      "date": "2026-07-13",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -605,7 +613,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 39,
-  "activeDays": 37,
-  "restDays": 36
+  "totalActivities": 42,
+  "activeDays": 40,
+  "restDays": 34
 }

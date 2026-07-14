@@ -718,11 +718,11 @@
     },
     {
       "date": "2026-07-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.6,
+      "km": 7.4,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walks in Denali park"
     },
     {
       "date": "2026-07-12",
@@ -731,9 +731,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-13",
+      "miles": 3.2,
+      "km": 5.15,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking to and on Matanuska Glacier"
     }
   ],
-  "totalActivities": 85,
-  "activeDays": 67,
-  "restDays": 6
+  "totalActivities": 87,
+  "activeDays": 69,
+  "restDays": 5
 }

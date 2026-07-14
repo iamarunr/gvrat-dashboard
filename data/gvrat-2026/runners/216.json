@@ -630,11 +630,11 @@
     },
     {
       "date": "2026-07-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.54,
+      "km": 0.87,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "LOTW"
     },
     {
       "date": "2026-07-12",
@@ -643,9 +643,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-13",
+      "miles": 2.05,
+      "km": 3.3,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk with dogs"
+    },
+    {
+      "date": "2026-07-13",
+      "miles": 3.1,
+      "km": 4.99,
+      "type": "run",
+      "time": null,
+      "comment": "Treadmill 0-2% incline"
     }
   ],
-  "totalActivities": 47,
-  "activeDays": 40,
-  "restDays": 33
+  "totalActivities": 50,
+  "activeDays": 42,
+  "restDays": 32
 }

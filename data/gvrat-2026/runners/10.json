@@ -587,9 +587,17 @@
       "type": "run",
       "time": null,
       "comment": "State 48 MI! Plus before after race"
+    },
+    {
+      "date": "2026-07-13",
+      "miles": 3.9,
+      "km": 6.28,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 73,
-  "activeDays": 73,
+  "totalActivities": 74,
+  "activeDays": 74,
   "restDays": 0
 }

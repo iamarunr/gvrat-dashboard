@@ -1019,9 +1019,17 @@
       "type": "walk",
       "time": null,
       "comment": "Another trip to costco"
+    },
+    {
+      "date": "2026-07-13",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning walk and evening walk"
     }
   ],
-  "totalActivities": 127,
-  "activeDays": 73,
+  "totalActivities": 128,
+  "activeDays": 74,
   "restDays": 0
 }

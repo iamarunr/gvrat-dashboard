@@ -635,9 +635,17 @@
       "type": "walk",
       "time": null,
       "comment": "Merrill\u2019s Mile \u2014 post race walk to get the car."
+    },
+    {
+      "date": "2026-07-13",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 42,
   "activeDays": 36,
-  "restDays": 37
+  "restDays": 38
 }
