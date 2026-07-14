@@ -830,22 +830,30 @@
     },
     {
       "date": "2026-07-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.76,
+      "km": 12.49,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "SHMP Long Run - Candy Cane City (North)"
     },
     {
       "date": "2026-07-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.94,
+      "km": 9.56,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Seneca Greenway Hike (Rt. 355 Trailhead)"
+    },
+    {
+      "date": "2026-07-13",
+      "miles": 5.12,
+      "km": 8.24,
+      "type": "run",
+      "time": null,
+      "comment": "SHMP Monday Run - CCT"
     }
   ],
-  "totalActivities": 84,
-  "activeDays": 52,
-  "restDays": 21
+  "totalActivities": 87,
+  "activeDays": 55,
+  "restDays": 19
 }

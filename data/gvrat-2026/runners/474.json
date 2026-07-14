@@ -651,9 +651,17 @@
       "type": "walk",
       "time": null,
       "comment": "Midnight Madness course"
+    },
+    {
+      "date": "2026-07-13",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 78,
   "activeDays": 70,
-  "restDays": 3
+  "restDays": 4
 }

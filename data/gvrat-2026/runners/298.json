@@ -683,9 +683,25 @@
       "type": "run",
       "time": null,
       "comment": "Mags from Ned with Leyla"
+    },
+    {
+      "date": "2026-07-13",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-07-13",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "walk",
+      "time": null,
+      "comment": "Work hood"
     }
   ],
-  "totalActivities": 55,
-  "activeDays": 43,
+  "totalActivities": 57,
+  "activeDays": 44,
   "restDays": 30
 }

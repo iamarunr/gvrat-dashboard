@@ -1222,22 +1222,46 @@
     },
     {
       "date": "2026-07-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 13.5,
+      "km": 21.73,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "half road, half trail at Quannah"
+    },
+    {
+      "date": "2026-07-11",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": "dogs"
     },
     {
       "date": "2026-07-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.2,
+      "km": 6.76,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "zoo walk"
+    },
+    {
+      "date": "2026-07-13",
+      "miles": 2.2,
+      "km": 3.54,
+      "type": "walk",
+      "time": null,
+      "comment": "dog walks"
+    },
+    {
+      "date": "2026-07-13",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "run",
+      "time": null,
+      "comment": "morning run"
     }
   ],
-  "totalActivities": 149,
-  "activeDays": 68,
-  "restDays": 5
+  "totalActivities": 154,
+  "activeDays": 71,
+  "restDays": 3
 }
