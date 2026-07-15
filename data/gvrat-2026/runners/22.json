@@ -635,9 +635,17 @@
       "type": "run",
       "time": null,
       "comment": "Pate Hollow Trail with Tazzie."
+    },
+    {
+      "date": "2026-07-14",
+      "miles": 5.08,
+      "km": 8.18,
+      "type": "run",
+      "time": null,
+      "comment": "Switchyard to B-Line Trail."
     }
   ],
-  "totalActivities": 76,
-  "activeDays": 71,
+  "totalActivities": 77,
+  "activeDays": 72,
   "restDays": 3
 }

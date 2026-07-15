@@ -603,9 +603,17 @@
       "type": "run",
       "time": null,
       "comment": "Home to work"
+    },
+    {
+      "date": "2026-07-14",
+      "miles": 7.07,
+      "km": 11.38,
+      "type": "run",
+      "time": null,
+      "comment": "loops & poodle"
     }
   ],
-  "totalActivities": 52,
-  "activeDays": 51,
+  "totalActivities": 53,
+  "activeDays": 52,
   "restDays": 23
 }

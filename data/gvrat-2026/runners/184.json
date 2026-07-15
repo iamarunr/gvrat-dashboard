@@ -1027,9 +1027,25 @@
       "type": "walk",
       "time": null,
       "comment": "Morning walk and evening walk"
+    },
+    {
+      "date": "2026-07-14",
+      "miles": 3.25,
+      "km": 5.23,
+      "type": "run",
+      "time": null,
+      "comment": "Threshold run at Collegedale alone"
+    },
+    {
+      "date": "2026-07-14",
+      "miles": 1.25,
+      "km": 2.01,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and stroll with the boys"
     }
   ],
-  "totalActivities": 128,
-  "activeDays": 74,
+  "totalActivities": 130,
+  "activeDays": 75,
   "restDays": 0
 }

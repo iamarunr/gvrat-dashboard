@@ -715,9 +715,17 @@
       "type": "run",
       "time": null,
       "comment": "just runnin"
+    },
+    {
+      "date": "2026-07-14",
+      "miles": 8.03,
+      "km": 12.92,
+      "type": "run",
+      "time": null,
+      "comment": "Run then a leg workout."
     }
   ],
-  "totalActivities": 73,
-  "activeDays": 58,
+  "totalActivities": 74,
+  "activeDays": 59,
   "restDays": 16
 }

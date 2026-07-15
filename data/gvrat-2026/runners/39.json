@@ -739,9 +739,17 @@
       "type": "walk",
       "time": null,
       "comment": "two dog walks and some farm walking"
+    },
+    {
+      "date": "2026-07-14",
+      "miles": 7.46,
+      "km": 12.01,
+      "type": "walk",
+      "time": null,
+      "comment": "one dog walk and other hiking about at Peaceful Bay"
     }
   ],
-  "totalActivities": 90,
-  "activeDays": 72,
+  "totalActivities": 91,
+  "activeDays": 73,
   "restDays": 2
 }
