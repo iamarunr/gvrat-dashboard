@@ -595,9 +595,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-14",
+      "miles": 9.25,
+      "km": 14.89,
+      "type": "walk",
+      "time": null,
+      "comment": "Two day total, Monday and Tuesday(travel day)"
     }
   ],
-  "totalActivities": 70,
-  "activeDays": 70,
+  "totalActivities": 71,
+  "activeDays": 71,
   "restDays": 4
 }

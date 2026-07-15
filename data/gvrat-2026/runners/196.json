@@ -1131,9 +1131,25 @@
       "type": "walk",
       "time": null,
       "comment": "Hot out"
+    },
+    {
+      "date": "2026-07-14",
+      "miles": 3.69,
+      "km": 5.94,
+      "type": "run",
+      "time": null,
+      "comment": "BB run w/o dog w/CA"
+    },
+    {
+      "date": "2026-07-14",
+      "miles": 1.75,
+      "km": 2.82,
+      "type": "walk",
+      "time": null,
+      "comment": "done for the day"
     }
   ],
-  "totalActivities": 129,
-  "activeDays": 62,
+  "totalActivities": 131,
+  "activeDays": 63,
   "restDays": 12
 }

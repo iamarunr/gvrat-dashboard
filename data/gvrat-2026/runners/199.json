@@ -675,9 +675,17 @@
       "type": "walk",
       "time": null,
       "comment": "Tall ships Antwerp"
+    },
+    {
+      "date": "2026-07-14",
+      "miles": 6.59,
+      "km": 10.61,
+      "type": "walk",
+      "time": null,
+      "comment": "To the Beer museum!"
     }
   ],
-  "totalActivities": 84,
-  "activeDays": 74,
+  "totalActivities": 85,
+  "activeDays": 75,
   "restDays": 0
 }
