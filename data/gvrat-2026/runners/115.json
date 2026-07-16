@@ -1262,14 +1262,22 @@
     },
     {
       "date": "2026-07-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 9.17,
+      "km": 14.76,
+      "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-15",
+      "miles": 7.09,
+      "km": 11.41,
+      "type": "run",
+      "time": null,
+      "comment": "Westridge"
     }
   ],
-  "totalActivities": 148,
-  "activeDays": 65,
-  "restDays": 10
+  "totalActivities": 150,
+  "activeDays": 67,
+  "restDays": 9
 }

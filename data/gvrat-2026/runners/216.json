@@ -667,9 +667,17 @@
       "type": "walk",
       "time": null,
       "comment": "walk with the dogs"
+    },
+    {
+      "date": "2026-07-15",
+      "miles": 3.54,
+      "km": 5.7,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk/run with Kerri and Ericka at the Gravel Pond."
     }
   ],
-  "totalActivities": 51,
-  "activeDays": 43,
+  "totalActivities": 52,
+  "activeDays": 44,
   "restDays": 32
 }

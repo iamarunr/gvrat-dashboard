@@ -798,22 +798,30 @@
     },
     {
       "date": "2026-07-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.99,
+      "km": 12.86,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Waste of time"
     },
     {
       "date": "2026-07-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.59,
+      "km": 12.21,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Waste of time 2"
+    },
+    {
+      "date": "2026-07-15",
+      "miles": 5.85,
+      "km": 9.41,
+      "type": "walk",
+      "time": null,
+      "comment": "Warmer waste of time!"
     }
   ],
-  "totalActivities": 81,
-  "activeDays": 55,
-  "restDays": 20
+  "totalActivities": 84,
+  "activeDays": 58,
+  "restDays": 18
 }

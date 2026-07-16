@@ -635,9 +635,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-15",
+      "miles": 0.72,
+      "km": 1.16,
+      "type": "walk",
+      "time": null,
+      "comment": "Athens OH"
     }
   ],
-  "totalActivities": 24,
-  "activeDays": 20,
+  "totalActivities": 25,
+  "activeDays": 21,
   "restDays": 55
 }
