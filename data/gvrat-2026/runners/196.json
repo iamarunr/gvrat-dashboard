@@ -1147,9 +1147,25 @@
       "type": "walk",
       "time": null,
       "comment": "done for the day"
+    },
+    {
+      "date": "2026-07-15",
+      "miles": 2.36,
+      "km": 3.8,
+      "type": "walk",
+      "time": null,
+      "comment": "Slow stroll on a hot night."
+    },
+    {
+      "date": "2026-07-15",
+      "miles": 2.53,
+      "km": 4.07,
+      "type": "walk",
+      "time": null,
+      "comment": "Late nite tm"
     }
   ],
-  "totalActivities": 131,
-  "activeDays": 63,
+  "totalActivities": 133,
+  "activeDays": 64,
   "restDays": 12
 }

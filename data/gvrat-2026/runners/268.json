@@ -646,14 +646,30 @@
     },
     {
       "date": "2026-07-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.8,
+      "km": 4.51,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "morning walk plus 18 mile bike ride"
+    },
+    {
+      "date": "2026-07-15",
+      "miles": 2.75,
+      "km": 4.43,
+      "type": "walk",
+      "time": null,
+      "comment": "morning walk, sapphire point, book club"
+    },
+    {
+      "date": "2026-07-15",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "walk",
+      "time": null,
+      "comment": "morning walk, fit club, spin"
     }
   ],
-  "totalActivities": 78,
-  "activeDays": 72,
-  "restDays": 3
+  "totalActivities": 81,
+  "activeDays": 74,
+  "restDays": 2
 }

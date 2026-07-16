@@ -619,9 +619,17 @@
       "type": "walk",
       "time": null,
       "comment": "CS and SC"
+    },
+    {
+      "date": "2026-07-15",
+      "miles": 4.8,
+      "km": 7.72,
+      "type": "run",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 43,
-  "activeDays": 41,
+  "totalActivities": 44,
+  "activeDays": 42,
   "restDays": 34
 }

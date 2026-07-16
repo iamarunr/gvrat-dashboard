@@ -651,9 +651,17 @@
       "type": "run",
       "time": null,
       "comment": "5k fun run"
+    },
+    {
+      "date": "2026-07-15",
+      "miles": 3.65,
+      "km": 5.87,
+      "type": "walk",
+      "time": null,
+      "comment": "Saltese Flats"
     }
   ],
-  "totalActivities": 50,
-  "activeDays": 44,
+  "totalActivities": 51,
+  "activeDays": 45,
   "restDays": 31
 }

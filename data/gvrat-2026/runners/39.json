@@ -747,9 +747,17 @@
       "type": "walk",
       "time": null,
       "comment": "one dog walk and other hiking about at Peaceful Bay"
+    },
+    {
+      "date": "2026-07-15",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "walk",
+      "time": null,
+      "comment": "walks at PB"
     }
   ],
-  "totalActivities": 91,
-  "activeDays": 73,
+  "totalActivities": 92,
+  "activeDays": 74,
   "restDays": 2
 }
