@@ -755,9 +755,17 @@
       "type": "walk",
       "time": null,
       "comment": "walks at PB"
+    },
+    {
+      "date": "2026-07-16",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "walk",
+      "time": null,
+      "comment": "various walks PB, Albany"
     }
   ],
-  "totalActivities": 92,
-  "activeDays": 74,
+  "totalActivities": 93,
+  "activeDays": 75,
   "restDays": 2
 }

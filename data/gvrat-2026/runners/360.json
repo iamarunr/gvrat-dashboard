@@ -923,9 +923,41 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-15",
+      "miles": 3.72,
+      "km": 5.99,
+      "type": "walk",
+      "time": null,
+      "comment": "Desk Treadmill Step"
+    },
+    {
+      "date": "2026-07-15",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-16",
+      "miles": 0.58,
+      "km": 0.93,
+      "type": "walk",
+      "time": null,
+      "comment": "Desk Treadmill Steps"
+    },
+    {
+      "date": "2026-07-16",
+      "miles": 2.02,
+      "km": 3.25,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 110,
-  "activeDays": 71,
+  "totalActivities": 114,
+  "activeDays": 72,
   "restDays": 5
 }

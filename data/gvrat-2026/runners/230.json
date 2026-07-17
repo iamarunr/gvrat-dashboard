@@ -598,11 +598,11 @@
     },
     {
       "date": "2026-07-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.28,
+      "km": 5.28,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Wickford Walk"
     },
     {
       "date": "2026-07-07",
@@ -614,19 +614,19 @@
     },
     {
       "date": "2026-07-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.09,
+      "km": 4.97,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "July Crown to Crown"
     },
     {
       "date": "2026-07-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.3,
+      "km": 5.31,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Wickford Walk"
     },
     {
       "date": "2026-07-10",
@@ -638,19 +638,27 @@
     },
     {
       "date": "2026-07-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.13,
+      "km": 5.04,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Malling Rec parkrun"
+    },
+    {
+      "date": "2026-07-11",
+      "miles": 2.12,
+      "km": 3.41,
+      "type": "walk",
+      "time": null,
+      "comment": "Brighton Walk"
     },
     {
       "date": "2026-07-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.17,
+      "km": 9.93,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Rayleigh Runfest 10k"
     },
     {
       "date": "2026-07-13",
@@ -662,14 +670,22 @@
     },
     {
       "date": "2026-07-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.31,
+      "km": 8.55,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Exploring Barcelona"
     },
     {
       "date": "2026-07-15",
+      "miles": 8.47,
+      "km": 13.63,
+      "type": "walk",
+      "time": null,
+      "comment": "Another Day Exploring Barcelona"
+    },
+    {
+      "date": "2026-07-16",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -677,7 +693,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 54,
-  "activeDays": 46,
-  "restDays": 30
+  "totalActivities": 62,
+  "activeDays": 53,
+  "restDays": 24
 }

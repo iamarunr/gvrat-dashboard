@@ -691,9 +691,25 @@
       "type": "walk",
       "time": null,
       "comment": "Adventure in Stavelot"
+    },
+    {
+      "date": "2026-07-16",
+      "miles": 4.44,
+      "km": 7.15,
+      "type": "run",
+      "time": null,
+      "comment": "devastating heat"
+    },
+    {
+      "date": "2026-07-16",
+      "miles": 2.63,
+      "km": 4.23,
+      "type": "walk",
+      "time": null,
+      "comment": "Plantentuin in Meise"
     }
   ],
-  "totalActivities": 86,
-  "activeDays": 76,
+  "totalActivities": 88,
+  "activeDays": 77,
   "restDays": 0
 }

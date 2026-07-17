@@ -854,22 +854,38 @@
     },
     {
       "date": "2026-07-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.71,
+      "km": 5.97,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Office to Friendship Heights Metro and Back"
+    },
+    {
+      "date": "2026-07-14",
+      "miles": 3.53,
+      "km": 5.68,
+      "type": "run",
+      "time": null,
+      "comment": "SHMP Track Workout"
     },
     {
       "date": "2026-07-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.39,
+      "km": 8.67,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Office-Leland-Bradley Figure Eight"
+    },
+    {
+      "date": "2026-07-16",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "run",
+      "time": null,
+      "comment": "SHMP Thursday Run - CCT"
     }
   ],
-  "totalActivities": 87,
-  "activeDays": 55,
-  "restDays": 21
+  "totalActivities": 91,
+  "activeDays": 58,
+  "restDays": 19
 }

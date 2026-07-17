@@ -1307,9 +1307,33 @@
       "type": "walk",
       "time": null,
       "comment": "Treadmill"
+    },
+    {
+      "date": "2026-07-16",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "Hiked Beatty"
+    },
+    {
+      "date": "2026-07-16",
+      "miles": 5.11,
+      "km": 8.22,
+      "type": "run",
+      "time": null,
+      "comment": "Ballantyne"
+    },
+    {
+      "date": "2026-07-16",
+      "miles": 0.2,
+      "km": 0.32,
+      "type": "walk",
+      "time": null,
+      "comment": "Ballantyne"
     }
   ],
-  "totalActivities": 162,
-  "activeDays": 75,
+  "totalActivities": 165,
+  "activeDays": 76,
   "restDays": 1
 }
