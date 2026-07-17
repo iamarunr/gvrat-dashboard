@@ -763,9 +763,33 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-16",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Seward for walking"
+    },
+    {
+      "date": "2026-07-16",
+      "miles": 2.35,
+      "km": 3.78,
+      "type": "walk",
+      "time": null,
+      "comment": "Seward walking. In the rain"
+    },
+    {
+      "date": "2026-07-16",
+      "miles": 5.4,
+      "km": 8.69,
+      "type": "walk",
+      "time": null,
+      "comment": "Tonsina Point hike... In the rain"
     }
   ],
-  "totalActivities": 89,
-  "activeDays": 70,
+  "totalActivities": 92,
+  "activeDays": 71,
   "restDays": 6
 }

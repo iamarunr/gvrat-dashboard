@@ -819,9 +819,17 @@
       "type": "walk",
       "time": null,
       "comment": "Warmer waste of time!"
+    },
+    {
+      "date": "2026-07-16",
+      "miles": 5.47,
+      "km": 8.8,
+      "type": "run",
+      "time": null,
+      "comment": "A run of two halves!"
     }
   ],
-  "totalActivities": 84,
-  "activeDays": 58,
+  "totalActivities": 85,
+  "activeDays": 59,
   "restDays": 18
 }

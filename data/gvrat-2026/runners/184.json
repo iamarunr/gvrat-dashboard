@@ -1051,9 +1051,25 @@
       "type": "walk",
       "time": null,
       "comment": "AM walk PM walk and some in between"
+    },
+    {
+      "date": "2026-07-16",
+      "miles": 3.25,
+      "km": 5.23,
+      "type": "run",
+      "time": null,
+      "comment": "30x30 run at Collegedale"
+    },
+    {
+      "date": "2026-07-16",
+      "miles": 1.75,
+      "km": 2.82,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and took mother dearest to doctor"
     }
   ],
-  "totalActivities": 131,
-  "activeDays": 76,
+  "totalActivities": 133,
+  "activeDays": 77,
   "restDays": 0
 }
