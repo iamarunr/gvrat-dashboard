@@ -1067,9 +1067,33 @@
       "type": "walk",
       "time": null,
       "comment": "With Izzy"
+    },
+    {
+      "date": "2026-07-17",
+      "miles": 4.16,
+      "km": 6.69,
+      "type": "walk",
+      "time": null,
+      "comment": "Ruck 20#, in the Arb (trails)"
+    },
+    {
+      "date": "2026-07-17",
+      "miles": 5.64,
+      "km": 9.08,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-17",
+      "miles": 0.62,
+      "km": 1.0,
+      "type": "walk",
+      "time": null,
+      "comment": "With Izzy"
     }
   ],
-  "totalActivities": 133,
-  "activeDays": 77,
+  "totalActivities": 136,
+  "activeDays": 78,
   "restDays": 0
 }

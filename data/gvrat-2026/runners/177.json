@@ -1331,9 +1331,25 @@
       "type": "walk",
       "time": null,
       "comment": "Ballantyne"
+    },
+    {
+      "date": "2026-07-17",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "run",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-07-17",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
     }
   ],
-  "totalActivities": 165,
-  "activeDays": 76,
+  "totalActivities": 167,
+  "activeDays": 77,
   "restDays": 1
 }

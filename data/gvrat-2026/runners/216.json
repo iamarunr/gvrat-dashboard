@@ -683,9 +683,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk with Tiffany and the pups."
+    },
+    {
+      "date": "2026-07-17",
+      "miles": 2.57,
+      "km": 4.14,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk with Christopher and the dogs."
     }
   ],
-  "totalActivities": 53,
-  "activeDays": 45,
+  "totalActivities": 54,
+  "activeDays": 46,
   "restDays": 32
 }

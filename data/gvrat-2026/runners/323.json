@@ -795,9 +795,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-17",
+      "miles": 2.08,
+      "km": 3.35,
+      "type": "walk",
+      "time": null,
+      "comment": "chores walk Oswiecim"
     }
   ],
-  "totalActivities": 70,
-  "activeDays": 48,
+  "totalActivities": 71,
+  "activeDays": 49,
   "restDays": 29
 }

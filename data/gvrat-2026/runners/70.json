@@ -1278,22 +1278,38 @@
     },
     {
       "date": "2026-07-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Morning. Tattoo day"
     },
     {
       "date": "2026-07-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Hot and Smokey"
+    },
+    {
+      "date": "2026-07-17",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "run",
+      "time": null,
+      "comment": "Morning. Still Smokey"
+    },
+    {
+      "date": "2026-07-17",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Lunch"
     }
   ],
-  "totalActivities": 159,
-  "activeDays": 75,
-  "restDays": 2
+  "totalActivities": 163,
+  "activeDays": 78,
+  "restDays": 0
 }
