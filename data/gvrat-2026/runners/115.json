@@ -1283,9 +1283,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-17",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-17",
+      "miles": 7.16,
+      "km": 11.52,
+      "type": "run",
+      "time": null,
+      "comment": "Santa Moni loop"
     }
   ],
-  "totalActivities": 150,
-  "activeDays": 67,
+  "totalActivities": 152,
+  "activeDays": 68,
   "restDays": 10
 }

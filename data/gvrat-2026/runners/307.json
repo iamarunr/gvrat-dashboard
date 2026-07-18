@@ -701,55 +701,79 @@
       "comment": "Del Mar to SB"
     },
     {
-      "date": "2026-07-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-07-10",
+      "miles": 1.25,
+      "km": 2.01,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walk to town"
+    },
+    {
+      "date": "2026-07-11",
+      "miles": 3.25,
+      "km": 5.23,
+      "type": "run",
+      "time": null,
+      "comment": "Del Mar"
     },
     {
       "date": "2026-07-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 10.22,
+      "km": 16.45,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Long run San Elijo"
     },
     {
       "date": "2026-07-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.21,
+      "km": 5.17,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Run w Daisy"
     },
     {
       "date": "2026-07-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.62,
+      "km": 10.65,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Track night"
+    },
+    {
+      "date": "2026-07-14",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk w Daisy"
     },
     {
       "date": "2026-07-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.22,
+      "km": 5.18,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Wednesday"
     },
     {
       "date": "2026-07-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.23,
+      "km": 5.2,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Thursday"
+    },
+    {
+      "date": "2026-07-17",
+      "miles": 4.57,
+      "km": 7.35,
+      "type": "run",
+      "time": null,
+      "comment": "CSUN"
     }
   ],
-  "totalActivities": 87,
-  "activeDays": 71,
-  "restDays": 6
+  "totalActivities": 96,
+  "activeDays": 78,
+  "restDays": 0
 }

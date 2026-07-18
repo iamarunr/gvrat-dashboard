@@ -739,9 +739,17 @@
       "type": "run",
       "time": null,
       "comment": "Easy run followed by a leg workout."
+    },
+    {
+      "date": "2026-07-17",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 76,
   "activeDays": 61,
-  "restDays": 16
+  "restDays": 17
 }

@@ -1381,15 +1381,39 @@
       "comment": "RSD 4056 same Sedona Rd Run"
     },
     {
-      "date": "2026-07-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-07-15",
+      "miles": 4.42,
+      "km": 7.11,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Sedona AZ"
+    },
+    {
+      "date": "2026-07-16",
+      "miles": 1.04,
+      "km": 1.67,
+      "type": "run",
+      "time": null,
+      "comment": "Sedona AZ"
+    },
+    {
+      "date": "2026-07-16",
+      "miles": 3.97,
+      "km": 6.39,
+      "type": "walk",
+      "time": null,
+      "comment": "Stopped in Petrified Forest NP AZ"
+    },
+    {
+      "date": "2026-07-17",
+      "miles": 5.03,
+      "km": 8.09,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4058 Tramway MultiUse Path NM"
     }
   ],
-  "totalActivities": 172,
-  "activeDays": 76,
-  "restDays": 1
+  "totalActivities": 176,
+  "activeDays": 78,
+  "restDays": 0
 }

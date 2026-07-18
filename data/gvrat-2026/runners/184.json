@@ -1067,9 +1067,17 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and took mother dearest to doctor"
+    },
+    {
+      "date": "2026-07-17",
+      "miles": 3.7,
+      "km": 5.95,
+      "type": "walk",
+      "time": null,
+      "comment": "AM walk / hospital walking an quick PM Walk"
     }
   ],
-  "totalActivities": 133,
-  "activeDays": 77,
+  "totalActivities": 134,
+  "activeDays": 78,
   "restDays": 0
 }
