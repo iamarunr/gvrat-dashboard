@@ -627,9 +627,17 @@
       "type": "run",
       "time": null,
       "comment": "i really was running\u2026mostly fasted\u2026."
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 8.88,
+      "km": 14.29,
+      "type": "run",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 78,
-  "activeDays": 78,
+  "totalActivities": 79,
+  "activeDays": 79,
   "restDays": 0
 }

@@ -627,9 +627,17 @@
       "type": "walk",
       "time": null,
       "comment": "combined entry July 15, 16 (smoky air pollution from canada mn wildfires) and July 17 (nice day)  2.1, 1.9, 7.7"
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total- rain and smoke"
     }
   ],
-  "totalActivities": 72,
-  "activeDays": 72,
+  "totalActivities": 73,
+  "activeDays": 73,
   "restDays": 6
 }

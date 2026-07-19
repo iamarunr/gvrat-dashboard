@@ -763,9 +763,17 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 11.53,
+      "km": 18.56,
+      "type": "walk",
+      "time": null,
+      "comment": "weighted vest"
     }
   ],
-  "totalActivities": 81,
-  "activeDays": 64,
+  "totalActivities": 82,
+  "activeDays": 65,
   "restDays": 14
 }

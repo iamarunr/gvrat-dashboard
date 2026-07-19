@@ -947,9 +947,25 @@
       "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 1.19,
+      "km": 1.92,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 6.04,
+      "km": 9.72,
+      "type": "walk",
+      "time": null,
+      "comment": "Mystery Trail"
     }
   ],
-  "totalActivities": 118,
-  "activeDays": 78,
+  "totalActivities": 120,
+  "activeDays": 79,
   "restDays": 0
 }

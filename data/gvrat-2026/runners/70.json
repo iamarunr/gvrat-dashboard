@@ -1307,9 +1307,33 @@
       "type": "walk",
       "time": null,
       "comment": "Lunch"
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk and loop to farmers market"
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 10.0,
+      "km": 16.09,
+      "type": "run",
+      "time": null,
+      "comment": "Rivers State park river run. Beautiful skies today!"
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening"
     }
   ],
-  "totalActivities": 163,
-  "activeDays": 78,
+  "totalActivities": 166,
+  "activeDays": 79,
   "restDays": 0
 }

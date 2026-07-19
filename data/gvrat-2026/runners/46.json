@@ -1411,9 +1411,25 @@
       "type": "run",
       "time": null,
       "comment": "RSD 4058 Tramway MultiUse Path NM"
+    },
+    {
+      "date": "2026-07-17",
+      "miles": 4.79,
+      "km": 7.71,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 3.03,
+      "km": 4.88,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4059 Tramway MultiUse Path Run"
     }
   ],
-  "totalActivities": 176,
-  "activeDays": 78,
+  "totalActivities": 178,
+  "activeDays": 79,
   "restDays": 0
 }

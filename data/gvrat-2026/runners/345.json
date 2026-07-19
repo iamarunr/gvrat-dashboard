@@ -635,9 +635,17 @@
       "type": "walk",
       "time": null,
       "comment": "chilled run"
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 11.96,
+      "km": 19.25,
+      "type": "run",
+      "time": null,
+      "comment": "Park with Rhod"
     }
   ],
-  "totalActivities": 54,
-  "activeDays": 53,
+  "totalActivities": 55,
+  "activeDays": 54,
   "restDays": 25
 }

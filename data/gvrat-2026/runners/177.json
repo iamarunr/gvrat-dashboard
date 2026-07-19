@@ -1347,9 +1347,17 @@
       "type": "walk",
       "time": null,
       "comment": "Treadmill"
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 10.03,
+      "km": 16.14,
+      "type": "run",
+      "time": null,
+      "comment": "Beatty paved"
     }
   ],
-  "totalActivities": 167,
-  "activeDays": 77,
+  "totalActivities": 168,
+  "activeDays": 78,
   "restDays": 1
 }

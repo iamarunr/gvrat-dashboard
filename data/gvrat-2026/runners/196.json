@@ -1179,9 +1179,25 @@
       "type": "walk",
       "time": null,
       "comment": "Woke up way too early"
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 3.8,
+      "km": 6.12,
+      "type": "walk",
+      "time": null,
+      "comment": "Girls monthly walk/talk/coffee"
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 4.05,
+      "km": 6.52,
+      "type": "walk",
+      "time": null,
+      "comment": "Dee oh gee's turn"
     }
   ],
-  "totalActivities": 134,
-  "activeDays": 65,
+  "totalActivities": 136,
+  "activeDays": 66,
   "restDays": 13
 }

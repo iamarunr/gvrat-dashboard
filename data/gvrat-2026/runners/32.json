@@ -742,14 +742,22 @@
     },
     {
       "date": "2026-07-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.01,
+      "km": 3.23,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "short walk."
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 6.21,
+      "km": 9.99,
+      "type": "run",
+      "time": null,
+      "comment": "Easy on the trails."
     }
   ],
-  "totalActivities": 76,
-  "activeDays": 61,
-  "restDays": 17
+  "totalActivities": 78,
+  "activeDays": 63,
+  "restDays": 16
 }

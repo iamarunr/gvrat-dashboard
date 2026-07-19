@@ -715,9 +715,17 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 7.73,
+      "km": 12.44,
+      "type": "run",
+      "time": null,
+      "comment": "long sweat"
     }
   ],
-  "totalActivities": 89,
-  "activeDays": 78,
+  "totalActivities": 90,
+  "activeDays": 79,
   "restDays": 0
 }

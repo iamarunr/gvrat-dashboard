@@ -1075,9 +1075,17 @@
       "type": "walk",
       "time": null,
       "comment": "AM walk / hospital walking an quick PM Walk"
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "walk",
+      "time": null,
+      "comment": "Hospital walking and AM walk"
     }
   ],
-  "totalActivities": 134,
-  "activeDays": 78,
+  "totalActivities": 135,
+  "activeDays": 79,
   "restDays": 0
 }
