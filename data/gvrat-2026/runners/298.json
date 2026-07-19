@@ -731,9 +731,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk around Leadville and Salida with Richard"
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 7.4,
+      "km": 11.91,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk around Buena Vista and Leadville"
     }
   ],
-  "totalActivities": 60,
-  "activeDays": 47,
+  "totalActivities": 61,
+  "activeDays": 48,
   "restDays": 31
 }

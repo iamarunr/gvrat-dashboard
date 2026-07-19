@@ -971,9 +971,25 @@
       "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 7.08,
+      "km": 11.39,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 0.6,
+      "km": 0.97,
+      "type": "walk",
+      "time": null,
+      "comment": "Heidi walk"
     }
   ],
-  "totalActivities": 112,
-  "activeDays": 69,
+  "totalActivities": 114,
+  "activeDays": 70,
   "restDays": 9
 }
