@@ -771,9 +771,17 @@
       "type": "run",
       "time": null,
       "comment": "Death march"
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 73,
   "activeDays": 56,
-  "restDays": 23
+  "restDays": 24
 }

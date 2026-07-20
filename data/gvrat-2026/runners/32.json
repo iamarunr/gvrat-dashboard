@@ -755,9 +755,17 @@
       "type": "run",
       "time": null,
       "comment": "Easy on the trails."
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 5.01,
+      "km": 8.06,
+      "type": "run",
+      "time": null,
+      "comment": "Just another run."
     }
   ],
-  "totalActivities": 78,
-  "activeDays": 63,
+  "totalActivities": 79,
+  "activeDays": 64,
   "restDays": 16
 }

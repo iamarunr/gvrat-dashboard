@@ -643,9 +643,17 @@
       "type": "walk",
       "time": null,
       "comment": "Smoke, Code Orange Air Quality Alert \u26a0\ufe0f, 5 rabbits \ud83d\udc07\ud83d\udc30\ud83d\udc07\ud83d\udc30\ud83d\udc07"
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 80,
   "activeDays": 79,
-  "restDays": 0
+  "restDays": 1
 }

@@ -774,14 +774,22 @@
     },
     {
       "date": "2026-07-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.2,
+      "km": 5.15,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Saturday run"
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 13.17,
+      "km": 21.2,
+      "type": "run",
+      "time": null,
+      "comment": "Long run Balboa Park"
     }
   ],
-  "totalActivities": 96,
-  "activeDays": 78,
-  "restDays": 1
+  "totalActivities": 98,
+  "activeDays": 80,
+  "restDays": 0
 }

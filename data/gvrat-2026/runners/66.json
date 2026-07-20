@@ -838,30 +838,70 @@
     },
     {
       "date": "2026-07-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.55,
+      "km": 0.89,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking the dogs."
     },
     {
       "date": "2026-07-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.91,
+      "km": 1.46,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking the dogs."
     },
     {
       "date": "2026-07-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.57,
+      "km": 5.75,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Run FWD group loop at Usery"
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 2.06,
+      "km": 3.32,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 1.98,
+      "km": 3.19,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 10.18,
+      "km": 16.38,
+      "type": "run",
+      "time": null,
+      "comment": "Circle of Hell run 2026"
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 1.59,
+      "km": 2.56,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk around the neighborhood."
     }
   ],
-  "totalActivities": 95,
-  "activeDays": 67,
-  "restDays": 12
+  "totalActivities": 103,
+  "activeDays": 71,
+  "restDays": 9
 }

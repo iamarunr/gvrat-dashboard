@@ -1195,9 +1195,17 @@
       "type": "walk",
       "time": null,
       "comment": "Dee oh gee's turn"
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 3.16,
+      "km": 5.09,
+      "type": "walk",
+      "time": null,
+      "comment": "First"
     }
   ],
-  "totalActivities": 136,
-  "activeDays": 66,
+  "totalActivities": 137,
+  "activeDays": 67,
   "restDays": 13
 }
