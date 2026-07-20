@@ -1427,9 +1427,25 @@
       "type": "run",
       "time": null,
       "comment": "RSD 4059 Tramway MultiUse Path Run"
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 4.48,
+      "km": 7.21,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 6.23,
+      "km": 10.03,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4060 - 2 loops around Albuquerque Academy"
     }
   ],
-  "totalActivities": 178,
-  "activeDays": 79,
+  "totalActivities": 180,
+  "activeDays": 80,
   "restDays": 0
 }

@@ -846,30 +846,46 @@
     },
     {
       "date": "2026-07-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 24.01,
+      "km": 38.64,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "4905' ascent.  HiLo South (Boss Lake, Monarch Pass, Fooses Creek) - high elevation (max ~12,500')"
     },
     {
       "date": "2026-07-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 12.57,
+      "km": 20.23,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "3278' ascent.  Hartenstein Lake and Browns Pass (plus ridge) - high elevation (max ~12,570')"
     },
     {
       "date": "2026-07-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.78,
+      "km": 10.91,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "1568' ascent.  Ptarmingan Lake"
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "run",
+      "time": null,
+      "comment": "538' ascent.  Buena Vista - CR 204 / Camp Elevation loop"
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 7.01,
+      "km": 11.28,
+      "type": "run",
+      "time": null,
+      "comment": "1496' ascent.  Grouse Creek / Meadow Mtn lollipop"
     }
   ],
-  "totalActivities": 105,
-  "activeDays": 76,
-  "restDays": 3
+  "totalActivities": 110,
+  "activeDays": 80,
+  "restDays": 0
 }

@@ -1355,9 +1355,25 @@
       "type": "run",
       "time": null,
       "comment": "Beatty paved"
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "run",
+      "time": null,
+      "comment": "Providence Country Club"
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "Hiked Beatty"
     }
   ],
-  "totalActivities": 168,
-  "activeDays": 78,
+  "totalActivities": 170,
+  "activeDays": 79,
   "restDays": 1
 }

@@ -1083,9 +1083,25 @@
       "type": "walk",
       "time": null,
       "comment": "Hospital walking and AM walk"
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 6.4,
+      "km": 10.3,
+      "type": "run",
+      "time": null,
+      "comment": "Sunday morning at enterprise much needed movement.  Anxiety levels through roof"
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 1.7,
+      "km": 2.74,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk , cleaning and hospital"
     }
   ],
-  "totalActivities": 135,
-  "activeDays": 79,
+  "totalActivities": 137,
+  "activeDays": 80,
   "restDays": 0
 }

@@ -1331,9 +1331,17 @@
       "type": "walk",
       "time": null,
       "comment": "Evening"
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 7.5,
+      "km": 12.07,
+      "type": "walk",
+      "time": null,
+      "comment": "Kendall loop"
     }
   ],
-  "totalActivities": 166,
-  "activeDays": 79,
+  "totalActivities": 167,
+  "activeDays": 80,
   "restDays": 0
 }

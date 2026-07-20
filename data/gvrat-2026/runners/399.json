@@ -1123,9 +1123,33 @@
       "type": "walk",
       "time": null,
       "comment": "With Izzy"
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 6.1,
+      "km": 9.82,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 3.57,
+      "km": 5.75,
+      "type": "walk",
+      "time": null,
+      "comment": "Ruck 20#, Nerstrand Woods."
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 1.08,
+      "km": 1.74,
+      "type": "walk",
+      "time": null,
+      "comment": "With Izzy"
     }
   ],
-  "totalActivities": 140,
-  "activeDays": 79,
+  "totalActivities": 143,
+  "activeDays": 80,
   "restDays": 0
 }

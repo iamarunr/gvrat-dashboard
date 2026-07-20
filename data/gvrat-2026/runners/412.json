@@ -683,9 +683,17 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 10.7,
+      "km": 17.22,
+      "type": "walk",
+      "time": null,
+      "comment": "loops at Mirabeau"
     }
   ],
-  "totalActivities": 52,
-  "activeDays": 46,
+  "totalActivities": 53,
+  "activeDays": 47,
   "restDays": 33
 }

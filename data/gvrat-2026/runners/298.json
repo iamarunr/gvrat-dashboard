@@ -739,9 +739,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk around Buena Vista and Leadville"
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk in downtown Leadville"
     }
   ],
-  "totalActivities": 61,
-  "activeDays": 48,
+  "totalActivities": 62,
+  "activeDays": 49,
   "restDays": 31
 }

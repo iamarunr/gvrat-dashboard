@@ -635,9 +635,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total- rain and smoke"
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 9.0,
+      "km": 14.48,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total- big garden Sunday"
     }
   ],
-  "totalActivities": 73,
-  "activeDays": 73,
+  "totalActivities": 74,
+  "activeDays": 74,
   "restDays": 6
 }

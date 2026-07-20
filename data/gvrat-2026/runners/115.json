@@ -1307,9 +1307,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 13.18,
+      "km": 21.21,
+      "type": "run",
+      "time": null,
+      "comment": "Santa Monica Mountains"
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 9.24,
+      "km": 14.87,
+      "type": "run",
+      "time": null,
+      "comment": "Sullivan Canyon, Santa Monica Mountains."
     }
   ],
-  "totalActivities": 152,
-  "activeDays": 68,
+  "totalActivities": 154,
+  "activeDays": 69,
   "restDays": 11
 }

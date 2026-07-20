@@ -734,6 +734,22 @@
     },
     {
       "date": "2026-07-18",
+      "miles": 2.97,
+      "km": 4.78,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 25.43,
+      "km": 40.93,
+      "type": "run",
+      "time": null,
+      "comment": "Get Your Butt Kicked on Route 66 six hour."
+    },
+    {
+      "date": "2026-07-19",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -741,7 +757,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 59,
-  "activeDays": 46,
+  "totalActivities": 61,
+  "activeDays": 47,
   "restDays": 33
 }

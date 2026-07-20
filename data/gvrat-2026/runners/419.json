@@ -675,9 +675,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 7.27,
+      "km": 11.7,
+      "type": "run",
+      "time": null,
+      "comment": "Boucle par Mondini- Roquefixade."
     }
   ],
-  "totalActivities": 60,
-  "activeDays": 55,
+  "totalActivities": 61,
+  "activeDays": 56,
   "restDays": 24
 }
