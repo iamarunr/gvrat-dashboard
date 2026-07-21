@@ -734,11 +734,27 @@
     },
     {
       "date": "2026-07-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-07-12",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-07-12",
+      "miles": 1.58,
+      "km": 2.54,
+      "type": "walk",
+      "time": null,
+      "comment": "After dinner walk"
     },
     {
       "date": "2026-07-13",
@@ -750,11 +766,11 @@
     },
     {
       "date": "2026-07-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.09,
+      "km": 1.75,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "After dinner walk"
     },
     {
       "date": "2026-07-15",
@@ -766,38 +782,102 @@
     },
     {
       "date": "2026-07-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.38,
+      "km": 5.44,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning neighborhood walk"
+    },
+    {
+      "date": "2026-07-16",
+      "miles": 1.19,
+      "km": 1.92,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-07-16",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
     },
     {
       "date": "2026-07-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.22,
+      "km": 1.96,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-07-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.24,
+      "km": 2.0,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Mornin steps and sprinkles before work \u2614\ufe0f"
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 1.62,
+      "km": 2.61,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening steps in neighborhood"
     },
     {
       "date": "2026-07-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.76,
+      "km": 9.27,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Steps and chats with Amy"
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 1.53,
+      "km": 2.46,
+      "type": "walk",
+      "time": null,
+      "comment": "Inaugural walking pad workout"
+    },
+    {
+      "date": "2026-07-20",
+      "miles": 3.33,
+      "km": 5.36,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill with incline"
+    },
+    {
+      "date": "2026-07-20",
+      "miles": 1.55,
+      "km": 2.49,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill walk with Peach"
+    },
+    {
+      "date": "2026-07-20",
+      "miles": 1.69,
+      "km": 2.72,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill walk with Peach"
+    },
+    {
+      "date": "2026-07-20",
+      "miles": 1.64,
+      "km": 2.64,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening walking pad"
     }
   ],
-  "totalActivities": 63,
-  "activeDays": 44,
-  "restDays": 36
+  "totalActivities": 79,
+  "activeDays": 51,
+  "restDays": 30
 }

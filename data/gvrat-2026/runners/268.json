@@ -686,14 +686,22 @@
     },
     {
       "date": "2026-07-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Swim and bike ride day"
     },
     {
       "date": "2026-07-19",
+      "miles": 0.8,
+      "km": 1.29,
+      "type": "walk",
+      "time": null,
+      "comment": "light day, morning dog walk"
+    },
+    {
+      "date": "2026-07-20",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -701,7 +709,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 83,
-  "activeDays": 76,
-  "restDays": 4
+  "totalActivities": 85,
+  "activeDays": 78,
+  "restDays": 3
 }

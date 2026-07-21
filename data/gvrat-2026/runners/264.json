@@ -886,11 +886,11 @@
     },
     {
       "date": "2026-07-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.96,
+      "km": 7.98,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Office-NIH-OGR Loop w Bethesda Bagel Tangent"
     },
     {
       "date": "2026-07-18",
@@ -902,14 +902,22 @@
     },
     {
       "date": "2026-07-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.61,
+      "km": 9.03,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "SHMP Long Run - Bethesda Trolley Trail"
+    },
+    {
+      "date": "2026-07-20",
+      "miles": 4.55,
+      "km": 7.32,
+      "type": "run",
+      "time": null,
+      "comment": "SHMP Monday Run - CCT"
     }
   ],
-  "totalActivities": 91,
-  "activeDays": 58,
-  "restDays": 22
+  "totalActivities": 94,
+  "activeDays": 61,
+  "restDays": 20
 }

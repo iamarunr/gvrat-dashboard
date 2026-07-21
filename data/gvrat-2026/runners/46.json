@@ -1443,9 +1443,25 @@
       "type": "run",
       "time": null,
       "comment": "RSD 4060 - 2 loops around Albuquerque Academy"
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 1.96,
+      "km": 3.15,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-20",
+      "miles": 1.54,
+      "km": 2.48,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4061 Albuquerque multiuse path run"
     }
   ],
-  "totalActivities": 180,
-  "activeDays": 80,
+  "totalActivities": 182,
+  "activeDays": 81,
   "restDays": 0
 }

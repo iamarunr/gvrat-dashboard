@@ -747,9 +747,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk in downtown Leadville"
+    },
+    {
+      "date": "2026-07-20",
+      "miles": 12.32,
+      "km": 19.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Hike up Hope Pass"
     }
   ],
-  "totalActivities": 62,
-  "activeDays": 49,
+  "totalActivities": 63,
+  "activeDays": 50,
   "restDays": 31
 }

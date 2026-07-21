@@ -1339,9 +1339,25 @@
       "type": "walk",
       "time": null,
       "comment": "Kendall loop"
+    },
+    {
+      "date": "2026-07-20",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Lunchtime"
+    },
+    {
+      "date": "2026-07-20",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "run",
+      "time": null,
+      "comment": "After work"
     }
   ],
-  "totalActivities": 167,
-  "activeDays": 80,
+  "totalActivities": 169,
+  "activeDays": 81,
   "restDays": 0
 }
