@@ -1269,58 +1269,82 @@
       "comment": "Dog walk."
     },
     {
-      "date": "2026-07-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-07-09",
+      "miles": 0.85,
+      "km": 1.37,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Dog walk."
+    },
+    {
+      "date": "2026-07-10",
+      "miles": 0.86,
+      "km": 1.38,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
     },
     {
       "date": "2026-07-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 9.72,
+      "km": 15.64,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-07-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 17.85,
+      "km": 28.73,
+      "type": "run",
+      "time": null,
+      "comment": "Peaks of Dover"
+    },
+    {
+      "date": "2026-07-12",
+      "miles": 1.27,
+      "km": 2.04,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
+    },
+    {
+      "date": "2026-07-13",
+      "miles": 5.55,
+      "km": 8.93,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-07-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.21,
+      "km": 1.95,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Dog walk."
     },
     {
       "date": "2026-07-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.79,
+      "km": 7.71,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-07-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.54,
+      "km": 10.53,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-07-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.18,
+      "km": 8.34,
+      "type": "run",
       "time": null,
       "comment": ""
     },
@@ -1334,14 +1358,22 @@
     },
     {
       "date": "2026-07-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.07,
+      "km": 9.77,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-07-19",
+      "miles": 0.66,
+      "km": 1.06,
+      "type": "run",
+      "time": null,
+      "comment": "Sprained ankle?"
+    },
+    {
+      "date": "2026-07-20",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -1349,7 +1381,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 157,
-  "activeDays": 69,
-  "restDays": 11
+  "totalActivities": 169,
+  "activeDays": 78,
+  "restDays": 3
 }

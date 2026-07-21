@@ -835,9 +835,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-20",
+      "miles": 6.5,
+      "km": 10.46,
+      "type": "walk",
+      "time": null,
+      "comment": "Hill Repeats + Cholla Loop"
     }
   ],
-  "totalActivities": 95,
-  "activeDays": 71,
+  "totalActivities": 96,
+  "activeDays": 72,
   "restDays": 9
 }

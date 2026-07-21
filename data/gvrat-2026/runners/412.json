@@ -691,9 +691,17 @@
       "type": "walk",
       "time": null,
       "comment": "loops at Mirabeau"
+    },
+    {
+      "date": "2026-07-20",
+      "miles": 7.51,
+      "km": 12.09,
+      "type": "walk",
+      "time": null,
+      "comment": "Centennial Trail"
     }
   ],
-  "totalActivities": 53,
-  "activeDays": 47,
+  "totalActivities": 54,
+  "activeDays": 48,
   "restDays": 33
 }

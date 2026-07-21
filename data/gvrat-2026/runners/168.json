@@ -758,83 +758,83 @@
     },
     {
       "date": "2026-07-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 47.0,
+      "km": 75.64,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "LAVS - Thursday"
     },
     {
       "date": "2026-07-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 39.0,
+      "km": 62.76,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "LAVS - Friday"
     },
     {
       "date": "2026-07-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 22.0,
+      "km": 35.41,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "LAVS - Sat"
     },
     {
       "date": "2026-07-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 42.0,
+      "km": 67.59,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "LAVS - Sun"
     },
     {
       "date": "2026-07-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 26.0,
+      "km": 41.84,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "LAVS - Monday"
     },
     {
       "date": "2026-07-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 32.0,
+      "km": 51.5,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "LAVS - Tuesday"
     },
     {
       "date": "2026-07-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 30.0,
+      "km": 48.28,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "LAVS - Wednesday"
     },
     {
       "date": "2026-07-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 33.0,
+      "km": 53.11,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "LAVS - Thursday"
     },
     {
       "date": "2026-07-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 34.0,
+      "km": 54.72,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "LAVS - Friday"
     },
     {
       "date": "2026-07-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 9.0,
+      "km": 14.48,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "LAVS - Saturday"
     },
     {
       "date": "2026-07-19",
@@ -843,9 +843,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-20",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 78,
-  "activeDays": 53,
-  "restDays": 27
+  "totalActivities": 88,
+  "activeDays": 63,
+  "restDays": 18
 }

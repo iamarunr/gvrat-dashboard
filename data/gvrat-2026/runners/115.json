@@ -1323,9 +1323,25 @@
       "type": "run",
       "time": null,
       "comment": "Sullivan Canyon, Santa Monica Mountains."
+    },
+    {
+      "date": "2026-07-20",
+      "miles": 7.08,
+      "km": 11.39,
+      "type": "run",
+      "time": null,
+      "comment": "Westridge"
+    },
+    {
+      "date": "2026-07-20",
+      "miles": 5.07,
+      "km": 8.16,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 154,
-  "activeDays": 69,
+  "totalActivities": 156,
+  "activeDays": 70,
   "restDays": 11
 }

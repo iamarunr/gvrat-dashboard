@@ -643,9 +643,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total- big garden Sunday"
+    },
+    {
+      "date": "2026-07-20",
+      "miles": 5.25,
+      "km": 8.45,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total- travel to Vegas for RKO \u201827"
     }
   ],
-  "totalActivities": 74,
-  "activeDays": 74,
+  "totalActivities": 75,
+  "activeDays": 75,
   "restDays": 6
 }

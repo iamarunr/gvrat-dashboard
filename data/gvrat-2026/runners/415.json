@@ -710,30 +710,54 @@
     },
     {
       "date": "2026-07-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 8.1,
+      "km": 13.04,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-07-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 10.7,
+      "km": 17.22,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-07-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 13.26,
+      "km": 21.34,
+      "type": "run",
+      "time": null,
+      "comment": "Lakefair Half"
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 11.14,
+      "km": 17.93,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-07-19",
+      "miles": 13.11,
+      "km": 21.1,
+      "type": "run",
+      "time": null,
+      "comment": "B&O Half"
+    },
+    {
+      "date": "2026-07-19",
+      "miles": 9.45,
+      "km": 15.21,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-20",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -741,7 +765,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 88,
-  "activeDays": 76,
-  "restDays": 4
+  "totalActivities": 94,
+  "activeDays": 80,
+  "restDays": 1
 }
