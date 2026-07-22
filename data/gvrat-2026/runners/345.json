@@ -659,9 +659,17 @@
       "type": "run",
       "time": null,
       "comment": "Auckland"
+    },
+    {
+      "date": "2026-07-21",
+      "miles": 4.66,
+      "km": 7.5,
+      "type": "run",
+      "time": null,
+      "comment": "Flat auckland"
     }
   ],
-  "totalActivities": 56,
-  "activeDays": 55,
+  "totalActivities": 57,
+  "activeDays": 56,
   "restDays": 26
 }

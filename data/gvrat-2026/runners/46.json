@@ -1459,9 +1459,25 @@
       "type": "run",
       "time": null,
       "comment": "RSD 4061 Albuquerque multiuse path run"
+    },
+    {
+      "date": "2026-07-20",
+      "miles": 6.52,
+      "km": 10.49,
+      "type": "walk",
+      "time": null,
+      "comment": "Acted like a tourist in Albuquerque today and walked everywhere"
+    },
+    {
+      "date": "2026-07-21",
+      "miles": 3.03,
+      "km": 4.88,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4062 tramway trail run"
     }
   ],
-  "totalActivities": 182,
-  "activeDays": 81,
+  "totalActivities": 184,
+  "activeDays": 82,
   "restDays": 0
 }

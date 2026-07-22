@@ -699,9 +699,25 @@
       "type": "walk",
       "time": null,
       "comment": "Centennial Trail"
+    },
+    {
+      "date": "2026-07-21",
+      "miles": 6.16,
+      "km": 9.91,
+      "type": "run",
+      "time": null,
+      "comment": "Alter-G"
+    },
+    {
+      "date": "2026-07-21",
+      "miles": 4.12,
+      "km": 6.63,
+      "type": "walk",
+      "time": null,
+      "comment": "downtown bridges"
     }
   ],
-  "totalActivities": 54,
-  "activeDays": 48,
+  "totalActivities": 56,
+  "activeDays": 49,
   "restDays": 33
 }

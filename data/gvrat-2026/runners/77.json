@@ -582,11 +582,11 @@
     },
     {
       "date": "2026-07-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 32.7,
+      "km": 52.63,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "miles 109.5 to 142.2 at the 2026 Last Annual Vol State 314 mile road race"
     },
     {
       "date": "2026-07-13",
@@ -651,9 +651,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-21",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 37,
-  "activeDays": 37,
+  "totalActivities": 38,
+  "activeDays": 38,
   "restDays": 44
 }

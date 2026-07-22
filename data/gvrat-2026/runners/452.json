@@ -651,9 +651,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total- travel to Vegas for RKO \u201827"
+    },
+    {
+      "date": "2026-07-21",
+      "miles": 7.75,
+      "km": 12.47,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total"
     }
   ],
-  "totalActivities": 75,
-  "activeDays": 75,
+  "totalActivities": 76,
+  "activeDays": 76,
   "restDays": 6
 }
