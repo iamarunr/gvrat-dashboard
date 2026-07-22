@@ -814,6 +814,14 @@
     },
     {
       "date": "2026-07-20",
+      "miles": 1.75,
+      "km": 2.82,
+      "type": "walk",
+      "time": null,
+      "comment": "Sterling walking"
+    },
+    {
+      "date": "2026-07-21",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -821,7 +829,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 95,
-  "activeDays": 74,
+  "totalActivities": 96,
+  "activeDays": 75,
   "restDays": 7
 }

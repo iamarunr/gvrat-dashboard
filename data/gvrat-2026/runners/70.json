@@ -1355,9 +1355,25 @@
       "type": "run",
       "time": null,
       "comment": "After work"
+    },
+    {
+      "date": "2026-07-21",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
+      "time": null,
+      "comment": "Morning"
+    },
+    {
+      "date": "2026-07-21",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "walk",
+      "time": null,
+      "comment": "Afternoon"
     }
   ],
-  "totalActivities": 169,
-  "activeDays": 81,
+  "totalActivities": 171,
+  "activeDays": 82,
   "restDays": 0
 }

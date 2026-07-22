@@ -1107,9 +1107,25 @@
       "type": "walk",
       "time": null,
       "comment": "Morning walk , treadmill walk at lunch and hospital sprints again"
+    },
+    {
+      "date": "2026-07-21",
+      "miles": 3.2,
+      "km": 5.15,
+      "type": "run",
+      "time": null,
+      "comment": "Morning run at Collegedale- 5x40 three minute recover"
+    },
+    {
+      "date": "2026-07-21",
+      "miles": 1.8,
+      "km": 2.9,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and hospital walking"
     }
   ],
-  "totalActivities": 138,
-  "activeDays": 81,
+  "totalActivities": 140,
+  "activeDays": 82,
   "restDays": 0
 }

@@ -739,9 +739,25 @@
       "type": "run",
       "time": null,
       "comment": "I need new shoes"
+    },
+    {
+      "date": "2026-07-21",
+      "miles": 2.88,
+      "km": 4.63,
+      "type": "walk",
+      "time": null,
+      "comment": "forest"
+    },
+    {
+      "date": "2026-07-21",
+      "miles": 1.36,
+      "km": 2.19,
+      "type": "walk",
+      "time": null,
+      "comment": "village walk"
     }
   ],
-  "totalActivities": 92,
-  "activeDays": 81,
+  "totalActivities": 94,
+  "activeDays": 82,
   "restDays": 0
 }

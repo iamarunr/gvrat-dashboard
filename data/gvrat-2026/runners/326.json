@@ -939,9 +939,17 @@
       "type": "walk",
       "time": null,
       "comment": "Canyon Walk"
+    },
+    {
+      "date": "2026-07-21",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 111,
   "activeDays": 75,
-  "restDays": 6
+  "restDays": 7
 }

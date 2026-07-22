@@ -931,9 +931,17 @@
       "type": "walk",
       "time": null,
       "comment": "Shundahai neighborhood"
+    },
+    {
+      "date": "2026-07-21",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 113,
   "activeDays": 78,
-  "restDays": 3
+  "restDays": 4
 }

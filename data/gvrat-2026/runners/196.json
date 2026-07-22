@@ -1219,9 +1219,33 @@
       "type": "walk",
       "time": null,
       "comment": "And\u2026 done +1"
+    },
+    {
+      "date": "2026-07-21",
+      "miles": 0.19,
+      "km": 0.31,
+      "type": "walk",
+      "time": null,
+      "comment": "cool down"
+    },
+    {
+      "date": "2026-07-21",
+      "miles": 3.51,
+      "km": 5.65,
+      "type": "run",
+      "time": null,
+      "comment": "warm morning run with C+K"
+    },
+    {
+      "date": "2026-07-21",
+      "miles": 1.74,
+      "km": 2.8,
+      "type": "walk",
+      "time": null,
+      "comment": "To 9"
     }
   ],
-  "totalActivities": 139,
-  "activeDays": 68,
+  "totalActivities": 142,
+  "activeDays": 69,
   "restDays": 13
 }
