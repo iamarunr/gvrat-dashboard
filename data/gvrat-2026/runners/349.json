@@ -974,14 +974,30 @@
     },
     {
       "date": "2026-07-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.58,
+      "km": 8.98,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-22",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
+      "time": null,
+      "comment": "Post blood donation 7/21/26"
+    },
+    {
+      "date": "2026-07-22",
+      "miles": 3.1,
+      "km": 4.99,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 120,
-  "activeDays": 80,
-  "restDays": 2
+  "totalActivities": 123,
+  "activeDays": 82,
+  "restDays": 1
 }

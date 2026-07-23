@@ -1475,9 +1475,25 @@
       "type": "run",
       "time": null,
       "comment": "RSD 4062 tramway trail run"
+    },
+    {
+      "date": "2026-07-21",
+      "miles": 5.68,
+      "km": 9.14,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-22",
+      "miles": 3.52,
+      "km": 5.66,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4063 Albuquerque Run"
     }
   ],
-  "totalActivities": 184,
-  "activeDays": 82,
+  "totalActivities": 186,
+  "activeDays": 83,
   "restDays": 0
 }

@@ -811,9 +811,17 @@
       "type": "walk",
       "time": null,
       "comment": "Clear the head"
+    },
+    {
+      "date": "2026-07-22",
+      "miles": 6.22,
+      "km": 10.01,
+      "type": "run",
+      "time": null,
+      "comment": "Trails solo in the dark"
     }
   ],
-  "totalActivities": 77,
-  "activeDays": 58,
+  "totalActivities": 78,
+  "activeDays": 59,
   "restDays": 24
 }

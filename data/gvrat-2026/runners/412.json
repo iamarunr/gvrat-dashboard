@@ -715,9 +715,17 @@
       "type": "walk",
       "time": null,
       "comment": "downtown bridges"
+    },
+    {
+      "date": "2026-07-22",
+      "miles": 5.05,
+      "km": 8.13,
+      "type": "walk",
+      "time": null,
+      "comment": "errands"
     }
   ],
-  "totalActivities": 56,
-  "activeDays": 49,
+  "totalActivities": 57,
+  "activeDays": 50,
   "restDays": 33
 }

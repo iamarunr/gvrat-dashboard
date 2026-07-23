@@ -894,14 +894,22 @@
     },
     {
       "date": "2026-07-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 8.83,
+      "km": 14.21,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "823' ascent.  Green River trail"
+    },
+    {
+      "date": "2026-07-22",
+      "miles": 22.35,
+      "km": 35.97,
+      "type": "run",
+      "time": null,
+      "comment": "4334' ascent.  Sinks, Spawn, Worm, Bear, Turkey, Peter Sinks, Burnt"
     }
   ],
-  "totalActivities": 111,
-  "activeDays": 81,
-  "restDays": 1
+  "totalActivities": 113,
+  "activeDays": 83,
+  "restDays": 0
 }

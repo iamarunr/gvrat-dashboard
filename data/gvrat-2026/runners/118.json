@@ -710,19 +710,19 @@
     },
     {
       "date": "2026-07-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.32,
+      "km": 2.12,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking & Working"
     },
     {
       "date": "2026-07-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.89,
+      "km": 4.65,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Charcoal Hearth Thaddeus Steven\u2019s Trail"
     },
     {
       "date": "2026-07-20",
@@ -734,6 +734,14 @@
     },
     {
       "date": "2026-07-21",
+      "miles": 2.55,
+      "km": 4.1,
+      "type": "walk",
+      "time": null,
+      "comment": "Williamsport Walkabout"
+    },
+    {
+      "date": "2026-07-22",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -741,7 +749,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 62,
-  "activeDays": 52,
-  "restDays": 30
+  "totalActivities": 65,
+  "activeDays": 55,
+  "restDays": 28
 }
