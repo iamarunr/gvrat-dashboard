@@ -1187,9 +1187,25 @@
       "type": "walk",
       "time": null,
       "comment": "With Izzy"
+    },
+    {
+      "date": "2026-07-22",
+      "miles": 7.55,
+      "km": 12.15,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-22",
+      "miles": 1.27,
+      "km": 2.04,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 148,
-  "activeDays": 82,
+  "totalActivities": 150,
+  "activeDays": 83,
   "restDays": 0
 }

@@ -862,14 +862,38 @@
     },
     {
       "date": "2026-07-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.23,
+      "km": 10.03,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "I remember how to run!"
+    },
+    {
+      "date": "2026-07-21",
+      "miles": 5.64,
+      "km": 9.08,
+      "type": "walk",
+      "time": null,
+      "comment": "I thought my foot was sore, but it's not too bad"
+    },
+    {
+      "date": "2026-07-22",
+      "miles": 5.01,
+      "km": 8.06,
+      "type": "run",
+      "time": null,
+      "comment": "Hilly run, but a good one"
+    },
+    {
+      "date": "2026-07-22",
+      "miles": 4.64,
+      "km": 7.47,
+      "type": "walk",
+      "time": null,
+      "comment": "Another two rabbits today!"
     }
   ],
-  "totalActivities": 88,
-  "activeDays": 62,
-  "restDays": 20
+  "totalActivities": 92,
+  "activeDays": 64,
+  "restDays": 19
 }

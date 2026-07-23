@@ -859,9 +859,17 @@
       "type": "walk",
       "time": null,
       "comment": "Maggie; SP; First time in real shoes (Torin 8 in 6 Wide); Feet fine then throbbing so stopped."
+    },
+    {
+      "date": "2026-07-22",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 89,
   "activeDays": 64,
-  "restDays": 18
+  "restDays": 19
 }

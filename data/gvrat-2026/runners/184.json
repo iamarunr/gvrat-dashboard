@@ -1123,9 +1123,25 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and hospital walking"
+    },
+    {
+      "date": "2026-07-22",
+      "miles": 3.55,
+      "km": 5.71,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening walk at enterprise with Cynthia"
+    },
+    {
+      "date": "2026-07-22",
+      "miles": 2.45,
+      "km": 3.94,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning walk and them some"
     }
   ],
-  "totalActivities": 140,
-  "activeDays": 82,
+  "totalActivities": 142,
+  "activeDays": 83,
   "restDays": 0
 }
