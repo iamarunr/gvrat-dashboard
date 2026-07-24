@@ -1139,9 +1139,25 @@
       "type": "walk",
       "time": null,
       "comment": "Morning walk and them some"
+    },
+    {
+      "date": "2026-07-23",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "run",
+      "time": null,
+      "comment": "Sprints on the treadmill"
+    },
+    {
+      "date": "2026-07-23",
+      "miles": 2.1,
+      "km": 3.38,
+      "type": "walk",
+      "time": null,
+      "comment": "Hospital walking"
     }
   ],
-  "totalActivities": 142,
-  "activeDays": 83,
+  "totalActivities": 144,
+  "activeDays": 84,
   "restDays": 0
 }

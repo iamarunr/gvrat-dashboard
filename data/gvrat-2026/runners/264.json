@@ -918,22 +918,38 @@
     },
     {
       "date": "2026-07-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.81,
+      "km": 6.13,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Office - Friendship Heights Metro"
     },
     {
       "date": "2026-07-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.2,
+      "km": 8.37,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "SHMP Track - Ladder Workout at B-CC (20 Laps - Strava had some glitches, recorded 4.27 miles))"
+    },
+    {
+      "date": "2026-07-23",
+      "miles": 4.77,
+      "km": 7.68,
+      "type": "walk",
+      "time": null,
+      "comment": "Office Loop + B-CC Loop"
+    },
+    {
+      "date": "2026-07-23",
+      "miles": 3.68,
+      "km": 5.92,
+      "type": "walk",
+      "time": null,
+      "comment": "Rock Creek Trail w Kat-Jodi-Rainell"
     }
   ],
-  "totalActivities": 94,
-  "activeDays": 61,
-  "restDays": 22
+  "totalActivities": 98,
+  "activeDays": 64,
+  "restDays": 20
 }

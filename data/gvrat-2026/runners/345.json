@@ -675,9 +675,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-23",
+      "miles": 5.47,
+      "km": 8.8,
+      "type": "run",
+      "time": null,
+      "comment": "Sydney return"
     }
   ],
-  "totalActivities": 57,
-  "activeDays": 56,
+  "totalActivities": 58,
+  "activeDays": 57,
   "restDays": 27
 }

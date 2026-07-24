@@ -891,9 +891,17 @@
       "type": "walk",
       "time": null,
       "comment": "Another two rabbits today!"
+    },
+    {
+      "date": "2026-07-23",
+      "miles": 9.66,
+      "km": 15.55,
+      "type": "walk",
+      "time": null,
+      "comment": "5 Rabbits!"
     }
   ],
-  "totalActivities": 92,
-  "activeDays": 64,
+  "totalActivities": 93,
+  "activeDays": 65,
   "restDays": 19
 }
