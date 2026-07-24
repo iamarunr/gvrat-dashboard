@@ -902,30 +902,62 @@
     },
     {
       "date": "2026-07-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.92,
+      "km": 1.48,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-07-20",
+      "miles": 3.02,
+      "km": 4.86,
+      "type": "run",
+      "time": null,
+      "comment": "Aravaipa Monday Party Pace Group"
     },
     {
       "date": "2026-07-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.56,
+      "km": 0.9,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking the dogs."
     },
     {
       "date": "2026-07-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.9,
+      "km": 1.45,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-07-22",
+      "miles": 3.21,
+      "km": 5.17,
+      "type": "run",
+      "time": null,
+      "comment": "Aravaipa Wednesday Super Fun Group"
+    },
+    {
+      "date": "2026-07-23",
+      "miles": 1.32,
+      "km": 2.12,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-07-23",
+      "miles": 4.84,
+      "km": 7.79,
+      "type": "run",
+      "time": null,
+      "comment": "Solo loop at Dreamy Draw."
     }
   ],
-  "totalActivities": 103,
-  "activeDays": 71,
-  "restDays": 12
+  "totalActivities": 110,
+  "activeDays": 75,
+  "restDays": 9
 }

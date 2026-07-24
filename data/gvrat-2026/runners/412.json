@@ -723,9 +723,17 @@
       "type": "walk",
       "time": null,
       "comment": "errands"
+    },
+    {
+      "date": "2026-07-23",
+      "miles": 8.1,
+      "km": 13.04,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 57,
-  "activeDays": 50,
+  "totalActivities": 58,
+  "activeDays": 51,
   "restDays": 33
 }

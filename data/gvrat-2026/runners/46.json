@@ -1491,9 +1491,25 @@
       "type": "run",
       "time": null,
       "comment": "RSD 4063 Albuquerque Run"
+    },
+    {
+      "date": "2026-07-22",
+      "miles": 7.54,
+      "km": 12.13,
+      "type": "walk",
+      "time": null,
+      "comment": "Cool down walk in Albuquerque, traveled to Red River NM and walked around the town a lot"
+    },
+    {
+      "date": "2026-07-23",
+      "miles": 3.02,
+      "km": 4.86,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4064 Red River Rd Run"
     }
   ],
-  "totalActivities": 186,
-  "activeDays": 83,
+  "totalActivities": 188,
+  "activeDays": 84,
   "restDays": 0
 }

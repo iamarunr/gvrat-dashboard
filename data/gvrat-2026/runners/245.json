@@ -819,9 +819,17 @@
       "type": "run",
       "time": null,
       "comment": "Trails solo in the dark"
+    },
+    {
+      "date": "2026-07-23",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 78,
   "activeDays": 59,
-  "restDays": 24
+  "restDays": 25
 }

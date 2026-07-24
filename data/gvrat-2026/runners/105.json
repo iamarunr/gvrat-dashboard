@@ -662,14 +662,22 @@
     },
     {
       "date": "2026-07-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.45,
+      "km": 3.94,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walked 2.45 miles with Eddie\ud83d\udc15Skipped workout tonight not feeling well.\ud83e\udd12"
+    },
+    {
+      "date": "2026-07-23",
+      "miles": 8.75,
+      "km": 14.08,
+      "type": "walk",
+      "time": null,
+      "comment": "Got a little bit of sprinkles today\ud83c\udf26couldn't really call it \"rain\"\ud83d\ude03\ud83e\udd14\ud83d\ude44Eddie\ud83d\udc15and I did have to make a run for the house the last 100 yards +/-nice & cool while it lasted."
     }
   ],
-  "totalActivities": 82,
-  "activeDays": 82,
-  "restDays": 1
+  "totalActivities": 84,
+  "activeDays": 84,
+  "restDays": 0
 }
