@@ -1507,9 +1507,25 @@
       "type": "run",
       "time": null,
       "comment": "RSD 4064 Red River Rd Run"
+    },
+    {
+      "date": "2026-07-23",
+      "miles": 4.5,
+      "km": 7.24,
+      "type": "walk",
+      "time": null,
+      "comment": "Red River NM"
+    },
+    {
+      "date": "2026-07-24",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 188,
+  "totalActivities": 189,
   "activeDays": 84,
-  "restDays": 0
+  "restDays": 1
 }

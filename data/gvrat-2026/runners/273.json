@@ -843,9 +843,17 @@
       "type": "walk",
       "time": null,
       "comment": "Harding Ice Field in Seward Alaska 3512 ft"
+    },
+    {
+      "date": "2026-07-24",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 98,
   "activeDays": 77,
-  "restDays": 7
+  "restDays": 8
 }

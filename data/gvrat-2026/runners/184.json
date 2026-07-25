@@ -1155,9 +1155,17 @@
       "type": "walk",
       "time": null,
       "comment": "Hospital walking"
+    },
+    {
+      "date": "2026-07-24",
+      "miles": 3.7,
+      "km": 5.95,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning walk and day at hospital"
     }
   ],
-  "totalActivities": 144,
-  "activeDays": 84,
+  "totalActivities": 145,
+  "activeDays": 85,
   "restDays": 0
 }

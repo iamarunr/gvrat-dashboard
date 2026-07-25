@@ -771,9 +771,25 @@
       "type": "walk",
       "time": null,
       "comment": "my little one is injured"
+    },
+    {
+      "date": "2026-07-24",
+      "miles": 2.17,
+      "km": 3.49,
+      "type": "walk",
+      "time": null,
+      "comment": "Night hike"
+    },
+    {
+      "date": "2026-07-24",
+      "miles": 3.17,
+      "km": 5.1,
+      "type": "run",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 96,
-  "activeDays": 84,
+  "totalActivities": 98,
+  "activeDays": 85,
   "restDays": 0
 }
