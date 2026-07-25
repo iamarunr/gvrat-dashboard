@@ -787,9 +787,17 @@
       "type": "walk",
       "time": null,
       "comment": "Hood trail walk"
+    },
+    {
+      "date": "2026-07-24",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 66,
   "activeDays": 52,
-  "restDays": 32
+  "restDays": 33
 }

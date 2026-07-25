@@ -715,9 +715,17 @@
       "type": "run",
       "time": null,
       "comment": "Switchyard to Church Lane Bridge."
+    },
+    {
+      "date": "2026-07-24",
+      "miles": 6.13,
+      "km": 9.87,
+      "type": "run",
+      "time": null,
+      "comment": "Switchyard to Church lane Bridge."
     }
   ],
-  "totalActivities": 86,
-  "activeDays": 81,
+  "totalActivities": 87,
+  "activeDays": 82,
   "restDays": 3
 }

@@ -1267,9 +1267,17 @@
       "type": "walk",
       "time": null,
       "comment": "Better than 0"
+    },
+    {
+      "date": "2026-07-24",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "walk",
+      "time": null,
+      "comment": "Sister hike with K2 climb"
     }
   ],
-  "totalActivities": 145,
-  "activeDays": 71,
+  "totalActivities": 146,
+  "activeDays": 72,
   "restDays": 13
 }

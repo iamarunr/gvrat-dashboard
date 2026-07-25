@@ -934,30 +934,46 @@
     },
     {
       "date": "2026-07-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 8.96,
+      "km": 14.42,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Old Logan Road Loop with Terri"
     },
     {
       "date": "2026-07-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.24,
+      "km": 10.04,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "6.1 miles on Bear Lake Scenic Trail"
     },
     {
       "date": "2026-07-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.32,
+      "km": 10.17,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Tony Grove Road Down and Up"
+    },
+    {
+      "date": "2026-07-23",
+      "miles": 3.77,
+      "km": 6.07,
+      "type": "walk",
+      "time": null,
+      "comment": "Garden City Beach and Bear Lake Scenic Trail with Terri"
+    },
+    {
+      "date": "2026-07-24",
+      "miles": 3.16,
+      "km": 5.09,
+      "type": "run",
+      "time": null,
+      "comment": "5K Recovery Run to Marina and Back"
     }
   ],
-  "totalActivities": 113,
-  "activeDays": 78,
-  "restDays": 6
+  "totalActivities": 118,
+  "activeDays": 82,
+  "restDays": 3
 }

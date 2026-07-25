@@ -822,14 +822,38 @@
     },
     {
       "date": "2026-07-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.26,
+      "km": 6.86,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Sheep creek"
+    },
+    {
+      "date": "2026-07-23",
+      "miles": 6.9,
+      "km": 11.1,
+      "type": "run",
+      "time": null,
+      "comment": "Hawkins"
+    },
+    {
+      "date": "2026-07-23",
+      "miles": 2.49,
+      "km": 4.01,
+      "type": "walk",
+      "time": null,
+      "comment": "Mores"
+    },
+    {
+      "date": "2026-07-24",
+      "miles": 5.4,
+      "km": 8.69,
+      "type": "walk",
+      "time": null,
+      "comment": "Cervidae"
     }
   ],
-  "totalActivities": 78,
-  "activeDays": 59,
-  "restDays": 25
+  "totalActivities": 82,
+  "activeDays": 61,
+  "restDays": 24
 }

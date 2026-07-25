@@ -910,14 +910,30 @@
     },
     {
       "date": "2026-07-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 9.03,
+      "km": 14.53,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "863' ascent.  Franklin Basin Rd."
+    },
+    {
+      "date": "2026-07-23",
+      "miles": 3.74,
+      "km": 6.02,
+      "type": "walk",
+      "time": null,
+      "comment": "180' ascent.  Bear Lake beach & Heritage Park w/ Rick"
+    },
+    {
+      "date": "2026-07-24",
+      "miles": 22.53,
+      "km": 36.26,
+      "type": "run",
+      "time": null,
+      "comment": "4275' ascent.  Richardson, Sinks, Peter Sinks, Rex, Bear, Turkey, Burnt lollipop"
     }
   ],
-  "totalActivities": 113,
-  "activeDays": 83,
-  "restDays": 1
+  "totalActivities": 116,
+  "activeDays": 85,
+  "restDays": 0
 }
