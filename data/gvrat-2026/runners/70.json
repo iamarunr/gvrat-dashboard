@@ -1419,9 +1419,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-25",
+      "miles": 25.0,
+      "km": 40.23,
+      "type": "run",
+      "time": null,
+      "comment": "Huckleberry Hundred Trail run My Spokane"
     }
   ],
-  "totalActivities": 176,
-  "activeDays": 84,
+  "totalActivities": 177,
+  "activeDays": 85,
   "restDays": 1
 }

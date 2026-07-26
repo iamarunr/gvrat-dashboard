@@ -971,9 +971,17 @@
       "type": "run",
       "time": null,
       "comment": "5K Recovery Run to Marina and Back"
+    },
+    {
+      "date": "2026-07-25",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 118,
   "activeDays": 82,
-  "restDays": 3
+  "restDays": 4
 }

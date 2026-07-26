@@ -787,9 +787,17 @@
       "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-25",
+      "miles": 8.44,
+      "km": 13.58,
+      "type": "run",
+      "time": null,
+      "comment": "Down and up to the lake"
     }
   ],
-  "totalActivities": 98,
-  "activeDays": 85,
+  "totalActivities": 99,
+  "activeDays": 86,
   "restDays": 0
 }

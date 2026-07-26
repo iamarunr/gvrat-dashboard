@@ -958,14 +958,22 @@
     },
     {
       "date": "2026-07-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.32,
+      "km": 2.12,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-07-25",
+      "miles": 15.19,
+      "km": 24.45,
+      "type": "run",
+      "time": null,
+      "comment": "Pemberton Trail loop."
     }
   ],
-  "totalActivities": 110,
-  "activeDays": 75,
-  "restDays": 10
+  "totalActivities": 112,
+  "activeDays": 77,
+  "restDays": 9
 }

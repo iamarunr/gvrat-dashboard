@@ -931,9 +931,17 @@
       "type": "walk",
       "time": null,
       "comment": "night walk"
+    },
+    {
+      "date": "2026-07-25",
+      "miles": 2.55,
+      "km": 4.1,
+      "type": "walk",
+      "time": null,
+      "comment": "kayakoy night walk"
     }
   ],
-  "totalActivities": 91,
-  "activeDays": 60,
+  "totalActivities": 92,
+  "activeDays": 61,
   "restDays": 25
 }
