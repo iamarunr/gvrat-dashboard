@@ -1518,14 +1518,30 @@
     },
     {
       "date": "2026-07-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.12,
+      "km": 3.41,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4065 Red River NM"
+    },
+    {
+      "date": "2026-07-24",
+      "miles": 4.02,
+      "km": 6.47,
+      "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-25",
+      "miles": 14.53,
+      "km": 23.38,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4066 - Enchanted Forest Heavy Half Trail Run"
     }
   ],
-  "totalActivities": 189,
-  "activeDays": 84,
-  "restDays": 1
+  "totalActivities": 192,
+  "activeDays": 86,
+  "restDays": 0
 }

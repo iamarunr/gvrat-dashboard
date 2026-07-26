@@ -691,9 +691,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-25",
+      "miles": 7.77,
+      "km": 12.5,
+      "type": "run",
+      "time": null,
+      "comment": "Coffee run"
     }
   ],
-  "totalActivities": 58,
-  "activeDays": 57,
+  "totalActivities": 59,
+  "activeDays": 58,
   "restDays": 28
 }

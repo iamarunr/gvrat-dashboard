@@ -795,9 +795,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-25",
+      "miles": 3.78,
+      "km": 6.08,
+      "type": "walk",
+      "time": null,
+      "comment": "Airport and Cayman"
     }
   ],
-  "totalActivities": 66,
-  "activeDays": 52,
+  "totalActivities": 67,
+  "activeDays": 53,
   "restDays": 33
 }

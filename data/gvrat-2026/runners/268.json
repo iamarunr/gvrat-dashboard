@@ -702,46 +702,62 @@
     },
     {
       "date": "2026-07-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.32,
+      "km": 3.73,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning walk and fit club"
     },
     {
       "date": "2026-07-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.85,
+      "km": 4.59,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Swim, treadmill"
     },
     {
       "date": "2026-07-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.75,
+      "km": 4.43,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "morning walk, pickleball;"
     },
     {
       "date": "2026-07-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.75,
+      "km": 4.43,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Barre, morning walk"
     },
     {
       "date": "2026-07-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.35,
+      "km": 7.0,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "walk, bikeride, run, treadmill"
+    },
+    {
+      "date": "2026-07-25",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "morning swim"
+    },
+    {
+      "date": "2026-07-25",
+      "miles": 2.2,
+      "km": 3.54,
+      "type": "run",
+      "time": null,
+      "comment": "run after swim"
     }
   ],
-  "totalActivities": 85,
-  "activeDays": 78,
-  "restDays": 7
+  "totalActivities": 92,
+  "activeDays": 84,
+  "restDays": 2
 }

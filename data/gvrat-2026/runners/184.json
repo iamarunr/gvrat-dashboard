@@ -1163,9 +1163,25 @@
       "type": "walk",
       "time": null,
       "comment": "Morning walk and day at hospital"
+    },
+    {
+      "date": "2026-07-25",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "run",
+      "time": null,
+      "comment": "Neighborhood 30/30"
+    },
+    {
+      "date": "2026-07-25",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown and hospital walking"
     }
   ],
-  "totalActivities": 145,
-  "activeDays": 85,
+  "totalActivities": 147,
+  "activeDays": 86,
   "restDays": 0
 }

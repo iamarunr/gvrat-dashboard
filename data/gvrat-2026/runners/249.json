@@ -699,9 +699,17 @@
       "type": "run",
       "time": null,
       "comment": "IMFLA train"
+    },
+    {
+      "date": "2026-07-25",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 76,
   "activeDays": 74,
-  "restDays": 11
+  "restDays": 12
 }

@@ -694,19 +694,19 @@
     },
     {
       "date": "2026-07-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.56,
+      "km": 12.17,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Petite boucle."
     },
     {
       "date": "2026-07-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.86,
+      "km": 2.99,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Marche."
     },
     {
       "date": "2026-07-23",
@@ -718,14 +718,22 @@
     },
     {
       "date": "2026-07-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.23,
+      "km": 5.2,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Marche forc\u00e9e."
+    },
+    {
+      "date": "2026-07-25",
+      "miles": 11.12,
+      "km": 17.9,
+      "type": "run",
+      "time": null,
+      "comment": "Boucle par Celles-Freychenet."
     }
   ],
-  "totalActivities": 61,
-  "activeDays": 56,
-  "restDays": 29
+  "totalActivities": 65,
+  "activeDays": 60,
+  "restDays": 26
 }

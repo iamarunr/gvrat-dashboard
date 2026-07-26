@@ -907,9 +907,25 @@
       "type": "run",
       "time": null,
       "comment": "A run of two halves (good practice for LLCR)"
+    },
+    {
+      "date": "2026-07-25",
+      "miles": 3.3,
+      "km": 5.31,
+      "type": "walk",
+      "time": null,
+      "comment": "No rabbits today!"
+    },
+    {
+      "date": "2026-07-25",
+      "miles": 4.93,
+      "km": 7.93,
+      "type": "run",
+      "time": null,
+      "comment": "Parkrun with Roland"
     }
   ],
-  "totalActivities": 94,
-  "activeDays": 66,
+  "totalActivities": 96,
+  "activeDays": 67,
   "restDays": 19
 }

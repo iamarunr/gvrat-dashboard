@@ -870,14 +870,22 @@
     },
     {
       "date": "2026-07-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.15,
+      "km": 3.46,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "TVA flat recovery walk; Mag"
     },
     {
       "date": "2026-07-24",
+      "miles": 2.16,
+      "km": 3.48,
+      "type": "walk",
+      "time": null,
+      "comment": "McF recovery walk; Mag"
+    },
+    {
+      "date": "2026-07-25",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -885,7 +893,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 89,
-  "activeDays": 64,
-  "restDays": 21
+  "totalActivities": 91,
+  "activeDays": 66,
+  "restDays": 20
 }
