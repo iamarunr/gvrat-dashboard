@@ -765,6 +765,14 @@
       "comment": ""
     },
     {
+      "date": "2026-07-17",
+      "miles": 4.16,
+      "km": 6.69,
+      "type": "walk",
+      "time": null,
+      "comment": "weighted ruck"
+    },
+    {
       "date": "2026-07-18",
       "miles": 11.53,
       "km": 18.56,
@@ -798,17 +806,25 @@
     },
     {
       "date": "2026-07-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.03,
+      "km": 3.27,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-07-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.44,
+      "km": 7.15,
+      "type": "walk",
+      "time": null,
+      "comment": "weighted ruck"
+    },
+    {
+      "date": "2026-07-23",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
@@ -822,6 +838,22 @@
     },
     {
       "date": "2026-07-25",
+      "miles": 11.71,
+      "km": 18.85,
+      "type": "walk",
+      "time": null,
+      "comment": "weighted ruck"
+    },
+    {
+      "date": "2026-07-25",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-26",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -829,7 +861,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 82,
-  "activeDays": 65,
-  "restDays": 21
+  "totalActivities": 88,
+  "activeDays": 68,
+  "restDays": 19
 }

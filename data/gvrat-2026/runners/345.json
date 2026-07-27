@@ -699,9 +699,17 @@
       "type": "run",
       "time": null,
       "comment": "Coffee run"
+    },
+    {
+      "date": "2026-07-26",
+      "miles": 5.8,
+      "km": 9.33,
+      "type": "run",
+      "time": null,
+      "comment": "Poodle"
     }
   ],
-  "totalActivities": 59,
-  "activeDays": 58,
+  "totalActivities": 60,
+  "activeDays": 59,
   "restDays": 28
 }

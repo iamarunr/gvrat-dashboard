@@ -1278,14 +1278,22 @@
     },
     {
       "date": "2026-07-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.08,
+      "km": 8.18,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Flower Farm hike with sisters"
+    },
+    {
+      "date": "2026-07-26",
+      "miles": 5.44,
+      "km": 8.75,
+      "type": "walk",
+      "time": null,
+      "comment": "TM"
     }
   ],
-  "totalActivities": 146,
-  "activeDays": 72,
-  "restDays": 14
+  "totalActivities": 148,
+  "activeDays": 74,
+  "restDays": 13
 }

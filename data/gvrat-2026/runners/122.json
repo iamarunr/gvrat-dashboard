@@ -678,38 +678,46 @@
     },
     {
       "date": "2026-07-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Bike path"
     },
     {
       "date": "2026-07-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Bike path"
     },
     {
       "date": "2026-07-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Bike path Tipp"
     },
     {
       "date": "2026-07-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "KY nature trail at conservation festival"
+    },
+    {
+      "date": "2026-07-26",
+      "miles": 8.01,
+      "km": 12.89,
+      "type": "walk",
+      "time": null,
+      "comment": "Back side of dam to Aullwood and another backside loop"
     }
   ],
-  "totalActivities": 69,
-  "activeDays": 67,
-  "restDays": 19
+  "totalActivities": 74,
+  "activeDays": 72,
+  "restDays": 15
 }

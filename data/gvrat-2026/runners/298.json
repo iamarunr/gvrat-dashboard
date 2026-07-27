@@ -803,9 +803,17 @@
       "type": "walk",
       "time": null,
       "comment": "Airport and Cayman"
+    },
+    {
+      "date": "2026-07-26",
+      "miles": 4.08,
+      "km": 6.57,
+      "type": "walk",
+      "time": null,
+      "comment": "Beach walk"
     }
   ],
-  "totalActivities": 67,
-  "activeDays": 53,
+  "totalActivities": 68,
+  "activeDays": 54,
   "restDays": 33
 }

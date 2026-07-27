@@ -1179,9 +1179,25 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown and hospital walking"
+    },
+    {
+      "date": "2026-07-26",
+      "miles": 3.12,
+      "km": 5.02,
+      "type": "run",
+      "time": null,
+      "comment": "Sunday morning 30/30 with Cynthia"
+    },
+    {
+      "date": "2026-07-26",
+      "miles": 2.08,
+      "km": 3.35,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk / hospital walking"
     }
   ],
-  "totalActivities": 147,
-  "activeDays": 86,
+  "totalActivities": 149,
+  "activeDays": 87,
   "restDays": 0
 }

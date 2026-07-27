@@ -755,9 +755,25 @@
       "type": "run",
       "time": null,
       "comment": "run after swim"
+    },
+    {
+      "date": "2026-07-26",
+      "miles": 1.75,
+      "km": 2.82,
+      "type": "walk",
+      "time": null,
+      "comment": "Fast walk at the pond"
+    },
+    {
+      "date": "2026-07-26",
+      "miles": 1.25,
+      "km": 2.01,
+      "type": "walk",
+      "time": null,
+      "comment": "swim morning"
     }
   ],
-  "totalActivities": 92,
-  "activeDays": 84,
+  "totalActivities": 94,
+  "activeDays": 85,
   "restDays": 2
 }
