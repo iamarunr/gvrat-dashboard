@@ -691,9 +691,17 @@
       "type": "walk",
       "time": null,
       "comment": "post fall\u2026."
+    },
+    {
+      "date": "2026-07-26",
+      "miles": 11.44,
+      "km": 18.41,
+      "type": "run",
+      "time": null,
+      "comment": "better\u2026\u2026"
     }
   ],
-  "totalActivities": 86,
-  "activeDays": 86,
+  "totalActivities": 87,
+  "activeDays": 87,
   "restDays": 0
 }

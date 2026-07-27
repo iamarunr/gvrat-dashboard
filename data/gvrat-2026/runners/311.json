@@ -846,14 +846,22 @@
     },
     {
       "date": "2026-07-25",
-      "miles": 4.5,
-      "km": 7.24,
+      "miles": 4.9,
+      "km": 7.89,
       "type": "walk",
       "time": null,
       "comment": "Lots of uphill today"
+    },
+    {
+      "date": "2026-07-26",
+      "miles": 5.3,
+      "km": 8.53,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 93,
-  "activeDays": 73,
+  "totalActivities": 94,
+  "activeDays": 74,
   "restDays": 13
 }
