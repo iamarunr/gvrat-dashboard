@@ -958,22 +958,38 @@
     },
     {
       "date": "2026-07-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 9.0,
+      "km": 14.48,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "SHMP Long Run > Winding Creek Local Park - RCT South"
     },
     {
       "date": "2026-07-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.57,
+      "km": 8.96,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Beach Drive Hike with Laura!"
+    },
+    {
+      "date": "2026-07-26",
+      "miles": 2.94,
+      "km": 4.73,
+      "type": "walk",
+      "time": null,
+      "comment": "King Farm Loop-ish"
+    },
+    {
+      "date": "2026-07-27",
+      "miles": 4.13,
+      "km": 6.65,
+      "type": "walk",
+      "time": null,
+      "comment": "Bethesda CCT-Kenwood Walk"
     }
   ],
-  "totalActivities": 98,
-  "activeDays": 64,
-  "restDays": 23
+  "totalActivities": 102,
+  "activeDays": 67,
+  "restDays": 21
 }

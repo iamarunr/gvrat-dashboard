@@ -974,22 +974,30 @@
     },
     {
       "date": "2026-07-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 9.44,
+      "km": 15.19,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Temple Fork Road Up and Down"
     },
     {
       "date": "2026-07-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.32,
+      "km": 8.56,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Sweetwater Lollipop Recovery Run"
+    },
+    {
+      "date": "2026-07-27",
+      "miles": 3.16,
+      "km": 5.09,
+      "type": "run",
+      "time": null,
+      "comment": "5K jog/hike on Historic Union Pacific Rail Trail"
     }
   ],
-  "totalActivities": 118,
-  "activeDays": 82,
-  "restDays": 5
+  "totalActivities": 121,
+  "activeDays": 85,
+  "restDays": 3
 }

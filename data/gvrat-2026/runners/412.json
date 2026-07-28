@@ -755,9 +755,17 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-27",
+      "miles": 7.8,
+      "km": 12.55,
+      "type": "walk",
+      "time": null,
+      "comment": "Saltese Flats"
     }
   ],
-  "totalActivities": 59,
-  "activeDays": 52,
+  "totalActivities": 60,
+  "activeDays": 53,
   "restDays": 35
 }
