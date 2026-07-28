@@ -699,9 +699,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total- big garden Sunday and campus walk"
+    },
+    {
+      "date": "2026-07-27",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total, Monday. No evening walk, made jelly"
     }
   ],
-  "totalActivities": 81,
-  "activeDays": 81,
+  "totalActivities": 82,
+  "activeDays": 82,
   "restDays": 6
 }

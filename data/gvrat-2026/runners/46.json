@@ -1571,9 +1571,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-27",
+      "miles": 2.02,
+      "km": 3.25,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4068 Red River Road Run"
+    },
+    {
+      "date": "2026-07-27",
+      "miles": 5.71,
+      "km": 9.19,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 196,
-  "activeDays": 87,
+  "totalActivities": 198,
+  "activeDays": 88,
   "restDays": 0
 }

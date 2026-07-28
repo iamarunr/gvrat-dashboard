@@ -1195,9 +1195,17 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk / hospital walking"
+    },
+    {
+      "date": "2026-07-27",
+      "miles": 3.8,
+      "km": 6.12,
+      "type": "walk",
+      "time": null,
+      "comment": "AM walk ; walked the dogs and walked the alone and went to  hospital"
     }
   ],
-  "totalActivities": 149,
-  "activeDays": 87,
+  "totalActivities": 150,
+  "activeDays": 88,
   "restDays": 0
 }

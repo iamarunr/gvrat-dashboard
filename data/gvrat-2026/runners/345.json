@@ -707,9 +707,17 @@
       "type": "run",
       "time": null,
       "comment": "Poodle"
+    },
+    {
+      "date": "2026-07-27",
+      "miles": 5.59,
+      "km": 9.0,
+      "type": "run",
+      "time": null,
+      "comment": "kick starter"
     }
   ],
-  "totalActivities": 60,
-  "activeDays": 59,
+  "totalActivities": 61,
+  "activeDays": 60,
   "restDays": 28
 }

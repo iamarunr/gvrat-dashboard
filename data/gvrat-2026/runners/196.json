@@ -1291,9 +1291,17 @@
       "type": "walk",
       "time": null,
       "comment": "TM"
+    },
+    {
+      "date": "2026-07-27",
+      "miles": 3.44,
+      "km": 5.54,
+      "type": "walk",
+      "time": null,
+      "comment": "Full moon walk"
     }
   ],
-  "totalActivities": 148,
-  "activeDays": 74,
+  "totalActivities": 149,
+  "activeDays": 75,
   "restDays": 13
 }

@@ -987,9 +987,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-27",
+      "miles": 10.0,
+      "km": 16.09,
+      "type": "walk",
+      "time": null,
+      "comment": "Hike plus extra"
     }
   ],
-  "totalActivities": 112,
-  "activeDays": 76,
+  "totalActivities": 113,
+  "activeDays": 77,
   "restDays": 11
 }

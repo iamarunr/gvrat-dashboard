@@ -798,14 +798,30 @@
     },
     {
       "date": "2026-07-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.3,
+      "km": 3.7,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Pyramids"
+    },
+    {
+      "date": "2026-07-26",
+      "miles": 2.91,
+      "km": 4.68,
+      "type": "walk",
+      "time": null,
+      "comment": "Alpacas & Lamas"
+    },
+    {
+      "date": "2026-07-27",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "run",
+      "time": null,
+      "comment": "Recovery sweat"
     }
   ],
-  "totalActivities": 99,
-  "activeDays": 86,
-  "restDays": 1
+  "totalActivities": 102,
+  "activeDays": 88,
+  "restDays": 0
 }
