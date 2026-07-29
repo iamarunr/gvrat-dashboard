@@ -914,7 +914,7 @@
       "km": 6.44,
       "type": "walk",
       "time": null,
-      "comment": "Morning Remi Walk \u00f0\u009f\u00a5\u00b5"
+      "comment": "Morning Remi Walk \ud83e\udd75"
     },
     {
       "date": "2026-07-24",
@@ -922,7 +922,7 @@
       "km": 7.24,
       "type": "walk",
       "time": null,
-      "comment": "Piestewa > Freedom OAB w/T & M \u00f0\u009f\u00a5\u00b5\u00f0\u009f\u00a5\u00b5"
+      "comment": "Piestewa > Freedom OAB w/T & M \ud83e\udd75\ud83e\udd75"
     },
     {
       "date": "2026-07-25",
@@ -947,9 +947,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-28",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 104,
   "activeDays": 74,
-  "restDays": 14
+  "restDays": 15
 }

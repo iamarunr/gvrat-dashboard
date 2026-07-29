@@ -338,7 +338,7 @@
       "km": 8.93,
       "type": "walk",
       "time": null,
-      "comment": "roseanne roseannadanna \u00f0\u009f\u00a5\u00b8"
+      "comment": "roseanne roseannadanna \ud83e\udd78"
     },
     {
       "date": "2026-06-12",
@@ -707,9 +707,17 @@
       "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-28",
+      "miles": 16.16,
+      "km": 26.01,
+      "type": "run",
+      "time": null,
+      "comment": "tmill combo\u2026."
     }
   ],
-  "totalActivities": 88,
-  "activeDays": 88,
+  "totalActivities": 89,
+  "activeDays": 89,
   "restDays": 0
 }

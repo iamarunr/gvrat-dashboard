@@ -707,9 +707,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total, Monday. No evening walk, made jelly"
+    },
+    {
+      "date": "2026-07-28",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total."
     }
   ],
-  "totalActivities": 82,
-  "activeDays": 82,
+  "totalActivities": 83,
+  "activeDays": 83,
   "restDays": 6
 }

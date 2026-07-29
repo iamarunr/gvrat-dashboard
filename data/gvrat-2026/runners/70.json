@@ -1146,7 +1146,7 @@
       "km": 4.83,
       "type": "run",
       "time": null,
-      "comment": "Evening- hot!!! \u00f0\u009f\u00a5\u00b5"
+      "comment": "Evening- hot!!! \ud83e\udd75"
     },
     {
       "date": "2026-07-08",
@@ -1210,7 +1210,7 @@
       "km": 13.68,
       "type": "run",
       "time": null,
-      "comment": "Morning. Smoke in the air \u00f0\u009f\u00a4\u00a2"
+      "comment": "Morning. Smoke in the air \ud83e\udd22"
     },
     {
       "date": "2026-07-11",
@@ -1443,9 +1443,17 @@
       "type": "walk",
       "time": null,
       "comment": "Gee whiz!  More sore today!"
+    },
+    {
+      "date": "2026-07-28",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Afternoon"
     }
   ],
-  "totalActivities": 180,
-  "activeDays": 88,
+  "totalActivities": 181,
+  "activeDays": 89,
   "restDays": 0
 }
