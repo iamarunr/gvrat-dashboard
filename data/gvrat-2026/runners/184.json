@@ -898,7 +898,7 @@
       "km": 5.1,
       "type": "run",
       "time": null,
-      "comment": "Enterprise threshold run -17 minutes hot \u00f0\u009f\u00a5\u00b5 hot \u00f0\u009f\u00a5\u00b5 hot \u00f0\u009f\u00a5\u00b5"
+      "comment": "Enterprise threshold run -17 minutes hot \ud83e\udd75 hot \ud83e\udd75 hot \ud83e\udd75"
     },
     {
       "date": "2026-07-03",
@@ -1203,9 +1203,25 @@
       "type": "walk",
       "time": null,
       "comment": "AM walk ; walked the dogs and walked the alone and went to  hospital"
+    },
+    {
+      "date": "2026-07-28",
+      "miles": 3.1,
+      "km": 4.99,
+      "type": "run",
+      "time": null,
+      "comment": "Collegedale 30/30"
+    },
+    {
+      "date": "2026-07-28",
+      "miles": 1.7,
+      "km": 2.74,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and hospital walking"
     }
   ],
-  "totalActivities": 150,
-  "activeDays": 88,
+  "totalActivities": 152,
+  "activeDays": 89,
   "restDays": 0
 }

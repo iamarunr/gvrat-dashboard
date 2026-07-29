@@ -819,9 +819,33 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-28",
+      "miles": 1.89,
+      "km": 3.04,
+      "type": "walk",
+      "time": null,
+      "comment": "Errands"
+    },
+    {
+      "date": "2026-07-28",
+      "miles": 3.71,
+      "km": 5.97,
+      "type": "walk",
+      "time": null,
+      "comment": "Beach walk"
+    },
+    {
+      "date": "2026-07-28",
+      "miles": 1.6,
+      "km": 2.57,
+      "type": "walk",
+      "time": null,
+      "comment": "Errands"
     }
   ],
-  "totalActivities": 68,
-  "activeDays": 54,
+  "totalActivities": 71,
+  "activeDays": 55,
   "restDays": 34
 }

@@ -875,9 +875,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-28",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "1/2 mile at 5% alternating with 1/2 mile at 10%"
+    },
+    {
+      "date": "2026-07-28",
+      "miles": 1.25,
+      "km": 2.01,
+      "type": "walk",
+      "time": null,
+      "comment": "TJ's walk"
     }
   ],
-  "totalActivities": 82,
-  "activeDays": 61,
+  "totalActivities": 84,
+  "activeDays": 62,
   "restDays": 27
 }

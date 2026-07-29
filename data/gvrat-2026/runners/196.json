@@ -114,7 +114,7 @@
       "km": 0.82,
       "type": "walk",
       "time": null,
-      "comment": "To \u00f0\u009f\u00a9\u00bb"
+      "comment": "To \ud83e\ude7b"
     },
     {
       "date": "2026-05-07",
@@ -1299,9 +1299,17 @@
       "type": "walk",
       "time": null,
       "comment": "Full moon walk"
+    },
+    {
+      "date": "2026-07-28",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 149,
   "activeDays": 75,
-  "restDays": 13
+  "restDays": 14
 }

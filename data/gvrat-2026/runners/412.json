@@ -763,9 +763,25 @@
       "type": "walk",
       "time": null,
       "comment": "Saltese Flats"
+    },
+    {
+      "date": "2026-07-28",
+      "miles": 5.91,
+      "km": 9.51,
+      "type": "run",
+      "time": null,
+      "comment": "Alter-G"
+    },
+    {
+      "date": "2026-07-28",
+      "miles": 6.25,
+      "km": 10.06,
+      "type": "walk",
+      "time": null,
+      "comment": "good steady walk. Felt good."
     }
   ],
-  "totalActivities": 60,
-  "activeDays": 53,
+  "totalActivities": 62,
+  "activeDays": 54,
   "restDays": 35
 }

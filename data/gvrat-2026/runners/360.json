@@ -778,7 +778,7 @@
       "km": 3.83,
       "type": "walk",
       "time": null,
-      "comment": "Steps to \u00f0\u009f\u00a7\u00a8 w/Seester!"
+      "comment": "Steps to \ud83e\udde8 w/Seester!"
     },
     {
       "date": "2026-07-04",
@@ -794,7 +794,7 @@
       "km": 8.05,
       "type": "walk",
       "time": null,
-      "comment": "Hot walk with hubs \u00f0\u009f\u00a5\u00b5\u00f0\u009f\u00a5\u00b5"
+      "comment": "Hot walk with hubs \ud83e\udd75\ud83e\udd75"
     },
     {
       "date": "2026-07-06",
@@ -1147,9 +1147,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-28",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 137,
   "activeDays": 82,
-  "restDays": 6
+  "restDays": 7
 }

@@ -346,7 +346,7 @@
       "km": 8.29,
       "type": "walk",
       "time": null,
-      "comment": "Getting hot out there \u00f0\u009f\u00a5\u00b5"
+      "comment": "Getting hot out there \ud83e\udd75"
     },
     {
       "date": "2026-06-07",
@@ -963,9 +963,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-28",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 87,
   "activeDays": 55,
-  "restDays": 33
+  "restDays": 34
 }

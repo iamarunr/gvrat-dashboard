@@ -758,22 +758,30 @@
     },
     {
       "date": "2026-07-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.8,
+      "km": 2.9,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Crown lands portages"
     },
     {
       "date": "2026-07-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.33,
+      "km": 2.14,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Thunder Bay & Wawa"
+    },
+    {
+      "date": "2026-07-28",
+      "miles": 0.3,
+      "km": 0.48,
+      "type": "walk",
+      "time": null,
+      "comment": "Sault Ste. Marie locks"
     }
   ],
-  "totalActivities": 31,
-  "activeDays": 23,
-  "restDays": 65
+  "totalActivities": 34,
+  "activeDays": 26,
+  "restDays": 63
 }

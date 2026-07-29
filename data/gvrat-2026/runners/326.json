@@ -995,9 +995,17 @@
       "type": "walk",
       "time": null,
       "comment": "Hike plus extra"
+    },
+    {
+      "date": "2026-07-28",
+      "miles": 7.8,
+      "km": 12.55,
+      "type": "walk",
+      "time": null,
+      "comment": "Canyon"
     }
   ],
-  "totalActivities": 113,
-  "activeDays": 77,
+  "totalActivities": 114,
+  "activeDays": 78,
   "restDays": 11
 }
