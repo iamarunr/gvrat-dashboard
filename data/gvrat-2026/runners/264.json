@@ -990,14 +990,22 @@
     },
     {
       "date": "2026-07-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.81,
+      "km": 6.13,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Office Loop"
+    },
+    {
+      "date": "2026-07-29",
+      "miles": 6.27,
+      "km": 10.09,
+      "type": "run",
+      "time": null,
+      "comment": "SHMP Track Workout (3x1600)  B-CC HS Track - RunKeeper Stats"
     }
   ],
-  "totalActivities": 102,
-  "activeDays": 67,
-  "restDays": 22
+  "totalActivities": 104,
+  "activeDays": 69,
+  "restDays": 21
 }

@@ -843,9 +843,33 @@
       "type": "walk",
       "time": null,
       "comment": "Errands"
+    },
+    {
+      "date": "2026-07-29",
+      "miles": 1.84,
+      "km": 2.96,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk to Camana Bay"
+    },
+    {
+      "date": "2026-07-29",
+      "miles": 2.93,
+      "km": 4.72,
+      "type": "walk",
+      "time": null,
+      "comment": "Beach walk"
+    },
+    {
+      "date": "2026-07-29",
+      "miles": 3.16,
+      "km": 5.09,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening beach walk"
     }
   ],
-  "totalActivities": 71,
-  "activeDays": 55,
+  "totalActivities": 74,
+  "activeDays": 56,
   "restDays": 34
 }

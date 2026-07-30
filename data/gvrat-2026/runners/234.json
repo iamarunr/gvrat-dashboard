@@ -998,14 +998,30 @@
     },
     {
       "date": "2026-07-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 11.2,
+      "km": 18.02,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Preview #1 of Saturday's Half Marathon"
+    },
+    {
+      "date": "2026-07-28",
+      "miles": 0.65,
+      "km": 1.05,
+      "type": "walk",
+      "time": null,
+      "comment": "Afternoon stretch out hike with Terri"
+    },
+    {
+      "date": "2026-07-29",
+      "miles": 5.98,
+      "km": 9.62,
+      "type": "run",
+      "time": null,
+      "comment": "Preview #2 of Saturday's Half Marathon"
     }
   ],
-  "totalActivities": 121,
-  "activeDays": 85,
-  "restDays": 4
+  "totalActivities": 124,
+  "activeDays": 87,
+  "restDays": 3
 }

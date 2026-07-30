@@ -891,9 +891,17 @@
       "type": "walk",
       "time": null,
       "comment": "TJ's walk"
+    },
+    {
+      "date": "2026-07-29",
+      "miles": 4.86,
+      "km": 7.82,
+      "type": "walk",
+      "time": null,
+      "comment": "4 mile greenbelt walk before work, 0.86 walk on a break"
     }
   ],
-  "totalActivities": 84,
-  "activeDays": 62,
+  "totalActivities": 85,
+  "activeDays": 63,
   "restDays": 27
 }
