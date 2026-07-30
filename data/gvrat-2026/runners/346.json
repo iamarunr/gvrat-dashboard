@@ -950,22 +950,38 @@
     },
     {
       "date": "2026-07-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 16.0,
+      "km": 25.75,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "2487' ascent.  Kearl Pond, Mill Hollow, Temple Fork"
     },
     {
       "date": "2026-07-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.01,
+      "km": 9.67,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "515' ascent.  Bear Lake & Sweetwater"
+    },
+    {
+      "date": "2026-07-28",
+      "miles": 0.63,
+      "km": 1.01,
+      "type": "walk",
+      "time": null,
+      "comment": "26' ascent.  Silver Lake area w/ Rick, cut short by lightning and rain"
+    },
+    {
+      "date": "2026-07-29",
+      "miles": 14.11,
+      "km": 22.71,
+      "type": "run",
+      "time": null,
+      "comment": "1463' ascent.  Round Valley - PCTS Half marathon (p)review"
     }
   ],
-  "totalActivities": 118,
-  "activeDays": 87,
-  "restDays": 2
+  "totalActivities": 122,
+  "activeDays": 90,
+  "restDays": 0
 }

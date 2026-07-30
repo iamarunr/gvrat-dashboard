@@ -779,9 +779,17 @@
       "type": "walk",
       "time": null,
       "comment": "Sault Ste. Marie locks"
+    },
+    {
+      "date": "2026-07-29",
+      "miles": 1.55,
+      "km": 2.49,
+      "type": "walk",
+      "time": null,
+      "comment": "Whiskey Creek CAN"
     }
   ],
-  "totalActivities": 34,
-  "activeDays": 26,
+  "totalActivities": 35,
+  "activeDays": 27,
   "restDays": 63
 }

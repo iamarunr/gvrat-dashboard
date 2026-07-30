@@ -782,11 +782,11 @@
     },
     {
       "date": "2026-07-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.71,
+      "km": 9.19,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Recovery run."
     },
     {
       "date": "2026-07-23",
@@ -798,35 +798,51 @@
     },
     {
       "date": "2026-07-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.01,
+      "km": 6.45,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Run at the hotel...vacation, delayed entry."
     },
     {
       "date": "2026-07-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.28,
+      "km": 8.5,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "First run of vacation.  Delayed entry due to vacation."
+    },
+    {
+      "date": "2026-07-25",
+      "miles": 1.47,
+      "km": 2.37,
+      "type": "walk",
+      "time": null,
+      "comment": "Family walk on vaca.  Delayed entry due to vacation."
     },
     {
       "date": "2026-07-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.77,
+      "km": 6.07,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Slow walk with family in Charleston, SC.  Delayed entry due to vacation."
+    },
+    {
+      "date": "2026-07-26",
+      "miles": 2.01,
+      "km": 3.23,
+      "type": "walk",
+      "time": null,
+      "comment": "Family walk.  Delayed entry due to vacation."
     },
     {
       "date": "2026-07-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.7,
+      "km": 10.78,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Last run of vacation in Charleston, SC.  Delayed entry due to vacation."
     },
     {
       "date": "2026-07-28",
@@ -835,9 +851,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-29",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 81,
-  "activeDays": 66,
-  "restDays": 23
+  "totalActivities": 88,
+  "activeDays": 71,
+  "restDays": 19
 }

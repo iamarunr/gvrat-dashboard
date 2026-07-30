@@ -1219,9 +1219,25 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and hospital walking"
+    },
+    {
+      "date": "2026-07-29",
+      "miles": 1.31,
+      "km": 2.11,
+      "type": "run",
+      "time": null,
+      "comment": "AM 30/30"
+    },
+    {
+      "date": "2026-07-29",
+      "miles": 2.39,
+      "km": 3.85,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning cooldown walk and hospital walking"
     }
   ],
-  "totalActivities": 152,
-  "activeDays": 89,
+  "totalActivities": 154,
+  "activeDays": 90,
   "restDays": 0
 }
