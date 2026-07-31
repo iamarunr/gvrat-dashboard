@@ -950,11 +950,27 @@
     },
     {
       "date": "2026-07-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.26,
+      "km": 5.25,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Treadmill walk"
+    },
+    {
+      "date": "2026-07-26",
+      "miles": 1.05,
+      "km": 1.69,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill walk"
+    },
+    {
+      "date": "2026-07-26",
+      "miles": 2.88,
+      "km": 4.63,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking pad"
     },
     {
       "date": "2026-07-27",
@@ -966,14 +982,30 @@
     },
     {
       "date": "2026-07-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.49,
+      "km": 2.4,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Treadmill walk"
+    },
+    {
+      "date": "2026-07-28",
+      "miles": 1.64,
+      "km": 2.64,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill walk"
     },
     {
       "date": "2026-07-29",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill walk"
+    },
+    {
+      "date": "2026-07-30",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -981,7 +1013,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 87,
-  "activeDays": 55,
-  "restDays": 35
+  "totalActivities": 93,
+  "activeDays": 58,
+  "restDays": 33
 }

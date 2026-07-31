@@ -1003,9 +1003,17 @@
       "type": "run",
       "time": null,
       "comment": "SHMP Track Workout (3x1600)  B-CC HS Track - RunKeeper Stats"
+    },
+    {
+      "date": "2026-07-30",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 104,
   "activeDays": 69,
-  "restDays": 21
+  "restDays": 22
 }

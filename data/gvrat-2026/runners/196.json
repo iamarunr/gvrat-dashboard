@@ -1323,9 +1323,25 @@
       "type": "walk",
       "time": null,
       "comment": "Cool down"
+    },
+    {
+      "date": "2026-07-30",
+      "miles": 1.37,
+      "km": 2.2,
+      "type": "walk",
+      "time": null,
+      "comment": "Out before the heat"
+    },
+    {
+      "date": "2026-07-30",
+      "miles": 4.2,
+      "km": 6.76,
+      "type": "walk",
+      "time": null,
+      "comment": "Too hot outside"
     }
   ],
-  "totalActivities": 151,
-  "activeDays": 76,
+  "totalActivities": 153,
+  "activeDays": 77,
   "restDays": 14
 }

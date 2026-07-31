@@ -894,19 +894,19 @@
     },
     {
       "date": "2026-07-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.98,
+      "km": 4.8,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "tva orrb; mag"
     },
     {
       "date": "2026-07-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.15,
+      "km": 1.85,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "sp; mag"
     },
     {
       "date": "2026-07-28",
@@ -918,14 +918,22 @@
     },
     {
       "date": "2026-07-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.97,
+      "km": 3.17,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "tva flat; mag"
+    },
+    {
+      "date": "2026-07-30",
+      "miles": 2.96,
+      "km": 4.76,
+      "type": "walk",
+      "time": null,
+      "comment": "tv\u00e5 orrb; mag"
     }
   ],
-  "totalActivities": 91,
-  "activeDays": 66,
-  "restDays": 24
+  "totalActivities": 95,
+  "activeDays": 70,
+  "restDays": 21
 }

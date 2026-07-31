@@ -843,9 +843,25 @@
       "type": "walk",
       "time": null,
       "comment": "yard work Pilates. :)"
+    },
+    {
+      "date": "2026-07-30",
+      "miles": 5.2,
+      "km": 8.37,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-30",
+      "miles": 3.9,
+      "km": 6.28,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 69,
-  "activeDays": 54,
+  "totalActivities": 71,
+  "activeDays": 55,
   "restDays": 36
 }

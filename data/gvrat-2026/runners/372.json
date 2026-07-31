@@ -966,14 +966,30 @@
     },
     {
       "date": "2026-07-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.84,
+      "km": 12.62,
+      "type": "walk",
+      "time": null,
+      "comment": "All rabbits caught now!"
+    },
+    {
+      "date": "2026-07-30",
+      "miles": 4.6,
+      "km": 7.4,
+      "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-30",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "run",
+      "time": null,
+      "comment": "Far too hot, but still ran 6 miles!"
     }
   ],
-  "totalActivities": 101,
-  "activeDays": 70,
-  "restDays": 20
+  "totalActivities": 104,
+  "activeDays": 72,
+  "restDays": 19
 }

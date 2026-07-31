@@ -731,9 +731,17 @@
       "type": "walk",
       "time": null,
       "comment": "Full \"Buck\" Moon \ud83c\udf15, 3 rabbits \ud83d\udc07\ud83d\udc07\ud83d\udc07"
+    },
+    {
+      "date": "2026-07-30",
+      "miles": 5.33,
+      "km": 8.58,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 90,
-  "activeDays": 89,
+  "totalActivities": 91,
+  "activeDays": 90,
   "restDays": 1
 }

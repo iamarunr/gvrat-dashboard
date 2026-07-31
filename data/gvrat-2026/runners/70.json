@@ -1454,14 +1454,30 @@
     },
     {
       "date": "2026-07-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.5,
+      "km": 12.07,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walk with Melissa"
+    },
+    {
+      "date": "2026-07-30",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning"
+    },
+    {
+      "date": "2026-07-30",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Afternoon"
     }
   ],
-  "totalActivities": 181,
-  "activeDays": 89,
-  "restDays": 1
+  "totalActivities": 184,
+  "activeDays": 91,
+  "restDays": 0
 }
