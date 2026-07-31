@@ -1227,9 +1227,25 @@
       "type": "run",
       "time": null,
       "comment": "Hills"
+    },
+    {
+      "date": "2026-07-29",
+      "miles": 1.8,
+      "km": 2.9,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-30",
+      "miles": 5.02,
+      "km": 8.08,
+      "type": "run",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 151,
-  "activeDays": 88,
+  "totalActivities": 153,
+  "activeDays": 89,
   "restDays": 2
 }

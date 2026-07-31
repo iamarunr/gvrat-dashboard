@@ -723,9 +723,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total"
+    },
+    {
+      "date": "2026-07-30",
+      "miles": 6.5,
+      "km": 10.46,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total, couple treadmill walks because of rain"
     }
   ],
-  "totalActivities": 84,
-  "activeDays": 84,
+  "totalActivities": 85,
+  "activeDays": 85,
   "restDays": 6
 }

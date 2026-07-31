@@ -787,9 +787,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-30",
+      "miles": 1.49,
+      "km": 2.4,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk with Christopher and the dogs"
     }
   ],
-  "totalActivities": 59,
-  "activeDays": 51,
+  "totalActivities": 60,
+  "activeDays": 52,
   "restDays": 39
 }

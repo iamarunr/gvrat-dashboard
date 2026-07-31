@@ -787,9 +787,17 @@
       "type": "walk",
       "time": null,
       "comment": "Whiskey Creek CAN"
+    },
+    {
+      "date": "2026-07-30",
+      "miles": 2.63,
+      "km": 4.23,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 35,
-  "activeDays": 27,
+  "totalActivities": 36,
+  "activeDays": 28,
   "restDays": 63
 }
