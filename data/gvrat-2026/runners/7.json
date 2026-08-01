@@ -931,9 +931,17 @@
       "type": "walk",
       "time": null,
       "comment": "Helipad Hike"
+    },
+    {
+      "date": "2026-07-31",
+      "miles": 3.82,
+      "km": 6.15,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 105,
-  "activeDays": 80,
+  "totalActivities": 106,
+  "activeDays": 81,
   "restDays": 11
 }

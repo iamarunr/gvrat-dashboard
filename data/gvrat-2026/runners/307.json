@@ -862,30 +862,54 @@
     },
     {
       "date": "2026-07-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.12,
+      "km": 8.24,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "400m relay"
+    },
+    {
+      "date": "2026-07-28",
+      "miles": 2.75,
+      "km": 4.43,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk Daisy"
     },
     {
       "date": "2026-07-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.2,
+      "km": 5.15,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Recovery run"
     },
     {
       "date": "2026-07-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.2,
+      "km": 5.15,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Run w Daisy"
+    },
+    {
+      "date": "2026-07-30",
+      "miles": 1.05,
+      "km": 1.69,
+      "type": "run",
+      "time": null,
+      "comment": "New shoe try out"
+    },
+    {
+      "date": "2026-07-31",
+      "miles": 5.2,
+      "km": 8.37,
+      "type": "run",
+      "time": null,
+      "comment": "Run part with Daisy"
     }
   ],
-  "totalActivities": 107,
-  "activeDays": 88,
-  "restDays": 3
+  "totalActivities": 113,
+  "activeDays": 92,
+  "restDays": 0
 }

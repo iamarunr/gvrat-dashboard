@@ -1142,30 +1142,54 @@
     },
     {
       "date": "2026-07-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.02,
+      "km": 3.25,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-07-27",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-07-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.01,
+      "km": 3.23,
+      "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-07-28",
+      "miles": 2.75,
+      "km": 4.43,
+      "type": "walk",
+      "time": null,
+      "comment": "Desk Treadmill Steps"
     },
     {
       "date": "2026-07-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.17,
+      "km": 6.71,
+      "type": "walk",
+      "time": null,
+      "comment": "Desk Treadmill Steps"
+    },
+    {
+      "date": "2026-07-30",
+      "miles": 3.73,
+      "km": 6.0,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -1173,7 +1197,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 137,
-  "activeDays": 82,
-  "restDays": 9
+  "totalActivities": 143,
+  "activeDays": 86,
+  "restDays": 6
 }
