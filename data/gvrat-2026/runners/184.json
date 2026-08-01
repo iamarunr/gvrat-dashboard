@@ -1243,9 +1243,25 @@
       "type": "walk",
       "time": null,
       "comment": "Mid morning walk ; evening walk and then somec"
+    },
+    {
+      "date": "2026-07-31",
+      "miles": 3.22,
+      "km": 5.18,
+      "type": "run",
+      "time": null,
+      "comment": "7x1:00 and 30/30 run"
+    },
+    {
+      "date": "2026-07-31",
+      "miles": 1.98,
+      "km": 3.19,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and Walmart"
     }
   ],
-  "totalActivities": 155,
-  "activeDays": 91,
+  "totalActivities": 157,
+  "activeDays": 92,
   "restDays": 0
 }

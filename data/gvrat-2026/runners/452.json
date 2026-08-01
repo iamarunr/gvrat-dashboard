@@ -731,9 +731,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total, couple treadmill walks because of rain"
+    },
+    {
+      "date": "2026-07-31",
+      "miles": 7.0,
+      "km": 11.27,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total- in to Boston to hang with my Stacey!!"
     }
   ],
-  "totalActivities": 85,
-  "activeDays": 85,
+  "totalActivities": 86,
+  "activeDays": 86,
   "restDays": 6
 }

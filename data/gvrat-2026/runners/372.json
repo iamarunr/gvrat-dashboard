@@ -987,9 +987,17 @@
       "type": "run",
       "time": null,
       "comment": "Far too hot, but still ran 6 miles!"
+    },
+    {
+      "date": "2026-07-31",
+      "miles": 7.7,
+      "km": 12.39,
+      "type": "walk",
+      "time": null,
+      "comment": "Last one of these for a while!"
     }
   ],
-  "totalActivities": 104,
-  "activeDays": 72,
+  "totalActivities": 105,
+  "activeDays": 73,
   "restDays": 19
 }
