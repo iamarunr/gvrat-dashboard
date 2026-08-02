@@ -779,9 +779,17 @@
       "type": "walk",
       "time": null,
       "comment": "Mexico City and travel."
+    },
+    {
+      "date": "2026-08-01",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 94,
   "activeDays": 89,
-  "restDays": 3
+  "restDays": 4
 }

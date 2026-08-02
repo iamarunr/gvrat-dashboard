@@ -995,9 +995,17 @@
       "type": "walk",
       "time": null,
       "comment": "Last one of these for a while!"
+    },
+    {
+      "date": "2026-08-01",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 105,
   "activeDays": 73,
-  "restDays": 19
+  "restDays": 20
 }

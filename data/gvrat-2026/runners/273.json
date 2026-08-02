@@ -902,6 +902,14 @@
     },
     {
       "date": "2026-07-31",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "walk",
+      "time": null,
+      "comment": "Airport and hood walk"
+    },
+    {
+      "date": "2026-08-01",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -909,7 +917,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 99,
-  "activeDays": 78,
+  "totalActivities": 100,
+  "activeDays": 79,
   "restDays": 14
 }

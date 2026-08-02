@@ -1259,9 +1259,25 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and Walmart"
+    },
+    {
+      "date": "2026-08-01",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "run",
+      "time": null,
+      "comment": "Long run Saturday at Collegedale"
+    },
+    {
+      "date": "2026-08-01",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and rest of day"
     }
   ],
-  "totalActivities": 157,
-  "activeDays": 92,
+  "totalActivities": 159,
+  "activeDays": 93,
   "restDays": 0
 }

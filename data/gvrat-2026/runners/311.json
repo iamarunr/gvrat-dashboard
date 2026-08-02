@@ -907,9 +907,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-01",
+      "miles": 9.1,
+      "km": 14.64,
+      "type": "walk",
+      "time": null,
+      "comment": "Heavy backpack and hilly"
+    },
+    {
+      "date": "2026-08-01",
+      "miles": 2.1,
+      "km": 3.38,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 100,
-  "activeDays": 79,
+  "totalActivities": 102,
+  "activeDays": 80,
   "restDays": 13
 }

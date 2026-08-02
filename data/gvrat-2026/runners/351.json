@@ -867,9 +867,17 @@
       "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-01",
+      "miles": 7.6,
+      "km": 12.23,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 72,
-  "activeDays": 56,
+  "totalActivities": 73,
+  "activeDays": 57,
   "restDays": 36
 }

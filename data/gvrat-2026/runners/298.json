@@ -899,9 +899,33 @@
       "type": "walk",
       "time": null,
       "comment": "Errands"
+    },
+    {
+      "date": "2026-08-01",
+      "miles": 4.43,
+      "km": 7.13,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk to Cana Bay and back via beach"
+    },
+    {
+      "date": "2026-08-01",
+      "miles": 1.92,
+      "km": 3.09,
+      "type": "walk",
+      "time": null,
+      "comment": "Errands"
+    },
+    {
+      "date": "2026-08-01",
+      "miles": 3.55,
+      "km": 5.71,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening beach walk"
     }
   ],
-  "totalActivities": 78,
-  "activeDays": 58,
+  "totalActivities": 81,
+  "activeDays": 59,
   "restDays": 34
 }
