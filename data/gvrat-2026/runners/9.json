@@ -739,9 +739,17 @@
       "type": "run",
       "time": null,
       "comment": "another combo\u2026."
+    },
+    {
+      "date": "2026-08-01",
+      "miles": 3.03,
+      "km": 4.88,
+      "type": "run",
+      "time": null,
+      "comment": "yes\u2026.it was that slow\u2026"
     }
   ],
-  "totalActivities": 92,
-  "activeDays": 92,
+  "totalActivities": 93,
+  "activeDays": 93,
   "restDays": 0
 }

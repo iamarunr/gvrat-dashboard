@@ -981,23 +981,79 @@
       "comment": "1463' ascent.  Round Valley - PCTS Half marathon (p)review"
     },
     {
-      "date": "2026-07-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-07-29",
+      "miles": 1.87,
+      "km": 3.01,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "167' ascent.  Silver Lake amble w/ Rick"
+    },
+    {
+      "date": "2026-07-30",
+      "miles": 6.02,
+      "km": 9.69,
+      "type": "run",
+      "time": null,
+      "comment": "299' ascent.  Park City Union Pacific rail trail"
+    },
+    {
+      "date": "2026-07-30",
+      "miles": 3.22,
+      "km": 5.18,
+      "type": "walk",
+      "time": null,
+      "comment": "325' ascent.  Hog Hollow w/ Rick"
     },
     {
       "date": "2026-07-31",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.41,
+      "km": 8.71,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "722' ascent.  Bonanza Loop Trail (BLT)"
+    },
+    {
+      "date": "2026-07-31",
+      "miles": 4.82,
+      "km": 7.76,
+      "type": "walk",
+      "time": null,
+      "comment": "1184' ascent.  Brighton: Silver & Twin Lakes, Lake Solitude"
+    },
+    {
+      "date": "2026-08-01",
+      "miles": 1.88,
+      "km": 3.03,
+      "type": "run",
+      "time": null,
+      "comment": "161' ascent.  Warmup for PCTS Half Mara"
+    },
+    {
+      "date": "2026-08-01",
+      "miles": 0.34,
+      "km": 0.55,
+      "type": "run",
+      "time": null,
+      "comment": "20' ascent.  Warmup #2 for PCTS Half Mara"
+    },
+    {
+      "date": "2026-08-01",
+      "miles": 13.69,
+      "km": 22.03,
+      "type": "run",
+      "time": null,
+      "comment": "1440' ascent.  Park City Trail Series (PCTS) Half Marathon - PR & 2nd in age group"
+    },
+    {
+      "date": "2026-08-01",
+      "miles": 3.05,
+      "km": 4.91,
+      "type": "walk",
+      "time": null,
+      "comment": "469' ascent.  Shundahai"
     }
   ],
-  "totalActivities": 122,
-  "activeDays": 90,
-  "restDays": 2
+  "totalActivities": 131,
+  "activeDays": 93,
+  "restDays": 0
 }

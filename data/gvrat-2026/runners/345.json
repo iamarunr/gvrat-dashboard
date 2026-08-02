@@ -632,7 +632,7 @@
       "date": "2026-07-17",
       "miles": 7.63,
       "km": 12.28,
-      "type": "walk",
+      "type": "run",
       "time": null,
       "comment": "chilled run"
     },
@@ -747,9 +747,17 @@
       "type": "run",
       "time": null,
       "comment": "shorty"
+    },
+    {
+      "date": "2026-08-01",
+      "miles": 9.15,
+      "km": 14.73,
+      "type": "run",
+      "time": null,
+      "comment": "South coast"
     }
   ],
-  "totalActivities": 64,
-  "activeDays": 63,
+  "totalActivities": 65,
+  "activeDays": 64,
   "restDays": 29
 }

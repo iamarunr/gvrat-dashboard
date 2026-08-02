@@ -1099,9 +1099,17 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-01",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Travel / walked through airports"
     }
   ],
-  "totalActivities": 136,
-  "activeDays": 91,
+  "totalActivities": 137,
+  "activeDays": 92,
   "restDays": 1
 }

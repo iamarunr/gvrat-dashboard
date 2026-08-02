@@ -974,11 +974,11 @@
     },
     {
       "date": "2026-07-25",
-      "miles": 30.17,
-      "km": 48.55,
+      "miles": 33.0,
+      "km": 53.11,
       "type": "walk",
       "time": null,
-      "comment": "https://connect.garmin.com/modern/activity/23732182960?share_unique_id=1084"
+      "comment": "https://ultrasignup.com/m_results_participant.aspx?fname=Mark&lname=Ballenger"
     },
     {
       "date": "2026-07-26",
@@ -1051,9 +1051,17 @@
       "type": "walk",
       "time": null,
       "comment": "https://connect.garmin.com/modern/activity/23806906065?share_unique_id=1100"
+    },
+    {
+      "date": "2026-08-01",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 102,
   "activeDays": 63,
-  "restDays": 29
+  "restDays": 30
 }

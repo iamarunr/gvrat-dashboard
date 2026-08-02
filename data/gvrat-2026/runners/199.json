@@ -851,9 +851,17 @@
       "type": "run",
       "time": null,
       "comment": "sprints"
+    },
+    {
+      "date": "2026-08-01",
+      "miles": 6.34,
+      "km": 10.2,
+      "type": "run",
+      "time": null,
+      "comment": "10km in D\u00fcrwiss!"
     }
   ],
-  "totalActivities": 106,
-  "activeDays": 92,
+  "totalActivities": 107,
+  "activeDays": 93,
   "restDays": 0
 }
