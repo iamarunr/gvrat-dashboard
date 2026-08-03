@@ -838,14 +838,22 @@
     },
     {
       "date": "2026-08-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 8.88,
+      "km": 14.29,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "TMB Stage 5"
+    },
+    {
+      "date": "2026-08-02",
+      "miles": 3.65,
+      "km": 5.87,
+      "type": "walk",
+      "time": null,
+      "comment": "Abbreviated TMB Stage 6"
     }
   ],
-  "totalActivities": 72,
-  "activeDays": 60,
-  "restDays": 33
+  "totalActivities": 74,
+  "activeDays": 62,
+  "restDays": 32
 }

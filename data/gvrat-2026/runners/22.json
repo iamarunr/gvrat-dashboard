@@ -782,14 +782,22 @@
     },
     {
       "date": "2026-08-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Mexico City: Bellas Artes, Zocalo, Estadio GNP, Metros."
+    },
+    {
+      "date": "2026-08-02",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "walk",
+      "time": null,
+      "comment": "Mexico City Roma Norte-Contramar."
     }
   ],
-  "totalActivities": 94,
-  "activeDays": 89,
-  "restDays": 4
+  "totalActivities": 96,
+  "activeDays": 91,
+  "restDays": 3
 }

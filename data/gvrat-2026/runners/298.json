@@ -923,9 +923,25 @@
       "type": "walk",
       "time": null,
       "comment": "Evening beach walk"
+    },
+    {
+      "date": "2026-08-02",
+      "miles": 3.74,
+      "km": 6.02,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning beach walk with Serena"
+    },
+    {
+      "date": "2026-08-02",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Errands"
     }
   ],
-  "totalActivities": 81,
-  "activeDays": 59,
+  "totalActivities": 83,
+  "activeDays": 60,
   "restDays": 34
 }

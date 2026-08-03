@@ -755,9 +755,17 @@
       "type": "run",
       "time": null,
       "comment": "South coast"
+    },
+    {
+      "date": "2026-08-02",
+      "miles": 7.75,
+      "km": 12.47,
+      "type": "run",
+      "time": null,
+      "comment": "sunny sydney"
     }
   ],
-  "totalActivities": 65,
-  "activeDays": 64,
+  "totalActivities": 66,
+  "activeDays": 65,
   "restDays": 29
 }
