@@ -1187,9 +1187,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-02",
+      "miles": 5.36,
+      "km": 8.63,
+      "type": "run",
+      "time": null,
+      "comment": "Forgot to stop watch. SMH"
+    },
+    {
+      "date": "2026-08-02",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 142,
-  "activeDays": 87,
+  "totalActivities": 144,
+  "activeDays": 88,
   "restDays": 6
 }

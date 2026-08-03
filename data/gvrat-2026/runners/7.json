@@ -942,6 +942,14 @@
     },
     {
       "date": "2026-08-01",
+      "miles": 14.46,
+      "km": 23.27,
+      "type": "walk",
+      "time": null,
+      "comment": "Mt Ord hike"
+    },
+    {
+      "date": "2026-08-02",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -949,7 +957,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 106,
-  "activeDays": 81,
+  "totalActivities": 107,
+  "activeDays": 82,
   "restDays": 12
 }

@@ -1654,14 +1654,38 @@
     },
     {
       "date": "2026-08-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.02,
+      "km": 4.86,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4073 Albuquerque NM"
+    },
+    {
+      "date": "2026-08-01",
+      "miles": 5.83,
+      "km": 9.38,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-08-02",
+      "miles": 3.32,
+      "km": 5.34,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4074"
+    },
+    {
+      "date": "2026-08-02",
+      "miles": 4.81,
+      "km": 7.74,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 206,
-  "activeDays": 92,
-  "restDays": 1
+  "totalActivities": 210,
+  "activeDays": 94,
+  "restDays": 0
 }

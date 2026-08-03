@@ -694,35 +694,43 @@
     },
     {
       "date": "2026-07-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.84,
+      "km": 6.18,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Friday Night Club Run/Walk"
     },
     {
       "date": "2026-07-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.14,
+      "km": 5.05,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Wickford parkrun"
+    },
+    {
+      "date": "2026-07-18",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk to the park and back home again"
     },
     {
       "date": "2026-07-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.06,
+      "km": 8.14,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Arthur Whitstone 5 mile"
     },
     {
       "date": "2026-07-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.71,
+      "km": 4.36,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Westley Heights Walk"
     },
     {
       "date": "2026-07-21",
@@ -734,11 +742,11 @@
     },
     {
       "date": "2026-07-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.55,
+      "km": 7.32,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Pitsea RC Club Run - Purple Group"
     },
     {
       "date": "2026-07-23",
@@ -750,11 +758,11 @@
     },
     {
       "date": "2026-07-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.6,
+      "km": 5.79,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Wickford Run"
     },
     {
       "date": "2026-07-25",
@@ -766,19 +774,27 @@
     },
     {
       "date": "2026-07-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.23,
+      "km": 11.64,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Wickford Run"
     },
     {
       "date": "2026-07-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.15,
+      "km": 5.07,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Run Around Memorial Park with the WOW Runners"
+    },
+    {
+      "date": "2026-07-27",
+      "miles": 2.1,
+      "km": 3.38,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk to the park and back"
     },
     {
       "date": "2026-07-28",
@@ -806,22 +822,30 @@
     },
     {
       "date": "2026-07-31",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.83,
+      "km": 7.77,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Wickford Run"
     },
     {
       "date": "2026-08-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.13,
+      "km": 5.04,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Thorney Bay parkrun"
+    },
+    {
+      "date": "2026-08-02",
+      "miles": 9.0,
+      "km": 14.48,
+      "type": "run",
+      "time": null,
+      "comment": "Wickford Run with Pitsea RC"
     }
   ],
-  "totalActivities": 62,
-  "activeDays": 53,
-  "restDays": 40
+  "totalActivities": 75,
+  "activeDays": 64,
+  "restDays": 30
 }

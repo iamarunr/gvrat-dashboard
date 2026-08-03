@@ -1494,14 +1494,22 @@
     },
     {
       "date": "2026-08-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walk with Mary"
+    },
+    {
+      "date": "2026-08-02",
+      "miles": 10.5,
+      "km": 16.9,
+      "type": "walk",
+      "time": null,
+      "comment": "Long walk with Helen"
     }
   ],
-  "totalActivities": 186,
-  "activeDays": 92,
-  "restDays": 1
+  "totalActivities": 188,
+  "activeDays": 94,
+  "restDays": 0
 }

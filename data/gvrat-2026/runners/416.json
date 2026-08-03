@@ -1051,9 +1051,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walking pad"
+    },
+    {
+      "date": "2026-08-02",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking pad"
     }
   ],
-  "totalActivities": 98,
-  "activeDays": 60,
+  "totalActivities": 99,
+  "activeDays": 61,
   "restDays": 33
 }

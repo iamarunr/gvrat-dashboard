@@ -747,9 +747,17 @@
       "type": "walk",
       "time": null,
       "comment": "Sleep in  Saturday - made jelly at home"
+    },
+    {
+      "date": "2026-08-02",
+      "miles": 7.75,
+      "km": 12.47,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total"
     }
   ],
-  "totalActivities": 87,
-  "activeDays": 87,
+  "totalActivities": 88,
+  "activeDays": 88,
   "restDays": 6
 }

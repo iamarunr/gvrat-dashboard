@@ -1275,9 +1275,25 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and rest of day"
+    },
+    {
+      "date": "2026-08-02",
+      "miles": 3.15,
+      "km": 5.07,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening walk at enterprise"
+    },
+    {
+      "date": "2026-08-02",
+      "miles": 1.95,
+      "km": 3.14,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk the boys .  They enjoyed it haven\u2019t been in a while"
     }
   ],
-  "totalActivities": 159,
-  "activeDays": 93,
+  "totalActivities": 161,
+  "activeDays": 94,
   "restDays": 0
 }
