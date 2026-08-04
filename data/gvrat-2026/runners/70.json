@@ -1507,9 +1507,17 @@
       "type": "walk",
       "time": null,
       "comment": "Long walk with Helen"
+    },
+    {
+      "date": "2026-08-03",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "walk",
+      "time": null,
+      "comment": "Rest day. Inside \u2026 too much smoke"
     }
   ],
-  "totalActivities": 188,
-  "activeDays": 94,
+  "totalActivities": 189,
+  "activeDays": 95,
   "restDays": 0
 }

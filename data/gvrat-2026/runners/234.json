@@ -1075,9 +1075,33 @@
       "type": "run",
       "time": null,
       "comment": "Recovery jog at Wanship"
+    },
+    {
+      "date": "2026-08-02",
+      "miles": 3.38,
+      "km": 5.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Swan Flat Loop with Terri"
+    },
+    {
+      "date": "2026-08-03",
+      "miles": 3.86,
+      "km": 6.21,
+      "type": "run",
+      "time": null,
+      "comment": "Small Sweetwater Lollipop"
+    },
+    {
+      "date": "2026-08-03",
+      "miles": 2.58,
+      "km": 4.15,
+      "type": "walk",
+      "time": null,
+      "comment": "Garden City Paths"
     }
   ],
-  "totalActivities": 131,
-  "activeDays": 91,
+  "totalActivities": 134,
+  "activeDays": 92,
   "restDays": 3
 }

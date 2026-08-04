@@ -1059,9 +1059,33 @@
       "type": "walk",
       "time": null,
       "comment": "Walking pad"
+    },
+    {
+      "date": "2026-08-02",
+      "miles": 3.73,
+      "km": 6.0,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill walk"
+    },
+    {
+      "date": "2026-08-03",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking pad"
+    },
+    {
+      "date": "2026-08-03",
+      "miles": 1.41,
+      "km": 2.27,
+      "type": "walk",
+      "time": null,
+      "comment": "After dinner walk in the neighborhood"
     }
   ],
-  "totalActivities": 99,
-  "activeDays": 61,
+  "totalActivities": 102,
+  "activeDays": 62,
   "restDays": 33
 }

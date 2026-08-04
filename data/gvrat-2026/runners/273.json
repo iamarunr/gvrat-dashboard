@@ -923,9 +923,17 @@
       "type": "walk",
       "time": null,
       "comment": "Hood walking"
+    },
+    {
+      "date": "2026-08-03",
+      "miles": 6.8,
+      "km": 10.94,
+      "type": "walk",
+      "time": null,
+      "comment": "Hood walk/run"
     }
   ],
-  "totalActivities": 102,
-  "activeDays": 81,
+  "totalActivities": 103,
+  "activeDays": 82,
   "restDays": 13
 }

@@ -755,9 +755,17 @@
       "type": "run",
       "time": null,
       "comment": "better\u2026.but\u2026.."
+    },
+    {
+      "date": "2026-08-03",
+      "miles": 7.17,
+      "km": 11.54,
+      "type": "walk",
+      "time": null,
+      "comment": "a little running\u2026"
     }
   ],
-  "totalActivities": 94,
-  "activeDays": 94,
+  "totalActivities": 95,
+  "activeDays": 95,
   "restDays": 0
 }

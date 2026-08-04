@@ -795,9 +795,25 @@
       "type": "walk",
       "time": null,
       "comment": "Mexico City Roma Norte-Contramar."
+    },
+    {
+      "date": "2026-08-03",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
+      "time": null,
+      "comment": "CDMX-Parque Alameda Central"
+    },
+    {
+      "date": "2026-08-03",
+      "miles": 9.0,
+      "km": 14.48,
+      "type": "walk",
+      "time": null,
+      "comment": "CDMX-Basilica De Guadalupe, Roma Norte, Metros"
     }
   ],
-  "totalActivities": 96,
-  "activeDays": 91,
+  "totalActivities": 98,
+  "activeDays": 92,
   "restDays": 3
 }
