@@ -1683,9 +1683,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-03",
+      "miles": 1.03,
+      "km": 1.66,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4075 Albuquerque NM"
+    },
+    {
+      "date": "2026-08-03",
+      "miles": 4.1,
+      "km": 6.6,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 210,
-  "activeDays": 94,
+  "totalActivities": 212,
+  "activeDays": 95,
   "restDays": 0
 }

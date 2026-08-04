@@ -1238,14 +1238,22 @@
     },
     {
       "date": "2026-08-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.04,
+      "km": 4.89,
+      "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-03",
+      "miles": 2.39,
+      "km": 3.85,
+      "type": "walk",
+      "time": null,
+      "comment": "Desk Treadmill Steps"
     }
   ],
-  "totalActivities": 149,
-  "activeDays": 88,
-  "restDays": 6
+  "totalActivities": 151,
+  "activeDays": 90,
+  "restDays": 5
 }

@@ -931,9 +931,17 @@
       "type": "walk",
       "time": null,
       "comment": "Heavy heavy pack"
+    },
+    {
+      "date": "2026-08-03",
+      "miles": 14.9,
+      "km": 23.98,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 103,
-  "activeDays": 81,
+  "totalActivities": 104,
+  "activeDays": 82,
   "restDays": 13
 }
