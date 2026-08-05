@@ -907,9 +907,17 @@
       "type": "walk",
       "time": null,
       "comment": "two walks added together."
+    },
+    {
+      "date": "2026-08-04",
+      "miles": 6.55,
+      "km": 10.54,
+      "type": "run",
+      "time": null,
+      "comment": "Easy run."
     }
   ],
-  "totalActivities": 93,
-  "activeDays": 75,
+  "totalActivities": 94,
+  "activeDays": 76,
   "restDays": 20
 }

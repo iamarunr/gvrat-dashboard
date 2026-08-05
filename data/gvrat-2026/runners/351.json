@@ -891,9 +891,17 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-04",
+      "miles": 6.1,
+      "km": 9.82,
+      "type": "walk",
+      "time": null,
+      "comment": "watch died. Time estimated."
     }
   ],
-  "totalActivities": 74,
-  "activeDays": 58,
+  "totalActivities": 75,
+  "activeDays": 59,
   "restDays": 37
 }

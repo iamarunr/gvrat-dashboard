@@ -934,14 +934,30 @@
     },
     {
       "date": "2026-08-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.44,
+      "km": 2.32,
+      "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-04",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill hills"
+    },
+    {
+      "date": "2026-08-04",
+      "miles": 1.68,
+      "km": 2.7,
+      "type": "walk",
+      "time": null,
+      "comment": "Work break"
     }
   ],
-  "totalActivities": 85,
-  "activeDays": 63,
-  "restDays": 32
+  "totalActivities": 88,
+  "activeDays": 65,
+  "restDays": 31
 }

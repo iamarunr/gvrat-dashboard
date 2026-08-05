@@ -1070,14 +1070,38 @@
     },
     {
       "date": "2026-08-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "0' ascent.  Treadmill - easy intervals"
+    },
+    {
+      "date": "2026-08-03",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
+      "time": null,
+      "comment": "0' ascent.  Treadmill - steady / cooldown"
+    },
+    {
+      "date": "2026-08-03",
+      "miles": 3.09,
+      "km": 4.97,
+      "type": "walk",
+      "time": null,
+      "comment": "440' ascent.  Shundahai"
+    },
+    {
+      "date": "2026-08-04",
+      "miles": 23.56,
+      "km": 37.92,
+      "type": "run",
+      "time": null,
+      "comment": "3622' ascent.  Garden City Canyon - Peter Sinks lollipop"
     }
   ],
-  "totalActivities": 133,
-  "activeDays": 94,
-  "restDays": 1
+  "totalActivities": 137,
+  "activeDays": 96,
+  "restDays": 0
 }

@@ -763,9 +763,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total- travel to St Augustine"
+    },
+    {
+      "date": "2026-08-04",
+      "miles": 6.5,
+      "km": 10.46,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total- St Augustine"
     }
   ],
-  "totalActivities": 89,
-  "activeDays": 89,
+  "totalActivities": 90,
+  "activeDays": 90,
   "restDays": 6
 }

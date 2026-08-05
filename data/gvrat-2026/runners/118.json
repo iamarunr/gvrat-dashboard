@@ -859,9 +859,17 @@
       "type": "walk",
       "time": null,
       "comment": "TMB Stage 7 La Fouly to Champex"
+    },
+    {
+      "date": "2026-08-04",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 75,
   "activeDays": 63,
-  "restDays": 32
+  "restDays": 33
 }

@@ -827,9 +827,33 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-04",
+      "miles": 5.31,
+      "km": 8.55,
+      "type": "run",
+      "time": null,
+      "comment": "Alter-G"
+    },
+    {
+      "date": "2026-08-04",
+      "miles": 6.31,
+      "km": 10.15,
+      "type": "walk",
+      "time": null,
+      "comment": "Centennial Trail"
+    },
+    {
+      "date": "2026-08-04",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "U-Dist. to moose statue"
     }
   ],
-  "totalActivities": 64,
-  "activeDays": 56,
+  "totalActivities": 67,
+  "activeDays": 57,
   "restDays": 39
 }

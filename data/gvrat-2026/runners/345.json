@@ -771,9 +771,25 @@
       "type": "run",
       "time": null,
       "comment": "chilly & short"
+    },
+    {
+      "date": "2026-08-04",
+      "miles": 5.14,
+      "km": 8.27,
+      "type": "run",
+      "time": null,
+      "comment": "Brisbane"
+    },
+    {
+      "date": "2026-08-04",
+      "miles": 6.97,
+      "km": 11.22,
+      "type": "run",
+      "time": null,
+      "comment": "Brisbane tiver"
     }
   ],
-  "totalActivities": 67,
-  "activeDays": 66,
+  "totalActivities": 69,
+  "activeDays": 67,
   "restDays": 29
 }
