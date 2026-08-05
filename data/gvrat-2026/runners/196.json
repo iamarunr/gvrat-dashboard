@@ -1395,9 +1395,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-04",
+      "miles": 2.35,
+      "km": 3.78,
+      "type": "walk",
+      "time": null,
+      "comment": "Bai bday"
+    },
+    {
+      "date": "2026-08-04",
+      "miles": 3.09,
+      "km": 4.97,
+      "type": "walk",
+      "time": null,
+      "comment": "TM"
     }
   ],
-  "totalActivities": 158,
-  "activeDays": 79,
+  "totalActivities": 160,
+  "activeDays": 80,
   "restDays": 16
 }

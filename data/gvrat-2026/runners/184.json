@@ -1299,9 +1299,25 @@
       "type": "walk",
       "time": null,
       "comment": "Morning walk evening walk and rehab center"
+    },
+    {
+      "date": "2026-08-04",
+      "miles": 3.12,
+      "km": 5.02,
+      "type": "run",
+      "time": null,
+      "comment": "Morning run at Collegedale"
+    },
+    {
+      "date": "2026-08-04",
+      "miles": 1.88,
+      "km": 3.03,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk ; and rest of day"
     }
   ],
-  "totalActivities": 162,
-  "activeDays": 95,
+  "totalActivities": 164,
+  "activeDays": 96,
   "restDays": 0
 }

@@ -955,9 +955,33 @@
       "type": "walk",
       "time": null,
       "comment": "Errands"
+    },
+    {
+      "date": "2026-08-04",
+      "miles": 3.72,
+      "km": 5.99,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning beach walk"
+    },
+    {
+      "date": "2026-08-04",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": "Errands"
+    },
+    {
+      "date": "2026-08-04",
+      "miles": 2.44,
+      "km": 3.93,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening beach walk"
     }
   ],
-  "totalActivities": 85,
-  "activeDays": 61,
+  "totalActivities": 88,
+  "activeDays": 62,
   "restDays": 34
 }

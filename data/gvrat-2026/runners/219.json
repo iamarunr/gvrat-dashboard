@@ -819,9 +819,17 @@
       "type": "walk",
       "time": null,
       "comment": "On Treadmill at 4% grade"
+    },
+    {
+      "date": "2026-08-04",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "run",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 60,
-  "activeDays": 53,
+  "totalActivities": 61,
+  "activeDays": 54,
   "restDays": 42
 }

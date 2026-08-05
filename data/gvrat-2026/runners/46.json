@@ -1699,9 +1699,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-04",
+      "miles": 3.12,
+      "km": 5.02,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4076 along Rte 66 in Flagstaff AZ"
+    },
+    {
+      "date": "2026-08-04",
+      "miles": 3.64,
+      "km": 5.86,
+      "type": "walk",
+      "time": null,
+      "comment": "Took a walk in Barstow CA .. 109\u00b0 \ud83e\udd75\ud83d\udd25\ud83c\udf1e"
     }
   ],
-  "totalActivities": 212,
-  "activeDays": 95,
+  "totalActivities": 214,
+  "activeDays": 96,
   "restDays": 0
 }
