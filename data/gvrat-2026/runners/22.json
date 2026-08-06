@@ -814,14 +814,22 @@
     },
     {
       "date": "2026-08-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Mexico City."
+    },
+    {
+      "date": "2026-08-05",
+      "miles": 7.0,
+      "km": 11.27,
+      "type": "walk",
+      "time": null,
+      "comment": "Mexico City."
     }
   ],
-  "totalActivities": 98,
-  "activeDays": 92,
-  "restDays": 4
+  "totalActivities": 100,
+  "activeDays": 94,
+  "restDays": 3
 }

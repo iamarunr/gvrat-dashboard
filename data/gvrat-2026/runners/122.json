@@ -787,9 +787,17 @@
       "type": "walk",
       "time": null,
       "comment": "Tipp bike path south for lunch"
+    },
+    {
+      "date": "2026-08-05",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Tipp again"
     }
   ],
-  "totalActivities": 81,
-  "activeDays": 79,
+  "totalActivities": 82,
+  "activeDays": 80,
   "restDays": 17
 }

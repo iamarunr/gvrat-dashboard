@@ -915,9 +915,17 @@
       "type": "run",
       "time": null,
       "comment": "Easy run."
+    },
+    {
+      "date": "2026-08-05",
+      "miles": 4.17,
+      "km": 6.71,
+      "type": "run",
+      "time": null,
+      "comment": "Short and sweaty."
     }
   ],
-  "totalActivities": 94,
-  "activeDays": 76,
+  "totalActivities": 95,
+  "activeDays": 77,
   "restDays": 20
 }
