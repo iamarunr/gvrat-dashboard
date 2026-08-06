@@ -1315,9 +1315,17 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk ; and rest of day"
+    },
+    {
+      "date": "2026-08-05",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "run",
+      "time": null,
+      "comment": "Morning walk and a evening walk"
     }
   ],
-  "totalActivities": 164,
-  "activeDays": 96,
+  "totalActivities": 165,
+  "activeDays": 97,
   "restDays": 0
 }

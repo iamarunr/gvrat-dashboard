@@ -955,9 +955,17 @@
       "type": "walk",
       "time": null,
       "comment": "Packless"
+    },
+    {
+      "date": "2026-08-05",
+      "miles": 9.8,
+      "km": 15.77,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 106,
-  "activeDays": 83,
+  "totalActivities": 107,
+  "activeDays": 84,
   "restDays": 13
 }

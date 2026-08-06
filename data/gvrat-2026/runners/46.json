@@ -1715,9 +1715,17 @@
       "type": "walk",
       "time": null,
       "comment": "Took a walk in Barstow CA .. 109\u00b0 \ud83e\udd75\ud83d\udd25\ud83c\udf1e"
+    },
+    {
+      "date": "2026-08-05",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 214,
   "activeDays": 96,
-  "restDays": 0
+  "restDays": 1
 }

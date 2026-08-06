@@ -1102,14 +1102,30 @@
     },
     {
       "date": "2026-08-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 9.42,
+      "km": 15.16,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Temple Fork up and down"
+    },
+    {
+      "date": "2026-08-05",
+      "miles": 5.17,
+      "km": 8.32,
+      "type": "run",
+      "time": null,
+      "comment": "Garden City Loop Recovery Run"
+    },
+    {
+      "date": "2026-08-05",
+      "miles": 3.15,
+      "km": 5.07,
+      "type": "walk",
+      "time": null,
+      "comment": "Beaver Creek"
     }
   ],
-  "totalActivities": 134,
-  "activeDays": 92,
-  "restDays": 4
+  "totalActivities": 137,
+  "activeDays": 94,
+  "restDays": 3
 }
