@@ -1510,25 +1510,33 @@
     },
     {
       "date": "2026-07-31",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.6,
+      "km": 0.97,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
+    },
+    {
+      "date": "2026-08-01",
+      "miles": 7.45,
+      "km": 11.99,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-08-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.25,
+      "km": 2.01,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Dog walk."
     },
     {
       "date": "2026-08-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 9.6,
+      "km": 15.45,
+      "type": "run",
       "time": null,
       "comment": ""
     },
@@ -1542,22 +1550,54 @@
     },
     {
       "date": "2026-08-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.85,
+      "km": 1.37,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
+    },
+    {
+      "date": "2026-08-04",
+      "miles": 0.7,
+      "km": 1.13,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
+    },
+    {
+      "date": "2026-08-05",
+      "miles": 1.25,
+      "km": 2.01,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
+    },
+    {
+      "date": "2026-08-05",
+      "miles": 4.44,
+      "km": 7.15,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
-      "date": "2026-08-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-08-06",
+      "miles": 4.65,
+      "km": 7.48,
+      "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-06",
+      "miles": 0.85,
+      "km": 1.37,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog walk."
     }
   ],
-  "totalActivities": 186,
-  "activeDays": 89,
-  "restDays": 8
+  "totalActivities": 196,
+  "activeDays": 95,
+  "restDays": 3
 }

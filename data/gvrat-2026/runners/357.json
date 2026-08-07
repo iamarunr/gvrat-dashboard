@@ -1382,35 +1382,43 @@
     },
     {
       "date": "2026-07-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.4,
+      "km": 2.25,
+      "type": "walk",
+      "time": null,
+      "comment": "dog walk"
+    },
+    {
+      "date": "2026-07-22",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-07-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "dog walk"
     },
     {
       "date": "2026-07-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "morning run"
     },
     {
       "date": "2026-07-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.6,
+      "km": 4.18,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "run at camp, gate and back"
     },
     {
       "date": "2026-07-26",
@@ -1422,11 +1430,11 @@
     },
     {
       "date": "2026-07-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "camp walk"
     },
     {
       "date": "2026-07-28",
@@ -1438,11 +1446,11 @@
     },
     {
       "date": "2026-07-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.4,
+      "km": 3.86,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "run from the Y in Granbury"
     },
     {
       "date": "2026-07-30",
@@ -1454,54 +1462,70 @@
     },
     {
       "date": "2026-07-31",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "walk at camp"
     },
     {
       "date": "2026-08-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "run, last day of camp"
     },
     {
       "date": "2026-08-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.0,
+      "km": 11.27,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "run in Boulder"
     },
     {
       "date": "2026-08-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 10.0,
+      "km": 16.09,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "hike Sprague Lake, Bear Lake, Nymph, Dream, Emerald, Hiyaha"
     },
     {
       "date": "2026-08-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 19.6,
+      "km": 31.54,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "hike lawn lake, saddle, and summit Hagues Peak"
     },
     {
       "date": "2026-08-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 12.0,
+      "km": 19.31,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "run in Estes Park"
+    },
+    {
+      "date": "2026-08-05",
+      "miles": 0.5,
+      "km": 0.8,
+      "type": "walk",
+      "time": null,
+      "comment": "lake back after run"
+    },
+    {
+      "date": "2026-08-06",
+      "miles": 18.0,
+      "km": 28.97,
+      "type": "walk",
+      "time": null,
+      "comment": "Wild Basin to Thunder Lake, Lake of the winds, and summit Boulder Grand Pass"
     }
   ],
-  "totalActivities": 169,
-  "activeDays": 79,
-  "restDays": 18
+  "totalActivities": 184,
+  "activeDays": 92,
+  "restDays": 6
 }

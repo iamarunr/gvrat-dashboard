@@ -1323,9 +1323,25 @@
       "type": "run",
       "time": null,
       "comment": "Morning walk and a evening walk"
+    },
+    {
+      "date": "2026-08-06",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "run",
+      "time": null,
+      "comment": "Beaver siting during our run at Collegedale"
+    },
+    {
+      "date": "2026-08-06",
+      "miles": 1.69,
+      "km": 2.72,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and rest of day"
     }
   ],
-  "totalActivities": 165,
-  "activeDays": 97,
+  "totalActivities": 167,
+  "activeDays": 98,
   "restDays": 0
 }

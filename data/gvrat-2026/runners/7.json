@@ -987,9 +987,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk"
+    },
+    {
+      "date": "2026-08-06",
+      "miles": 4.47,
+      "km": 7.19,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk in 500 AQI ... Ugh!!!"
     }
   ],
-  "totalActivities": 110,
-  "activeDays": 84,
+  "totalActivities": 111,
+  "activeDays": 85,
   "restDays": 13
 }
