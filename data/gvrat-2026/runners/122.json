@@ -795,9 +795,17 @@
       "type": "walk",
       "time": null,
       "comment": "Tipp again"
+    },
+    {
+      "date": "2026-08-06",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "RR track and home loop"
     }
   ],
-  "totalActivities": 82,
-  "activeDays": 80,
+  "totalActivities": 83,
+  "activeDays": 81,
   "restDays": 17
 }

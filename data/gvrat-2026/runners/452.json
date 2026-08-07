@@ -779,9 +779,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total- St Augustine downtown, fort tour, beach"
+    },
+    {
+      "date": "2026-08-06",
+      "miles": 5.25,
+      "km": 8.45,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total- St Augustine- rainy evening so no night walk"
     }
   ],
-  "totalActivities": 91,
-  "activeDays": 91,
+  "totalActivities": 92,
+  "activeDays": 92,
   "restDays": 6
 }

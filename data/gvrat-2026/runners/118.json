@@ -862,22 +862,30 @@
     },
     {
       "date": "2026-08-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 11.41,
+      "km": 18.36,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "TMB Stage 8, Champex to Trient"
     },
     {
       "date": "2026-08-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.75,
+      "km": 7.64,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "TMB Stage 9, Uphill only, Trient to Col du Balme"
+    },
+    {
+      "date": "2026-08-06",
+      "miles": 7.03,
+      "km": 11.31,
+      "type": "walk",
+      "time": null,
+      "comment": "TMB Stage 10, Argentiere to Chamonix via le Petit Balcon Sud"
     }
   ],
-  "totalActivities": 75,
-  "activeDays": 63,
-  "restDays": 34
+  "totalActivities": 78,
+  "activeDays": 66,
+  "restDays": 32
 }

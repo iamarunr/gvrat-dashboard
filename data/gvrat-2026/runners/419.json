@@ -819,9 +819,25 @@
       "type": "run",
       "time": null,
       "comment": "Boucle Crestuma."
+    },
+    {
+      "date": "2026-08-06",
+      "miles": 7.09,
+      "km": 11.41,
+      "type": "run",
+      "time": null,
+      "comment": "Boucle Crestuma."
+    },
+    {
+      "date": "2026-08-06",
+      "miles": 4.97,
+      "km": 8.0,
+      "type": "walk",
+      "time": null,
+      "comment": "Promenade et mont\u00e9e \u00e0 Bom J\u00e9sus."
     }
   ],
-  "totalActivities": 72,
-  "activeDays": 67,
+  "totalActivities": 74,
+  "activeDays": 68,
   "restDays": 30
 }

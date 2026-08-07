@@ -982,86 +982,134 @@
     },
     {
       "date": "2026-07-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.55,
+      "km": 0.89,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking the dogs."
     },
     {
       "date": "2026-07-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.9,
+      "km": 1.45,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking the dogs"
     },
     {
       "date": "2026-07-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.99,
+      "km": 1.59,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking the dogs."
     },
     {
       "date": "2026-07-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.9,
+      "km": 1.45,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking the dogs"
+    },
+    {
+      "date": "2026-07-30",
+      "miles": 2.18,
+      "km": 3.51,
+      "type": "run",
+      "time": null,
+      "comment": "Short loop at Usery."
     },
     {
       "date": "2026-07-31",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.98,
+      "km": 1.58,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking the dogs"
     },
     {
       "date": "2026-08-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.57,
+      "km": 2.53,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking the dogs"
+    },
+    {
+      "date": "2026-08-01",
+      "miles": 7.73,
+      "km": 12.44,
+      "type": "run",
+      "time": null,
+      "comment": "Stunner loop at Usery"
     },
     {
       "date": "2026-08-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.12,
+      "km": 5.02,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Arizona Road Racers Summer Series #5, 5k"
+    },
+    {
+      "date": "2026-08-02",
+      "miles": 0.9,
+      "km": 1.45,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs"
     },
     {
       "date": "2026-08-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.55,
+      "km": 0.89,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking the dogs."
     },
     {
       "date": "2026-08-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.89,
+      "km": 1.43,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking the dogs."
     },
     {
       "date": "2026-08-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.9,
+      "km": 1.45,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-08-06",
+      "miles": 0.9,
+      "km": 1.45,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-08-06",
+      "miles": 0.51,
+      "km": 0.82,
+      "type": "run",
+      "time": null,
+      "comment": "Short neighborhood jog."
+    },
+    {
+      "date": "2026-08-06",
+      "miles": 1.59,
+      "km": 2.56,
+      "type": "walk",
+      "time": null,
+      "comment": "Night walk around the neighborhood."
     }
   ],
-  "totalActivities": 113,
-  "activeDays": 78,
-  "restDays": 19
+  "totalActivities": 129,
+  "activeDays": 89,
+  "restDays": 9
 }
