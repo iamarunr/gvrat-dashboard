@@ -1062,11 +1062,19 @@
     },
     {
       "date": "2026-08-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.37,
+      "km": 3.81,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Downtown Bethesda Loop-De-Loop"
+    },
+    {
+      "date": "2026-08-04",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "run",
+      "time": null,
+      "comment": "SHMP Track Sort-of Workout"
     },
     {
       "date": "2026-08-05",
@@ -1078,14 +1086,30 @@
     },
     {
       "date": "2026-08-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.28,
+      "km": 6.89,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Office-NIH Loop"
+    },
+    {
+      "date": "2026-08-06",
+      "miles": 2.9,
+      "km": 4.67,
+      "type": "run",
+      "time": null,
+      "comment": "Mattie Stepanek Park Run"
+    },
+    {
+      "date": "2026-08-07",
+      "miles": 4.39,
+      "km": 7.07,
+      "type": "walk",
+      "time": null,
+      "comment": "Bethesda-Friendship Heights-Chevy Chase Circle Loop"
     }
   ],
-  "totalActivities": 111,
-  "activeDays": 74,
-  "restDays": 24
+  "totalActivities": 116,
+  "activeDays": 77,
+  "restDays": 22
 }

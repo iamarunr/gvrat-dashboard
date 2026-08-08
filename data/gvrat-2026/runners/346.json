@@ -1102,22 +1102,54 @@
     },
     {
       "date": "2026-08-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 12.15,
+      "km": 19.55,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "1421' ascent.  Sweetwater: Valley View, Bear Lake & Sweetwater Pkwy"
+    },
+    {
+      "date": "2026-08-05",
+      "miles": 2.12,
+      "km": 3.41,
+      "type": "walk",
+      "time": null,
+      "comment": "387' ascent.  Shundahai"
     },
     {
       "date": "2026-08-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "0' ascent.  Treadmill intervals - 4/2 mins x6, plus 2.1 mi steady"
+    },
+    {
+      "date": "2026-08-06",
+      "miles": 2.11,
+      "km": 3.4,
+      "type": "walk",
+      "time": null,
+      "comment": "371' ascent.  Shundahai"
+    },
+    {
+      "date": "2026-08-06",
+      "miles": 0.8,
+      "km": 1.29,
+      "type": "walk",
+      "time": null,
+      "comment": "26' ascent.  Raspberry Days festival w/ Rick"
+    },
+    {
+      "date": "2026-08-07",
+      "miles": 18.19,
+      "km": 29.27,
+      "type": "run",
+      "time": null,
+      "comment": "3058' ascent.  Temple, Cottonwood, Maughan, Willow, Ninja, Sawmill"
     }
   ],
-  "totalActivities": 137,
-  "activeDays": 96,
-  "restDays": 2
+  "totalActivities": 143,
+  "activeDays": 99,
+  "restDays": 0
 }

@@ -835,9 +835,17 @@
       "type": "walk",
       "time": null,
       "comment": "Promenade et mont\u00e9e \u00e0 Bom J\u00e9sus."
+    },
+    {
+      "date": "2026-08-07",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 74,
   "activeDays": 68,
-  "restDays": 30
+  "restDays": 31
 }

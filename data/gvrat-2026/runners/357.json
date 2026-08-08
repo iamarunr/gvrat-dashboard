@@ -1523,9 +1523,17 @@
       "type": "walk",
       "time": null,
       "comment": "Wild Basin to Thunder Lake, Lake of the winds, and summit Boulder Grand Pass"
+    },
+    {
+      "date": "2026-08-07",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 184,
   "activeDays": 92,
-  "restDays": 6
+  "restDays": 7
 }

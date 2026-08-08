@@ -1747,9 +1747,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-07",
+      "miles": 2.24,
+      "km": 3.6,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4079 Los Angeles CA"
+    },
+    {
+      "date": "2026-08-07",
+      "miles": 6.93,
+      "km": 11.15,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 218,
-  "activeDays": 98,
+  "totalActivities": 220,
+  "activeDays": 99,
   "restDays": 0
 }

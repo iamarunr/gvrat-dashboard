@@ -795,9 +795,17 @@
       "type": "run",
       "time": null,
       "comment": "Laps & Artarmon"
+    },
+    {
+      "date": "2026-08-07",
+      "miles": 5.59,
+      "km": 9.0,
+      "type": "run",
+      "time": null,
+      "comment": "phone poodle"
     }
   ],
-  "totalActivities": 70,
-  "activeDays": 69,
+  "totalActivities": 71,
+  "activeDays": 70,
   "restDays": 29
 }

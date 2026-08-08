@@ -883,9 +883,33 @@
       "type": "walk",
       "time": null,
       "comment": "TMB Stage 10, Argentiere to Chamonix via le Petit Balcon Sud"
+    },
+    {
+      "date": "2026-08-06",
+      "miles": 0.78,
+      "km": 1.26,
+      "type": "walk",
+      "time": null,
+      "comment": "Chamonix Walking & Shopping"
+    },
+    {
+      "date": "2026-08-07",
+      "miles": 6.49,
+      "km": 10.44,
+      "type": "walk",
+      "time": null,
+      "comment": "TMB Stage 11 Chamonix to Les Houches"
+    },
+    {
+      "date": "2026-08-07",
+      "miles": 0.77,
+      "km": 1.24,
+      "type": "walk",
+      "time": null,
+      "comment": "Chamonix Walking & Shopping"
     }
   ],
-  "totalActivities": 78,
-  "activeDays": 66,
+  "totalActivities": 81,
+  "activeDays": 67,
   "restDays": 32
 }

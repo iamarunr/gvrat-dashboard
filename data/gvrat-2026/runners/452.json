@@ -787,9 +787,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total- St Augustine- rainy evening so no night walk"
+    },
+    {
+      "date": "2026-08-07",
+      "miles": 7.75,
+      "km": 12.47,
+      "type": "walk",
+      "time": null,
+      "comment": "Friday in St Augustine, 2 beach walks"
     }
   ],
-  "totalActivities": 92,
-  "activeDays": 92,
+  "totalActivities": 93,
+  "activeDays": 93,
   "restDays": 6
 }
