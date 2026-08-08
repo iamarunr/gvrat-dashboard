@@ -782,38 +782,46 @@
     },
     {
       "date": "2026-08-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.13,
+      "km": 6.65,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "E"
     },
     {
       "date": "2026-08-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 10.01,
+      "km": 16.11,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "E + 4 x 1 T + 8 x 200 R + E"
     },
     {
       "date": "2026-08-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.02,
+      "km": 8.08,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "E"
     },
     {
       "date": "2026-08-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.06,
+      "km": 8.14,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "E"
+    },
+    {
+      "date": "2026-08-07",
+      "miles": 5.45,
+      "km": 8.77,
+      "type": "run",
+      "time": null,
+      "comment": "E"
     }
   ],
-  "totalActivities": 73,
-  "activeDays": 70,
-  "restDays": 28
+  "totalActivities": 78,
+  "activeDays": 75,
+  "restDays": 24
 }

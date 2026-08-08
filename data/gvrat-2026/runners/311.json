@@ -970,10 +970,18 @@
       "km": 28.0,
       "type": "walk",
       "time": null,
-      "comment": "So hilly and such a big bag"
+      "comment": ""
+    },
+    {
+      "date": "2026-08-07",
+      "miles": 21.2,
+      "km": 34.12,
+      "type": "walk",
+      "time": null,
+      "comment": "So hilly and such a big bag...still."
     }
   ],
-  "totalActivities": 108,
-  "activeDays": 85,
+  "totalActivities": 109,
+  "activeDays": 86,
   "restDays": 13
 }

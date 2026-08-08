@@ -995,9 +995,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk in 500 AQI ... Ugh!!!"
+    },
+    {
+      "date": "2026-08-07",
+      "miles": 10.35,
+      "km": 16.66,
+      "type": "walk",
+      "time": null,
+      "comment": "Humphrey's Hike"
     }
   ],
-  "totalActivities": 111,
-  "activeDays": 85,
+  "totalActivities": 112,
+  "activeDays": 86,
   "restDays": 13
 }

@@ -1539,9 +1539,17 @@
       "type": "walk",
       "time": null,
       "comment": "Still bad smoke. Walking indoors"
+    },
+    {
+      "date": "2026-08-07",
+      "miles": 4.5,
+      "km": 7.24,
+      "type": "walk",
+      "time": null,
+      "comment": "Afternoon. Still Smokey!!! So done with this"
     }
   ],
-  "totalActivities": 192,
-  "activeDays": 98,
+  "totalActivities": 193,
+  "activeDays": 99,
   "restDays": 0
 }

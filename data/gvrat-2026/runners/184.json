@@ -1339,9 +1339,17 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and rest of day"
+    },
+    {
+      "date": "2026-08-07",
+      "miles": 4.4,
+      "km": 7.08,
+      "type": "walk",
+      "time": null,
+      "comment": "AM walk and evening walk after the storm"
     }
   ],
-  "totalActivities": 167,
-  "activeDays": 98,
+  "totalActivities": 168,
+  "activeDays": 99,
   "restDays": 0
 }

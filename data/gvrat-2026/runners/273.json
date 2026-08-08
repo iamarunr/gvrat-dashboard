@@ -979,9 +979,17 @@
       "type": "walk",
       "time": null,
       "comment": "Bootcamp and hood walk"
+    },
+    {
+      "date": "2026-08-07",
+      "miles": 7.15,
+      "km": 11.51,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 109,
-  "activeDays": 85,
+  "totalActivities": 110,
+  "activeDays": 86,
   "restDays": 13
 }
