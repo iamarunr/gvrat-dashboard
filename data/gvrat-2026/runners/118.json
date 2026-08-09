@@ -907,9 +907,17 @@
       "type": "walk",
       "time": null,
       "comment": "Chamonix Walking & Shopping"
+    },
+    {
+      "date": "2026-08-08",
+      "miles": 0.86,
+      "km": 1.38,
+      "type": "walk",
+      "time": null,
+      "comment": "Argentiere walkabout carrying 50 lbs of luggage"
     }
   ],
-  "totalActivities": 81,
-  "activeDays": 67,
+  "totalActivities": 82,
+  "activeDays": 68,
   "restDays": 32
 }

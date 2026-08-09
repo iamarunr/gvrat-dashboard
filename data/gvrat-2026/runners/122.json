@@ -806,14 +806,22 @@
     },
     {
       "date": "2026-08-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Valleybrook loop"
+    },
+    {
+      "date": "2026-08-08",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
+      "time": null,
+      "comment": "Fine Arts Festival loop"
     }
   ],
-  "totalActivities": 83,
-  "activeDays": 81,
-  "restDays": 18
+  "totalActivities": 85,
+  "activeDays": 83,
+  "restDays": 17
 }

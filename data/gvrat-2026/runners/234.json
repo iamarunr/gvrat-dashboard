@@ -1126,22 +1126,46 @@
     },
     {
       "date": "2026-08-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.14,
+      "km": 8.27,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Raspberry Days 5 mile loop"
+    },
+    {
+      "date": "2026-08-06",
+      "miles": 2.26,
+      "km": 3.64,
+      "type": "walk",
+      "time": null,
+      "comment": "Shundahai Walk"
+    },
+    {
+      "date": "2026-08-06",
+      "miles": 0.85,
+      "km": 1.37,
+      "type": "walk",
+      "time": null,
+      "comment": "Roaming Around Raspberry Days with Terri"
     },
     {
       "date": "2026-08-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.3,
+      "km": 10.14,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Tony Grove Up and Down"
+    },
+    {
+      "date": "2026-08-08",
+      "miles": 6.34,
+      "km": 10.2,
+      "type": "run",
+      "time": null,
+      "comment": "Beaver Creek Run"
     }
   ],
-  "totalActivities": 137,
-  "activeDays": 94,
-  "restDays": 5
+  "totalActivities": 142,
+  "activeDays": 97,
+  "restDays": 3
 }

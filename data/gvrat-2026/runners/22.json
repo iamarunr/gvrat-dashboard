@@ -838,14 +838,22 @@
     },
     {
       "date": "2026-08-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Travel from Mexico - Atlanta Airport."
+    },
+    {
+      "date": "2026-08-08",
+      "miles": 5.01,
+      "km": 8.06,
+      "type": "run",
+      "time": null,
+      "comment": "Clear Creek Trail."
     }
   ],
-  "totalActivities": 101,
-  "activeDays": 95,
-  "restDays": 4
+  "totalActivities": 103,
+  "activeDays": 97,
+  "restDays": 3
 }

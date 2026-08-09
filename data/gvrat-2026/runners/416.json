@@ -1102,30 +1102,94 @@
     },
     {
       "date": "2026-08-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.61,
+      "km": 2.59,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Treadmill walk"
+    },
+    {
+      "date": "2026-08-05",
+      "miles": 1.82,
+      "km": 2.93,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill walk"
     },
     {
       "date": "2026-08-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.51,
+      "km": 5.65,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning steps"
+    },
+    {
+      "date": "2026-08-06",
+      "miles": 3.43,
+      "km": 5.52,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill walk"
+    },
+    {
+      "date": "2026-08-06",
+      "miles": 1.41,
+      "km": 2.27,
+      "type": "walk",
+      "time": null,
+      "comment": "After dinner steps"
     },
     {
       "date": "2026-08-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.44,
+      "km": 2.32,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning steps"
+    },
+    {
+      "date": "2026-08-07",
+      "miles": 0.67,
+      "km": 1.08,
+      "type": "walk",
+      "time": null,
+      "comment": "Work steps"
+    },
+    {
+      "date": "2026-08-07",
+      "miles": 3.37,
+      "km": 5.42,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill steps"
+    },
+    {
+      "date": "2026-08-07",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-08-07",
+      "miles": 1.42,
+      "km": 2.29,
+      "type": "walk",
+      "time": null,
+      "comment": "After dinner steps"
+    },
+    {
+      "date": "2026-08-08",
+      "miles": 2.83,
+      "km": 4.55,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning steps"
     }
   ],
-  "totalActivities": 104,
-  "activeDays": 63,
-  "restDays": 36
+  "totalActivities": 115,
+  "activeDays": 67,
+  "restDays": 33
 }

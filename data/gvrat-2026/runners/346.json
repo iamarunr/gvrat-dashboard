@@ -1147,9 +1147,17 @@
       "type": "run",
       "time": null,
       "comment": "3058' ascent.  Temple, Cottonwood, Maughan, Willow, Ninja, Sawmill"
+    },
+    {
+      "date": "2026-08-08",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 143,
   "activeDays": 99,
-  "restDays": 0
+  "restDays": 1
 }
