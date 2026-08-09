@@ -1147,9 +1147,17 @@
       "type": "run",
       "time": null,
       "comment": "https://connect.garmin.com/modern/activity/23890032721?share_unique_id=1124"
+    },
+    {
+      "date": "2026-08-08",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 113,
   "activeDays": 69,
-  "restDays": 30
+  "restDays": 31
 }

@@ -1214,38 +1214,86 @@
     },
     {
       "date": "2026-08-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.85,
+      "km": 7.81,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-08-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.21,
+      "km": 9.99,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-08-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.52,
+      "km": 4.06,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-08-06",
+      "miles": 3.14,
+      "km": 5.05,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-08-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.29,
+      "km": 8.51,
+      "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-07",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-08-08",
+      "miles": 4.16,
+      "km": 6.69,
+      "type": "run",
+      "time": null,
+      "comment": "loop 1 of Malm\u00f6GerillaRunners BackyardUltra. It is measured to be the correct length, but my coros missed a few meters."
+    },
+    {
+      "date": "2026-08-08",
+      "miles": 4.13,
+      "km": 6.65,
+      "type": "run",
+      "time": null,
+      "comment": "loop 2 of Malm\u00f6GerillaRunners BackyardUltra. It is measured to be the correct length, but my coros missed a few meters."
+    },
+    {
+      "date": "2026-08-08",
+      "miles": 4.15,
+      "km": 6.68,
+      "type": "run",
+      "time": null,
+      "comment": "loop 3 of Malm\u00f6GerillaRunners BackyardUltra. It is measured to be the correct length, but my coros missed a few meters.\r\nFelt my knee issue so I stepped off. Was a good day."
+    },
+    {
+      "date": "2026-08-08",
+      "miles": 1.55,
+      "km": 2.49,
+      "type": "run",
+      "time": null,
+      "comment": "Did the extra km after the Backyard just to get north of a half maraton. Knee was bad but not that bad.."
     }
   ],
-  "totalActivities": 146,
-  "activeDays": 90,
-  "restDays": 9
+  "totalActivities": 156,
+  "activeDays": 95,
+  "restDays": 5
 }

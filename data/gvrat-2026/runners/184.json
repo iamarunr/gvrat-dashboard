@@ -1347,9 +1347,25 @@
       "type": "walk",
       "time": null,
       "comment": "AM walk and evening walk after the storm"
+    },
+    {
+      "date": "2026-08-08",
+      "miles": 3.15,
+      "km": 5.07,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening at enterprise trying not to get caught  in storm"
+    },
+    {
+      "date": "2026-08-08",
+      "miles": 1.45,
+      "km": 2.33,
+      "type": "walk",
+      "time": null,
+      "comment": "Rest of day and grocery stores"
     }
   ],
-  "totalActivities": 168,
-  "activeDays": 99,
+  "totalActivities": 170,
+  "activeDays": 100,
   "restDays": 0
 }

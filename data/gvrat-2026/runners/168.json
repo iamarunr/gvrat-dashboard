@@ -966,19 +966,19 @@
     },
     {
       "date": "2026-08-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.52,
+      "km": 4.06,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "tva flat; mag; so many deer."
     },
     {
       "date": "2026-08-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.88,
+      "km": 4.63,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "tva/bertha/orrb o/b; mag water break"
     },
     {
       "date": "2026-08-05",
@@ -990,22 +990,46 @@
     },
     {
       "date": "2026-08-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.34,
+      "km": 2.16,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Nola AM/Jena hood/Mag"
     },
     {
       "date": "2026-08-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.95,
+      "km": 3.14,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Audubon park inner loop AM w/Mag"
+    },
+    {
+      "date": "2026-08-07",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "run",
+      "time": null,
+      "comment": "uptown run"
+    },
+    {
+      "date": "2026-08-07",
+      "miles": 1.29,
+      "km": 2.08,
+      "type": "walk",
+      "time": null,
+      "comment": "uptown cooldown with cvs stop"
+    },
+    {
+      "date": "2026-08-08",
+      "miles": 0.5,
+      "km": 0.8,
+      "type": "walk",
+      "time": null,
+      "comment": "ellisville park stretch"
     }
   ],
-  "totalActivities": 99,
-  "activeDays": 73,
-  "restDays": 26
+  "totalActivities": 106,
+  "activeDays": 78,
+  "restDays": 22
 }

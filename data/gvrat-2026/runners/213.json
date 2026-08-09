@@ -1261,15 +1261,39 @@
       "comment": "Treadmill"
     },
     {
-      "date": "2026-08-07",
+      "date": "2026-08-06",
       "miles": 0.4,
       "km": 0.64,
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-07",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-08-07",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-08-08",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 135,
+  "totalActivities": 137,
   "activeDays": 76,
-  "restDays": 23
+  "restDays": 24
 }

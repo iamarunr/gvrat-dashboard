@@ -979,9 +979,25 @@
       "type": "walk",
       "time": null,
       "comment": "So hilly and such a big bag...still."
+    },
+    {
+      "date": "2026-08-08",
+      "miles": 5.5,
+      "km": 8.85,
+      "type": "walk",
+      "time": null,
+      "comment": "Up the big guy again"
+    },
+    {
+      "date": "2026-08-08",
+      "miles": 5.5,
+      "km": 8.85,
+      "type": "walk",
+      "time": null,
+      "comment": "Up big store round 2, plus other recovery walking"
     }
   ],
-  "totalActivities": 109,
-  "activeDays": 86,
+  "totalActivities": 111,
+  "activeDays": 87,
   "restDays": 13
 }

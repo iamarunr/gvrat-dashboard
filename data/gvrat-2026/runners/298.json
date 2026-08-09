@@ -1019,9 +1019,17 @@
       "type": "walk",
       "time": null,
       "comment": "Errands"
+    },
+    {
+      "date": "2026-08-08",
+      "miles": 3.2,
+      "km": 5.15,
+      "type": "walk",
+      "time": null,
+      "comment": "Airport walking"
     }
   ],
-  "totalActivities": 93,
-  "activeDays": 65,
+  "totalActivities": 94,
+  "activeDays": 66,
   "restDays": 34
 }
