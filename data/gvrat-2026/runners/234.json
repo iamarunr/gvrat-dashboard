@@ -1163,9 +1163,25 @@
       "type": "run",
       "time": null,
       "comment": "Beaver Creek Run"
+    },
+    {
+      "date": "2026-08-09",
+      "miles": 9.12,
+      "km": 14.68,
+      "type": "run",
+      "time": null,
+      "comment": "Franklin Basin Up and Down"
+    },
+    {
+      "date": "2026-08-09",
+      "miles": 2.23,
+      "km": 3.59,
+      "type": "walk",
+      "time": null,
+      "comment": "And just like that they are gone!  Raspberry Days are over."
     }
   ],
-  "totalActivities": 142,
-  "activeDays": 97,
+  "totalActivities": 144,
+  "activeDays": 98,
   "restDays": 3
 }

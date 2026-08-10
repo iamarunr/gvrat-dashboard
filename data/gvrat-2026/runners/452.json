@@ -803,9 +803,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total- Saturday three beach walks"
+    },
+    {
+      "date": "2026-08-09",
+      "miles": 10.0,
+      "km": 16.09,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total - Long Beach walks"
     }
   ],
-  "totalActivities": 94,
-  "activeDays": 94,
+  "totalActivities": 95,
+  "activeDays": 95,
   "restDays": 6
 }

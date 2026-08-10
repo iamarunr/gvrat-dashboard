@@ -1291,9 +1291,17 @@
       "type": "run",
       "time": null,
       "comment": "Did the extra km after the Backyard just to get north of a half maraton. Knee was bad but not that bad.."
+    },
+    {
+      "date": "2026-08-09",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 156,
   "activeDays": 95,
-  "restDays": 5
+  "restDays": 6
 }

@@ -995,9 +995,17 @@
       "type": "walk",
       "time": null,
       "comment": "Up big store round 2, plus other recovery walking"
+    },
+    {
+      "date": "2026-08-09",
+      "miles": 4.6,
+      "km": 7.4,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 111,
-  "activeDays": 87,
+  "totalActivities": 112,
+  "activeDays": 88,
   "restDays": 13
 }
