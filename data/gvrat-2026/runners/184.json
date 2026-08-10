@@ -1363,9 +1363,25 @@
       "type": "walk",
       "time": null,
       "comment": "Rest of day and grocery stores"
+    },
+    {
+      "date": "2026-08-09",
+      "miles": 3.12,
+      "km": 5.02,
+      "type": "run",
+      "time": null,
+      "comment": "Sunday morning run at enterprise"
+    },
+    {
+      "date": "2026-08-09",
+      "miles": 1.48,
+      "km": 2.38,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and day at  the river"
     }
   ],
-  "totalActivities": 170,
-  "activeDays": 100,
+  "totalActivities": 172,
+  "activeDays": 101,
   "restDays": 0
 }

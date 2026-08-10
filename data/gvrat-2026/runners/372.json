@@ -1046,22 +1046,30 @@
     },
     {
       "date": "2026-08-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.01,
+      "km": 8.06,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Shopping for eggs after!"
     },
     {
       "date": "2026-08-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.38,
+      "km": 3.83,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "And home after a week away"
+    },
+    {
+      "date": "2026-08-09",
+      "miles": 10.01,
+      "km": 16.11,
+      "type": "run",
+      "time": null,
+      "comment": "It rained a bit, it was lovely!"
     }
   ],
-  "totalActivities": 105,
-  "activeDays": 73,
-  "restDays": 27
+  "totalActivities": 108,
+  "activeDays": 76,
+  "restDays": 25
 }

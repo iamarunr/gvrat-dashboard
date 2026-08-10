@@ -915,9 +915,25 @@
       "type": "walk",
       "time": null,
       "comment": "Argentiere walkabout carrying 50 lbs of luggage"
+    },
+    {
+      "date": "2026-08-08",
+      "miles": 4.38,
+      "km": 7.05,
+      "type": "walk",
+      "time": null,
+      "comment": "Argentiere Walkabout"
+    },
+    {
+      "date": "2026-08-09",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Argentiere Walkabout"
     }
   ],
-  "totalActivities": 82,
-  "activeDays": 68,
+  "totalActivities": 84,
+  "activeDays": 69,
   "restDays": 32
 }
