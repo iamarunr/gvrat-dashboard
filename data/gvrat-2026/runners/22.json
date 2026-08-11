@@ -859,9 +859,17 @@
       "type": "run",
       "time": null,
       "comment": "Church Lane to Clear Creek Trail to Limestone Trail."
+    },
+    {
+      "date": "2026-08-10",
+      "miles": 7.17,
+      "km": 11.54,
+      "type": "run",
+      "time": null,
+      "comment": "Switchyard Park to Limestone Trail."
     }
   ],
-  "totalActivities": 104,
-  "activeDays": 98,
+  "totalActivities": 105,
+  "activeDays": 99,
   "restDays": 3
 }

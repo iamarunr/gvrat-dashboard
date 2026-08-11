@@ -1019,9 +1019,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-10",
+      "miles": 4.53,
+      "km": 7.29,
+      "type": "walk",
+      "time": null,
+      "comment": "Hill repeats at Pyramid"
+    },
+    {
+      "date": "2026-08-10",
+      "miles": 0.82,
+      "km": 1.32,
+      "type": "walk",
+      "time": null,
+      "comment": "Break walk"
     }
   ],
-  "totalActivities": 113,
-  "activeDays": 87,
+  "totalActivities": 115,
+  "activeDays": 88,
   "restDays": 14
 }

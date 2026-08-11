@@ -971,9 +971,17 @@
       "type": "walk",
       "time": null,
       "comment": "two dog walks"
+    },
+    {
+      "date": "2026-08-10",
+      "miles": 2.05,
+      "km": 3.3,
+      "type": "walk",
+      "time": null,
+      "comment": "two dog walks and some farm walking"
     }
   ],
-  "totalActivities": 117,
-  "activeDays": 97,
+  "totalActivities": 118,
+  "activeDays": 98,
   "restDays": 4
 }

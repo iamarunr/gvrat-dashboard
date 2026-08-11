@@ -1331,9 +1331,17 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-10",
+      "miles": 3.53,
+      "km": 5.68,
+      "type": "walk",
+      "time": null,
+      "comment": "Desk Treadmill Miles"
     }
   ],
-  "totalActivities": 161,
-  "activeDays": 96,
+  "totalActivities": 162,
+  "activeDays": 97,
   "restDays": 5
 }

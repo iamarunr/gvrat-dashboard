@@ -1174,14 +1174,22 @@
     },
     {
       "date": "2026-08-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.54,
+      "km": 5.7,
+      "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-10",
+      "miles": 10.03,
+      "km": 16.14,
+      "type": "walk",
+      "time": null,
+      "comment": "HP TP loop w bushwhacking"
     }
   ],
-  "totalActivities": 145,
-  "activeDays": 99,
-  "restDays": 2
+  "totalActivities": 147,
+  "activeDays": 101,
+  "restDays": 1
 }

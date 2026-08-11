@@ -854,14 +854,30 @@
     },
     {
       "date": "2026-08-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.99,
+      "km": 3.2,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Marche digestive."
+    },
+    {
+      "date": "2026-08-10",
+      "miles": 6.64,
+      "km": 10.69,
+      "type": "run",
+      "time": null,
+      "comment": "Petite boucle  non termin\u00e9e. genoux gauche p\u00e9t\u00e9."
+    },
+    {
+      "date": "2026-08-10",
+      "miles": 0.93,
+      "km": 1.5,
+      "type": "walk",
+      "time": null,
+      "comment": "Fin de la petite boucle a pied en boitant . genoux gauche p\u00e9t\u00e9."
     }
   ],
-  "totalActivities": 74,
-  "activeDays": 68,
-  "restDays": 33
+  "totalActivities": 77,
+  "activeDays": 70,
+  "restDays": 32
 }

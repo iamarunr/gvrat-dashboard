@@ -982,11 +982,11 @@
     },
     {
       "date": "2026-08-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Treadmill hills"
     },
     {
       "date": "2026-08-09",
@@ -995,9 +995,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-10",
+      "miles": 4.58,
+      "km": 7.37,
+      "type": "run",
+      "time": null,
+      "comment": "Trails!"
+    },
+    {
+      "date": "2026-08-10",
+      "miles": 1.81,
+      "km": 2.91,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking and airing of grievances"
     }
   ],
-  "totalActivities": 90,
-  "activeDays": 67,
-  "restDays": 34
+  "totalActivities": 93,
+  "activeDays": 69,
+  "restDays": 33
 }

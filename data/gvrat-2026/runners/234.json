@@ -1179,9 +1179,17 @@
       "type": "walk",
       "time": null,
       "comment": "And just like that they are gone!  Raspberry Days are over."
+    },
+    {
+      "date": "2026-08-10",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 144,
   "activeDays": 98,
-  "restDays": 3
+  "restDays": 4
 }

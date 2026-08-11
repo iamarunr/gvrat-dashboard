@@ -1067,9 +1067,17 @@
       "type": "run",
       "time": null,
       "comment": "It rained a bit, it was lovely!"
+    },
+    {
+      "date": "2026-08-10",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 108,
   "activeDays": 76,
-  "restDays": 25
+  "restDays": 26
 }
