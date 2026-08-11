@@ -1379,9 +1379,17 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and day at  the river"
+    },
+    {
+      "date": "2026-08-10",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "AM walk and pm walk"
     }
   ],
-  "totalActivities": 172,
-  "activeDays": 101,
+  "totalActivities": 173,
+  "activeDays": 102,
   "restDays": 0
 }

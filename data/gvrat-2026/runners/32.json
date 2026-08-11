@@ -955,9 +955,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-10",
+      "miles": 4.09,
+      "km": 6.58,
+      "type": "run",
+      "time": null,
+      "comment": "Part run and walk.  Recovery workout after 50k on Saturday."
     }
   ],
-  "totalActivities": 96,
-  "activeDays": 78,
+  "totalActivities": 97,
+  "activeDays": 79,
   "restDays": 23
 }

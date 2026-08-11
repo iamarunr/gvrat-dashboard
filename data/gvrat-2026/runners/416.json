@@ -1195,9 +1195,17 @@
       "type": "walk",
       "time": null,
       "comment": "Early morning steps"
+    },
+    {
+      "date": "2026-08-10",
+      "miles": 1.8,
+      "km": 2.9,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking pad"
     }
   ],
-  "totalActivities": 116,
-  "activeDays": 68,
+  "totalActivities": 117,
+  "activeDays": 69,
   "restDays": 33
 }

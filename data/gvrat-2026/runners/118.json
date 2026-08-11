@@ -931,9 +931,33 @@
       "type": "walk",
       "time": null,
       "comment": "Argentiere Walkabout"
+    },
+    {
+      "date": "2026-08-10",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill Walking Nash Suites, Geneva Airport"
+    },
+    {
+      "date": "2026-08-10",
+      "miles": 3.67,
+      "km": 5.91,
+      "type": "walk",
+      "time": null,
+      "comment": "Hotel Treadmill - Geneva"
+    },
+    {
+      "date": "2026-08-10",
+      "miles": 4.49,
+      "km": 7.23,
+      "type": "walk",
+      "time": null,
+      "comment": "Lauterbrunnen to Tr\u00fcmmelbach Falls"
     }
   ],
-  "totalActivities": 84,
-  "activeDays": 69,
+  "totalActivities": 87,
+  "activeDays": 70,
   "restDays": 32
 }

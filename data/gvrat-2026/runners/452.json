@@ -811,9 +811,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total - Long Beach walks"
+    },
+    {
+      "date": "2026-08-10",
+      "miles": 7.25,
+      "km": 11.67,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total- beach walk north to check turtle nests"
     }
   ],
-  "totalActivities": 95,
-  "activeDays": 95,
+  "totalActivities": 96,
+  "activeDays": 96,
   "restDays": 6
 }

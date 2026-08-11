@@ -907,9 +907,17 @@
       "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-10",
+      "miles": 19.26,
+      "km": 31.0,
+      "type": "walk",
+      "time": null,
+      "comment": "Dog Walk 31 x 1km for August"
     }
   ],
-  "totalActivities": 78,
-  "activeDays": 66,
+  "totalActivities": 79,
+  "activeDays": 67,
   "restDays": 35
 }
