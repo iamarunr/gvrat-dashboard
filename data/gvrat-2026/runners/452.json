@@ -819,9 +819,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total- beach walk north to check turtle nests"
+    },
+    {
+      "date": "2026-08-11",
+      "miles": 6.5,
+      "km": 10.46,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total"
     }
   ],
-  "totalActivities": 96,
-  "activeDays": 96,
+  "totalActivities": 97,
+  "activeDays": 97,
   "restDays": 6
 }

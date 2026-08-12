@@ -1387,9 +1387,17 @@
       "type": "walk",
       "time": null,
       "comment": "AM walk and pm walk"
+    },
+    {
+      "date": "2026-08-11",
+      "miles": 3.1,
+      "km": 4.99,
+      "type": "run",
+      "time": null,
+      "comment": "Tuesday morning 5k at Collegedale"
     }
   ],
-  "totalActivities": 173,
-  "activeDays": 102,
+  "totalActivities": 174,
+  "activeDays": 103,
   "restDays": 0
 }

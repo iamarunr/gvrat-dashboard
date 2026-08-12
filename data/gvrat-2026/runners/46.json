@@ -1811,9 +1811,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-11",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4083 Mesa AZ along the Canal Multiuse path"
+    },
+    {
+      "date": "2026-08-11",
+      "miles": 4.04,
+      "km": 6.5,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 226,
-  "activeDays": 102,
+  "totalActivities": 228,
+  "activeDays": 103,
   "restDays": 0
 }
