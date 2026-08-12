@@ -819,9 +819,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walked with Eddie\ud83d\udc15 this morning still in the 80s\u00b0walked this afternoon at 111\u00b0\ud83c\udf21\ud83d\ude33\ud83e\udd75finished up later tonight still 84\u00b0 after midnight \ud83e\udd75"
+    },
+    {
+      "date": "2026-08-11",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 102,
   "activeDays": 102,
-  "restDays": 0
+  "restDays": 1
 }

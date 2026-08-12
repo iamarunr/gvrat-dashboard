@@ -1043,9 +1043,17 @@
       "type": "walk",
       "time": null,
       "comment": "TVA flat meander; 10# Mag"
+    },
+    {
+      "date": "2026-08-11",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 108,
   "activeDays": 80,
-  "restDays": 22
+  "restDays": 23
 }

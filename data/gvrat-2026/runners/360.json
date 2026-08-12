@@ -1339,9 +1339,25 @@
       "type": "walk",
       "time": null,
       "comment": "Desk Treadmill Miles"
+    },
+    {
+      "date": "2026-08-10",
+      "miles": 2.02,
+      "km": 3.25,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-08-11",
+      "miles": 6.03,
+      "km": 9.7,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 162,
-  "activeDays": 97,
+  "totalActivities": 164,
+  "activeDays": 98,
   "restDays": 5
 }

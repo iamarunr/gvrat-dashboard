@@ -891,9 +891,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk around Meadow Lake with Christopher and the dogs."
+    },
+    {
+      "date": "2026-08-11",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 65,
   "activeDays": 56,
-  "restDays": 46
+  "restDays": 47
 }

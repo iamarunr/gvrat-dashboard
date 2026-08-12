@@ -1197,15 +1197,55 @@
       "comment": "Early morning steps"
     },
     {
-      "date": "2026-08-10",
+      "date": "2026-08-09",
       "miles": 1.8,
       "km": 2.9,
       "type": "walk",
       "time": null,
       "comment": "Walking pad"
+    },
+    {
+      "date": "2026-08-10",
+      "miles": 3.31,
+      "km": 5.33,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill walk"
+    },
+    {
+      "date": "2026-08-11",
+      "miles": 1.22,
+      "km": 1.96,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning steps"
+    },
+    {
+      "date": "2026-08-11",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking pad and Big Brother"
+    },
+    {
+      "date": "2026-08-11",
+      "miles": 1.85,
+      "km": 2.98,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill walk"
+    },
+    {
+      "date": "2026-08-11",
+      "miles": 3.53,
+      "km": 5.68,
+      "type": "walk",
+      "time": null,
+      "comment": "After dinner steps"
     }
   ],
-  "totalActivities": 117,
-  "activeDays": 69,
+  "totalActivities": 122,
+  "activeDays": 70,
   "restDays": 33
 }

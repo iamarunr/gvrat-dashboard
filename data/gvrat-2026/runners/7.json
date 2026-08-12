@@ -1035,9 +1035,17 @@
       "type": "walk",
       "time": null,
       "comment": "Break walk"
+    },
+    {
+      "date": "2026-08-11",
+      "miles": 3.02,
+      "km": 4.86,
+      "type": "walk",
+      "time": null,
+      "comment": "Helipad hike"
     }
   ],
-  "totalActivities": 115,
-  "activeDays": 88,
+  "totalActivities": 116,
+  "activeDays": 89,
   "restDays": 14
 }

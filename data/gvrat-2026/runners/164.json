@@ -915,9 +915,17 @@
       "type": "walk",
       "time": null,
       "comment": "Dog Walk 31 x 1km for August"
+    },
+    {
+      "date": "2026-08-11",
+      "miles": 6.21,
+      "km": 9.99,
+      "type": "run",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 79,
-  "activeDays": 67,
+  "totalActivities": 80,
+  "activeDays": 68,
   "restDays": 35
 }
