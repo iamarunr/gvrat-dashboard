@@ -910,14 +910,22 @@
     },
     {
       "date": "2026-08-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "morning walk and swim"
+    },
+    {
+      "date": "2026-08-12",
+      "miles": 3.82,
+      "km": 6.15,
+      "type": "walk",
+      "time": null,
+      "comment": "morning walk, fit club, spin"
     }
   ],
-  "totalActivities": 111,
-  "activeDays": 100,
-  "restDays": 3
+  "totalActivities": 113,
+  "activeDays": 102,
+  "restDays": 2
 }

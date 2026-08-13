@@ -963,9 +963,17 @@
       "type": "walk",
       "time": null,
       "comment": "Ice cream"
+    },
+    {
+      "date": "2026-08-12",
+      "miles": 3.99,
+      "km": 6.42,
+      "type": "walk",
+      "time": null,
+      "comment": "forest"
     }
   ],
-  "totalActivities": 120,
-  "activeDays": 103,
+  "totalActivities": 121,
+  "activeDays": 104,
   "restDays": 0
 }

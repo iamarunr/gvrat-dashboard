@@ -1558,30 +1558,54 @@
     },
     {
       "date": "2026-08-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-08-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning"
     },
     {
       "date": "2026-08-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Still unhealthy smoke"
+    },
+    {
+      "date": "2026-08-12",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Afternoon"
+    },
+    {
+      "date": "2026-08-12",
+      "miles": 6.5,
+      "km": 10.46,
+      "type": "walk",
+      "time": null,
+      "comment": "Afternoon.  Wildfires still blowing in smoke"
+    },
+    {
+      "date": "2026-08-12",
+      "miles": 4.5,
+      "km": 7.24,
+      "type": "walk",
+      "time": null,
+      "comment": "Afternoon - still unhealthy air \ud83d\ude22"
     }
   ],
-  "totalActivities": 193,
-  "activeDays": 99,
-  "restDays": 4
+  "totalActivities": 199,
+  "activeDays": 103,
+  "restDays": 1
 }
