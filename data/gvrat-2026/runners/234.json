@@ -1182,22 +1182,38 @@
     },
     {
       "date": "2026-08-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.24,
+      "km": 10.04,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Fish Haven Canyon"
+    },
+    {
+      "date": "2026-08-10",
+      "miles": 3.24,
+      "km": 5.21,
+      "type": "walk",
+      "time": null,
+      "comment": "Garden City Loop and Beach with Terri"
     },
     {
       "date": "2026-08-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.06,
+      "km": 4.92,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Logan River Trail"
+    },
+    {
+      "date": "2026-08-12",
+      "miles": 6.1,
+      "km": 9.82,
+      "type": "run",
+      "time": null,
+      "comment": "Death Road Pillar Run"
     }
   ],
-  "totalActivities": 144,
-  "activeDays": 98,
-  "restDays": 5
+  "totalActivities": 148,
+  "activeDays": 101,
+  "restDays": 3
 }

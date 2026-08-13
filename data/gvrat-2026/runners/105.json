@@ -822,14 +822,22 @@
     },
     {
       "date": "2026-08-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.98,
+      "km": 11.23,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walked a mile with Eddie\ud83d\udc15this morning 3 miles this afternoon to Dillon's. Then a few more later this evening 109\u00b0\ud83c\udf21\ud83e\udd75today"
+    },
+    {
+      "date": "2026-08-12",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "walk",
+      "time": null,
+      "comment": "Walked a mile with Eddie\ud83d\udc15this morning. Walked this afternoon 105\u00b0 starting out, 1 1/2 hours later 111\u00b0\ud83d\ude33\ud83c\udf21\ud83e\udd75"
     }
   ],
-  "totalActivities": 102,
-  "activeDays": 102,
-  "restDays": 1
+  "totalActivities": 104,
+  "activeDays": 104,
+  "restDays": 0
 }

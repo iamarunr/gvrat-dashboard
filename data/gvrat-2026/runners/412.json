@@ -907,9 +907,17 @@
       "type": "run",
       "time": null,
       "comment": "Alter-G"
+    },
+    {
+      "date": "2026-08-12",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 71,
   "activeDays": 61,
-  "restDays": 42
+  "restDays": 43
 }

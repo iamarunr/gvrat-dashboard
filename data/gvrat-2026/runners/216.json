@@ -899,9 +899,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-12",
+      "miles": 5.86,
+      "km": 9.43,
+      "type": "walk",
+      "time": null,
+      "comment": "Hike in Glacier National Park with Christopher and Veronica to Fish Lake. Strenuous!"
     }
   ],
-  "totalActivities": 65,
-  "activeDays": 56,
+  "totalActivities": 66,
+  "activeDays": 57,
   "restDays": 47
 }

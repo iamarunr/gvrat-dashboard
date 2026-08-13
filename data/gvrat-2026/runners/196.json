@@ -1467,9 +1467,33 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-12",
+      "miles": 3.62,
+      "km": 5.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Snapped out of it"
+    },
+    {
+      "date": "2026-08-12",
+      "miles": 2.6,
+      "km": 4.18,
+      "type": "walk",
+      "time": null,
+      "comment": "A bit at a time"
+    },
+    {
+      "date": "2026-08-12",
+      "miles": 1.68,
+      "km": 2.7,
+      "type": "walk",
+      "time": null,
+      "comment": "@10.0"
     }
   ],
-  "totalActivities": 161,
-  "activeDays": 81,
+  "totalActivities": 164,
+  "activeDays": 82,
   "restDays": 22
 }
