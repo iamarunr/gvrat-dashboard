@@ -1411,9 +1411,25 @@
       "type": "walk",
       "time": null,
       "comment": "Morning walk and evening walk and cleaning out rehab room"
+    },
+    {
+      "date": "2026-08-13",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "run",
+      "time": null,
+      "comment": "Collegedale run with Cynthia"
+    },
+    {
+      "date": "2026-08-13",
+      "miles": 1.99,
+      "km": 3.2,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and hospital tripping again"
     }
   ],
-  "totalActivities": 176,
-  "activeDays": 104,
+  "totalActivities": 178,
+  "activeDays": 105,
   "restDays": 0
 }

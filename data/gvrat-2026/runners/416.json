@@ -1246,6 +1246,22 @@
     },
     {
       "date": "2026-08-12",
+      "miles": 3.35,
+      "km": 5.39,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill walk"
+    },
+    {
+      "date": "2026-08-12",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-08-13",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -1253,7 +1269,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 122,
-  "activeDays": 70,
+  "totalActivities": 124,
+  "activeDays": 71,
   "restDays": 34
 }

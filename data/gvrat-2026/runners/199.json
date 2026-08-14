@@ -971,9 +971,25 @@
       "type": "walk",
       "time": null,
       "comment": "forest"
+    },
+    {
+      "date": "2026-08-13",
+      "miles": 2.33,
+      "km": 3.75,
+      "type": "walk",
+      "time": null,
+      "comment": "Raeren"
+    },
+    {
+      "date": "2026-08-13",
+      "miles": 1.46,
+      "km": 2.35,
+      "type": "walk",
+      "time": null,
+      "comment": "step counter"
     }
   ],
-  "totalActivities": 121,
-  "activeDays": 104,
+  "totalActivities": 123,
+  "activeDays": 105,
   "restDays": 0
 }

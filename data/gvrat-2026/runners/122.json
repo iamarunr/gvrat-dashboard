@@ -838,22 +838,30 @@
     },
     {
       "date": "2026-08-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Taywood loop"
     },
     {
       "date": "2026-08-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Taywood loop"
+    },
+    {
+      "date": "2026-08-13",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
+      "time": null,
+      "comment": "Neighborhood loops in new pair of shoes riding the wave of optimism from Kellie."
     }
   ],
-  "totalActivities": 87,
-  "activeDays": 85,
-  "restDays": 19
+  "totalActivities": 90,
+  "activeDays": 88,
+  "restDays": 17
 }
