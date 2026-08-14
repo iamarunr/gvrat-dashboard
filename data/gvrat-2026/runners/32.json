@@ -974,14 +974,30 @@
     },
     {
       "date": "2026-08-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.52,
+      "km": 7.27,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Treadmill run at recovery pace."
+    },
+    {
+      "date": "2026-08-12",
+      "miles": 1.11,
+      "km": 1.79,
+      "type": "walk",
+      "time": null,
+      "comment": "Short walk with my wife."
+    },
+    {
+      "date": "2026-08-13",
+      "miles": 6.02,
+      "km": 9.69,
+      "type": "run",
+      "time": null,
+      "comment": "Another recovery run."
     }
   ],
-  "totalActivities": 97,
-  "activeDays": 79,
-  "restDays": 25
+  "totalActivities": 100,
+  "activeDays": 81,
+  "restDays": 24
 }

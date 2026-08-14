@@ -1843,9 +1843,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-13",
+      "miles": 5.05,
+      "km": 8.13,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4085 - Heber-Overgaard MultiUse Path & Dirt Trl Run to Tall Timbers Park"
+    },
+    {
+      "date": "2026-08-13",
+      "miles": 7.03,
+      "km": 11.31,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 230,
-  "activeDays": 104,
+  "totalActivities": 232,
+  "activeDays": 105,
   "restDays": 0
 }

@@ -1051,9 +1051,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-13",
+      "miles": 4.58,
+      "km": 7.37,
+      "type": "walk",
+      "time": null,
+      "comment": "Helipad + DC"
     }
   ],
-  "totalActivities": 116,
-  "activeDays": 89,
+  "totalActivities": 117,
+  "activeDays": 90,
   "restDays": 15
 }

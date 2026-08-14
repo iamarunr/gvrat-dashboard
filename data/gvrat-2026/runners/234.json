@@ -1211,9 +1211,33 @@
       "type": "run",
       "time": null,
       "comment": "Death Road Pillar Run"
+    },
+    {
+      "date": "2026-08-12",
+      "miles": 1.96,
+      "km": 3.15,
+      "type": "walk",
+      "time": null,
+      "comment": "River Trail with Terri"
+    },
+    {
+      "date": "2026-08-12",
+      "miles": 1.86,
+      "km": 2.99,
+      "type": "walk",
+      "time": null,
+      "comment": "Hike to Heritage Park and Back with Terri"
+    },
+    {
+      "date": "2026-08-13",
+      "miles": 6.34,
+      "km": 10.2,
+      "type": "run",
+      "time": null,
+      "comment": "Niagara Falls 10K iFIT race"
     }
   ],
-  "totalActivities": 148,
-  "activeDays": 101,
+  "totalActivities": 151,
+  "activeDays": 102,
   "restDays": 3
 }

@@ -1206,22 +1206,46 @@
     },
     {
       "date": "2026-08-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 9.38,
+      "km": 15.1,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "1526' ascent.  Richardson Canyon Aspen lollipop w/ moose & calf!"
     },
     {
       "date": "2026-08-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.02,
+      "km": 3.25,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "164' ascent.  Logan River Trail w/ Rick (back strained today - no running)"
+    },
+    {
+      "date": "2026-08-12",
+      "miles": 1.87,
+      "km": 3.01,
+      "type": "walk",
+      "time": null,
+      "comment": "62' ascent.  Heritage Park lollipop w/ Rick (back strained today - no running)"
+    },
+    {
+      "date": "2026-08-13",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "run",
+      "time": null,
+      "comment": "195' ascent.  Treadmill - conservative run/hike w/ some uphill (testing lower back recovery)"
+    },
+    {
+      "date": "2026-08-13",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "run",
+      "time": null,
+      "comment": "0' ascent.  Treadmill - easy (being cautious with lower back recovery)"
     }
   ],
-  "totalActivities": 150,
-  "activeDays": 102,
-  "restDays": 2
+  "totalActivities": 155,
+  "activeDays": 105,
+  "restDays": 0
 }
