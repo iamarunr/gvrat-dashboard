@@ -1573,23 +1573,63 @@
       "comment": "dog run"
     },
     {
-      "date": "2026-08-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-08-11",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "dog walk"
+    },
+    {
+      "date": "2026-08-12",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
+      "time": null,
+      "comment": "short morning run before swim"
+    },
+    {
+      "date": "2026-08-12",
+      "miles": 2.2,
+      "km": 3.54,
+      "type": "walk",
+      "time": null,
+      "comment": "double dog walk"
     },
     {
       "date": "2026-08-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "run before swim"
+    },
+    {
+      "date": "2026-08-13",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": "dogs"
+    },
+    {
+      "date": "2026-08-14",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
+      "time": null,
+      "comment": "morning run"
+    },
+    {
+      "date": "2026-08-14",
+      "miles": 1.2,
+      "km": 1.93,
+      "type": "walk",
+      "time": null,
+      "comment": "dog walk"
     }
   ],
-  "totalActivities": 190,
-  "activeDays": 97,
-  "restDays": 8
+  "totalActivities": 197,
+  "activeDays": 100,
+  "restDays": 6
 }

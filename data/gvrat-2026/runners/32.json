@@ -995,9 +995,17 @@
       "type": "run",
       "time": null,
       "comment": "Another recovery run."
+    },
+    {
+      "date": "2026-08-14",
+      "miles": 6.61,
+      "km": 10.64,
+      "type": "run",
+      "time": null,
+      "comment": "easy run."
     }
   ],
-  "totalActivities": 100,
-  "activeDays": 81,
+  "totalActivities": 101,
+  "activeDays": 82,
   "restDays": 24
 }

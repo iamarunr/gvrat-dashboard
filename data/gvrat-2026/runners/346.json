@@ -1243,9 +1243,17 @@
       "type": "run",
       "time": null,
       "comment": "0' ascent.  Treadmill - easy (being cautious with lower back recovery)"
+    },
+    {
+      "date": "2026-08-14",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 155,
   "activeDays": 105,
-  "restDays": 0
+  "restDays": 1
 }

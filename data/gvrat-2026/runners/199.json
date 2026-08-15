@@ -987,9 +987,17 @@
       "type": "walk",
       "time": null,
       "comment": "step counter"
+    },
+    {
+      "date": "2026-08-14",
+      "miles": 4.33,
+      "km": 6.97,
+      "type": "walk",
+      "time": null,
+      "comment": "night hike to evade the heat"
     }
   ],
-  "totalActivities": 123,
-  "activeDays": 105,
+  "totalActivities": 124,
+  "activeDays": 106,
   "restDays": 0
 }

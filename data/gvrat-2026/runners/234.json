@@ -1235,9 +1235,17 @@
       "type": "run",
       "time": null,
       "comment": "Niagara Falls 10K iFIT race"
+    },
+    {
+      "date": "2026-08-14",
+      "miles": 4.22,
+      "km": 6.79,
+      "type": "run",
+      "time": null,
+      "comment": "Bear Lake Scenic Trail to Hodges Canyon Road and back"
     }
   ],
-  "totalActivities": 151,
-  "activeDays": 102,
+  "totalActivities": 152,
+  "activeDays": 103,
   "restDays": 3
 }

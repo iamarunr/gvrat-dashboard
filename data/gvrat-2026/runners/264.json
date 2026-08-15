@@ -1150,6 +1150,22 @@
     },
     {
       "date": "2026-08-13",
+      "miles": 3.08,
+      "km": 4.96,
+      "type": "walk",
+      "time": null,
+      "comment": "Tour de Bethesda Walk"
+    },
+    {
+      "date": "2026-08-13",
+      "miles": 1.84,
+      "km": 2.96,
+      "type": "walk",
+      "time": null,
+      "comment": "Friendship Heights Metro to Office - Nats Game"
+    },
+    {
+      "date": "2026-08-14",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -1157,7 +1173,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 120,
-  "activeDays": 81,
+  "totalActivities": 122,
+  "activeDays": 82,
   "restDays": 24
 }
