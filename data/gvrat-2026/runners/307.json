@@ -1043,9 +1043,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk with Daisy"
+    },
+    {
+      "date": "2026-08-14",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 130,
   "activeDays": 105,
-  "restDays": 0
+  "restDays": 1
 }

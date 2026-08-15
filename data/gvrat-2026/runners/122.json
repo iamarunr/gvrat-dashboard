@@ -859,9 +859,17 @@
       "type": "walk",
       "time": null,
       "comment": "Neighborhood loops in new pair of shoes riding the wave of optimism from Kellie."
+    },
+    {
+      "date": "2026-08-14",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 90,
   "activeDays": 88,
-  "restDays": 17
+  "restDays": 18
 }
