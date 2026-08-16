@@ -1014,17 +1014,33 @@
     },
     {
       "date": "2026-08-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.68,
+      "km": 7.53,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Trails"
+    },
+    {
+      "date": "2026-08-11",
+      "miles": 0.61,
+      "km": 0.98,
+      "type": "walk",
+      "time": null,
+      "comment": "Short walk"
     },
     {
       "date": "2026-08-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.09,
+      "km": 8.19,
+      "type": "run",
+      "time": null,
+      "comment": "Trails"
+    },
+    {
+      "date": "2026-08-12",
+      "miles": 1.31,
+      "km": 2.11,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
@@ -1043,9 +1059,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-15",
+      "miles": 21.31,
+      "km": 34.3,
+      "type": "walk",
+      "time": null,
+      "comment": "More walk than run but excellent company"
     }
   ],
-  "totalActivities": 93,
-  "activeDays": 69,
-  "restDays": 37
+  "totalActivities": 98,
+  "activeDays": 72,
+  "restDays": 35
 }

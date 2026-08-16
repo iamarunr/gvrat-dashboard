@@ -995,9 +995,25 @@
       "type": "walk",
       "time": null,
       "comment": "night hike to evade the heat"
+    },
+    {
+      "date": "2026-08-15",
+      "miles": 2.03,
+      "km": 3.27,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-08-15",
+      "miles": 3.43,
+      "km": 5.52,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 124,
-  "activeDays": 106,
+  "totalActivities": 126,
+  "activeDays": 107,
   "restDays": 0
 }

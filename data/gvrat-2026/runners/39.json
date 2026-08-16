@@ -1011,9 +1011,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-15",
+      "miles": 1.24,
+      "km": 2.0,
+      "type": "walk",
+      "time": null,
+      "comment": "two dog walks"
     }
   ],
-  "totalActivities": 121,
-  "activeDays": 101,
+  "totalActivities": 122,
+  "activeDays": 102,
   "restDays": 5
 }
