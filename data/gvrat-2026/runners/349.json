@@ -1222,14 +1222,22 @@
     },
     {
       "date": "2026-08-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.86,
+      "km": 7.82,
+      "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-15",
+      "miles": 3.55,
+      "km": 5.71,
+      "type": "walk",
+      "time": null,
+      "comment": "Walked with Sal"
     }
   ],
-  "totalActivities": 150,
-  "activeDays": 103,
-  "restDays": 3
+  "totalActivities": 152,
+  "activeDays": 105,
+  "restDays": 2
 }

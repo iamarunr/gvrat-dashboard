@@ -851,9 +851,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total- return travel from Florida"
+    },
+    {
+      "date": "2026-08-15",
+      "miles": 6.5,
+      "km": 10.46,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total- back in Westfield"
     }
   ],
-  "totalActivities": 99,
-  "activeDays": 99,
+  "totalActivities": 100,
+  "activeDays": 100,
   "restDays": 7
 }

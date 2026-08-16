@@ -1523,9 +1523,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-15",
+      "miles": 9.0,
+      "km": 14.48,
+      "type": "walk",
+      "time": null,
+      "comment": "AV1  backpack prep 1"
     }
   ],
-  "totalActivities": 167,
-  "activeDays": 83,
+  "totalActivities": 168,
+  "activeDays": 84,
   "restDays": 23
 }
