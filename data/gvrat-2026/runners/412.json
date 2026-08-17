@@ -934,14 +934,22 @@
     },
     {
       "date": "2026-08-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.05,
+      "km": 4.91,
+      "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-16",
+      "miles": 12.1,
+      "km": 19.47,
+      "type": "walk",
+      "time": null,
+      "comment": "Moran School area"
     }
   ],
-  "totalActivities": 73,
-  "activeDays": 63,
-  "restDays": 44
+  "totalActivities": 75,
+  "activeDays": 65,
+  "restDays": 43
 }

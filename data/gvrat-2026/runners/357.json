@@ -1635,9 +1635,17 @@
       "type": "walk",
       "time": null,
       "comment": "dog walk"
+    },
+    {
+      "date": "2026-08-16",
+      "miles": 13.5,
+      "km": 21.73,
+      "type": "run",
+      "time": null,
+      "comment": "Trail Run at POA"
     }
   ],
-  "totalActivities": 198,
-  "activeDays": 101,
+  "totalActivities": 199,
+  "activeDays": 102,
   "restDays": 6
 }

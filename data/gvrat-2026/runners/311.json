@@ -1051,9 +1051,17 @@
       "type": "walk",
       "time": null,
       "comment": "Start of CW. Pack needs to go on a diet"
+    },
+    {
+      "date": "2026-08-16",
+      "miles": 10.4,
+      "km": 16.74,
+      "type": "walk",
+      "time": null,
+      "comment": "Heavy bag"
     }
   ],
-  "totalActivities": 118,
-  "activeDays": 94,
+  "totalActivities": 119,
+  "activeDays": 95,
   "restDays": 13
 }

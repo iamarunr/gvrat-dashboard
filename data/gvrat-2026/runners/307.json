@@ -1059,9 +1059,17 @@
       "type": "run",
       "time": null,
       "comment": "Neighborhood 30k- taper time"
+    },
+    {
+      "date": "2026-08-16",
+      "miles": 3.21,
+      "km": 5.17,
+      "type": "run",
+      "time": null,
+      "comment": "Recovery run!"
     }
   ],
-  "totalActivities": 132,
-  "activeDays": 107,
+  "totalActivities": 133,
+  "activeDays": 108,
   "restDays": 0
 }

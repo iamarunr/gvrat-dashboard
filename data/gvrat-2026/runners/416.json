@@ -1262,30 +1262,78 @@
     },
     {
       "date": "2026-08-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.22,
+      "km": 1.96,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning steps"
+    },
+    {
+      "date": "2026-08-13",
+      "miles": 3.38,
+      "km": 5.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill walk"
     },
     {
       "date": "2026-08-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.22,
+      "km": 1.96,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning steps"
+    },
+    {
+      "date": "2026-08-14",
+      "miles": 3.03,
+      "km": 4.88,
+      "type": "walk",
+      "time": null,
+      "comment": "Neighborhood walk"
     },
     {
       "date": "2026-08-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.43,
+      "km": 2.3,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning steps"
+    },
+    {
+      "date": "2026-08-15",
+      "miles": 5.01,
+      "km": 8.06,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning steps"
+    },
+    {
+      "date": "2026-08-16",
+      "miles": 0.56,
+      "km": 0.9,
+      "type": "walk",
+      "time": null,
+      "comment": "ASU steps"
+    },
+    {
+      "date": "2026-08-16",
+      "miles": 0.32,
+      "km": 0.51,
+      "type": "walk",
+      "time": null,
+      "comment": "ASU steps"
+    },
+    {
+      "date": "2026-08-16",
+      "miles": 3.27,
+      "km": 5.26,
+      "type": "walk",
+      "time": null,
+      "comment": "Night walk"
     }
   ],
-  "totalActivities": 124,
-  "activeDays": 71,
-  "restDays": 36
+  "totalActivities": 133,
+  "activeDays": 75,
+  "restDays": 33
 }

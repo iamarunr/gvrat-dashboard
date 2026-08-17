@@ -1067,9 +1067,17 @@
       "type": "walk",
       "time": null,
       "comment": "More walk than run but excellent company"
+    },
+    {
+      "date": "2026-08-16",
+      "miles": 14.73,
+      "km": 23.71,
+      "type": "run",
+      "time": null,
+      "comment": "2x fat tire loop"
     }
   ],
-  "totalActivities": 98,
-  "activeDays": 72,
+  "totalActivities": 99,
+  "activeDays": 73,
   "restDays": 35
 }
