@@ -859,9 +859,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total- back in Westfield"
+    },
+    {
+      "date": "2026-08-16",
+      "miles": 11.0,
+      "km": 17.7,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total- Sunday 4 mi rail trail, garden, evening campus walk"
     }
   ],
-  "totalActivities": 100,
-  "activeDays": 100,
+  "totalActivities": 101,
+  "activeDays": 101,
   "restDays": 7
 }

@@ -1443,9 +1443,25 @@
       "type": "walk",
       "time": null,
       "comment": "AM run before hospital walking again ."
+    },
+    {
+      "date": "2026-08-16",
+      "miles": 3.4,
+      "km": 5.47,
+      "type": "run",
+      "time": null,
+      "comment": "Enterprise Sunday morning with Cynthia"
+    },
+    {
+      "date": "2026-08-16",
+      "miles": 2.7,
+      "km": 4.35,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk , hospital, Costco and vacuuming"
     }
   ],
-  "totalActivities": 180,
-  "activeDays": 107,
+  "totalActivities": 182,
+  "activeDays": 108,
   "restDays": 0
 }

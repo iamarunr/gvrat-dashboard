@@ -1891,9 +1891,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-16",
+      "miles": 3.53,
+      "km": 5.68,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4088 Harker Heights TX"
+    },
+    {
+      "date": "2026-08-16",
+      "miles": 6.14,
+      "km": 9.88,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 236,
-  "activeDays": 107,
+  "totalActivities": 238,
+  "activeDays": 108,
   "restDays": 0
 }

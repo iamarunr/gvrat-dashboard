@@ -1659,9 +1659,25 @@
       "type": "walk",
       "time": null,
       "comment": "Morning"
+    },
+    {
+      "date": "2026-08-16",
+      "miles": 7.0,
+      "km": 11.27,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning with Helen on the Palouse"
+    },
+    {
+      "date": "2026-08-16",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Afternoon medical lake"
     }
   ],
-  "totalActivities": 206,
-  "activeDays": 106,
+  "totalActivities": 208,
+  "activeDays": 107,
   "restDays": 1
 }

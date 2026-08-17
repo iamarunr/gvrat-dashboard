@@ -1531,9 +1531,25 @@
       "type": "walk",
       "time": null,
       "comment": "AV1  backpack prep 1"
+    },
+    {
+      "date": "2026-08-16",
+      "miles": 4.4,
+      "km": 7.08,
+      "type": "walk",
+      "time": null,
+      "comment": "I broke the dog \ud83d\udc29\ud83e\udd75"
+    },
+    {
+      "date": "2026-08-16",
+      "miles": 2.41,
+      "km": 3.88,
+      "type": "walk",
+      "time": null,
+      "comment": "Sans \ud83e\udd75\ud83d\udc29"
     }
   ],
-  "totalActivities": 168,
-  "activeDays": 84,
+  "totalActivities": 170,
+  "activeDays": 85,
   "restDays": 23
 }

@@ -1195,9 +1195,33 @@
       "type": "walk",
       "time": null,
       "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-08-16",
+      "miles": 0.43,
+      "km": 0.69,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-08-16",
+      "miles": 5.22,
+      "km": 8.4,
+      "type": "run",
+      "time": null,
+      "comment": "Loop at Usery Mountain Park."
+    },
+    {
+      "date": "2026-08-16",
+      "miles": 2.11,
+      "km": 3.4,
+      "type": "walk",
+      "time": null,
+      "comment": "Neighborhood laps."
     }
   ],
-  "totalActivities": 140,
-  "activeDays": 98,
+  "totalActivities": 143,
+  "activeDays": 99,
   "restDays": 9
 }
