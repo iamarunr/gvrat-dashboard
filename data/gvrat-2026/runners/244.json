@@ -1158,14 +1158,38 @@
     },
     {
       "date": "2026-08-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.3,
+      "km": 2.09,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning Remi & Ronin walks"
+    },
+    {
+      "date": "2026-08-16",
+      "miles": 5.25,
+      "km": 8.45,
+      "type": "walk",
+      "time": null,
+      "comment": "Desert Hills hike w/JenniferM"
+    },
+    {
+      "date": "2026-08-17",
+      "miles": 3.1,
+      "km": 4.99,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning Remi Walk"
+    },
+    {
+      "date": "2026-08-17",
+      "miles": 3.45,
+      "km": 5.55,
+      "type": "walk",
+      "time": null,
+      "comment": "Desert Hills Short Tower Loop"
     }
   ],
-  "totalActivities": 126,
-  "activeDays": 89,
-  "restDays": 19
+  "totalActivities": 130,
+  "activeDays": 91,
+  "restDays": 18
 }

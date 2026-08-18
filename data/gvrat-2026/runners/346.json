@@ -1246,22 +1246,54 @@
     },
     {
       "date": "2026-08-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "89' ascent.  Bear Lake & Sweetwater Park"
+    },
+    {
+      "date": "2026-08-14",
+      "miles": 3.08,
+      "km": 4.96,
+      "type": "walk",
+      "time": null,
+      "comment": "449' ascent.  Shundahai"
+    },
+    {
+      "date": "2026-08-14",
+      "miles": 4.2,
+      "km": 6.76,
+      "type": "walk",
+      "time": null,
+      "comment": "463' ascent.  Beaver Creek w/ Rick"
     },
     {
       "date": "2026-08-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 50.68,
+      "km": 81.56,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "9475' ascent.  White Pine 50M - PR!"
     },
     {
       "date": "2026-08-16",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "49' ascent.  Bear Lake - recovery amble"
+    },
+    {
+      "date": "2026-08-16",
+      "miles": 2.12,
+      "km": 3.41,
+      "type": "walk",
+      "time": null,
+      "comment": "374' ascent.  Shundahai - recovery amble"
+    },
+    {
+      "date": "2026-08-17",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -1269,7 +1301,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 155,
-  "activeDays": 105,
-  "restDays": 3
+  "totalActivities": 161,
+  "activeDays": 108,
+  "restDays": 1
 }
