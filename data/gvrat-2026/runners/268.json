@@ -971,9 +971,17 @@
       "type": "walk",
       "time": null,
       "comment": "swim & after run cooldown"
+    },
+    {
+      "date": "2026-08-17",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 119,
   "activeDays": 106,
-  "restDays": 2
+  "restDays": 3
 }

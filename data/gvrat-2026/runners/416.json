@@ -1331,9 +1331,17 @@
       "type": "walk",
       "time": null,
       "comment": "Night walk"
+    },
+    {
+      "date": "2026-08-17",
+      "miles": 1.22,
+      "km": 1.96,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning steps"
     }
   ],
-  "totalActivities": 133,
-  "activeDays": 75,
+  "totalActivities": 134,
+  "activeDays": 76,
   "restDays": 33
 }

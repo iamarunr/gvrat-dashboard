@@ -1083,9 +1083,17 @@
       "type": "walk",
       "time": null,
       "comment": "Pyramid Hike w/ B"
+    },
+    {
+      "date": "2026-08-17",
+      "miles": 5.25,
+      "km": 8.45,
+      "type": "walk",
+      "time": null,
+      "comment": "3x3 Hill Repeats + addt'l miles"
     }
   ],
-  "totalActivities": 118,
-  "activeDays": 91,
+  "totalActivities": 119,
+  "activeDays": 92,
   "restDays": 17
 }

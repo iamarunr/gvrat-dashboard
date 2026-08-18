@@ -1174,11 +1174,11 @@
     },
     {
       "date": "2026-08-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.98,
+      "km": 12.84,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "SHMP Long Run/Walk #10 (Kemp Mill)"
     },
     {
       "date": "2026-08-16",
@@ -1187,9 +1187,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-17",
+      "miles": 2.35,
+      "km": 3.78,
+      "type": "run",
+      "time": null,
+      "comment": "SHMP Monday Morning CCT Run - Humidity Wins Again"
+    },
+    {
+      "date": "2026-08-17",
+      "miles": 2.59,
+      "km": 4.17,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk of Shame Back to Office"
     }
   ],
-  "totalActivities": 122,
-  "activeDays": 82,
-  "restDays": 26
+  "totalActivities": 125,
+  "activeDays": 84,
+  "restDays": 25
 }

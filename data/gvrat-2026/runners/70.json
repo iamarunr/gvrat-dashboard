@@ -1675,9 +1675,25 @@
       "type": "walk",
       "time": null,
       "comment": "Afternoon medical lake"
+    },
+    {
+      "date": "2026-08-17",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "run",
+      "time": null,
+      "comment": "Morning"
+    },
+    {
+      "date": "2026-08-17",
+      "miles": 4.5,
+      "km": 7.24,
+      "type": "walk",
+      "time": null,
+      "comment": "Afternoon"
     }
   ],
-  "totalActivities": 208,
-  "activeDays": 107,
+  "totalActivities": 210,
+  "activeDays": 108,
   "restDays": 1
 }

@@ -1091,9 +1091,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk Chautauqua and Pearl St. Mall with Mickey and Bill"
+    },
+    {
+      "date": "2026-08-17",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
     }
   ],
-  "totalActivities": 96,
-  "activeDays": 68,
+  "totalActivities": 97,
+  "activeDays": 69,
   "restDays": 40
 }

@@ -1123,9 +1123,17 @@
       "type": "run",
       "time": null,
       "comment": "Last long run before the LLCR in two weeks!"
+    },
+    {
+      "date": "2026-08-17",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 110,
   "activeDays": 78,
-  "restDays": 30
+  "restDays": 31
 }

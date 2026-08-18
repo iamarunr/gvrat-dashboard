@@ -1059,9 +1059,33 @@
       "type": "walk",
       "time": null,
       "comment": "Heavy bag"
+    },
+    {
+      "date": "2026-08-17",
+      "miles": 5.4,
+      "km": 8.69,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-08-17",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-08-17",
+      "miles": 3.7,
+      "km": 5.95,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 119,
-  "activeDays": 95,
+  "totalActivities": 122,
+  "activeDays": 96,
   "restDays": 13
 }
