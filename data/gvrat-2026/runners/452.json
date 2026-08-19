@@ -875,9 +875,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily total -"
+    },
+    {
+      "date": "2026-08-18",
+      "miles": 8.5,
+      "km": 13.68,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily total, morning park, evening campus"
     }
   ],
-  "totalActivities": 102,
-  "activeDays": 102,
+  "totalActivities": 103,
+  "activeDays": 103,
   "restDays": 7
 }

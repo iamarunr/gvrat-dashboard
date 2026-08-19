@@ -955,9 +955,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-18",
+      "miles": 8.5,
+      "km": 13.68,
+      "type": "run",
+      "time": null,
+      "comment": "Alter-G"
+    },
+    {
+      "date": "2026-08-18",
+      "miles": 5.5,
+      "km": 8.85,
+      "type": "walk",
+      "time": null,
+      "comment": "Riverfront Park 20 bridges loop"
     }
   ],
-  "totalActivities": 75,
-  "activeDays": 65,
+  "totalActivities": 77,
+  "activeDays": 66,
   "restDays": 44
 }

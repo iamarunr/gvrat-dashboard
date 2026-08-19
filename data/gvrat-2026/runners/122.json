@@ -862,27 +862,27 @@
     },
     {
       "date": "2026-08-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Out and back easy"
     },
     {
       "date": "2026-08-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.53,
+      "km": 10.51,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "New Clifton\u2019s out of the box!  Time to fly indeed.  Dam loop with lake."
     },
     {
       "date": "2026-08-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Out and back.  Easy after prior day"
     },
     {
       "date": "2026-08-17",
@@ -891,9 +891,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-18",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Out and back water tower loop"
     }
   ],
-  "totalActivities": 90,
-  "activeDays": 88,
-  "restDays": 21
+  "totalActivities": 94,
+  "activeDays": 92,
+  "restDays": 18
 }
