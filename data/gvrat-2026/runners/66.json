@@ -1222,14 +1222,30 @@
     },
     {
       "date": "2026-08-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.55,
+      "km": 0.89,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-08-17",
+      "miles": 3.14,
+      "km": 5.05,
+      "type": "run",
+      "time": null,
+      "comment": "Aravaipa Monday Party Pace Group."
+    },
+    {
+      "date": "2026-08-18",
+      "miles": 5.01,
+      "km": 8.06,
+      "type": "walk",
+      "time": null,
+      "comment": "Neighborhood laps."
     }
   ],
-  "totalActivities": 143,
-  "activeDays": 99,
-  "restDays": 10
+  "totalActivities": 146,
+  "activeDays": 101,
+  "restDays": 9
 }

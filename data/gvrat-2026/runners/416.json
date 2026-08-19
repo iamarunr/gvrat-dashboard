@@ -1339,9 +1339,33 @@
       "type": "walk",
       "time": null,
       "comment": "Morning steps"
+    },
+    {
+      "date": "2026-08-18",
+      "miles": 1.22,
+      "km": 1.96,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning steps"
+    },
+    {
+      "date": "2026-08-18",
+      "miles": 1.71,
+      "km": 2.75,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-08-18",
+      "miles": 1.75,
+      "km": 2.82,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
     }
   ],
-  "totalActivities": 134,
-  "activeDays": 76,
+  "totalActivities": 137,
+  "activeDays": 77,
   "restDays": 33
 }

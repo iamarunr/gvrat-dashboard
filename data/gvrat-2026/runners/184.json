@@ -1467,9 +1467,25 @@
       "type": "walk",
       "time": null,
       "comment": "Morning walk and evening walk with the boys and we got really wet"
+    },
+    {
+      "date": "2026-08-18",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "run",
+      "time": null,
+      "comment": "Collegedale sprint 5x10 seconds"
+    },
+    {
+      "date": "2026-08-18",
+      "miles": 1.39,
+      "km": 2.24,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and rest  of day"
     }
   ],
-  "totalActivities": 183,
-  "activeDays": 109,
+  "totalActivities": 185,
+  "activeDays": 110,
   "restDays": 0
 }

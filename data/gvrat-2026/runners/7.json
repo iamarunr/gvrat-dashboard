@@ -1091,9 +1091,17 @@
       "type": "walk",
       "time": null,
       "comment": "3x3 Hill Repeats + addt'l miles"
+    },
+    {
+      "date": "2026-08-18",
+      "miles": 3.03,
+      "km": 4.88,
+      "type": "walk",
+      "time": null,
+      "comment": "Helipad Hike"
     }
   ],
-  "totalActivities": 119,
-  "activeDays": 92,
+  "totalActivities": 120,
+  "activeDays": 93,
   "restDays": 17
 }

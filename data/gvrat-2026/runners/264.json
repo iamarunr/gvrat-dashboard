@@ -1203,9 +1203,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk of Shame Back to Office"
+    },
+    {
+      "date": "2026-08-18",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 125,
   "activeDays": 84,
-  "restDays": 25
+  "restDays": 26
 }
