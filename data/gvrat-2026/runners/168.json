@@ -1107,9 +1107,17 @@
       "type": "walk",
       "time": null,
       "comment": "TVA dam flat; 10#; mag"
+    },
+    {
+      "date": "2026-08-19",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 116,
   "activeDays": 88,
-  "restDays": 22
+  "restDays": 23
 }

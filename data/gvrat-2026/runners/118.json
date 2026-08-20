@@ -1051,9 +1051,17 @@
       "type": "walk",
       "time": null,
       "comment": "Culloden"
+    },
+    {
+      "date": "2026-08-19",
+      "miles": 3.3,
+      "km": 5.31,
+      "type": "walk",
+      "time": null,
+      "comment": "Inverness Walkabout"
     }
   ],
-  "totalActivities": 99,
-  "activeDays": 78,
+  "totalActivities": 100,
+  "activeDays": 79,
   "restDays": 32
 }

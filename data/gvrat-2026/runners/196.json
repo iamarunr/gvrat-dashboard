@@ -1571,9 +1571,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-19",
+      "miles": 5.14,
+      "km": 8.27,
+      "type": "walk",
+      "time": null,
+      "comment": "Long night."
+    },
+    {
+      "date": "2026-08-19",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "A bit short today."
     }
   ],
-  "totalActivities": 172,
-  "activeDays": 86,
+  "totalActivities": 174,
+  "activeDays": 87,
   "restDays": 24
 }

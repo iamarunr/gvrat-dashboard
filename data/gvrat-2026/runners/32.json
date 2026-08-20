@@ -1035,9 +1035,25 @@
       "type": "run",
       "time": null,
       "comment": "Easy with strides"
+    },
+    {
+      "date": "2026-08-19",
+      "miles": 5.5,
+      "km": 8.85,
+      "type": "run",
+      "time": null,
+      "comment": "EASY RUN."
+    },
+    {
+      "date": "2026-08-19",
+      "miles": 4.19,
+      "km": 6.74,
+      "type": "run",
+      "time": null,
+      "comment": "Group run at the brewery."
     }
   ],
-  "totalActivities": 105,
-  "activeDays": 86,
+  "totalActivities": 107,
+  "activeDays": 87,
   "restDays": 24
 }
