@@ -1245,39 +1245,79 @@
       "comment": "Bear Lake Scenic Trail to Hodges Canyon Road and back"
     },
     {
-      "date": "2026-08-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-08-14",
+      "miles": 4.28,
+      "km": 6.89,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Beaver Creek with Terri"
+    },
+    {
+      "date": "2026-08-15",
+      "miles": 9.47,
+      "km": 15.24,
+      "type": "run",
+      "time": null,
+      "comment": "Temple Fork Up and Down"
     },
     {
       "date": "2026-08-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.2,
+      "km": 5.15,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "%k Recovery Run on Union Pacific Rail Trail"
+    },
+    {
+      "date": "2026-08-16",
+      "miles": 1.84,
+      "km": 2.96,
+      "type": "walk",
+      "time": null,
+      "comment": "Silver Lake Area Hike"
     },
     {
       "date": "2026-08-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.35,
+      "km": 10.22,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Park City Rail Trail at Dawn"
+    },
+    {
+      "date": "2026-08-17",
+      "miles": 2.2,
+      "km": 3.54,
+      "type": "walk",
+      "time": null,
+      "comment": "Hog Hollow with Terri"
     },
     {
       "date": "2026-08-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.13,
+      "km": 8.26,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Highland Alpine Loop Recovery Run"
+    },
+    {
+      "date": "2026-08-18",
+      "miles": 1.23,
+      "km": 1.98,
+      "type": "walk",
+      "time": null,
+      "comment": "Neighborhood walk"
+    },
+    {
+      "date": "2026-08-19",
+      "miles": 5.84,
+      "km": 9.4,
+      "type": "run",
+      "time": null,
+      "comment": "Hog Hollow to Two Hollows Down to Fango and back"
     }
   ],
-  "totalActivities": 152,
-  "activeDays": 103,
-  "restDays": 7
+  "totalActivities": 161,
+  "activeDays": 108,
+  "restDays": 3
 }

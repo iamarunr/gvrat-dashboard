@@ -974,22 +974,30 @@
     },
     {
       "date": "2026-08-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.65,
+      "km": 4.26,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "morning walk and fit club"
     },
     {
       "date": "2026-08-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.45,
+      "km": 5.55,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "morning walk anna treadmill"
+    },
+    {
+      "date": "2026-08-19",
+      "miles": 4.3,
+      "km": 6.92,
+      "type": "run",
+      "time": null,
+      "comment": "bike ride and run at BC Lake park"
     }
   ],
-  "totalActivities": 119,
-  "activeDays": 106,
-  "restDays": 4
+  "totalActivities": 122,
+  "activeDays": 109,
+  "restDays": 2
 }

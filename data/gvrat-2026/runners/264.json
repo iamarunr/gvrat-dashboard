@@ -1206,14 +1206,30 @@
     },
     {
       "date": "2026-08-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.93,
+      "km": 6.32,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Office - Bethesda Loop"
+    },
+    {
+      "date": "2026-08-18",
+      "miles": 6.2,
+      "km": 9.98,
+      "type": "run",
+      "time": null,
+      "comment": "SHMP Track Ladder Workout"
+    },
+    {
+      "date": "2026-08-19",
+      "miles": 4.19,
+      "km": 6.74,
+      "type": "walk",
+      "time": null,
+      "comment": "NIH Loop"
     }
   ],
-  "totalActivities": 125,
-  "activeDays": 84,
-  "restDays": 26
+  "totalActivities": 128,
+  "activeDays": 86,
+  "restDays": 25
 }

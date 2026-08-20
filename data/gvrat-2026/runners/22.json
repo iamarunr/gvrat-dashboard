@@ -931,9 +931,17 @@
       "type": "run",
       "time": null,
       "comment": "Switchyard Park to Church Lane to Limestone Trail."
+    },
+    {
+      "date": "2026-08-19",
+      "miles": 5.07,
+      "km": 8.16,
+      "type": "run",
+      "time": null,
+      "comment": "Switchyard Park to B-Line Trail."
     }
   ],
-  "totalActivities": 113,
-  "activeDays": 107,
+  "totalActivities": 114,
+  "activeDays": 108,
   "restDays": 3
 }
