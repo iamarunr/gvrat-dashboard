@@ -899,9 +899,17 @@
       "type": "run",
       "time": null,
       "comment": "tmill combo\u2026."
+    },
+    {
+      "date": "2026-08-20",
+      "miles": 6.66,
+      "km": 10.72,
+      "type": "run",
+      "time": null,
+      "comment": "tmill combo."
     }
   ],
-  "totalActivities": 112,
-  "activeDays": 111,
+  "totalActivities": 113,
+  "activeDays": 112,
   "restDays": 0
 }

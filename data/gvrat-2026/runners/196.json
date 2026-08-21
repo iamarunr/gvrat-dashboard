@@ -1587,9 +1587,17 @@
       "type": "walk",
       "time": null,
       "comment": "A bit short today."
+    },
+    {
+      "date": "2026-08-20",
+      "miles": 3.34,
+      "km": 5.38,
+      "type": "walk",
+      "time": null,
+      "comment": "A late night"
     }
   ],
-  "totalActivities": 174,
-  "activeDays": 87,
+  "totalActivities": 175,
+  "activeDays": 88,
   "restDays": 24
 }

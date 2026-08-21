@@ -1227,9 +1227,17 @@
       "type": "walk",
       "time": null,
       "comment": "NIH Loop"
+    },
+    {
+      "date": "2026-08-20",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 128,
   "activeDays": 86,
-  "restDays": 25
+  "restDays": 26
 }

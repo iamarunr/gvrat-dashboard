@@ -1955,9 +1955,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-20",
+      "miles": 3.02,
+      "km": 4.86,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4092 FPL dirt loop Run"
+    },
+    {
+      "date": "2026-08-20",
+      "miles": 3.66,
+      "km": 5.89,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 244,
-  "activeDays": 111,
+  "totalActivities": 246,
+  "activeDays": 112,
   "restDays": 0
 }

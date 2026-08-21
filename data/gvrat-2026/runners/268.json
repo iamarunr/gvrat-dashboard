@@ -995,9 +995,17 @@
       "type": "run",
       "time": null,
       "comment": "bike ride and run at BC Lake park"
+    },
+    {
+      "date": "2026-08-20",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 122,
   "activeDays": 109,
-  "restDays": 2
+  "restDays": 3
 }

@@ -1315,9 +1315,33 @@
       "type": "run",
       "time": null,
       "comment": "Hog Hollow to Two Hollows Down to Fango and back"
+    },
+    {
+      "date": "2026-08-19",
+      "miles": 2.74,
+      "km": 4.41,
+      "type": "walk",
+      "time": null,
+      "comment": "Lame Horse and Horse Flat with Terri"
+    },
+    {
+      "date": "2026-08-20",
+      "miles": 4.14,
+      "km": 6.66,
+      "type": "run",
+      "time": null,
+      "comment": "Murdock Canal Trail 4 miler"
+    },
+    {
+      "date": "2026-08-20",
+      "miles": 1.35,
+      "km": 2.17,
+      "type": "walk",
+      "time": null,
+      "comment": "Murdock Canal Trail Cool Down"
     }
   ],
-  "totalActivities": 161,
-  "activeDays": 108,
+  "totalActivities": 164,
+  "activeDays": 109,
   "restDays": 3
 }

@@ -1054,14 +1054,22 @@
     },
     {
       "date": "2026-08-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.54,
+      "km": 5.7,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "run in the rain <3"
+    },
+    {
+      "date": "2026-08-20",
+      "miles": 6.25,
+      "km": 10.06,
+      "type": "run",
+      "time": null,
+      "comment": "tempo run"
     }
   ],
-  "totalActivities": 131,
-  "activeDays": 110,
-  "restDays": 1
+  "totalActivities": 133,
+  "activeDays": 112,
+  "restDays": 0
 }
