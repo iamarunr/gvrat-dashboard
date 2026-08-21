@@ -1107,9 +1107,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-20",
+      "miles": 7.8,
+      "km": 12.55,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-08-20",
+      "miles": 1.3,
+      "km": 2.09,
+      "type": "walk",
+      "time": null,
+      "comment": "Post tattoo"
     }
   ],
-  "totalActivities": 125,
-  "activeDays": 98,
+  "totalActivities": 127,
+  "activeDays": 99,
   "restDays": 13
 }
