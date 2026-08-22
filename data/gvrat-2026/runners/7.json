@@ -1115,9 +1115,17 @@
       "type": "walk",
       "time": null,
       "comment": "School > Helipad"
+    },
+    {
+      "date": "2026-08-21",
+      "miles": 5.04,
+      "km": 8.11,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 121,
-  "activeDays": 94,
+  "totalActivities": 122,
+  "activeDays": 95,
   "restDays": 18
 }
