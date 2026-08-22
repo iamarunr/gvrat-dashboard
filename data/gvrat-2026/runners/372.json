@@ -1150,6 +1150,14 @@
     },
     {
       "date": "2026-08-20",
+      "miles": 6.01,
+      "km": 9.67,
+      "type": "run",
+      "time": null,
+      "comment": "Getting my finger out of my butt!"
+    },
+    {
+      "date": "2026-08-21",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -1157,7 +1165,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 111,
-  "activeDays": 79,
+  "totalActivities": 112,
+  "activeDays": 80,
   "restDays": 33
 }

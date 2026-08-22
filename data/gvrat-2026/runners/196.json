@@ -1595,9 +1595,25 @@
       "type": "walk",
       "time": null,
       "comment": "A late night"
+    },
+    {
+      "date": "2026-08-21",
+      "miles": 1.56,
+      "km": 2.51,
+      "type": "walk",
+      "time": null,
+      "comment": "second - outside"
+    },
+    {
+      "date": "2026-08-21",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "walk",
+      "time": null,
+      "comment": "first - inside"
     }
   ],
-  "totalActivities": 175,
-  "activeDays": 88,
+  "totalActivities": 177,
+  "activeDays": 89,
   "restDays": 24
 }

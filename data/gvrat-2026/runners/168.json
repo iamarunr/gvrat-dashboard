@@ -1110,11 +1110,11 @@
     },
     {
       "date": "2026-08-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.2,
+      "km": 5.15,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "TVA orrb o/b; Mag"
     },
     {
       "date": "2026-08-20",
@@ -1123,9 +1123,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-21",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "TVA ORRB o/b; Mag; 10#; watch dead"
     }
   ],
-  "totalActivities": 116,
-  "activeDays": 88,
-  "restDays": 24
+  "totalActivities": 118,
+  "activeDays": 90,
+  "restDays": 23
 }

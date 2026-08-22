@@ -1059,9 +1059,25 @@
       "type": "run",
       "time": null,
       "comment": "And that's a wrap for 2026!"
+    },
+    {
+      "date": "2026-08-21",
+      "miles": 5.05,
+      "km": 8.13,
+      "type": "run",
+      "time": null,
+      "comment": "Recovery run"
+    },
+    {
+      "date": "2026-08-21",
+      "miles": 2.05,
+      "km": 3.3,
+      "type": "walk",
+      "time": null,
+      "comment": "Short walk"
     }
   ],
-  "totalActivities": 108,
-  "activeDays": 88,
+  "totalActivities": 110,
+  "activeDays": 89,
   "restDays": 24
 }

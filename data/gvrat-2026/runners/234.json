@@ -1339,9 +1339,17 @@
       "type": "walk",
       "time": null,
       "comment": "Murdock Canal Trail Cool Down"
+    },
+    {
+      "date": "2026-08-21",
+      "miles": 6.52,
+      "km": 10.49,
+      "type": "run",
+      "time": null,
+      "comment": "10K on Park City Rail Trail"
     }
   ],
-  "totalActivities": 164,
-  "activeDays": 109,
+  "totalActivities": 165,
+  "activeDays": 110,
   "restDays": 3
 }

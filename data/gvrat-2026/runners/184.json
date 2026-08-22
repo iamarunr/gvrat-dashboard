@@ -1507,9 +1507,17 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and all the rest"
+    },
+    {
+      "date": "2026-08-21",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "AM walk and walked the dogs"
     }
   ],
-  "totalActivities": 188,
-  "activeDays": 112,
+  "totalActivities": 189,
+  "activeDays": 113,
   "restDays": 0
 }

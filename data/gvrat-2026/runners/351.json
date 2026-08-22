@@ -1035,9 +1035,17 @@
       "type": "walk",
       "time": null,
       "comment": "estimated time thanks to dead watch."
+    },
+    {
+      "date": "2026-08-21",
+      "miles": 7.1,
+      "km": 11.43,
+      "type": "run",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 84,
-  "activeDays": 67,
+  "totalActivities": 85,
+  "activeDays": 68,
   "restDays": 45
 }
