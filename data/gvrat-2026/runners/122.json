@@ -902,30 +902,38 @@
     },
     {
       "date": "2026-08-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Bike path before rain"
     },
     {
       "date": "2026-08-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "A bit slow today after late night soccer watching FC Cincinnati."
     },
     {
       "date": "2026-08-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "4 before Dayton Dragons game"
+    },
+    {
+      "date": "2026-08-22",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "walk",
+      "time": null,
+      "comment": "Another fast paced walk in the book.  This is turning into a weekly optimism challenge started by Kellie."
     }
   ],
-  "totalActivities": 94,
-  "activeDays": 92,
-  "restDays": 21
+  "totalActivities": 98,
+  "activeDays": 96,
+  "restDays": 18
 }

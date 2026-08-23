@@ -1611,9 +1611,25 @@
       "type": "walk",
       "time": null,
       "comment": "first - inside"
+    },
+    {
+      "date": "2026-08-22",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "walk",
+      "time": null,
+      "comment": "Long morning walk on the new parts of the trail."
+    },
+    {
+      "date": "2026-08-22",
+      "miles": 2.1,
+      "km": 3.38,
+      "type": "walk",
+      "time": null,
+      "comment": "Tough TM"
     }
   ],
-  "totalActivities": 177,
-  "activeDays": 89,
+  "totalActivities": 179,
+  "activeDays": 90,
   "restDays": 24
 }

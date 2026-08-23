@@ -1974,14 +1974,38 @@
     },
     {
       "date": "2026-08-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.52,
+      "km": 2.45,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4093 Road Run"
+    },
+    {
+      "date": "2026-08-21",
+      "miles": 5.08,
+      "km": 8.18,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-08-22",
+      "miles": 4.03,
+      "km": 6.49,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4094 FPL dirt loop Run"
+    },
+    {
+      "date": "2026-08-22",
+      "miles": 2.99,
+      "km": 4.81,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 246,
-  "activeDays": 112,
-  "restDays": 1
+  "totalActivities": 250,
+  "activeDays": 114,
+  "restDays": 0
 }

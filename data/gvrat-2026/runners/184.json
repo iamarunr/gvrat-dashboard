@@ -1515,9 +1515,25 @@
       "type": "walk",
       "time": null,
       "comment": "AM walk and walked the dogs"
+    },
+    {
+      "date": "2026-08-22",
+      "miles": 3.09,
+      "km": 4.97,
+      "type": "walk",
+      "time": null,
+      "comment": "Neighborhood walk for the badge"
+    },
+    {
+      "date": "2026-08-22",
+      "miles": 1.91,
+      "km": 3.07,
+      "type": "walk",
+      "time": null,
+      "comment": "Moving and shopping with Anna and Caleb"
     }
   ],
-  "totalActivities": 189,
-  "activeDays": 113,
+  "totalActivities": 191,
+  "activeDays": 114,
   "restDays": 0
 }

@@ -1374,22 +1374,30 @@
     },
     {
       "date": "2026-08-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Treadmill"
     },
     {
       "date": "2026-08-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.32,
+      "km": 5.34,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Treadmill walk"
+    },
+    {
+      "date": "2026-08-22",
+      "miles": 3.88,
+      "km": 6.24,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill walk with 1 minute sprints"
     }
   ],
-  "totalActivities": 138,
-  "activeDays": 78,
-  "restDays": 35
+  "totalActivities": 141,
+  "activeDays": 81,
+  "restDays": 33
 }

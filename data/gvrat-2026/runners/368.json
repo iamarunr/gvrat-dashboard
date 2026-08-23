@@ -1483,9 +1483,17 @@
       "type": "walk",
       "time": null,
       "comment": "Heidi"
+    },
+    {
+      "date": "2026-08-22",
+      "miles": 4.02,
+      "km": 6.47,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 175,
-  "activeDays": 103,
+  "totalActivities": 176,
+  "activeDays": 104,
   "restDays": 10
 }
