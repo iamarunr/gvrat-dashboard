@@ -1035,9 +1035,25 @@
       "type": "walk",
       "time": null,
       "comment": "Swim Across America volunteer morning"
+    },
+    {
+      "date": "2026-08-23",
+      "miles": 3.15,
+      "km": 5.07,
+      "type": "run",
+      "time": null,
+      "comment": "post swim run, not much walking!"
+    },
+    {
+      "date": "2026-08-23",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "walk",
+      "time": null,
+      "comment": "swim and post-run walking"
     }
   ],
-  "totalActivities": 126,
-  "activeDays": 111,
+  "totalActivities": 128,
+  "activeDays": 112,
   "restDays": 3
 }

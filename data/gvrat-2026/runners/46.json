@@ -2003,9 +2003,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-23",
+      "miles": 4.03,
+      "km": 6.49,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4095 Rd Run"
+    },
+    {
+      "date": "2026-08-23",
+      "miles": 4.3,
+      "km": 6.92,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 250,
-  "activeDays": 114,
+  "totalActivities": 252,
+  "activeDays": 115,
   "restDays": 0
 }

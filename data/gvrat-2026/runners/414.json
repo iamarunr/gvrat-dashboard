@@ -910,14 +910,22 @@
     },
     {
       "date": "2026-08-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Run + Walk"
+    },
+    {
+      "date": "2026-08-23",
+      "miles": 9.0,
+      "km": 14.48,
+      "type": "run",
+      "time": null,
+      "comment": "Run + Walk"
     }
   ],
-  "totalActivities": 94,
-  "activeDays": 94,
-  "restDays": 20
+  "totalActivities": 96,
+  "activeDays": 96,
+  "restDays": 19
 }

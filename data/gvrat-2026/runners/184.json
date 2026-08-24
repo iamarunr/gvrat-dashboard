@@ -1531,9 +1531,25 @@
       "type": "walk",
       "time": null,
       "comment": "Moving and shopping with Anna and Caleb"
+    },
+    {
+      "date": "2026-08-23",
+      "miles": 4.55,
+      "km": 7.32,
+      "type": "run",
+      "time": null,
+      "comment": "Sunday run at enterprise with all the girls . Saw a buck"
+    },
+    {
+      "date": "2026-08-23",
+      "miles": 2.15,
+      "km": 3.46,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and shopping and Jarrett\u2019s and Siskin"
     }
   ],
-  "totalActivities": 191,
-  "activeDays": 114,
+  "totalActivities": 193,
+  "activeDays": 115,
   "restDays": 0
 }

@@ -1771,9 +1771,25 @@
       "type": "walk",
       "time": null,
       "comment": "Lake loops"
+    },
+    {
+      "date": "2026-08-23",
+      "miles": 9.5,
+      "km": 15.29,
+      "type": "walk",
+      "time": null,
+      "comment": "Silver lake loop"
+    },
+    {
+      "date": "2026-08-23",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Lake loop with Will"
     }
   ],
-  "totalActivities": 220,
-  "activeDays": 113,
+  "totalActivities": 222,
+  "activeDays": 114,
   "restDays": 1
 }

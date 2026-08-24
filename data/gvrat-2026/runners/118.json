@@ -1094,14 +1094,30 @@
     },
     {
       "date": "2026-08-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 8.28,
+      "km": 13.33,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Dunoon Walkabout"
+    },
+    {
+      "date": "2026-08-23",
+      "miles": 3.44,
+      "km": 5.54,
+      "type": "walk",
+      "time": null,
+      "comment": "Iona Walkabout"
+    },
+    {
+      "date": "2026-08-23",
+      "miles": 2.94,
+      "km": 4.73,
+      "type": "walk",
+      "time": null,
+      "comment": "Oban Walkabout"
     }
   ],
-  "totalActivities": 104,
-  "activeDays": 81,
-  "restDays": 33
+  "totalActivities": 107,
+  "activeDays": 83,
+  "restDays": 32
 }

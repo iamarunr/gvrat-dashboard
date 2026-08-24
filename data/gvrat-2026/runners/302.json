@@ -923,9 +923,17 @@
       "type": "walk",
       "time": null,
       "comment": "beach walk with dog"
+    },
+    {
+      "date": "2026-08-23",
+      "miles": 10.0,
+      "km": 16.09,
+      "type": "walk",
+      "time": null,
+      "comment": "beach"
     }
   ],
-  "totalActivities": 43,
-  "activeDays": 42,
+  "totalActivities": 44,
+  "activeDays": 43,
   "restDays": 72
 }

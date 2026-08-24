@@ -1083,9 +1083,17 @@
       "type": "walk",
       "time": null,
       "comment": "three dog walks"
+    },
+    {
+      "date": "2026-08-23",
+      "miles": 1.74,
+      "km": 2.8,
+      "type": "walk",
+      "time": null,
+      "comment": "two dog walks and some pumping up water walking"
     }
   ],
-  "totalActivities": 127,
-  "activeDays": 106,
+  "totalActivities": 128,
+  "activeDays": 107,
   "restDays": 8
 }

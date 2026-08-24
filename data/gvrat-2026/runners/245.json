@@ -1110,38 +1110,54 @@
     },
     {
       "date": "2026-08-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.41,
+      "km": 7.1,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-08-19",
+      "miles": 0.85,
+      "km": 1.37,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-08-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.6,
+      "km": 9.01,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Backpacking"
     },
     {
       "date": "2026-08-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.1,
+      "km": 8.21,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Backpacking"
     },
     {
       "date": "2026-08-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 9.02,
+      "km": 14.52,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Backpacking"
+    },
+    {
+      "date": "2026-08-23",
+      "miles": 7.11,
+      "km": 11.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Backpacking"
     }
   ],
-  "totalActivities": 103,
-  "activeDays": 75,
-  "restDays": 39
+  "totalActivities": 109,
+  "activeDays": 80,
+  "restDays": 35
 }

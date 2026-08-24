@@ -923,9 +923,17 @@
       "type": "run",
       "time": null,
       "comment": "SG + SYD"
+    },
+    {
+      "date": "2026-08-23",
+      "miles": 6.68,
+      "km": 10.75,
+      "type": "run",
+      "time": null,
+      "comment": "Slow trot"
     }
   ],
-  "totalActivities": 73,
-  "activeDays": 72,
+  "totalActivities": 74,
+  "activeDays": 73,
   "restDays": 42
 }

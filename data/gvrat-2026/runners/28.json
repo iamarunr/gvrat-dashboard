@@ -939,9 +939,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-23",
+      "miles": 1.19,
+      "km": 1.92,
+      "type": "walk",
+      "time": null,
+      "comment": "A little creeped out after last run as same truck drove by 6 times. Walked with granddogs."
     }
   ],
-  "totalActivities": 68,
-  "activeDays": 65,
+  "totalActivities": 69,
+  "activeDays": 66,
   "restDays": 49
 }
