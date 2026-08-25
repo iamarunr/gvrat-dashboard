@@ -1139,9 +1139,17 @@
       "type": "walk",
       "time": null,
       "comment": "Pyramid"
+    },
+    {
+      "date": "2026-08-24",
+      "miles": 5.95,
+      "km": 9.58,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 123,
-  "activeDays": 96,
+  "totalActivities": 124,
+  "activeDays": 97,
   "restDays": 19
 }

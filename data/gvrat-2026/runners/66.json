@@ -1293,15 +1293,47 @@
       "comment": "Walking the dogs."
     },
     {
-      "date": "2026-08-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-08-22",
+      "miles": 20.28,
+      "km": 32.64,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Jackrabbit Jubilee. Day 1"
+    },
+    {
+      "date": "2026-08-23",
+      "miles": 16.26,
+      "km": 26.17,
+      "type": "run",
+      "time": null,
+      "comment": "Jackrabbit Jubilee. Day 2"
+    },
+    {
+      "date": "2026-08-24",
+      "miles": 0.87,
+      "km": 1.4,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-08-24",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-08-24",
+      "miles": 2.72,
+      "km": 4.38,
+      "type": "run",
+      "time": null,
+      "comment": "Aravaipa Monday Party Pace Group."
     }
   ],
-  "totalActivities": 152,
-  "activeDays": 105,
-  "restDays": 10
+  "totalActivities": 157,
+  "activeDays": 107,
+  "restDays": 9
 }

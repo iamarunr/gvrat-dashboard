@@ -1163,9 +1163,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-24",
+      "miles": 7.25,
+      "km": 11.67,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk with a bit of running in the hood"
+    },
+    {
+      "date": "2026-08-24",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "walk",
+      "time": null,
+      "comment": "Amble around the hood"
     }
   ],
-  "totalActivities": 130,
-  "activeDays": 100,
+  "totalActivities": 132,
+  "activeDays": 101,
   "restDays": 15
 }

@@ -1115,9 +1115,17 @@
       "type": "walk",
       "time": null,
       "comment": "Oban Walkabout"
+    },
+    {
+      "date": "2026-08-24",
+      "miles": 2.57,
+      "km": 4.14,
+      "type": "walk",
+      "time": null,
+      "comment": "Stirling  Walkabout"
     }
   ],
-  "totalActivities": 107,
-  "activeDays": 83,
+  "totalActivities": 108,
+  "activeDays": 84,
   "restDays": 32
 }

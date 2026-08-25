@@ -1019,9 +1019,17 @@
       "type": "walk",
       "time": null,
       "comment": "Centennial Trail"
+    },
+    {
+      "date": "2026-08-24",
+      "miles": 6.2,
+      "km": 9.98,
+      "type": "walk",
+      "time": null,
+      "comment": "Saltese Uplands trails"
     }
   ],
-  "totalActivities": 81,
-  "activeDays": 69,
+  "totalActivities": 82,
+  "activeDays": 70,
   "restDays": 46
 }

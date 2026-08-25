@@ -1230,38 +1230,54 @@
     },
     {
       "date": "2026-08-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.47,
+      "km": 7.19,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Friendship Heights Loop (Bradley/Connecticut/Western)"
     },
     {
       "date": "2026-08-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.03,
+      "km": 4.88,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Glenbrook Loop (East Bethesda)"
+    },
+    {
+      "date": "2026-08-21",
+      "miles": 3.18,
+      "km": 5.12,
+      "type": "run",
+      "time": null,
+      "comment": "Silver Branch Pub Run"
     },
     {
       "date": "2026-08-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 9.55,
+      "km": 15.37,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Summer Half Long Run - Needwood"
     },
     {
       "date": "2026-08-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.43,
+      "km": 5.52,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Seneca Greenway Hike w Steph"
+    },
+    {
+      "date": "2026-08-24",
+      "miles": 6.35,
+      "km": 10.22,
+      "type": "run",
+      "time": null,
+      "comment": "Summer Half Monday Morning Run > CCT to the Tunnel!"
     }
   ],
-  "totalActivities": 128,
-  "activeDays": 86,
-  "restDays": 29
+  "totalActivities": 134,
+  "activeDays": 91,
+  "restDays": 25
 }

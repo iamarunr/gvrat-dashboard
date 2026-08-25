@@ -931,9 +931,17 @@
       "type": "run",
       "time": null,
       "comment": "Slow trot"
+    },
+    {
+      "date": "2026-08-24",
+      "miles": 5.67,
+      "km": 9.12,
+      "type": "run",
+      "time": null,
+      "comment": "Poodle to start"
     }
   ],
-  "totalActivities": 74,
-  "activeDays": 73,
+  "totalActivities": 75,
+  "activeDays": 74,
   "restDays": 42
 }

@@ -934,54 +934,62 @@
     },
     {
       "date": "2026-08-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.97,
+      "km": 8.0,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Marche rapide."
     },
     {
       "date": "2026-08-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.86,
+      "km": 2.99,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Marche."
     },
     {
       "date": "2026-08-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.97,
+      "km": 8.0,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Marche rapide."
     },
     {
       "date": "2026-08-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.86,
+      "km": 2.99,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Marche."
     },
     {
       "date": "2026-08-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.86,
+      "km": 2.99,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Marche."
     },
     {
       "date": "2026-08-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.58,
+      "km": 12.2,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Petite boucle.Genoux encore douloureux.J'en avais marre de marcher et j'ai forc\u00e9."
+    },
+    {
+      "date": "2026-08-24",
+      "miles": 1.86,
+      "km": 2.99,
+      "type": "walk",
+      "time": null,
+      "comment": "Marche."
     }
   ],
-  "totalActivities": 81,
-  "activeDays": 74,
-  "restDays": 41
+  "totalActivities": 88,
+  "activeDays": 81,
+  "restDays": 35
 }
