@@ -1331,9 +1331,17 @@
       "type": "run",
       "time": null,
       "comment": "Aravaipa Monday Party Pace Group."
+    },
+    {
+      "date": "2026-08-25",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 157,
   "activeDays": 107,
-  "restDays": 9
+  "restDays": 10
 }

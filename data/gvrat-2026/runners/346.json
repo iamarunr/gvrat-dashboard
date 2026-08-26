@@ -1382,22 +1382,46 @@
     },
     {
       "date": "2026-08-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 9.05,
+      "km": 14.56,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "1535' ascent.  9K, Bloods Lake, Bonanza Flats (BLT) w/ Laura"
+    },
+    {
+      "date": "2026-08-23",
+      "miles": 2.11,
+      "km": 3.4,
+      "type": "walk",
+      "time": null,
+      "comment": "384' ascent.  Shundahai"
     },
     {
       "date": "2026-08-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 23.56,
+      "km": 37.92,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "4081' ascent.  Peter Sinks, Richardson & Hodges"
+    },
+    {
+      "date": "2026-08-25",
+      "miles": 24.01,
+      "km": 38.64,
+      "type": "run",
+      "time": null,
+      "comment": "2598' ascent.  Sinks Rd"
+    },
+    {
+      "date": "2026-08-25",
+      "miles": 3.12,
+      "km": 5.02,
+      "type": "walk",
+      "time": null,
+      "comment": "440' ascent.  Shundahai w/ Rick"
     }
   ],
-  "totalActivities": 172,
-  "activeDays": 114,
-  "restDays": 2
+  "totalActivities": 177,
+  "activeDays": 117,
+  "restDays": 0
 }

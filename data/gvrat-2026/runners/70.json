@@ -1795,9 +1795,33 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-25",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
+      "time": null,
+      "comment": "Morning"
+    },
+    {
+      "date": "2026-08-25",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Lunchtime"
+    },
+    {
+      "date": "2026-08-25",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening U District"
     }
   ],
-  "totalActivities": 222,
-  "activeDays": 114,
+  "totalActivities": 225,
+  "activeDays": 115,
   "restDays": 2
 }

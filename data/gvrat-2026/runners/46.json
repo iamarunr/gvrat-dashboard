@@ -2022,14 +2022,38 @@
     },
     {
       "date": "2026-08-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.01,
+      "km": 6.45,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4096 Tyler State Park TX trail sMiles"
+    },
+    {
+      "date": "2026-08-24",
+      "miles": 3.93,
+      "km": 6.32,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-08-25",
+      "miles": 3.03,
+      "km": 4.88,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4097 Rd Run"
+    },
+    {
+      "date": "2026-08-25",
+      "miles": 3.98,
+      "km": 6.41,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 252,
-  "activeDays": 115,
-  "restDays": 1
+  "totalActivities": 256,
+  "activeDays": 117,
+  "restDays": 0
 }

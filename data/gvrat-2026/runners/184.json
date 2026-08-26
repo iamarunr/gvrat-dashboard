@@ -1563,9 +1563,17 @@
       "type": "walk",
       "time": null,
       "comment": "Morning walk and rest of day"
+    },
+    {
+      "date": "2026-08-25",
+      "miles": 3.8,
+      "km": 6.12,
+      "type": "walk",
+      "time": null,
+      "comment": "AM walk and PM walk late"
     }
   ],
-  "totalActivities": 195,
-  "activeDays": 116,
+  "totalActivities": 196,
+  "activeDays": 117,
   "restDays": 0
 }

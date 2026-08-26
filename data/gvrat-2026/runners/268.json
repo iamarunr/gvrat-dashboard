@@ -1054,6 +1054,14 @@
     },
     {
       "date": "2026-08-24",
+      "miles": 2.75,
+      "km": 4.43,
+      "type": "walk",
+      "time": null,
+      "comment": "morning walk, Malley Rec Center"
+    },
+    {
+      "date": "2026-08-25",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -1061,7 +1069,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 128,
-  "activeDays": 112,
+  "totalActivities": 129,
+  "activeDays": 113,
   "restDays": 4
 }

@@ -1179,9 +1179,25 @@
       "type": "walk",
       "time": null,
       "comment": "Amble around the hood"
+    },
+    {
+      "date": "2026-08-25",
+      "miles": 4.25,
+      "km": 6.84,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-08-25",
+      "miles": 1.8,
+      "km": 2.9,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 132,
-  "activeDays": 101,
+  "totalActivities": 134,
+  "activeDays": 102,
   "restDays": 15
 }

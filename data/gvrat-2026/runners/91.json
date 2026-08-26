@@ -1395,9 +1395,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-25",
+      "miles": 7.11,
+      "km": 11.44,
+      "type": "walk",
+      "time": null,
+      "comment": "25 minute stop as a bicyclist was involved with a hit and run.  Waited for sheriff and EMS."
+    },
+    {
+      "date": "2026-08-25",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 168,
-  "activeDays": 110,
+  "totalActivities": 170,
+  "activeDays": 111,
   "restDays": 6
 }

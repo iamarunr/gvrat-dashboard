@@ -1123,9 +1123,33 @@
       "type": "walk",
       "time": null,
       "comment": "Stirling  Walkabout"
+    },
+    {
+      "date": "2026-08-25",
+      "miles": 3.79,
+      "km": 6.1,
+      "type": "walk",
+      "time": null,
+      "comment": "Dunoon Walkabout"
+    },
+    {
+      "date": "2026-08-25",
+      "miles": 1.96,
+      "km": 3.15,
+      "type": "walk",
+      "time": null,
+      "comment": "Edinburgh Walkabout"
+    },
+    {
+      "date": "2026-08-25",
+      "miles": 2.41,
+      "km": 3.88,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk to Hunters Quay Ferry"
     }
   ],
-  "totalActivities": 108,
-  "activeDays": 84,
+  "totalActivities": 111,
+  "activeDays": 85,
   "restDays": 32
 }

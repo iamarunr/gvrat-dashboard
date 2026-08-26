@@ -1147,9 +1147,17 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-25",
+      "miles": 3.04,
+      "km": 4.89,
+      "type": "walk",
+      "time": null,
+      "comment": "Helipad"
     }
   ],
-  "totalActivities": 124,
-  "activeDays": 97,
+  "totalActivities": 125,
+  "activeDays": 98,
   "restDays": 19
 }

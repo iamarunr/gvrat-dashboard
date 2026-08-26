@@ -1131,9 +1131,17 @@
       "type": "walk",
       "time": null,
       "comment": "bledsoe"
+    },
+    {
+      "date": "2026-08-25",
+      "miles": 6.72,
+      "km": 10.81,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 94,
-  "activeDays": 69,
+  "totalActivities": 95,
+  "activeDays": 70,
   "restDays": 47
 }

@@ -1643,9 +1643,25 @@
       "type": "walk",
       "time": null,
       "comment": "TM"
+    },
+    {
+      "date": "2026-08-25",
+      "miles": 3.75,
+      "km": 6.04,
+      "type": "run",
+      "time": null,
+      "comment": "Miners with CA and KR."
+    },
+    {
+      "date": "2026-08-25",
+      "miles": 2.27,
+      "km": 3.65,
+      "type": "walk",
+      "time": null,
+      "comment": "Yep"
     }
   ],
-  "totalActivities": 181,
-  "activeDays": 92,
+  "totalActivities": 183,
+  "activeDays": 93,
   "restDays": 24
 }

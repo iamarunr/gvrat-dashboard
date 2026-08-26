@@ -1155,9 +1155,17 @@
       "type": "walk",
       "time": null,
       "comment": "So tired"
+    },
+    {
+      "date": "2026-08-25",
+      "miles": 3.4,
+      "km": 5.47,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 130,
-  "activeDays": 102,
+  "totalActivities": 131,
+  "activeDays": 103,
   "restDays": 14
 }
