@@ -947,9 +947,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-26",
+      "miles": 12.12,
+      "km": 19.51,
+      "type": "run",
+      "time": null,
+      "comment": "Bris x2"
     }
   ],
-  "totalActivities": 75,
-  "activeDays": 74,
+  "totalActivities": 76,
+  "activeDays": 75,
   "restDays": 43
 }

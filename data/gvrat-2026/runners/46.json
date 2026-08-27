@@ -2051,9 +2051,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-26",
+      "miles": 4.06,
+      "km": 6.53,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4098 1 dirt mile .. 3 road"
+    },
+    {
+      "date": "2026-08-26",
+      "miles": 4.19,
+      "km": 6.74,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 256,
-  "activeDays": 117,
+  "totalActivities": 258,
+  "activeDays": 118,
   "restDays": 0
 }

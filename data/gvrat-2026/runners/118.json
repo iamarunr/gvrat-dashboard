@@ -1147,9 +1147,25 @@
       "type": "walk",
       "time": null,
       "comment": "Walk to Hunters Quay Ferry"
+    },
+    {
+      "date": "2026-08-26",
+      "miles": 5.62,
+      "km": 9.04,
+      "type": "walk",
+      "time": null,
+      "comment": "Edinburgh Walkabout"
+    },
+    {
+      "date": "2026-08-26",
+      "miles": 5.94,
+      "km": 9.56,
+      "type": "walk",
+      "time": null,
+      "comment": "Edinburgh Castle, Royal Mile & King Arthur\u2019s Seat"
     }
   ],
-  "totalActivities": 111,
-  "activeDays": 85,
+  "totalActivities": 113,
+  "activeDays": 86,
   "restDays": 32
 }

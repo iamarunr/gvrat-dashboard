@@ -947,9 +947,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-26",
+      "miles": 10.0,
+      "km": 16.09,
+      "type": "walk",
+      "time": null,
+      "comment": "hike beach"
     }
   ],
-  "totalActivities": 44,
-  "activeDays": 43,
+  "totalActivities": 45,
+  "activeDays": 44,
   "restDays": 74
 }

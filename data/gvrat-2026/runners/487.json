@@ -1566,14 +1566,22 @@
     },
     {
       "date": "2026-08-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.03,
+      "km": 9.7,
+      "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-26",
+      "miles": 3.01,
+      "km": 4.84,
+      "type": "run",
+      "time": null,
+      "comment": "Hill work"
     }
   ],
-  "totalActivities": 191,
-  "activeDays": 112,
-  "restDays": 5
+  "totalActivities": 193,
+  "activeDays": 114,
+  "restDays": 4
 }

@@ -982,14 +982,22 @@
     },
     {
       "date": "2026-08-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "B-Line Trail with Tazzie."
+    },
+    {
+      "date": "2026-08-26",
+      "miles": 6.14,
+      "km": 9.88,
+      "type": "run",
+      "time": null,
+      "comment": "Switchyard Park to Church Lane."
     }
   ],
-  "totalActivities": 119,
-  "activeDays": 113,
-  "restDays": 4
+  "totalActivities": 121,
+  "activeDays": 115,
+  "restDays": 3
 }
