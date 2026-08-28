@@ -1334,22 +1334,38 @@
     },
     {
       "date": "2026-08-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.01,
+      "km": 1.63,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking the dogs."
     },
     {
       "date": "2026-08-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.98,
+      "km": 1.58,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-08-26",
+      "miles": 3.47,
+      "km": 5.58,
+      "type": "run",
+      "time": null,
+      "comment": "Aravaipa Wednesday Super Fun Group."
+    },
+    {
+      "date": "2026-08-27",
+      "miles": 0.92,
+      "km": 1.48,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs."
     }
   ],
-  "totalActivities": 157,
-  "activeDays": 107,
-  "restDays": 11
+  "totalActivities": 161,
+  "activeDays": 110,
+  "restDays": 9
 }

@@ -1579,9 +1579,17 @@
       "type": "run",
       "time": null,
       "comment": "Hill work"
+    },
+    {
+      "date": "2026-08-27",
+      "miles": 6.01,
+      "km": 9.67,
+      "type": "run",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 193,
-  "activeDays": 114,
+  "totalActivities": 194,
+  "activeDays": 115,
   "restDays": 4
 }

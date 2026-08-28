@@ -1422,14 +1422,22 @@
     },
     {
       "date": "2026-08-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 28.48,
+      "km": 45.83,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "4826' ascent.  Temple, Cottonwood, Cowley; return on The Bear 100 course"
+    },
+    {
+      "date": "2026-08-27",
+      "miles": 24.0,
+      "km": 38.62,
+      "type": "run",
+      "time": null,
+      "comment": "1932' ascent.  Franklin Basin Rd"
     }
   ],
-  "totalActivities": 177,
-  "activeDays": 117,
-  "restDays": 1
+  "totalActivities": 179,
+  "activeDays": 119,
+  "restDays": 0
 }

@@ -1667,9 +1667,25 @@
       "type": "walk",
       "time": null,
       "comment": "1"
+    },
+    {
+      "date": "2026-08-27",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "walk",
+      "time": null,
+      "comment": "Hottt"
+    },
+    {
+      "date": "2026-08-27",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "2"
     }
   ],
-  "totalActivities": 184,
-  "activeDays": 94,
+  "totalActivities": 186,
+  "activeDays": 95,
   "restDays": 24
 }

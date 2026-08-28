@@ -1027,9 +1027,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk with Tiffany and the dogs."
+    },
+    {
+      "date": "2026-08-27",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 74,
   "activeDays": 64,
-  "restDays": 54
+  "restDays": 55
 }

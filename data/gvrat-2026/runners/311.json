@@ -1171,9 +1171,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-27",
+      "miles": 1.7,
+      "km": 2.74,
+      "type": "walk",
+      "time": null,
+      "comment": "Slow recovery"
     }
   ],
-  "totalActivities": 131,
-  "activeDays": 103,
+  "totalActivities": 132,
+  "activeDays": 104,
   "restDays": 15
 }

@@ -1278,22 +1278,30 @@
     },
     {
       "date": "2026-08-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.5,
+      "km": 7.24,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Office-Friendship Heights Loop"
     },
     {
       "date": "2026-08-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.21,
+      "km": 1.95,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Bethesda Call Your Mother Loop"
+    },
+    {
+      "date": "2026-08-27",
+      "miles": 1.32,
+      "km": 2.12,
+      "type": "walk",
+      "time": null,
+      "comment": "Bethesda Bagel Loops"
     }
   ],
-  "totalActivities": 134,
-  "activeDays": 91,
-  "restDays": 27
+  "totalActivities": 137,
+  "activeDays": 94,
+  "restDays": 25
 }

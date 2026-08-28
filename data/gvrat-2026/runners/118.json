@@ -1163,9 +1163,17 @@
       "type": "walk",
       "time": null,
       "comment": "Edinburgh Castle, Royal Mile & King Arthur\u2019s Seat"
+    },
+    {
+      "date": "2026-08-27",
+      "miles": 4.95,
+      "km": 7.97,
+      "type": "walk",
+      "time": null,
+      "comment": "Dunoon Walkabout"
     }
   ],
-  "totalActivities": 113,
-  "activeDays": 86,
+  "totalActivities": 114,
+  "activeDays": 87,
   "restDays": 32
 }

@@ -955,9 +955,17 @@
       "type": "run",
       "time": null,
       "comment": "tmill combo\u2026..very slow coming home\u2026.."
+    },
+    {
+      "date": "2026-08-27",
+      "miles": 3.03,
+      "km": 4.88,
+      "type": "run",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 119,
-  "activeDays": 118,
+  "totalActivities": 120,
+  "activeDays": 119,
   "restDays": 0
 }

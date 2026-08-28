@@ -1587,9 +1587,17 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and rehab center"
+    },
+    {
+      "date": "2026-08-27",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning and evening walks"
     }
   ],
-  "totalActivities": 198,
-  "activeDays": 118,
+  "totalActivities": 199,
+  "activeDays": 119,
   "restDays": 0
 }

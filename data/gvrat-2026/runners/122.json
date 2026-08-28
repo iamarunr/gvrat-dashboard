@@ -950,14 +950,22 @@
     },
     {
       "date": "2026-08-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Early Morning LU campus walk"
     },
     {
       "date": "2026-08-26",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning LU campus walk"
+    },
+    {
+      "date": "2026-08-27",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -965,7 +973,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 100,
-  "activeDays": 98,
-  "restDays": 20
+  "totalActivities": 102,
+  "activeDays": 100,
+  "restDays": 19
 }
