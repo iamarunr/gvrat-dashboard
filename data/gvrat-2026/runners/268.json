@@ -1062,30 +1062,38 @@
     },
     {
       "date": "2026-08-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.5,
+      "km": 5.63,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning walk and Bear Creek Lake Park Double Bike circuit"
     },
     {
       "date": "2026-08-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.48,
+      "km": 8.82,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Active Day!\r\n1.73m morning walk 1.25m Fit Club, 1.5m treadmill, 1.0m Englewood Rec Center Spin"
     },
     {
       "date": "2026-08-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.86,
+      "km": 4.6,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "morning walk, Barre, Chatfield"
+    },
+    {
+      "date": "2026-08-28",
+      "miles": 3.13,
+      "km": 5.04,
+      "type": "run",
+      "time": null,
+      "comment": "Morning run!"
     }
   ],
-  "totalActivities": 129,
-  "activeDays": 113,
-  "restDays": 6
+  "totalActivities": 133,
+  "activeDays": 117,
+  "restDays": 3
 }

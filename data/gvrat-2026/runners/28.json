@@ -966,22 +966,30 @@
     },
     {
       "date": "2026-08-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.27,
+      "km": 2.04,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walk with dogs through the woods."
     },
     {
       "date": "2026-08-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.76,
+      "km": 1.22,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walk with dogs through woods."
+    },
+    {
+      "date": "2026-08-28",
+      "miles": 1.53,
+      "km": 2.46,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk with dogs through woods."
     }
   ],
-  "totalActivities": 70,
-  "activeDays": 67,
-  "restDays": 52
+  "totalActivities": 73,
+  "activeDays": 70,
+  "restDays": 50
 }

@@ -1595,9 +1595,25 @@
       "type": "walk",
       "time": null,
       "comment": "Morning and evening walks"
+    },
+    {
+      "date": "2026-08-28",
+      "miles": 3.41,
+      "km": 5.49,
+      "type": "run",
+      "time": null,
+      "comment": "Collegedale run - 30/30 and 6 x 1 min sprints"
+    },
+    {
+      "date": "2026-08-28",
+      "miles": 1.89,
+      "km": 3.04,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and rehab center"
     }
   ],
-  "totalActivities": 199,
-  "activeDays": 119,
+  "totalActivities": 201,
+  "activeDays": 120,
   "restDays": 0
 }

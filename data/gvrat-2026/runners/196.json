@@ -1683,9 +1683,17 @@
       "type": "walk",
       "time": null,
       "comment": "2"
+    },
+    {
+      "date": "2026-08-28",
+      "miles": 4.02,
+      "km": 6.47,
+      "type": "run",
+      "time": null,
+      "comment": "Hood run with CA"
     }
   ],
-  "totalActivities": 186,
-  "activeDays": 95,
+  "totalActivities": 187,
+  "activeDays": 96,
   "restDays": 24
 }

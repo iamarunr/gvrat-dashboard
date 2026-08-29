@@ -1107,9 +1107,17 @@
       "type": "walk",
       "time": null,
       "comment": "more lawn shenanigans"
+    },
+    {
+      "date": "2026-08-28",
+      "miles": 7.2,
+      "km": 11.59,
+      "type": "run",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 91,
-  "activeDays": 72,
+  "totalActivities": 92,
+  "activeDays": 73,
   "restDays": 47
 }

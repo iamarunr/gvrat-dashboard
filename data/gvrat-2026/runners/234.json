@@ -1419,9 +1419,17 @@
       "type": "run",
       "time": null,
       "comment": "Bear Lake Scenic Trail"
+    },
+    {
+      "date": "2026-08-28",
+      "miles": 2.74,
+      "km": 4.41,
+      "type": "run",
+      "time": null,
+      "comment": "Playa Ostinal Interval Run"
     }
   ],
-  "totalActivities": 174,
-  "activeDays": 116,
+  "totalActivities": 175,
+  "activeDays": 117,
   "restDays": 3
 }
