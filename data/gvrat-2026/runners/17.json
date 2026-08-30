@@ -1165,15 +1165,31 @@
       "comment": ""
     },
     {
+      "date": "2026-08-27",
+      "miles": 4.03,
+      "km": 6.49,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
       "date": "2026-08-28",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-29",
+      "miles": 13.15,
+      "km": 21.16,
+      "type": "run",
+      "time": null,
+      "comment": "Smokey Mountain Half"
     }
   ],
-  "totalActivities": 98,
-  "activeDays": 72,
+  "totalActivities": 100,
+  "activeDays": 73,
   "restDays": 48
 }

@@ -1173,15 +1173,39 @@
       "comment": "Pikes Peak Ascent"
     },
     {
-      "date": "2026-08-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-08-27",
+      "miles": 0.21,
+      "km": 0.34,
+      "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-28",
+      "miles": 2.87,
+      "km": 4.62,
+      "type": "walk",
+      "time": null,
+      "comment": "Zoo walk"
+    },
+    {
+      "date": "2026-08-28",
+      "miles": 2.68,
+      "km": 4.31,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk around Manitou Springs"
+    },
+    {
+      "date": "2026-08-29",
+      "miles": 3.17,
+      "km": 5.1,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk in Cascade"
     }
   ],
-  "totalActivities": 126,
-  "activeDays": 99,
-  "restDays": 21
+  "totalActivities": 130,
+  "activeDays": 101,
+  "restDays": 20
 }

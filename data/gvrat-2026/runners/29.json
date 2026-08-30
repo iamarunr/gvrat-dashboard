@@ -1147,9 +1147,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-29",
+      "miles": 13.1,
+      "km": 21.08,
+      "type": "run",
+      "time": null,
+      "comment": "Thirsty 13 Half Marathon"
     }
   ],
-  "totalActivities": 105,
-  "activeDays": 82,
+  "totalActivities": 106,
+  "activeDays": 83,
   "restDays": 38
 }

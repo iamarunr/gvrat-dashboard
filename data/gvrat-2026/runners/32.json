@@ -1118,30 +1118,46 @@
     },
     {
       "date": "2026-08-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.5,
+      "km": 12.07,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Recovery run"
     },
     {
       "date": "2026-08-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.79,
+      "km": 2.88,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking warm up then a 1 mile walking test."
+    },
+    {
+      "date": "2026-08-27",
+      "miles": 5.3,
+      "km": 8.53,
+      "type": "run",
+      "time": null,
+      "comment": "Warmup, then 3 x 800m, 5 x 100m strides, cool down."
     },
     {
       "date": "2026-08-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.79,
+      "km": 9.32,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Easy run"
+    },
+    {
+      "date": "2026-08-29",
+      "miles": 13.51,
+      "km": 21.74,
+      "type": "run",
+      "time": null,
+      "comment": "Slow a$$ run"
     }
   ],
-  "totalActivities": 114,
-  "activeDays": 92,
-  "restDays": 28
+  "totalActivities": 119,
+  "activeDays": 96,
+  "restDays": 25
 }

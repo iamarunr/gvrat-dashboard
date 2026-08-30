@@ -1438,14 +1438,22 @@
     },
     {
       "date": "2026-08-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 21.55,
+      "km": 34.68,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "4908' ascent.  Tong Grove & White Pine Lakes from Blind Hollow"
+    },
+    {
+      "date": "2026-08-29",
+      "miles": 20.01,
+      "km": 32.2,
+      "type": "run",
+      "time": null,
+      "comment": "2159' ascent.  Sinks Rd in the rain"
     }
   ],
-  "totalActivities": 179,
-  "activeDays": 119,
-  "restDays": 1
+  "totalActivities": 181,
+  "activeDays": 121,
+  "restDays": 0
 }

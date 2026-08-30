@@ -1691,9 +1691,33 @@
       "type": "run",
       "time": null,
       "comment": "Hood run with CA"
+    },
+    {
+      "date": "2026-08-28",
+      "miles": 0.24,
+      "km": 0.39,
+      "type": "walk",
+      "time": null,
+      "comment": "Warm up"
+    },
+    {
+      "date": "2026-08-28",
+      "miles": 1.58,
+      "km": 2.54,
+      "type": "walk",
+      "time": null,
+      "comment": "TM to end"
+    },
+    {
+      "date": "2026-08-29",
+      "miles": 13.1,
+      "km": 21.08,
+      "type": "walk",
+      "time": null,
+      "comment": "I just kept walking \u2026 a half marathon around the lake."
     }
   ],
-  "totalActivities": 187,
-  "activeDays": 96,
+  "totalActivities": 190,
+  "activeDays": 97,
   "restDays": 24
 }

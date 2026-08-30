@@ -1459,9 +1459,33 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-29",
+      "miles": 7.11,
+      "km": 11.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Labeled as Run on Garmin, but it was too hot."
+    },
+    {
+      "date": "2026-08-29",
+      "miles": 2.05,
+      "km": 3.3,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-08-29",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 176,
-  "activeDays": 114,
+  "totalActivities": 179,
+  "activeDays": 115,
   "restDays": 6
 }

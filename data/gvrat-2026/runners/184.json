@@ -1611,9 +1611,25 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and rehab center"
+    },
+    {
+      "date": "2026-08-29",
+      "miles": 0.92,
+      "km": 1.48,
+      "type": "walk",
+      "time": null,
+      "comment": "Saturday morning AM walk"
+    },
+    {
+      "date": "2026-08-29",
+      "miles": 3.08,
+      "km": 4.96,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening walk and rest of day at River"
     }
   ],
-  "totalActivities": 201,
-  "activeDays": 120,
+  "totalActivities": 203,
+  "activeDays": 121,
   "restDays": 0
 }

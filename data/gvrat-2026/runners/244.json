@@ -1222,19 +1222,27 @@
     },
     {
       "date": "2026-08-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.25,
+      "km": 8.45,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Piestewa > Freedom Trail"
     },
     {
       "date": "2026-08-22",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning Remi Ealk"
+    },
+    {
+      "date": "2026-08-22",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Desert Hills short loop w/B"
     },
     {
       "date": "2026-08-23",
@@ -1246,19 +1254,27 @@
     },
     {
       "date": "2026-08-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.75,
+      "km": 4.43,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning Remi walk"
+    },
+    {
+      "date": "2026-08-24",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Desert Hills short loop w/B"
     },
     {
       "date": "2026-08-25",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning Remi walk"
     },
     {
       "date": "2026-08-26",
@@ -1270,22 +1286,38 @@
     },
     {
       "date": "2026-08-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 13.25,
+      "km": 21.32,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Barr Trail to Barr Camp and return"
     },
     {
       "date": "2026-08-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.79,
+      "km": 4.49,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Cheyenne Zoo"
+    },
+    {
+      "date": "2026-08-28",
+      "miles": 2.71,
+      "km": 4.36,
+      "type": "walk",
+      "time": null,
+      "comment": "Manitou Springs walk about"
+    },
+    {
+      "date": "2026-08-29",
+      "miles": 3.24,
+      "km": 5.21,
+      "type": "walk",
+      "time": null,
+      "comment": "Chipita Place Morning Walk"
     }
   ],
-  "totalActivities": 133,
-  "activeDays": 93,
-  "restDays": 27
+  "totalActivities": 143,
+  "activeDays": 100,
+  "restDays": 21
 }
