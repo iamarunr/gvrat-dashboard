@@ -1302,22 +1302,38 @@
     },
     {
       "date": "2026-08-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.45,
+      "km": 3.94,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "King Farm Gaither Loop"
+    },
+    {
+      "date": "2026-08-28",
+      "miles": 3.18,
+      "km": 5.12,
+      "type": "run",
+      "time": null,
+      "comment": "Silver Branch Pub Run"
     },
     {
       "date": "2026-08-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 11.01,
+      "km": 17.72,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Summer Half Long Run - Candy Cane City North"
+    },
+    {
+      "date": "2026-08-30",
+      "miles": 3.32,
+      "km": 5.34,
+      "type": "run",
+      "time": null,
+      "comment": "Needwood Run with Puja"
     }
   ],
-  "totalActivities": 137,
-  "activeDays": 94,
-  "restDays": 27
+  "totalActivities": 141,
+  "activeDays": 97,
+  "restDays": 25
 }

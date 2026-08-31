@@ -1483,9 +1483,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-30",
+      "miles": 11.02,
+      "km": 17.73,
+      "type": "walk",
+      "time": null,
+      "comment": "Avg 15:48 per mile with 8 highway crossings and multiple pics stops to finish GRVATS 2026."
+    },
+    {
+      "date": "2026-08-30",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "Just in case."
     }
   ],
-  "totalActivities": 179,
-  "activeDays": 115,
+  "totalActivities": 181,
+  "activeDays": 116,
   "restDays": 6
 }

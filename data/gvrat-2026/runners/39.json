@@ -1139,9 +1139,17 @@
       "type": "walk",
       "time": null,
       "comment": "two dog walks and part of parkrun"
+    },
+    {
+      "date": "2026-08-30",
+      "miles": 1.43,
+      "km": 2.3,
+      "type": "walk",
+      "time": null,
+      "comment": "two dog walks and some pumping up walking"
     }
   ],
-  "totalActivities": 134,
-  "activeDays": 113,
+  "totalActivities": 135,
+  "activeDays": 114,
   "restDays": 8
 }

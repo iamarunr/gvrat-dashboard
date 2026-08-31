@@ -1203,9 +1203,17 @@
       "type": "walk",
       "time": null,
       "comment": "Dunoon Walkabout"
+    },
+    {
+      "date": "2026-08-30",
+      "miles": 9.12,
+      "km": 14.68,
+      "type": "walk",
+      "time": null,
+      "comment": "Dunoon Walkabout"
     }
   ],
-  "totalActivities": 118,
-  "activeDays": 89,
+  "totalActivities": 119,
+  "activeDays": 90,
   "restDays": 32
 }

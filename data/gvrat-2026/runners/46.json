@@ -2102,14 +2102,38 @@
     },
     {
       "date": "2026-08-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.03,
+      "km": 6.49,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4101 FPL dirt loop Run"
+    },
+    {
+      "date": "2026-08-29",
+      "miles": 3.51,
+      "km": 5.65,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-08-30",
+      "miles": 10.02,
+      "km": 16.13,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4102 Rd Run.. needed to to get to 100 running sMiles this month"
+    },
+    {
+      "date": "2026-08-30",
+      "miles": 2.16,
+      "km": 3.48,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 262,
-  "activeDays": 120,
-  "restDays": 1
+  "totalActivities": 266,
+  "activeDays": 122,
+  "restDays": 0
 }

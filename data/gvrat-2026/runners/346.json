@@ -1451,9 +1451,25 @@
       "type": "run",
       "time": null,
       "comment": "2159' ascent.  Sinks Rd in the rain"
+    },
+    {
+      "date": "2026-08-29",
+      "miles": 2.11,
+      "km": 3.4,
+      "type": "walk",
+      "time": null,
+      "comment": "381' ascent.  Shundahai"
+    },
+    {
+      "date": "2026-08-30",
+      "miles": 20.01,
+      "km": 32.2,
+      "type": "run",
+      "time": null,
+      "comment": "3035' ascent.  Temple Fork Rd"
     }
   ],
-  "totalActivities": 181,
-  "activeDays": 121,
+  "totalActivities": 183,
+  "activeDays": 122,
   "restDays": 0
 }

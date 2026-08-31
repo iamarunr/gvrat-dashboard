@@ -1019,9 +1019,17 @@
       "type": "run",
       "time": null,
       "comment": "B-Line trail to Limestone Trail."
+    },
+    {
+      "date": "2026-08-30",
+      "miles": 9.02,
+      "km": 14.52,
+      "type": "run",
+      "time": null,
+      "comment": "Church Lane to Clear Creek to B-Line Trail."
     }
   ],
-  "totalActivities": 122,
-  "activeDays": 116,
+  "totalActivities": 123,
+  "activeDays": 117,
   "restDays": 5
 }

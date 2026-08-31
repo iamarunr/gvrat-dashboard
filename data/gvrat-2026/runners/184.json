@@ -1627,9 +1627,25 @@
       "type": "walk",
       "time": null,
       "comment": "Evening walk and rest of day at River"
+    },
+    {
+      "date": "2026-08-30",
+      "miles": 7.05,
+      "km": 11.35,
+      "type": "run",
+      "time": null,
+      "comment": "Sunday morning long run"
+    },
+    {
+      "date": "2026-08-30",
+      "miles": 1.95,
+      "km": 3.14,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and rehab and Jam\u2019s house"
     }
   ],
-  "totalActivities": 203,
-  "activeDays": 121,
+  "totalActivities": 205,
+  "activeDays": 122,
   "restDays": 0
 }

@@ -1203,9 +1203,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk in Cascade"
+    },
+    {
+      "date": "2026-08-30",
+      "miles": 5.02,
+      "km": 8.08,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk"
     }
   ],
-  "totalActivities": 130,
-  "activeDays": 101,
+  "totalActivities": 131,
+  "activeDays": 102,
   "restDays": 20
 }

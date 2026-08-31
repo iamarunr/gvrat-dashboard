@@ -1715,9 +1715,17 @@
       "type": "walk",
       "time": null,
       "comment": "I just kept walking \u2026 a half marathon around the lake."
+    },
+    {
+      "date": "2026-08-30",
+      "miles": 3.57,
+      "km": 5.75,
+      "type": "walk",
+      "time": null,
+      "comment": "Easy recovery day"
     }
   ],
-  "totalActivities": 190,
-  "activeDays": 97,
+  "totalActivities": 191,
+  "activeDays": 98,
   "restDays": 24
 }
