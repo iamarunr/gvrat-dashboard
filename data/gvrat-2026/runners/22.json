@@ -1027,9 +1027,17 @@
       "type": "run",
       "time": null,
       "comment": "Church Lane to Clear Creek to B-Line Trail."
+    },
+    {
+      "date": "2026-08-31",
+      "miles": 5.09,
+      "km": 8.19,
+      "type": "run",
+      "time": null,
+      "comment": "Switchyard Park to B-Line Trail."
     }
   ],
-  "totalActivities": 123,
-  "activeDays": 117,
+  "totalActivities": 124,
+  "activeDays": 118,
   "restDays": 5
 }

@@ -1219,9 +1219,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk downtown Boulder"
+    },
+    {
+      "date": "2026-08-31",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
     }
   ],
-  "totalActivities": 109,
-  "activeDays": 79,
+  "totalActivities": 110,
+  "activeDays": 80,
   "restDays": 43
 }

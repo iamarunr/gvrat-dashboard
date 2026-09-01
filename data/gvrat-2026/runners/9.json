@@ -987,9 +987,17 @@
       "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-31",
+      "miles": 5.15,
+      "km": 8.29,
+      "type": "run",
+      "time": null,
+      "comment": "outdoor combo\u2026."
     }
   ],
-  "totalActivities": 123,
-  "activeDays": 122,
+  "totalActivities": 124,
+  "activeDays": 123,
   "restDays": 0
 }

@@ -1323,9 +1323,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-08-31",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning Remi walk"
+    },
+    {
+      "date": "2026-08-31",
+      "miles": 2.15,
+      "km": 3.46,
+      "type": "walk",
+      "time": null,
+      "comment": "Desert Hills short loop w/B"
     }
   ],
-  "totalActivities": 143,
-  "activeDays": 100,
+  "totalActivities": 145,
+  "activeDays": 101,
   "restDays": 22
 }

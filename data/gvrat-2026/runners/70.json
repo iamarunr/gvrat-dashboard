@@ -1878,22 +1878,54 @@
     },
     {
       "date": "2026-08-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.5,
+      "km": 8.85,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Morning"
+    },
+    {
+      "date": "2026-08-29",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "walk",
+      "time": null,
+      "comment": "Colbert while dogs were at the spa"
     },
     {
       "date": "2026-08-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 12.5,
+      "km": 20.12,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Long walk with Helen. Big Palisades loop"
+    },
+    {
+      "date": "2026-08-31",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
+      "time": null,
+      "comment": "Morning"
+    },
+    {
+      "date": "2026-08-31",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "walk",
+      "time": null,
+      "comment": "Lunchtime"
+    },
+    {
+      "date": "2026-08-31",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "run",
+      "time": null,
+      "comment": "After work"
     }
   ],
-  "totalActivities": 232,
-  "activeDays": 118,
-  "restDays": 4
+  "totalActivities": 238,
+  "activeDays": 121,
+  "restDays": 2
 }
