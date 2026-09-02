@@ -1923,9 +1923,33 @@
       "type": "run",
       "time": null,
       "comment": "After work"
+    },
+    {
+      "date": "2026-09-01",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-01",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Dogs"
+    },
+    {
+      "date": "2026-09-01",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "walk",
+      "time": null,
+      "comment": "Lunchtime"
     }
   ],
-  "totalActivities": 238,
-  "activeDays": 121,
+  "totalActivities": 241,
+  "activeDays": 122,
   "restDays": 2
 }

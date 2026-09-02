@@ -1267,9 +1267,17 @@
       "type": "walk",
       "time": null,
       "comment": "Loosa walk"
+    },
+    {
+      "date": "2026-09-01",
+      "miles": 9.0,
+      "km": 14.48,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 143,
-  "activeDays": 108,
+  "totalActivities": 144,
+  "activeDays": 109,
   "restDays": 15
 }

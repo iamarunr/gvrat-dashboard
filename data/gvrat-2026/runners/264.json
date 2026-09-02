@@ -1339,9 +1339,17 @@
       "type": "walk",
       "time": null,
       "comment": "Office-NIH-OGR loop"
+    },
+    {
+      "date": "2026-09-01",
+      "miles": 3.84,
+      "km": 6.18,
+      "type": "walk",
+      "time": null,
+      "comment": "Office Bethesda Loop"
     }
   ],
-  "totalActivities": 142,
-  "activeDays": 98,
+  "totalActivities": 143,
+  "activeDays": 99,
   "restDays": 25
 }

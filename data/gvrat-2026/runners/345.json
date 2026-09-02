@@ -995,9 +995,17 @@
       "type": "run",
       "time": null,
       "comment": "Hills"
+    },
+    {
+      "date": "2026-09-01",
+      "miles": 6.72,
+      "km": 10.81,
+      "type": "run",
+      "time": null,
+      "comment": "oval extention"
     }
   ],
-  "totalActivities": 79,
-  "activeDays": 78,
+  "totalActivities": 80,
+  "activeDays": 79,
   "restDays": 45
 }

@@ -1651,9 +1651,25 @@
       "type": "walk",
       "time": null,
       "comment": "Morning walk and evening walk"
+    },
+    {
+      "date": "2026-09-01",
+      "miles": 2.46,
+      "km": 3.96,
+      "type": "run",
+      "time": null,
+      "comment": "Neighborhood morning run"
+    },
+    {
+      "date": "2026-09-01",
+      "miles": 1.64,
+      "km": 2.64,
+      "type": "walk",
+      "time": null,
+      "comment": "Walked the boys"
     }
   ],
-  "totalActivities": 206,
-  "activeDays": 123,
+  "totalActivities": 208,
+  "activeDays": 124,
   "restDays": 0
 }

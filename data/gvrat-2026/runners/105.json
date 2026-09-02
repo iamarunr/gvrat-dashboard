@@ -987,9 +987,17 @@
       "type": "walk",
       "time": null,
       "comment": "Took Eddie to the vet this morning. Walked 2 1/2 miles this afternoon at 107\u00b0\ud83c\udf21\ud83d\udd25\ud83e\udd75 then more tonight."
+    },
+    {
+      "date": "2026-09-01",
+      "miles": 7.4,
+      "km": 11.91,
+      "type": "walk",
+      "time": null,
+      "comment": "Walked early today before leaving for our trip."
     }
   ],
-  "totalActivities": 123,
-  "activeDays": 123,
+  "totalActivities": 124,
+  "activeDays": 124,
   "restDays": 0
 }

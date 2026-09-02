@@ -995,9 +995,17 @@
       "type": "run",
       "time": null,
       "comment": "outdoor combo\u2026."
+    },
+    {
+      "date": "2026-09-01",
+      "miles": 18.48,
+      "km": 29.74,
+      "type": "run",
+      "time": null,
+      "comment": "tmill combo\u2026"
     }
   ],
-  "totalActivities": 124,
-  "activeDays": 123,
+  "totalActivities": 125,
+  "activeDays": 124,
   "restDays": 0
 }

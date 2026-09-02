@@ -1731,9 +1731,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-01",
+      "miles": 1.19,
+      "km": 1.92,
+      "type": "walk",
+      "time": null,
+      "comment": "Airport 1"
+    },
+    {
+      "date": "2026-09-01",
+      "miles": 2.31,
+      "km": 3.72,
+      "type": "walk",
+      "time": null,
+      "comment": "DEN 2"
     }
   ],
-  "totalActivities": 191,
-  "activeDays": 98,
+  "totalActivities": 193,
+  "activeDays": 99,
   "restDays": 25
 }
