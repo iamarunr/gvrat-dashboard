@@ -1667,9 +1667,25 @@
       "type": "walk",
       "time": null,
       "comment": "Walked the boys"
+    },
+    {
+      "date": "2026-09-02",
+      "miles": 3.16,
+      "km": 5.09,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening walk at enterprise very hot \ud83e\udd75"
+    },
+    {
+      "date": "2026-09-02",
+      "miles": 1.94,
+      "km": 3.12,
+      "type": "walk",
+      "time": null,
+      "comment": "AM walk and rest of day"
     }
   ],
-  "totalActivities": 208,
-  "activeDays": 124,
+  "totalActivities": 210,
+  "activeDays": 125,
   "restDays": 0
 }

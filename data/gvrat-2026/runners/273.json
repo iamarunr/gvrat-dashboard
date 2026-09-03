@@ -1275,9 +1275,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-02",
+      "miles": 7.25,
+      "km": 11.67,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-02",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "walk",
+      "time": null,
+      "comment": "HOT hood walk"
     }
   ],
-  "totalActivities": 144,
-  "activeDays": 109,
+  "totalActivities": 146,
+  "activeDays": 110,
   "restDays": 15
 }

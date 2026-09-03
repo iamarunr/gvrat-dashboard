@@ -1179,9 +1179,25 @@
       "type": "run",
       "time": null,
       "comment": "Easy run then pushups"
+    },
+    {
+      "date": "2026-09-02",
+      "miles": 6.01,
+      "km": 9.67,
+      "type": "walk",
+      "time": null,
+      "comment": "Extra walking at work.  Too much walking."
+    },
+    {
+      "date": "2026-09-02",
+      "miles": 5.57,
+      "km": 8.96,
+      "type": "run",
+      "time": null,
+      "comment": "Supposed to be a workout day but cut it short.  You gotta watch what you eat before your run."
     }
   ],
-  "totalActivities": 121,
-  "activeDays": 98,
+  "totalActivities": 123,
+  "activeDays": 99,
   "restDays": 26
 }

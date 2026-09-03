@@ -1355,9 +1355,25 @@
       "type": "walk",
       "time": null,
       "comment": "Apache Wash night hike w/Orange Girl & Anne  Marie"
+    },
+    {
+      "date": "2026-09-02",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning Remi walk"
+    },
+    {
+      "date": "2026-09-02",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Desert Hills short loop w/B"
     }
   ],
-  "totalActivities": 147,
-  "activeDays": 102,
+  "totalActivities": 149,
+  "activeDays": 103,
   "restDays": 22
 }

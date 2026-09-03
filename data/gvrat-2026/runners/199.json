@@ -1187,9 +1187,17 @@
       "type": "walk",
       "time": null,
       "comment": "village circles"
+    },
+    {
+      "date": "2026-09-02",
+      "miles": 3.76,
+      "km": 6.05,
+      "type": "run",
+      "time": null,
+      "comment": "Sprints"
     }
   ],
-  "totalActivities": 148,
-  "activeDays": 124,
+  "totalActivities": 149,
+  "activeDays": 125,
   "restDays": 0
 }

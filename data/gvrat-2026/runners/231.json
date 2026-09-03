@@ -1981,34 +1981,66 @@
       "comment": ""
     },
     {
+      "date": "2026-08-25",
+      "miles": 0.54,
+      "km": 0.87,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-08-25",
+      "miles": 0.59,
+      "km": 0.95,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
       "date": "2026-08-26",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.36,
+      "km": 0.58,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-08-26",
+      "miles": 0.36,
+      "km": 0.58,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-08-27",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.73,
+      "km": 1.17,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-08-28",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.64,
+      "km": 1.03,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-08-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.93,
+      "km": 1.5,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-08-29",
+      "miles": 1.45,
+      "km": 2.33,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
@@ -2030,6 +2062,22 @@
     },
     {
       "date": "2026-09-01",
+      "miles": 1.03,
+      "km": 1.66,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-01",
+      "miles": 1.35,
+      "km": 2.17,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-02",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -2037,7 +2085,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 216,
-  "activeDays": 86,
-  "restDays": 38
+  "totalActivities": 226,
+  "activeDays": 91,
+  "restDays": 34
 }

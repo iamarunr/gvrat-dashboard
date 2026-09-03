@@ -2141,15 +2141,47 @@
       "comment": "RSD 4103 FPL dirt loop Run"
     },
     {
+      "date": "2026-08-31",
+      "miles": 3.97,
+      "km": 6.39,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
       "date": "2026-09-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.52,
+      "km": 4.06,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4104 Legacy Trail Tyler TX"
+    },
+    {
+      "date": "2026-09-01",
+      "miles": 3.71,
+      "km": 5.97,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-02",
+      "miles": 4.02,
+      "km": 6.47,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4105 Mineola Rd Run TX"
+    },
+    {
+      "date": "2026-09-02",
+      "miles": 3.28,
+      "km": 5.28,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 267,
-  "activeDays": 123,
-  "restDays": 1
+  "totalActivities": 272,
+  "activeDays": 125,
+  "restDays": 0
 }

@@ -1443,9 +1443,17 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-02",
+      "miles": 1.43,
+      "km": 2.3,
+      "type": "walk",
+      "time": null,
+      "comment": "Rest day with travel to Horseshoe Bay"
     }
   ],
-  "totalActivities": 177,
-  "activeDays": 121,
+  "totalActivities": 178,
+  "activeDays": 122,
   "restDays": 3
 }

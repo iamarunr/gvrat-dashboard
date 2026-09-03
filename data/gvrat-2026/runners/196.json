@@ -1747,9 +1747,25 @@
       "type": "walk",
       "time": null,
       "comment": "DEN 2"
+    },
+    {
+      "date": "2026-09-02",
+      "miles": 0.37,
+      "km": 0.6,
+      "type": "walk",
+      "time": null,
+      "comment": "Munich airport"
+    },
+    {
+      "date": "2026-09-02",
+      "miles": 2.22,
+      "km": 3.57,
+      "type": "walk",
+      "time": null,
+      "comment": "Venice dinner walk"
     }
   ],
-  "totalActivities": 193,
-  "activeDays": 99,
+  "totalActivities": 195,
+  "activeDays": 100,
   "restDays": 25
 }

@@ -1227,9 +1227,17 @@
       "type": "walk",
       "time": null,
       "comment": "Dunoon & Glasgow Walkabout"
+    },
+    {
+      "date": "2026-09-02",
+      "miles": 1.34,
+      "km": 2.16,
+      "type": "walk",
+      "time": null,
+      "comment": "Glen Mills Walkabout after flying home from Scotland"
     }
   ],
-  "totalActivities": 121,
-  "activeDays": 92,
+  "totalActivities": 122,
+  "activeDays": 93,
   "restDays": 32
 }

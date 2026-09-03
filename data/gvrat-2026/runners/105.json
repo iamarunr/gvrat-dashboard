@@ -995,9 +995,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walked early today before leaving for our trip."
+    },
+    {
+      "date": "2026-09-02",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Missed our connection in Chicago last night. Spent the night in Chicago. Walked on treadmill this morning before heading to O'hare airport."
     }
   ],
-  "totalActivities": 124,
-  "activeDays": 124,
+  "totalActivities": 125,
+  "activeDays": 125,
   "restDays": 0
 }
