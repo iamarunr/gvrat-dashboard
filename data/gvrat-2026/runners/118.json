@@ -1235,9 +1235,17 @@
       "type": "walk",
       "time": null,
       "comment": "Glen Mills Walkabout after flying home from Scotland"
+    },
+    {
+      "date": "2026-09-03",
+      "miles": 2.64,
+      "km": 4.25,
+      "type": "walk",
+      "time": null,
+      "comment": "Glen Mills Walkabout"
     }
   ],
-  "totalActivities": 122,
-  "activeDays": 93,
+  "totalActivities": 123,
+  "activeDays": 94,
   "restDays": 32
 }

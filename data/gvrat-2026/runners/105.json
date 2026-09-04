@@ -1003,9 +1003,17 @@
       "type": "walk",
       "time": null,
       "comment": "Missed our connection in Chicago last night. Spent the night in Chicago. Walked on treadmill this morning before heading to O'hare airport."
+    },
+    {
+      "date": "2026-09-03",
+      "miles": 4.72,
+      "km": 7.6,
+      "type": "walk",
+      "time": null,
+      "comment": "Walked 1.25 miles between all the airport gates & connections & etc. Walked 3.47 miles in Barcelona from the hotel ME Barcelona to Basilica de la Sagrada Familia and back."
     }
   ],
-  "totalActivities": 125,
-  "activeDays": 125,
+  "totalActivities": 126,
+  "activeDays": 126,
   "restDays": 0
 }

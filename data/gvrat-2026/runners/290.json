@@ -998,14 +998,22 @@
     },
     {
       "date": "2026-09-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.6,
+      "km": 5.79,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Limping and completely fatigued. \ud83d\ude2d\ud83d\udc94\ud83e\udee4"
+    },
+    {
+      "date": "2026-09-03",
+      "miles": 7.9,
+      "km": 12.71,
+      "type": "walk",
+      "time": null,
+      "comment": "Completely exhausted and still limping, but I pushed myself today. I must find a way to regain the muscle in my left leg.\ud83d\ude16\ud83d\ude4f\ud83c\udffb\ud83d\ude4c\ud83c\udffc"
     }
   ],
-  "totalActivities": 120,
-  "activeDays": 120,
-  "restDays": 5
+  "totalActivities": 122,
+  "activeDays": 122,
+  "restDays": 4
 }

@@ -2179,9 +2179,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-03",
+      "miles": 3.02,
+      "km": 4.86,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4106 rainy day run"
+    },
+    {
+      "date": "2026-09-03",
+      "miles": 2.75,
+      "km": 4.43,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 272,
-  "activeDays": 125,
+  "totalActivities": 274,
+  "activeDays": 126,
   "restDays": 0
 }

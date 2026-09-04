@@ -1763,9 +1763,17 @@
       "type": "walk",
       "time": null,
       "comment": "Venice dinner walk"
+    },
+    {
+      "date": "2026-09-03",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
+      "time": null,
+      "comment": "Venezia"
     }
   ],
-  "totalActivities": 195,
-  "activeDays": 100,
+  "totalActivities": 196,
+  "activeDays": 101,
   "restDays": 25
 }

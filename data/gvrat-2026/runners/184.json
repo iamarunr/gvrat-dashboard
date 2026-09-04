@@ -1683,9 +1683,25 @@
       "type": "walk",
       "time": null,
       "comment": "AM walk and rest of day"
+    },
+    {
+      "date": "2026-09-03",
+      "miles": 3.1,
+      "km": 4.99,
+      "type": "run",
+      "time": null,
+      "comment": "Collegedale 5k before work .  It was hot already"
+    },
+    {
+      "date": "2026-09-03",
+      "miles": 1.7,
+      "km": 2.74,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and rest of day"
     }
   ],
-  "totalActivities": 210,
-  "activeDays": 125,
+  "totalActivities": 212,
+  "activeDays": 126,
   "restDays": 0
 }

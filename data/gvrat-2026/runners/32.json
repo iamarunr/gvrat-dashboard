@@ -1195,9 +1195,17 @@
       "type": "run",
       "time": null,
       "comment": "Supposed to be a workout day but cut it short.  You gotta watch what you eat before your run."
+    },
+    {
+      "date": "2026-09-03",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 123,
   "activeDays": 99,
-  "restDays": 26
+  "restDays": 27
 }

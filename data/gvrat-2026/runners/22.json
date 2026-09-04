@@ -1051,9 +1051,17 @@
       "type": "run",
       "time": null,
       "comment": "Switchyard Park to B-Line Trail"
+    },
+    {
+      "date": "2026-09-03",
+      "miles": 6.14,
+      "km": 9.88,
+      "type": "run",
+      "time": null,
+      "comment": "Switchyard Park to Church lane Bridge."
     }
   ],
-  "totalActivities": 126,
-  "activeDays": 120,
+  "totalActivities": 127,
+  "activeDays": 121,
   "restDays": 5
 }

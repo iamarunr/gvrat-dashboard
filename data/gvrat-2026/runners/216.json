@@ -1091,9 +1091,25 @@
       "type": "walk",
       "time": null,
       "comment": "Treadmill 1-2% incline"
+    },
+    {
+      "date": "2026-09-03",
+      "miles": 2.31,
+      "km": 3.72,
+      "type": "walk",
+      "time": null,
+      "comment": "Walked the dogs"
+    },
+    {
+      "date": "2026-09-03",
+      "miles": 2.07,
+      "km": 3.33,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill 2% incline"
     }
   ],
-  "totalActivities": 78,
-  "activeDays": 67,
+  "totalActivities": 80,
+  "activeDays": 68,
   "restDays": 58
 }

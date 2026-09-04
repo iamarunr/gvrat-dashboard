@@ -998,11 +998,11 @@
     },
     {
       "date": "2026-08-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.52,
+      "km": 0.84,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walk with dogs through the woods"
     },
     {
       "date": "2026-08-31",
@@ -1027,9 +1027,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-03",
+      "miles": 1.16,
+      "km": 1.87,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk with neighbor Julie"
     }
   ],
-  "totalActivities": 73,
-  "activeDays": 70,
-  "restDays": 55
+  "totalActivities": 75,
+  "activeDays": 72,
+  "restDays": 54
 }

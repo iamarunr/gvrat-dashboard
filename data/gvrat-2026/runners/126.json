@@ -1019,9 +1019,17 @@
       "type": "walk",
       "time": null,
       "comment": "2 rabbits \ud83d\udc07\ud83d\udc07,  ISS \ud83d\udef0\ufe0fpassed overhead 06:07"
+    },
+    {
+      "date": "2026-09-03",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 125,
   "activeDays": 123,
-  "restDays": 2
+  "restDays": 3
 }
