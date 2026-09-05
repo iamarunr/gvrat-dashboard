@@ -1243,9 +1243,25 @@
       "type": "walk",
       "time": null,
       "comment": "Glen Mills Walkabout"
+    },
+    {
+      "date": "2026-09-03",
+      "miles": 4.26,
+      "km": 6.86,
+      "type": "walk",
+      "time": null,
+      "comment": "Glen Mills Walkabout"
+    },
+    {
+      "date": "2026-09-04",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "Shippensburg Walkabout"
     }
   ],
-  "totalActivities": 123,
-  "activeDays": 94,
+  "totalActivities": 125,
+  "activeDays": 95,
   "restDays": 32
 }

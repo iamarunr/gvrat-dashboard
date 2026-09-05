@@ -1134,14 +1134,22 @@
     },
     {
       "date": "2026-09-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.85,
+      "km": 6.2,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Morning walk and Swim at Chatfield"
     },
     {
       "date": "2026-09-03",
+      "miles": 3.54,
+      "km": 5.7,
+      "type": "walk",
+      "time": null,
+      "comment": "morning walk, bike ride at BCLP, Airport walking"
+    },
+    {
+      "date": "2026-09-04",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -1149,7 +1157,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 138,
-  "activeDays": 121,
-  "restDays": 5
+  "totalActivities": 140,
+  "activeDays": 123,
+  "restDays": 4
 }

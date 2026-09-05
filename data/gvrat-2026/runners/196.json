@@ -1771,9 +1771,17 @@
       "type": "walk",
       "time": null,
       "comment": "Venezia"
+    },
+    {
+      "date": "2026-09-04",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 196,
   "activeDays": 101,
-  "restDays": 25
+  "restDays": 26
 }

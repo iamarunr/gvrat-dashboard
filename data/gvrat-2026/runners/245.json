@@ -1267,9 +1267,17 @@
       "type": "run",
       "time": null,
       "comment": "Hilly treadmill. 885' Very sweaty"
+    },
+    {
+      "date": "2026-09-04",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 119,
   "activeDays": 87,
-  "restDays": 39
+  "restDays": 40
 }

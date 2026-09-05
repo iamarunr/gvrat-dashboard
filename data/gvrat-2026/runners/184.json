@@ -1699,9 +1699,25 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and rest of day"
+    },
+    {
+      "date": "2026-09-04",
+      "miles": 3.1,
+      "km": 4.99,
+      "type": "run",
+      "time": null,
+      "comment": "Friday morning 5k - still hot"
+    },
+    {
+      "date": "2026-09-04",
+      "miles": 1.9,
+      "km": 3.06,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and grocery store"
     }
   ],
-  "totalActivities": 212,
-  "activeDays": 126,
+  "totalActivities": 214,
+  "activeDays": 127,
   "restDays": 0
 }

@@ -1251,9 +1251,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-04",
+      "miles": 3.07,
+      "km": 4.94,
+      "type": "walk",
+      "time": null,
+      "comment": "Airport walk"
+    },
+    {
+      "date": "2026-09-04",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Errands"
     }
   ],
-  "totalActivities": 112,
-  "activeDays": 82,
+  "totalActivities": 114,
+  "activeDays": 83,
   "restDays": 44
 }

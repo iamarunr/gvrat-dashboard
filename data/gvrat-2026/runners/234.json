@@ -1430,54 +1430,86 @@
     },
     {
       "date": "2026-08-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.29,
+      "km": 10.12,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Niagara Falls 10K IFIT"
     },
     {
       "date": "2026-08-30",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.19,
+      "km": 5.13,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Garden City Loop"
     },
     {
       "date": "2026-08-31",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 9.4,
+      "km": 15.13,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Sweetwater Parkway Loop with Terri"
     },
     {
       "date": "2026-09-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.19,
+      "km": 9.96,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Tony Grove Up and Down"
+    },
+    {
+      "date": "2026-09-01",
+      "miles": 3.04,
+      "km": 4.89,
+      "type": "walk",
+      "time": null,
+      "comment": "Bear Lake Scenic Trail with Terri"
     },
     {
       "date": "2026-09-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.58,
+      "km": 7.37,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Big Mormon Flat Downhill"
     },
     {
       "date": "2026-09-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.54,
+      "km": 2.48,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Sinks hike"
+    },
+    {
+      "date": "2026-09-03",
+      "miles": 1.09,
+      "km": 1.75,
+      "type": "walk",
+      "time": null,
+      "comment": "Spawn hike"
+    },
+    {
+      "date": "2026-09-03",
+      "miles": 1.72,
+      "km": 2.77,
+      "type": "walk",
+      "time": null,
+      "comment": "Burnt fork hike"
+    },
+    {
+      "date": "2026-09-04",
+      "miles": 4.15,
+      "km": 6.68,
+      "type": "walk",
+      "time": null,
+      "comment": "Fish Haven Canyon with Terri"
     }
   ],
-  "totalActivities": 175,
-  "activeDays": 117,
-  "restDays": 9
+  "totalActivities": 185,
+  "activeDays": 124,
+  "restDays": 3
 }

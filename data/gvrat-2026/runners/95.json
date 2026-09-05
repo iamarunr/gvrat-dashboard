@@ -1355,9 +1355,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-04",
+      "miles": 6.09,
+      "km": 9.8,
+      "type": "walk",
+      "time": null,
+      "comment": "ARFTA"
     }
   ],
-  "totalActivities": 148,
-  "activeDays": 105,
+  "totalActivities": 149,
+  "activeDays": 106,
   "restDays": 21
 }

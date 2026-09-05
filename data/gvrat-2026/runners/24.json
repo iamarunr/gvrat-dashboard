@@ -1635,9 +1635,17 @@
       "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-04",
+      "miles": 2.34,
+      "km": 3.77,
+      "type": "run",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 199,
-  "activeDays": 121,
+  "totalActivities": 200,
+  "activeDays": 122,
   "restDays": 5
 }

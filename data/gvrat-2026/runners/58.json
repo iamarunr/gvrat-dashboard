@@ -1075,9 +1075,25 @@
       "type": "walk",
       "time": null,
       "comment": "Treadmill"
+    },
+    {
+      "date": "2026-09-04",
+      "miles": 0.8,
+      "km": 1.29,
+      "type": "walk",
+      "time": null,
+      "comment": "Hill training"
+    },
+    {
+      "date": "2026-09-04",
+      "miles": 3.2,
+      "km": 5.15,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 126,
-  "activeDays": 118,
+  "totalActivities": 128,
+  "activeDays": 119,
   "restDays": 8
 }
