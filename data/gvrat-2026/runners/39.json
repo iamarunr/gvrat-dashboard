@@ -1187,9 +1187,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-05",
+      "miles": 17.26,
+      "km": 27.78,
+      "type": "run",
+      "time": null,
+      "comment": "Lighthorse 24 hours ultra day 1: Sat p.m."
     }
   ],
-  "totalActivities": 139,
-  "activeDays": 118,
+  "totalActivities": 140,
+  "activeDays": 119,
   "restDays": 9
 }

@@ -1262,11 +1262,11 @@
     },
     {
       "date": "2026-09-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.32,
+      "km": 8.56,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "A bit of a slog"
     },
     {
       "date": "2026-09-04",
@@ -1275,9 +1275,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-05",
+      "miles": 5.32,
+      "km": 8.56,
+      "type": "run",
+      "time": null,
+      "comment": "Parkrun day!"
     }
   ],
-  "totalActivities": 113,
-  "activeDays": 81,
-  "restDays": 46
+  "totalActivities": 115,
+  "activeDays": 83,
+  "restDays": 45
 }

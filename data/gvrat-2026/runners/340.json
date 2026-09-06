@@ -2139,9 +2139,33 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-05",
+      "miles": 3.51,
+      "km": 5.65,
+      "type": "walk",
+      "time": null,
+      "comment": "League city 9/11 fire fighter memorial stair walk!"
+    },
+    {
+      "date": "2026-09-05",
+      "miles": 0.32,
+      "km": 0.51,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-05",
+      "miles": 0.25,
+      "km": 0.4,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 244,
-  "activeDays": 104,
+  "totalActivities": 247,
+  "activeDays": 105,
   "restDays": 23
 }

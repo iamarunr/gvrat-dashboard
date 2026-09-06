@@ -1211,9 +1211,17 @@
       "type": "walk",
       "time": null,
       "comment": "Through the rain"
+    },
+    {
+      "date": "2026-09-05",
+      "miles": 6.85,
+      "km": 11.02,
+      "type": "run",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 151,
-  "activeDays": 127,
+  "totalActivities": 152,
+  "activeDays": 128,
   "restDays": 0
 }

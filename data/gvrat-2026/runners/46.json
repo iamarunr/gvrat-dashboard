@@ -2198,14 +2198,38 @@
     },
     {
       "date": "2026-09-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.04,
+      "km": 1.67,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4107 Rd Run"
+    },
+    {
+      "date": "2026-09-04",
+      "miles": 3.98,
+      "km": 6.41,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-05",
+      "miles": 4.02,
+      "km": 6.47,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4108 TSP Trail Run"
+    },
+    {
+      "date": "2026-09-05",
+      "miles": 3.72,
+      "km": 5.99,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 274,
-  "activeDays": 126,
-  "restDays": 1
+  "totalActivities": 278,
+  "activeDays": 128,
+  "restDays": 0
 }

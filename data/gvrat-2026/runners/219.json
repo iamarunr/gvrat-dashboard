@@ -1094,6 +1094,14 @@
     },
     {
       "date": "2026-09-04",
+      "miles": 36.87,
+      "km": 59.34,
+      "type": "run",
+      "time": null,
+      "comment": "Day 1 at ARFTA"
+    },
+    {
+      "date": "2026-09-05",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -1101,7 +1109,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 88,
-  "activeDays": 78,
+  "totalActivities": 89,
+  "activeDays": 79,
   "restDays": 49
 }

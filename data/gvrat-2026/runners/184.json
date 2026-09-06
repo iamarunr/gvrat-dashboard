@@ -1715,9 +1715,25 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and grocery store"
+    },
+    {
+      "date": "2026-09-05",
+      "miles": 2.1,
+      "km": 3.38,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning walk and time at the river"
+    },
+    {
+      "date": "2026-09-05",
+      "miles": 3.2,
+      "km": 5.15,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening walk at enterprise after taking dogs to River"
     }
   ],
-  "totalActivities": 214,
-  "activeDays": 127,
+  "totalActivities": 216,
+  "activeDays": 128,
   "restDays": 0
 }

@@ -1774,14 +1774,22 @@
     },
     {
       "date": "2026-09-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Out and about in Cortina Italy"
+    },
+    {
+      "date": "2026-09-05",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
+      "time": null,
+      "comment": "Day 2 in Cortina"
     }
   ],
-  "totalActivities": 196,
-  "activeDays": 101,
-  "restDays": 26
+  "totalActivities": 198,
+  "activeDays": 103,
+  "restDays": 25
 }

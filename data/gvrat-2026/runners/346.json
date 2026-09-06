@@ -1510,22 +1510,30 @@
     },
     {
       "date": "2026-09-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 48.39,
+      "km": 77.88,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "7766' ascent.  Bear Lake - Temple Fork LONG run"
     },
     {
       "date": "2026-09-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.05,
+      "km": 6.52,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "502' ascent.  Fish Haven Canyon w/ Rick - recovery hike"
+    },
+    {
+      "date": "2026-09-05",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "run",
+      "time": null,
+      "comment": "870' ascent.  Bear Lake & Sweetwater"
     }
   ],
-  "totalActivities": 188,
-  "activeDays": 125,
-  "restDays": 2
+  "totalActivities": 191,
+  "activeDays": 128,
+  "restDays": 0
 }

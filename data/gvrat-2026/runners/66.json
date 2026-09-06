@@ -1451,9 +1451,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-09-05",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 172,
   "activeDays": 118,
-  "restDays": 9
+  "restDays": 10
 }
