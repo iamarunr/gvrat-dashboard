@@ -1283,9 +1283,17 @@
       "type": "run",
       "time": null,
       "comment": "Parkrun day!"
+    },
+    {
+      "date": "2026-09-06",
+      "miles": 13.04,
+      "km": 20.99,
+      "type": "run",
+      "time": null,
+      "comment": "Great North Run trial run!"
     }
   ],
-  "totalActivities": 115,
-  "activeDays": 83,
+  "totalActivities": 116,
+  "activeDays": 84,
   "restDays": 45
 }

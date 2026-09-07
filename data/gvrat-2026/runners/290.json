@@ -1014,14 +1014,22 @@
     },
     {
       "date": "2026-09-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.6,
+      "km": 10.62,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Pushing myself to not give up. Still limping\u2026 \ud83d\ude16\ud83e\udee4"
     },
     {
       "date": "2026-09-05",
+      "miles": 6.7,
+      "km": 10.78,
+      "type": "walk",
+      "time": null,
+      "comment": "Super slow, still limping, but pushing myself. So behind\u2026 \ud83d\ude13\ud83d\udc94"
+    },
+    {
+      "date": "2026-09-06",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -1029,7 +1037,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 122,
-  "activeDays": 122,
-  "restDays": 6
+  "totalActivities": 124,
+  "activeDays": 124,
+  "restDays": 5
 }

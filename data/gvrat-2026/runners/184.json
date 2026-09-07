@@ -1731,9 +1731,25 @@
       "type": "walk",
       "time": null,
       "comment": "Evening walk at enterprise after taking dogs to River"
+    },
+    {
+      "date": "2026-09-06",
+      "miles": 3.11,
+      "km": 5.01,
+      "type": "run",
+      "time": null,
+      "comment": "Sunday morning lone 5k"
+    },
+    {
+      "date": "2026-09-06",
+      "miles": 1.59,
+      "km": 2.56,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and rafting adventure"
     }
   ],
-  "totalActivities": 216,
-  "activeDays": 128,
+  "totalActivities": 218,
+  "activeDays": 129,
   "restDays": 0
 }

@@ -1787,9 +1787,17 @@
       "type": "walk",
       "time": null,
       "comment": "Day 2 in Cortina"
+    },
+    {
+      "date": "2026-09-06",
+      "miles": 6.68,
+      "km": 10.75,
+      "type": "walk",
+      "time": null,
+      "comment": "Dolomites AV1 Day 1"
     }
   ],
-  "totalActivities": 198,
-  "activeDays": 103,
+  "totalActivities": 199,
+  "activeDays": 104,
   "restDays": 25
 }

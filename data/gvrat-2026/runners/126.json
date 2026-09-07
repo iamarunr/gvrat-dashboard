@@ -1022,30 +1022,38 @@
     },
     {
       "date": "2026-09-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.8,
+      "km": 9.33,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Moderate \ud83e\udd75Heat Advisory\ud83c\udf21\ufe0f"
     },
     {
       "date": "2026-09-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.6,
+      "km": 9.01,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Moderate \ud83e\udd75Heat Advisory \ud83c\udf21\ufe0f"
     },
     {
       "date": "2026-09-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.05,
+      "km": 11.35,
+      "type": "walk",
+      "time": null,
+      "comment": "ISS \ud83d\udef0\ufe0f passed overhead 05:24"
+    },
+    {
+      "date": "2026-09-06",
+      "miles": 7.15,
+      "km": 11.51,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 125,
-  "activeDays": 123,
-  "restDays": 5
+  "totalActivities": 129,
+  "activeDays": 127,
+  "restDays": 2
 }

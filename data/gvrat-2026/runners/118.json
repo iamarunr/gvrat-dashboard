@@ -1262,14 +1262,22 @@
     },
     {
       "date": "2026-09-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.5,
+      "km": 7.24,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Gettysburg Walkabout"
+    },
+    {
+      "date": "2026-09-06",
+      "miles": 26.56,
+      "km": 42.74,
+      "type": "walk",
+      "time": null,
+      "comment": "Labor Pain Marathon"
     }
   ],
-  "totalActivities": 125,
-  "activeDays": 95,
-  "restDays": 33
+  "totalActivities": 127,
+  "activeDays": 97,
+  "restDays": 32
 }

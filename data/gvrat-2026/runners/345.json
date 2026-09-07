@@ -1035,9 +1035,17 @@
       "type": "run",
       "time": null,
       "comment": "Muffin run"
+    },
+    {
+      "date": "2026-09-06",
+      "miles": 6.38,
+      "km": 10.27,
+      "type": "run",
+      "time": null,
+      "comment": "Sunday flat"
     }
   ],
-  "totalActivities": 82,
-  "activeDays": 81,
+  "totalActivities": 83,
+  "activeDays": 82,
   "restDays": 47
 }

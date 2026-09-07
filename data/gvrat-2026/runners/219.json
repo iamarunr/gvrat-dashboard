@@ -1102,14 +1102,30 @@
     },
     {
       "date": "2026-09-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 14.31,
+      "km": 23.03,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "ARFTA Day 2 prior to thunderstorm"
+    },
+    {
+      "date": "2026-09-06",
+      "miles": 18.5,
+      "km": 29.77,
+      "type": "run",
+      "time": null,
+      "comment": "ARFTA Day 2, after thunderstorm"
+    },
+    {
+      "date": "2026-09-06",
+      "miles": 38.08,
+      "km": 61.28,
+      "type": "walk",
+      "time": null,
+      "comment": "ARFTA Final night & morning"
     }
   ],
-  "totalActivities": 89,
-  "activeDays": 79,
-  "restDays": 49
+  "totalActivities": 92,
+  "activeDays": 81,
+  "restDays": 48
 }

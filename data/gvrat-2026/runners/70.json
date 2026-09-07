@@ -1998,14 +1998,38 @@
     },
     {
       "date": "2026-09-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-05",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Dogs"
+    },
+    {
+      "date": "2026-09-06",
+      "miles": 10.0,
+      "km": 16.09,
+      "type": "walk",
+      "time": null,
+      "comment": "Long walk with the ladies. Palisades"
+    },
+    {
+      "date": "2026-09-06",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Dogs and Willie"
     }
   ],
-  "totalActivities": 247,
-  "activeDays": 125,
-  "restDays": 3
+  "totalActivities": 251,
+  "activeDays": 127,
+  "restDays": 2
 }

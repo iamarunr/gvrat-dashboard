@@ -1411,9 +1411,25 @@
       "type": "walk",
       "time": null,
       "comment": "CCRP hike w/B - Slate>Quartz>GoJohn"
+    },
+    {
+      "date": "2026-09-06",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning Remi Walk"
+    },
+    {
+      "date": "2026-09-06",
+      "miles": 5.82,
+      "km": 9.37,
+      "type": "walk",
+      "time": null,
+      "comment": "DV hike w/T, Jennifer M & Rick"
     }
   ],
-  "totalActivities": 153,
-  "activeDays": 105,
+  "totalActivities": 155,
+  "activeDays": 106,
   "restDays": 23
 }
