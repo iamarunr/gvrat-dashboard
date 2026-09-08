@@ -1062,14 +1062,14 @@
     },
     {
       "date": "2026-09-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 8.01,
+      "km": 12.89,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 64,
-  "activeDays": 61,
-  "restDays": 69
+  "totalActivities": 65,
+  "activeDays": 62,
+  "restDays": 68
 }
