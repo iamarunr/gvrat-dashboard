@@ -1198,22 +1198,70 @@
     },
     {
       "date": "2026-09-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 39.77,
+      "km": 64.0,
+      "type": "run",
+      "time": null,
+      "comment": "48 hour race with run walk"
+    },
+    {
+      "date": "2026-09-05",
+      "miles": 9.83,
+      "km": 15.82,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-09-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.16,
+      "km": 5.09,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-05",
+      "miles": 4.65,
+      "km": 7.48,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-05",
+      "miles": 3.22,
+      "km": 5.18,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-09-06",
+      "miles": 4.9,
+      "km": 7.89,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-06",
+      "miles": 8.04,
+      "km": 12.94,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-06",
+      "miles": 4.78,
+      "km": 7.69,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-07",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -1221,7 +1269,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 84,
-  "activeDays": 61,
-  "restDays": 68
+  "totalActivities": 92,
+  "activeDays": 64,
+  "restDays": 66
 }

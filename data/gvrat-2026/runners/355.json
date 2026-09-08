@@ -1270,46 +1270,94 @@
     },
     {
       "date": "2026-09-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.4,
+      "km": 2.25,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "T\u00fcbingen Gehen"
     },
     {
       "date": "2026-09-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.16,
+      "km": 1.87,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Sonnenb\u00fchl Gehen"
+    },
+    {
+      "date": "2026-09-03",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "Backnang Gehen"
     },
     {
       "date": "2026-09-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.35,
+      "km": 5.39,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Ellwangen (Jagst) Gehen"
     },
     {
       "date": "2026-09-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.55,
+      "km": 0.89,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Sonnenb\u00fchl Gehen"
+    },
+    {
+      "date": "2026-09-05",
+      "miles": 2.67,
+      "km": 4.3,
+      "type": "walk",
+      "time": null,
+      "comment": "Sonnenb\u00fchl Gehen"
     },
     {
       "date": "2026-09-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.58,
+      "km": 0.93,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Sonnenb\u00fchl Gehen"
+    },
+    {
+      "date": "2026-09-06",
+      "miles": 0.56,
+      "km": 0.9,
+      "type": "walk",
+      "time": null,
+      "comment": "Sonnenb\u00fchl Gehen"
+    },
+    {
+      "date": "2026-09-06",
+      "miles": 4.36,
+      "km": 7.02,
+      "type": "run",
+      "time": null,
+      "comment": "Sonnenb\u00fchl Laufen"
+    },
+    {
+      "date": "2026-09-07",
+      "miles": 1.32,
+      "km": 2.12,
+      "type": "walk",
+      "time": null,
+      "comment": "Sonnenb\u00fchl Gehen"
+    },
+    {
+      "date": "2026-09-07",
+      "miles": 0.42,
+      "km": 0.68,
+      "type": "walk",
+      "time": null,
+      "comment": "Sonnenb\u00fchl Gehen"
     }
   ],
-  "totalActivities": 66,
-  "activeDays": 32,
-  "restDays": 97
+  "totalActivities": 77,
+  "activeDays": 38,
+  "restDays": 92
 }

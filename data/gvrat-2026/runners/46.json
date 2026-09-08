@@ -2243,9 +2243,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-07",
+      "miles": 1.02,
+      "km": 1.64,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4110 Rd Run"
+    },
+    {
+      "date": "2026-09-07",
+      "miles": 4.89,
+      "km": 7.87,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 280,
-  "activeDays": 129,
+  "totalActivities": 282,
+  "activeDays": 130,
   "restDays": 0
 }

@@ -1203,9 +1203,17 @@
       "type": "run",
       "time": null,
       "comment": "Lighthorse 24 hours ultra day 2: Sun a.m."
+    },
+    {
+      "date": "2026-09-07",
+      "miles": 1.24,
+      "km": 2.0,
+      "type": "walk",
+      "time": null,
+      "comment": "two dog walks"
     }
   ],
-  "totalActivities": 141,
-  "activeDays": 120,
+  "totalActivities": 142,
+  "activeDays": 121,
   "restDays": 9
 }

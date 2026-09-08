@@ -1366,22 +1366,38 @@
     },
     {
       "date": "2026-09-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.6,
+      "km": 4.18,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Track Workout Gone South"
+    },
+    {
+      "date": "2026-09-04",
+      "miles": 2.84,
+      "km": 4.57,
+      "type": "walk",
+      "time": null,
+      "comment": "Bethesda Figure Eight (Med Center Station - Bethesda bagel)"
     },
     {
       "date": "2026-09-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 13.24,
+      "km": 21.31,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Parks Half Marathon Preview Run"
     },
     {
       "date": "2026-09-06",
+      "miles": 4.43,
+      "km": 7.13,
+      "type": "run",
+      "time": null,
+      "comment": "50/50 Run/Walk w Puja!!!"
+    },
+    {
+      "date": "2026-09-07",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -1389,7 +1405,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 143,
-  "activeDays": 99,
-  "restDays": 30
+  "totalActivities": 147,
+  "activeDays": 102,
+  "restDays": 28
 }

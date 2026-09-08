@@ -1795,9 +1795,25 @@
       "type": "walk",
       "time": null,
       "comment": "Dolomites AV1 Day 1"
+    },
+    {
+      "date": "2026-09-07",
+      "miles": 6.62,
+      "km": 10.65,
+      "type": "walk",
+      "time": null,
+      "comment": "Dolomites AV-1 Day 2"
+    },
+    {
+      "date": "2026-09-07",
+      "miles": 1.11,
+      "km": 1.79,
+      "type": "walk",
+      "time": null,
+      "comment": "To the Mountain brewery and back. Dolomites AV-1 Day 2."
     }
   ],
-  "totalActivities": 199,
-  "activeDays": 104,
+  "totalActivities": 201,
+  "activeDays": 105,
   "restDays": 25
 }

@@ -1162,7 +1162,7 @@
       "km": 5.2,
       "type": "run",
       "time": null,
-      "comment": "morning run"
+      "comment": "morning run, 14:30 pace"
     },
     {
       "date": "2026-09-05",
@@ -1174,6 +1174,22 @@
     },
     {
       "date": "2026-09-06",
+      "miles": 1.52,
+      "km": 2.45,
+      "type": "walk",
+      "time": null,
+      "comment": "morning and evening dog walks"
+    },
+    {
+      "date": "2026-09-06",
+      "miles": 3.23,
+      "km": 5.2,
+      "type": "walk",
+      "time": null,
+      "comment": "Tried Race-Walking, 15:26 pace"
+    },
+    {
+      "date": "2026-09-07",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -1181,7 +1197,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 143,
-  "activeDays": 125,
+  "totalActivities": 145,
+  "activeDays": 126,
   "restDays": 4
 }

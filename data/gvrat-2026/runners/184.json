@@ -1747,9 +1747,25 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and rafting adventure"
+    },
+    {
+      "date": "2026-09-07",
+      "miles": 3.4,
+      "km": 5.47,
+      "type": "run",
+      "time": null,
+      "comment": "Labor Day run at enterprise"
+    },
+    {
+      "date": "2026-09-07",
+      "miles": 1.7,
+      "km": 2.74,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and mall"
     }
   ],
-  "totalActivities": 218,
-  "activeDays": 129,
+  "totalActivities": 220,
+  "activeDays": 130,
   "restDays": 0
 }

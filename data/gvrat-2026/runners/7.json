@@ -1291,9 +1291,25 @@
       "type": "walk",
       "time": null,
       "comment": "Desert Vista Hike"
+    },
+    {
+      "date": "2026-09-07",
+      "miles": 6.25,
+      "km": 10.06,
+      "type": "walk",
+      "time": null,
+      "comment": "Pyramid Hike"
+    },
+    {
+      "date": "2026-09-07",
+      "miles": 1.5,
+      "km": 2.41,
+      "type": "walk",
+      "time": null,
+      "comment": "Just trying to get in miles"
     }
   ],
-  "totalActivities": 141,
-  "activeDays": 109,
+  "totalActivities": 143,
+  "activeDays": 110,
   "restDays": 20
 }
