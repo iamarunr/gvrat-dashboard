@@ -286,8 +286,7 @@ hover:       "#f0f5ff"   // transition: "background 0.1s"
 **Purpose:** Leaflet map with course route, runner markers, clustering.
 
 **Props:** Same as RaceMap (no optional).
-
-**Tile layer:** `https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png` (CartoDB Light)
+**Tile layer:** `https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png?key=${NEXT_PUBLIC_CARTO_API_KEY}` (CartoDB Light)
 
 **Route rendering (two polylines):**
 ```javascript
