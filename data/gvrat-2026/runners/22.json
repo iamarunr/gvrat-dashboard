@@ -1091,9 +1091,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-08",
+      "miles": 6.02,
+      "km": 9.69,
+      "type": "run",
+      "time": null,
+      "comment": "Clear Creek Trail to Church Lane Bridge."
     }
   ],
-  "totalActivities": 130,
-  "activeDays": 124,
+  "totalActivities": 131,
+  "activeDays": 125,
   "restDays": 6
 }

@@ -1763,9 +1763,17 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and mall"
+    },
+    {
+      "date": "2026-09-08",
+      "miles": 4.2,
+      "km": 6.76,
+      "type": "walk",
+      "time": null,
+      "comment": "AM walk and PM walk and Rehab center"
     }
   ],
-  "totalActivities": 220,
-  "activeDays": 130,
+  "totalActivities": 221,
+  "activeDays": 131,
   "restDays": 0
 }

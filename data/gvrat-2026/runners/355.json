@@ -1014,35 +1014,67 @@
     },
     {
       "date": "2026-08-01",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.32,
+      "km": 2.12,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Sonnenb\u00fchl Gehen"
+    },
+    {
+      "date": "2026-08-01",
+      "miles": 0.99,
+      "km": 1.59,
+      "type": "walk",
+      "time": null,
+      "comment": "Sonnenb\u00fchl Gehen"
+    },
+    {
+      "date": "2026-08-01",
+      "miles": 0.63,
+      "km": 1.01,
+      "type": "run",
+      "time": null,
+      "comment": "Indoor Running"
     },
     {
       "date": "2026-08-02",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 8.1,
+      "km": 13.04,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "W14 So. Langer Lauf (Nordic Walking)"
     },
     {
       "date": "2026-08-03",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.36,
+      "km": 3.8,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Sonnenb\u00fchl Gehen"
+    },
+    {
+      "date": "2026-08-03",
+      "miles": 0.62,
+      "km": 1.0,
+      "type": "walk",
+      "time": null,
+      "comment": "Indoor Walking"
     },
     {
       "date": "2026-08-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.59,
+      "km": 9.0,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "W15 Di. Dauerlauf"
+    },
+    {
+      "date": "2026-08-04",
+      "miles": 0.31,
+      "km": 0.5,
+      "type": "walk",
+      "time": null,
+      "comment": "Sonnenb\u00fchl Gehen"
     },
     {
       "date": "2026-08-05",
@@ -1579,9 +1611,17 @@
       "type": "walk",
       "time": null,
       "comment": "Sonnenb\u00fchl Gehen"
+    },
+    {
+      "date": "2026-09-08",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 132,
-  "activeDays": 65,
-  "restDays": 65
+  "totalActivities": 140,
+  "activeDays": 69,
+  "restDays": 62
 }

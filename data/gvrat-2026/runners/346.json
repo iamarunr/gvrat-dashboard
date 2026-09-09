@@ -1534,22 +1534,46 @@
     },
     {
       "date": "2026-09-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "1385' ascent.  Garden City Canyon"
     },
     {
       "date": "2026-09-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "794' ascent.  Franklin Basin Rd w/ Rick"
+    },
+    {
+      "date": "2026-09-07",
+      "miles": 3.91,
+      "km": 6.29,
+      "type": "walk",
+      "time": null,
+      "comment": "666' ascent.  Shundahai"
+    },
+    {
+      "date": "2026-09-08",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "run",
+      "time": null,
+      "comment": "0' ascent.  Treadmill warmup"
+    },
+    {
+      "date": "2026-09-08",
+      "miles": 7.0,
+      "km": 11.27,
+      "type": "run",
+      "time": null,
+      "comment": "0' ascent.  Treadmill intervals - 4/2 mins x8, plus 1.4 mi steady"
     }
   ],
-  "totalActivities": 191,
-  "activeDays": 128,
-  "restDays": 2
+  "totalActivities": 196,
+  "activeDays": 131,
+  "restDays": 0
 }
