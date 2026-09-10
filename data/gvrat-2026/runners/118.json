@@ -1299,9 +1299,25 @@
       "type": "walk",
       "time": null,
       "comment": "Walking & Trying To Work"
+    },
+    {
+      "date": "2026-09-09",
+      "miles": 3.39,
+      "km": 5.46,
+      "type": "walk",
+      "time": null,
+      "comment": "GBR Fourscore Walk"
+    },
+    {
+      "date": "2026-09-09",
+      "miles": 2.38,
+      "km": 3.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking & Working"
     }
   ],
-  "totalActivities": 130,
-  "activeDays": 99,
+  "totalActivities": 132,
+  "activeDays": 100,
   "restDays": 32
 }

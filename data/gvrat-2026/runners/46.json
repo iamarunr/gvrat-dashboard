@@ -2275,9 +2275,25 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-09",
+      "miles": 4.02,
+      "km": 6.47,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4112 Tyler State Park Trail Run"
+    },
+    {
+      "date": "2026-09-09",
+      "miles": 3.48,
+      "km": 5.6,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 284,
-  "activeDays": 131,
+  "totalActivities": 286,
+  "activeDays": 132,
   "restDays": 0
 }

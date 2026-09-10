@@ -1099,9 +1099,17 @@
       "type": "run",
       "time": null,
       "comment": "Clear Creek Trail to Church Lane Bridge."
+    },
+    {
+      "date": "2026-09-09",
+      "miles": 5.01,
+      "km": 8.06,
+      "type": "run",
+      "time": null,
+      "comment": "Clear Creek Trail to Big Red Bridge."
     }
   ],
-  "totalActivities": 131,
-  "activeDays": 125,
+  "totalActivities": 132,
+  "activeDays": 126,
   "restDays": 6
 }

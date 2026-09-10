@@ -1819,9 +1819,25 @@
       "type": "walk",
       "time": null,
       "comment": "Dolomites AV -1 Day 3"
+    },
+    {
+      "date": "2026-09-09",
+      "miles": 1.88,
+      "km": 3.03,
+      "type": "walk",
+      "time": null,
+      "comment": "It rained on our parade Dolomites AV-1 Day 4 cut short."
+    },
+    {
+      "date": "2026-09-09",
+      "miles": 1.31,
+      "km": 2.11,
+      "type": "walk",
+      "time": null,
+      "comment": "Side jaunt on AV Day 1"
     }
   ],
-  "totalActivities": 202,
-  "activeDays": 106,
+  "totalActivities": 204,
+  "activeDays": 107,
   "restDays": 25
 }

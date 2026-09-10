@@ -1315,9 +1315,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk around RC's hood"
+    },
+    {
+      "date": "2026-09-09",
+      "miles": 2.75,
+      "km": 4.43,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking in Nashville (not Memphis)"
     }
   ],
-  "totalActivities": 118,
-  "activeDays": 85,
+  "totalActivities": 119,
+  "activeDays": 86,
   "restDays": 46
 }

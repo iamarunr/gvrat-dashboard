@@ -1499,9 +1499,33 @@
       "type": "walk",
       "time": null,
       "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-09-09",
+      "miles": 1.3,
+      "km": 2.09,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-09-09",
+      "miles": 3.17,
+      "km": 5.1,
+      "type": "run",
+      "time": null,
+      "comment": "Aravaipa Wednesday Trail Group."
+    },
+    {
+      "date": "2026-09-09",
+      "miles": 6.28,
+      "km": 10.11,
+      "type": "walk",
+      "time": null,
+      "comment": "Neighborhood laps."
     }
   ],
-  "totalActivities": 178,
-  "activeDays": 122,
+  "totalActivities": 181,
+  "activeDays": 123,
   "restDays": 9
 }

@@ -1555,9 +1555,17 @@
       "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-09",
+      "miles": 5.1,
+      "km": 8.21,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 194,
-  "activeDays": 131,
+  "totalActivities": 195,
+  "activeDays": 132,
   "restDays": 0
 }
