@@ -1118,22 +1118,30 @@
     },
     {
       "date": "2026-09-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 8.91,
+      "km": 14.34,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-09-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 65.51,
+      "km": 105.43,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "ARFTA"
+    },
+    {
+      "date": "2026-09-10",
+      "miles": 65.51,
+      "km": 105.43,
+      "type": "walk",
+      "time": null,
+      "comment": "ARFTA balance"
     }
   ],
-  "totalActivities": 35,
-  "activeDays": 26,
-  "restDays": 106
+  "totalActivities": 38,
+  "activeDays": 29,
+  "restDays": 104
 }

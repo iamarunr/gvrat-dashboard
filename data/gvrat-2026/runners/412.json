@@ -1126,35 +1126,35 @@
     },
     {
       "date": "2026-09-04",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 43.0,
+      "km": 69.2,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "ARFTA day 1"
     },
     {
       "date": "2026-09-05",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 37.0,
+      "km": 59.55,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "ARFTA day 2"
     },
     {
       "date": "2026-09-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 30.0,
+      "km": 48.28,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "ARFTA day 3"
     },
     {
       "date": "2026-09-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 15.0,
+      "km": 24.14,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "day 4 - final"
     },
     {
       "date": "2026-09-08",
@@ -1171,9 +1171,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-10",
+      "miles": 7.01,
+      "km": 11.28,
+      "type": "walk",
+      "time": null,
+      "comment": "Recovery walk"
     }
   ],
-  "totalActivities": 88,
-  "activeDays": 74,
-  "restDays": 58
+  "totalActivities": 93,
+  "activeDays": 79,
+  "restDays": 54
 }

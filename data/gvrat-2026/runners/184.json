@@ -1787,9 +1787,17 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and rest of day"
+    },
+    {
+      "date": "2026-09-10",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning walk and evening walk with the boys"
     }
   ],
-  "totalActivities": 223,
-  "activeDays": 132,
+  "totalActivities": 224,
+  "activeDays": 133,
   "restDays": 0
 }

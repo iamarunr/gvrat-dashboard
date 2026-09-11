@@ -1315,9 +1315,25 @@
       "type": "walk",
       "time": null,
       "comment": "Walking & Working"
+    },
+    {
+      "date": "2026-09-10",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking & Working"
+    },
+    {
+      "date": "2026-09-10",
+      "miles": 2.7,
+      "km": 4.35,
+      "type": "walk",
+      "time": null,
+      "comment": "Rec Park, Shippensburg"
     }
   ],
-  "totalActivities": 132,
-  "activeDays": 100,
+  "totalActivities": 134,
+  "activeDays": 101,
   "restDays": 32
 }

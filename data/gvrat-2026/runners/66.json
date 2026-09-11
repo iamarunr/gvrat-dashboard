@@ -1523,9 +1523,33 @@
       "type": "walk",
       "time": null,
       "comment": "Neighborhood laps."
+    },
+    {
+      "date": "2026-09-10",
+      "miles": 0.91,
+      "km": 1.46,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-09-10",
+      "miles": 5.23,
+      "km": 8.42,
+      "type": "run",
+      "time": null,
+      "comment": "Solo run at Dreamy Draw."
+    },
+    {
+      "date": "2026-09-10",
+      "miles": 1.44,
+      "km": 2.32,
+      "type": "walk",
+      "time": null,
+      "comment": "Neighborhood laps."
     }
   ],
-  "totalActivities": 181,
-  "activeDays": 123,
+  "totalActivities": 184,
+  "activeDays": 124,
   "restDays": 9
 }
