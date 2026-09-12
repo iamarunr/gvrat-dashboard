@@ -1371,9 +1371,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk"
+    },
+    {
+      "date": "2026-09-11",
+      "miles": 4.65,
+      "km": 7.48,
+      "type": "walk",
+      "time": null,
+      "comment": "Piestewa Summit & Freedom Trail Hike"
     }
   ],
-  "totalActivities": 151,
-  "activeDays": 113,
+  "totalActivities": 152,
+  "activeDays": 114,
   "restDays": 20
 }

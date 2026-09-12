@@ -1075,9 +1075,17 @@
       "type": "run",
       "time": null,
       "comment": "Urban trail"
+    },
+    {
+      "date": "2026-09-11",
+      "miles": 10.69,
+      "km": 17.2,
+      "type": "run",
+      "time": null,
+      "comment": "Parramatta river"
     }
   ],
-  "totalActivities": 86,
-  "activeDays": 85,
+  "totalActivities": 87,
+  "activeDays": 86,
   "restDays": 48
 }

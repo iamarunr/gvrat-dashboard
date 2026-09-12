@@ -1795,9 +1795,25 @@
       "type": "walk",
       "time": null,
       "comment": "Morning walk and evening walk with the boys"
+    },
+    {
+      "date": "2026-09-11",
+      "miles": 3.44,
+      "km": 5.54,
+      "type": "run",
+      "time": null,
+      "comment": "6x40 and 30/30 collegedale"
+    },
+    {
+      "date": "2026-09-11",
+      "miles": 2.56,
+      "km": 4.12,
+      "type": "walk",
+      "time": null,
+      "comment": "Cooldown walk and Costco"
     }
   ],
-  "totalActivities": 224,
-  "activeDays": 133,
+  "totalActivities": 226,
+  "activeDays": 134,
   "restDays": 0
 }

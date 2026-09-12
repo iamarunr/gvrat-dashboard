@@ -1843,9 +1843,17 @@
       "type": "walk",
       "time": null,
       "comment": "Dolomites AV-1 Day 5"
+    },
+    {
+      "date": "2026-09-11",
+      "miles": 10.85,
+      "km": 17.46,
+      "type": "walk",
+      "time": null,
+      "comment": "Dolomites Av-1 final descent."
     }
   ],
-  "totalActivities": 205,
-  "activeDays": 108,
+  "totalActivities": 206,
+  "activeDays": 109,
   "restDays": 25
 }

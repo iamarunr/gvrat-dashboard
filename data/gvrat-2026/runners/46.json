@@ -2294,14 +2294,38 @@
     },
     {
       "date": "2026-09-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.02,
+      "km": 3.25,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4113 Road Run"
+    },
+    {
+      "date": "2026-09-10",
+      "miles": 2.89,
+      "km": 4.65,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-11",
+      "miles": 2.03,
+      "km": 3.27,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4114 FPL loop Run"
+    },
+    {
+      "date": "2026-09-11",
+      "miles": 4.11,
+      "km": 6.61,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 286,
-  "activeDays": 132,
-  "restDays": 1
+  "totalActivities": 290,
+  "activeDays": 134,
+  "restDays": 0
 }

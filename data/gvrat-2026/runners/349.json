@@ -1510,14 +1510,22 @@
     },
     {
       "date": "2026-09-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 5.26,
+      "km": 8.47,
+      "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-11",
+      "miles": 5.89,
+      "km": 9.48,
+      "type": "walk",
+      "time": null,
+      "comment": "79th Birthday"
     }
   ],
-  "totalActivities": 185,
-  "activeDays": 129,
-  "restDays": 4
+  "totalActivities": 187,
+  "activeDays": 131,
+  "restDays": 3
 }

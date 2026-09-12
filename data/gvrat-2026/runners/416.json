@@ -1723,9 +1723,17 @@
       "type": "walk",
       "time": null,
       "comment": "Daily work steps"
+    },
+    {
+      "date": "2026-09-11",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 209,
   "activeDays": 127,
-  "restDays": 6
+  "restDays": 7
 }
