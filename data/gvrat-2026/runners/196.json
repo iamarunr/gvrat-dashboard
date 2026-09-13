@@ -1851,9 +1851,17 @@
       "type": "walk",
       "time": null,
       "comment": "Dolomites Av-1 final descent."
+    },
+    {
+      "date": "2026-09-12",
+      "miles": 3.63,
+      "km": 5.84,
+      "type": "run",
+      "time": null,
+      "comment": "Hotel Venice"
     }
   ],
-  "totalActivities": 206,
-  "activeDays": 109,
+  "totalActivities": 207,
+  "activeDays": 110,
   "restDays": 25
 }

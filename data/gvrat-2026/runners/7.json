@@ -1379,9 +1379,17 @@
       "type": "walk",
       "time": null,
       "comment": "Piestewa Summit & Freedom Trail Hike"
+    },
+    {
+      "date": "2026-09-12",
+      "miles": 8.75,
+      "km": 14.08,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk around Vistancia"
     }
   ],
-  "totalActivities": 152,
-  "activeDays": 114,
+  "totalActivities": 153,
+  "activeDays": 115,
   "restDays": 20
 }

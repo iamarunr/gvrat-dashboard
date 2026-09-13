@@ -1573,31 +1573,55 @@
       "comment": "0' ascent.  Treadmill intervals - 4/2 mins x8, plus 1.4 mi steady"
     },
     {
-      "date": "2026-09-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-09-08",
+      "miles": 3.1,
+      "km": 4.99,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "499' ascent.  Shundahai"
+    },
+    {
+      "date": "2026-09-09",
+      "miles": 8.08,
+      "km": 13.0,
+      "type": "run",
+      "time": null,
+      "comment": "1401' ascent.  Burnt, Peter Sinks, Rex, Little Bear, Sinks Rd"
     },
     {
       "date": "2026-09-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 11.01,
+      "km": 17.72,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "1014' ascent.  Round Valley"
+    },
+    {
+      "date": "2026-09-10",
+      "miles": 3.01,
+      "km": 4.84,
+      "type": "walk",
+      "time": null,
+      "comment": "358' ascent.  Mid Mountain (east)"
     },
     {
       "date": "2026-09-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 9.02,
+      "km": 14.52,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "1552' ascent.  9K, Bloods Lake, Bonanza Flats (BLT)"
+    },
+    {
+      "date": "2026-09-12",
+      "miles": 23.11,
+      "km": 37.19,
+      "type": "run",
+      "time": null,
+      "comment": "4160' ascent.  Wasatch Crest & lollipop loop around Little Water Peak"
     }
   ],
-  "totalActivities": 196,
-  "activeDays": 131,
-  "restDays": 3
+  "totalActivities": 202,
+  "activeDays": 135,
+  "restDays": 0
 }

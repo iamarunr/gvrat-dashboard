@@ -1334,14 +1334,30 @@
     },
     {
       "date": "2026-09-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walking & working"
+    },
+    {
+      "date": "2026-09-12",
+      "miles": 4.07,
+      "km": 6.55,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking & working"
+    },
+    {
+      "date": "2026-09-12",
+      "miles": 4.89,
+      "km": 7.87,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk for Water"
     }
   ],
-  "totalActivities": 134,
-  "activeDays": 101,
-  "restDays": 33
+  "totalActivities": 137,
+  "activeDays": 103,
+  "restDays": 32
 }

@@ -974,19 +974,19 @@
     },
     {
       "date": "2026-08-28",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Stretching out legs after driving home from VA"
+    },
+    {
+      "date": "2026-08-29",
       "miles": 5.0,
       "km": 8.05,
       "type": "walk",
       "time": null,
       "comment": "Neighborhood loop"
-    },
-    {
-      "date": "2026-08-29",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
-      "time": null,
-      "comment": ""
     },
     {
       "date": "2026-08-30",
@@ -1003,14 +1003,6 @@
       "type": "walk",
       "time": null,
       "comment": "Dog walk Crested Butte, CO."
-    },
-    {
-      "date": "2026-08-31",
-      "miles": 4.0,
-      "km": 6.44,
-      "type": "walk",
-      "time": null,
-      "comment": "Stretching out legs after driving home from VA"
     },
     {
       "date": "2026-08-31",
@@ -1066,7 +1058,7 @@
       "km": 9.19,
       "type": "walk",
       "time": null,
-      "comment": "Rode chairlift up and hiked1200 feet of downhill gently working my knee/quads."
+      "comment": "Rode chairlift up with Cheryl and hiked1200 feet of downhill."
     },
     {
       "date": "2026-09-05",
@@ -1106,7 +1098,7 @@
       "km": 11.43,
       "type": "walk",
       "time": null,
-      "comment": "Umbrella bar to prayer flags and return"
+      "comment": "Umbrella bar to prayer flags and return with Cheryl"
     },
     {
       "date": "2026-09-09",
@@ -1131,9 +1123,17 @@
       "type": "walk",
       "time": null,
       "comment": "Another hike in CO.  John, Scott and Teri"
+    },
+    {
+      "date": "2026-09-12",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 120,
-  "activeDays": 113,
+  "activeDays": 114,
   "restDays": 21
 }

@@ -1190,19 +1190,19 @@
     },
     {
       "date": "2026-09-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.7,
+      "km": 10.78,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": ".89+3.68+1.77+.36 =6.7"
     },
     {
       "date": "2026-09-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.9,
+      "km": 1.45,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "my Birthday, only a dog walk"
     },
     {
       "date": "2026-09-09",
@@ -1214,22 +1214,46 @@
     },
     {
       "date": "2026-09-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "airport"
+    },
+    {
+      "date": "2026-09-11",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "swim and walk"
+    },
+    {
+      "date": "2026-09-12",
+      "miles": 3.2,
+      "km": 5.15,
+      "type": "run",
       "time": null,
       "comment": ""
     },
     {
-      "date": "2026-09-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-09-12",
+      "miles": 1.54,
+      "km": 2.48,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "two dog walks"
+    },
+    {
+      "date": "2026-09-12",
+      "miles": 7.0,
+      "km": 11.27,
+      "type": "run",
+      "time": null,
+      "comment": "swim, bike, run Tri day!"
     }
   ],
-  "totalActivities": 145,
-  "activeDays": 126,
-  "restDays": 8
+  "totalActivities": 152,
+  "activeDays": 131,
+  "restDays": 4
 }
