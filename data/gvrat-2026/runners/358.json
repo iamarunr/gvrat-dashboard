@@ -1638,14 +1638,30 @@
     },
     {
       "date": "2026-09-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.31,
+      "km": 2.11,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-13",
+      "miles": 18.18,
+      "km": 29.26,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-13",
+      "miles": 1.01,
+      "km": 1.63,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 153,
-  "activeDays": 83,
-  "restDays": 52
+  "totalActivities": 156,
+  "activeDays": 85,
+  "restDays": 51
 }

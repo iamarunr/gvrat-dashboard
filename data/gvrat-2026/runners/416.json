@@ -1763,9 +1763,17 @@
       "type": "walk",
       "time": null,
       "comment": "Evening steps"
+    },
+    {
+      "date": "2026-09-13",
+      "miles": 3.28,
+      "km": 5.28,
+      "type": "walk",
+      "time": null,
+      "comment": "Sunday morning steps"
     }
   ],
-  "totalActivities": 214,
-  "activeDays": 129,
+  "totalActivities": 215,
+  "activeDays": 130,
   "restDays": 6
 }

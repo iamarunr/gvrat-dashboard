@@ -1859,9 +1859,17 @@
       "type": "run",
       "time": null,
       "comment": "Hotel Venice"
+    },
+    {
+      "date": "2026-09-13",
+      "miles": 2.62,
+      "km": 4.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Airport Dulles walk."
     }
   ],
-  "totalActivities": 207,
-  "activeDays": 110,
+  "totalActivities": 208,
+  "activeDays": 111,
   "restDays": 25
 }

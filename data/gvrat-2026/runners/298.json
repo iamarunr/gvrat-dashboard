@@ -1347,9 +1347,17 @@
       "type": "walk",
       "time": null,
       "comment": "Dog Walk with Richard and airport walking"
+    },
+    {
+      "date": "2026-09-13",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 120,
   "activeDays": 87,
-  "restDays": 48
+  "restDays": 49
 }

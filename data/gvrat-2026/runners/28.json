@@ -1062,11 +1062,11 @@
     },
     {
       "date": "2026-09-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.17,
+      "km": 1.88,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Walked granddog."
     },
     {
       "date": "2026-09-08",
@@ -1107,9 +1107,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-13",
+      "miles": 7.57,
+      "km": 12.18,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk/run. Tweaked knee 3 miles in."
     }
   ],
-  "totalActivities": 75,
-  "activeDays": 72,
-  "restDays": 63
+  "totalActivities": 77,
+  "activeDays": 74,
+  "restDays": 62
 }

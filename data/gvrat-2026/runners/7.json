@@ -1387,9 +1387,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk around Vistancia"
+    },
+    {
+      "date": "2026-09-13",
+      "miles": 4.2,
+      "km": 6.76,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk"
     }
   ],
-  "totalActivities": 153,
-  "activeDays": 115,
+  "totalActivities": 154,
+  "activeDays": 116,
   "restDays": 20
 }

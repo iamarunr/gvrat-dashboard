@@ -1827,9 +1827,17 @@
       "type": "walk",
       "time": null,
       "comment": "Cooldown walk and rehab center"
+    },
+    {
+      "date": "2026-09-13",
+      "miles": 6.21,
+      "km": 9.99,
+      "type": "run",
+      "time": null,
+      "comment": "10k at enterprise Sunday morning for the badge and finish up Region 3 on this 13th day of September"
     }
   ],
-  "totalActivities": 228,
-  "activeDays": 135,
+  "totalActivities": 229,
+  "activeDays": 136,
   "restDays": 0
 }

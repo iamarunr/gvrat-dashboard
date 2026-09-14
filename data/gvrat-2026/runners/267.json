@@ -1510,54 +1510,102 @@
     },
     {
       "date": "2026-09-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-07",
+      "miles": 1.85,
+      "km": 2.98,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-09-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.01,
+      "km": 6.45,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-08",
+      "miles": 1.03,
+      "km": 1.66,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-08",
+      "miles": 0.48,
+      "km": 0.77,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-09-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.51,
+      "km": 2.43,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-09-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.01,
+      "km": 6.45,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-10",
+      "miles": 1.01,
+      "km": 1.63,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-09-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.01,
+      "km": 4.84,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-11",
+      "miles": 1.01,
+      "km": 1.63,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-09-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 8.0,
+      "km": 12.87,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-13",
+      "miles": 2.03,
+      "km": 3.27,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 184,
-  "activeDays": 125,
-  "restDays": 10
+  "totalActivities": 196,
+  "activeDays": 132,
+  "restDays": 4
 }

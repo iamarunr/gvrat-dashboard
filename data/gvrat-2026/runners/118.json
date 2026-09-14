@@ -1355,9 +1355,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk for Water"
+    },
+    {
+      "date": "2026-09-13",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 137,
   "activeDays": 103,
-  "restDays": 32
+  "restDays": 33
 }

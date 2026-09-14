@@ -1070,11 +1070,11 @@
     },
     {
       "date": "2026-09-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 63.8,
+      "km": 102.68,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Lost Soul Ultra - 100km"
     },
     {
       "date": "2026-09-12",
@@ -1083,9 +1083,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-13",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 66,
-  "activeDays": 66,
+  "totalActivities": 67,
+  "activeDays": 67,
   "restDays": 69
 }
