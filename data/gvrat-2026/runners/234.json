@@ -1525,63 +1525,111 @@
       "comment": "Tony Grove Up and Down"
     },
     {
-      "date": "2026-09-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "date": "2026-09-06",
+      "miles": 2.07,
+      "km": 3.33,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Post hard run hike in Garden City"
+    },
+    {
+      "date": "2026-09-07",
+      "miles": 8.16,
+      "km": 13.13,
+      "type": "run",
+      "time": null,
+      "comment": "Franklin Basin with Terri"
     },
     {
       "date": "2026-09-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.84,
+      "km": 6.18,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Small Sweetwater Lollipop"
     },
     {
       "date": "2026-09-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.6,
+      "km": 4.18,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Playa Flamingo"
+    },
+    {
+      "date": "2026-09-09",
+      "miles": 1.15,
+      "km": 1.85,
+      "type": "walk",
+      "time": null,
+      "comment": "Interval walk"
     },
     {
       "date": "2026-09-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.68,
+      "km": 4.31,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Playa Ostinal"
+    },
+    {
+      "date": "2026-09-10",
+      "miles": 1.02,
+      "km": 1.64,
+      "type": "walk",
+      "time": null,
+      "comment": "Millenium Trail"
     },
     {
       "date": "2026-09-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.31,
+      "km": 5.33,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Park City Rail Trail"
     },
     {
       "date": "2026-09-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 13.69,
+      "km": 22.03,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "Revel Big Cottonwood Half Marathon"
     },
     {
       "date": "2026-09-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.15,
+      "km": 5.07,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Recovery Hike in Round Valley"
+    },
+    {
+      "date": "2026-09-13",
+      "miles": 1.89,
+      "km": 3.04,
+      "type": "walk",
+      "time": null,
+      "comment": "Silver Lake Area Hike with Terri"
+    },
+    {
+      "date": "2026-09-14",
+      "miles": 3.29,
+      "km": 5.29,
+      "type": "run",
+      "time": null,
+      "comment": "Recovery 5K on Park City Rail Trail"
+    },
+    {
+      "date": "2026-09-14",
+      "miles": 2.55,
+      "km": 4.1,
+      "type": "walk",
+      "time": null,
+      "comment": "Mid Mountain Trail with Terri"
     }
   ],
-  "totalActivities": 187,
-  "activeDays": 126,
-  "restDays": 10
+  "totalActivities": 200,
+  "activeDays": 134,
+  "restDays": 3
 }

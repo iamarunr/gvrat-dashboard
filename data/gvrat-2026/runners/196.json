@@ -1867,9 +1867,17 @@
       "type": "walk",
       "time": null,
       "comment": "Airport Dulles walk."
+    },
+    {
+      "date": "2026-09-14",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 208,
   "activeDays": 111,
-  "restDays": 25
+  "restDays": 26
 }

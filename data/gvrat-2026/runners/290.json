@@ -1030,62 +1030,70 @@
     },
     {
       "date": "2026-09-06",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.6,
+      "km": 7.4,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "On the struggle bus. My limping is more pronounced. \ud83d\ude16\ud83d\ude13"
     },
     {
       "date": "2026-09-07",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.4,
+      "km": 10.3,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Happy to be able to be on my feet for this long despite how slow I am. Still limping."
     },
     {
       "date": "2026-09-08",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.7,
+      "km": 10.78,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "\ud83e\udee4"
     },
     {
       "date": "2026-09-09",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.2,
+      "km": 6.76,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "\ud83e\udee9"
     },
     {
       "date": "2026-09-10",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.5,
+      "km": 7.24,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "\ud83e\udee4"
     },
     {
       "date": "2026-09-11",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.4,
+      "km": 7.08,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "\ud83e\udd17"
     },
     {
       "date": "2026-09-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.8,
+      "km": 2.9,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Exhausted and limping way too much. Trying to regain the muscle but it\u2019s SLOW GOING. \ud83d\ude16"
     },
     {
       "date": "2026-09-13",
+      "miles": 2.9,
+      "km": 4.67,
+      "type": "walk",
+      "time": null,
+      "comment": "\ud83d\ude4f\ud83c\udffb\u2665\ufe0f"
+    },
+    {
+      "date": "2026-09-14",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -1093,7 +1101,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 124,
-  "activeDays": 124,
-  "restDays": 12
+  "totalActivities": 132,
+  "activeDays": 132,
+  "restDays": 5
 }

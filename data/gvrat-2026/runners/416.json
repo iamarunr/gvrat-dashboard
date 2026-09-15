@@ -1771,9 +1771,33 @@
       "type": "walk",
       "time": null,
       "comment": "Sunday morning steps"
+    },
+    {
+      "date": "2026-09-13",
+      "miles": 3.25,
+      "km": 5.23,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill walk"
+    },
+    {
+      "date": "2026-09-13",
+      "miles": 2.06,
+      "km": 3.32,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening steps"
+    },
+    {
+      "date": "2026-09-14",
+      "miles": 1.02,
+      "km": 1.64,
+      "type": "walk",
+      "time": null,
+      "comment": "Night walk with Peach"
     }
   ],
-  "totalActivities": 215,
-  "activeDays": 130,
+  "totalActivities": 218,
+  "activeDays": 131,
   "restDays": 6
 }
