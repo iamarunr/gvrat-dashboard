@@ -1094,6 +1094,14 @@
     },
     {
       "date": "2026-09-14",
+      "miles": 7.8,
+      "km": 12.55,
+      "type": "walk",
+      "time": null,
+      "comment": "Pushed myself more today than in the last 10 months. Limping and exhausted but feeling accomplished."
+    },
+    {
+      "date": "2026-09-15",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -1101,7 +1109,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 132,
-  "activeDays": 132,
+  "totalActivities": 133,
+  "activeDays": 133,
   "restDays": 5
 }

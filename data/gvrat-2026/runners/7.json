@@ -1403,9 +1403,33 @@
       "type": "walk",
       "time": null,
       "comment": "Telegraph - Out and Back"
+    },
+    {
+      "date": "2026-09-15",
+      "miles": 3.1,
+      "km": 4.99,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk"
+    },
+    {
+      "date": "2026-09-15",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk"
+    },
+    {
+      "date": "2026-09-15",
+      "miles": 3.6,
+      "km": 5.79,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening Walk (+walgreens)"
     }
   ],
-  "totalActivities": 155,
-  "activeDays": 117,
+  "totalActivities": 158,
+  "activeDays": 118,
   "restDays": 20
 }

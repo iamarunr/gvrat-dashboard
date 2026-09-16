@@ -1371,9 +1371,25 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-15",
+      "miles": 1.61,
+      "km": 2.59,
+      "type": "walk",
+      "time": null,
+      "comment": "Mountain View Avenue Loops"
+    },
+    {
+      "date": "2026-09-15",
+      "miles": 4.7,
+      "km": 7.56,
+      "type": "walk",
+      "time": null,
+      "comment": "Roanoke River Greenway Trail"
     }
   ],
-  "totalActivities": 137,
-  "activeDays": 103,
+  "totalActivities": 139,
+  "activeDays": 104,
   "restDays": 34
 }

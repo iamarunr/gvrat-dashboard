@@ -1619,9 +1619,17 @@
       "type": "run",
       "time": null,
       "comment": "Solo run at SoMo."
+    },
+    {
+      "date": "2026-09-15",
+      "miles": 0.89,
+      "km": 1.43,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs."
     }
   ],
-  "totalActivities": 193,
-  "activeDays": 128,
+  "totalActivities": 194,
+  "activeDays": 129,
   "restDays": 9
 }

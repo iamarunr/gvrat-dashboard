@@ -1814,30 +1814,70 @@
     },
     {
       "date": "2026-09-12",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.08,
+      "km": 4.96,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-09-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.02,
+      "km": 4.86,
+      "type": "walk",
       "time": null,
       "comment": ""
     },
     {
       "date": "2026-09-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.05,
+      "km": 4.91,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-14",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Desk Treadmill Steps"
+    },
+    {
+      "date": "2026-09-14",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-15",
+      "miles": 1.35,
+      "km": 2.17,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-15",
+      "miles": 1.51,
+      "km": 2.43,
+      "type": "walk",
+      "time": null,
+      "comment": "Desk Treadmill Steps"
+    },
+    {
+      "date": "2026-09-15",
+      "miles": 3.03,
+      "km": 4.88,
+      "type": "walk",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 220,
-  "activeDays": 128,
-  "restDays": 9
+  "totalActivities": 228,
+  "activeDays": 132,
+  "restDays": 6
 }

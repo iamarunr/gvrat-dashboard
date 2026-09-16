@@ -1294,14 +1294,38 @@
     },
     {
       "date": "2026-09-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.99,
+      "km": 6.42,
+      "type": "walk",
+      "time": null,
+      "comment": "weighted ruck"
+    },
+    {
+      "date": "2026-09-14",
+      "miles": 2.04,
+      "km": 3.28,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-15",
+      "miles": 4.7,
+      "km": 7.56,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-15",
+      "miles": 2.32,
+      "km": 3.73,
+      "type": "run",
       "time": null,
       "comment": ""
     }
   ],
-  "totalActivities": 128,
-  "activeDays": 103,
-  "restDays": 34
+  "totalActivities": 132,
+  "activeDays": 105,
+  "restDays": 33
 }
