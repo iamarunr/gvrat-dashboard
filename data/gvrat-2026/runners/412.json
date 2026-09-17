@@ -1227,9 +1227,17 @@
       "type": "walk",
       "time": null,
       "comment": "Gorge loop/Centennial trail"
+    },
+    {
+      "date": "2026-09-16",
+      "miles": 5.14,
+      "km": 8.27,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 96,
-  "activeDays": 81,
+  "totalActivities": 97,
+  "activeDays": 82,
   "restDays": 57
 }

@@ -2374,14 +2374,30 @@
     },
     {
       "date": "2026-09-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.02,
+      "km": 4.86,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4118 - FPL loop Run"
+    },
+    {
+      "date": "2026-09-15",
+      "miles": 2.96,
+      "km": 4.76,
+      "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-16",
+      "miles": 3.02,
+      "km": 4.86,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4119 - treadmill run .. hate it but all the heat and sun has me feeling sick after I run, so I had to go indoors"
     }
   ],
-  "totalActivities": 296,
-  "activeDays": 137,
-  "restDays": 1
+  "totalActivities": 299,
+  "activeDays": 139,
+  "restDays": 0
 }

@@ -1819,9 +1819,33 @@
       "type": "walk",
       "time": null,
       "comment": "Night walk \ud83c\udf19"
+    },
+    {
+      "date": "2026-09-16",
+      "miles": 1.21,
+      "km": 1.95,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning steps"
+    },
+    {
+      "date": "2026-09-16",
+      "miles": 1.18,
+      "km": 1.9,
+      "type": "walk",
+      "time": null,
+      "comment": "Lunch steps"
+    },
+    {
+      "date": "2026-09-16",
+      "miles": 4.79,
+      "km": 7.71,
+      "type": "walk",
+      "time": null,
+      "comment": "Evening steps \u2614\ufe0f"
     }
   ],
-  "totalActivities": 221,
-  "activeDays": 132,
+  "totalActivities": 224,
+  "activeDays": 133,
   "restDays": 6
 }

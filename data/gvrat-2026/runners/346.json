@@ -1622,30 +1622,78 @@
     },
     {
       "date": "2026-09-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.06,
+      "km": 9.75,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "292' ascent.  Willow Draw Open Space from Farm TH"
+    },
+    {
+      "date": "2026-09-13",
+      "miles": 1.24,
+      "km": 2.0,
+      "type": "walk",
+      "time": null,
+      "comment": "112' ascent.  Deer Valley Cafe & Ponds"
+    },
+    {
+      "date": "2026-09-13",
+      "miles": 1.87,
+      "km": 3.01,
+      "type": "walk",
+      "time": null,
+      "comment": "194' ascent.  Silver Lake area w/ Rick"
     },
     {
       "date": "2026-09-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 10.25,
+      "km": 16.5,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "3360' ascent.  Brighton - Alta lollipop"
+    },
+    {
+      "date": "2026-09-14",
+      "miles": 2.48,
+      "km": 3.99,
+      "type": "walk",
+      "time": null,
+      "comment": "289' ascent.  Mid Mountain (east) w/ Rick"
     },
     {
       "date": "2026-09-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.0,
+      "km": 9.66,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "302' ascent.  Park City Union Pacific rail trail"
+    },
+    {
+      "date": "2026-09-15",
+      "miles": 3.81,
+      "km": 6.13,
+      "type": "walk",
+      "time": null,
+      "comment": "699' ascent.  9K - Bonanza Flats w/ Rick"
+    },
+    {
+      "date": "2026-09-16",
+      "miles": 12.81,
+      "km": 20.62,
+      "type": "run",
+      "time": null,
+      "comment": "1893' ascent.  Tall T & WOW trails"
+    },
+    {
+      "date": "2026-09-16",
+      "miles": 4.26,
+      "km": 6.86,
+      "type": "walk",
+      "time": null,
+      "comment": "587' ascent.  Maple Grove Trail w/ Rick"
     }
   ],
-  "totalActivities": 202,
-  "activeDays": 135,
-  "restDays": 3
+  "totalActivities": 211,
+  "activeDays": 139,
+  "restDays": 0
 }

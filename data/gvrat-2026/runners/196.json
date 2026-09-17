@@ -1883,9 +1883,33 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-16",
+      "miles": 1.33,
+      "km": 2.14,
+      "type": "walk",
+      "time": null,
+      "comment": "TM"
+    },
+    {
+      "date": "2026-09-16",
+      "miles": 1.55,
+      "km": 2.49,
+      "type": "walk",
+      "time": null,
+      "comment": "Spin in the hood"
+    },
+    {
+      "date": "2026-09-16",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Goodnight."
     }
   ],
-  "totalActivities": 208,
-  "activeDays": 111,
+  "totalActivities": 211,
+  "activeDays": 112,
   "restDays": 27
 }

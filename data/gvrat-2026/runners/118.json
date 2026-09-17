@@ -1387,9 +1387,33 @@
       "type": "walk",
       "time": null,
       "comment": "Roanoke River Greenway Trail"
+    },
+    {
+      "date": "2026-09-16",
+      "miles": 3.17,
+      "km": 5.1,
+      "type": "walk",
+      "time": null,
+      "comment": "Good morning Marion"
+    },
+    {
+      "date": "2026-09-16",
+      "miles": 4.58,
+      "km": 7.37,
+      "type": "walk",
+      "time": null,
+      "comment": "Gatlinburg Walkabout"
+    },
+    {
+      "date": "2026-09-16",
+      "miles": 1.53,
+      "km": 2.46,
+      "type": "walk",
+      "time": null,
+      "comment": "To/from dinner"
     }
   ],
-  "totalActivities": 139,
-  "activeDays": 104,
+  "totalActivities": 142,
+  "activeDays": 105,
   "restDays": 34
 }

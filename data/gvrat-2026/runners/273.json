@@ -1451,9 +1451,17 @@
       "type": "walk",
       "time": null,
       "comment": "NYC walking."
+    },
+    {
+      "date": "2026-09-16",
+      "miles": 5.0,
+      "km": 8.05,
+      "type": "walk",
+      "time": null,
+      "comment": "Nyc walking"
     }
   ],
-  "totalActivities": 166,
-  "activeDays": 123,
+  "totalActivities": 167,
+  "activeDays": 124,
   "restDays": 15
 }
