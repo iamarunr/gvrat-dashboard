@@ -1254,38 +1254,46 @@
     },
     {
       "date": "2026-09-13",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 0.5,
+      "km": 0.8,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "light day following triathlon"
     },
     {
       "date": "2026-09-14",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.6,
+      "km": 4.18,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "mornng walk and Fit Club"
     },
     {
       "date": "2026-09-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.7,
+      "km": 4.35,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "morning walk and pickleball"
     },
     {
       "date": "2026-09-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.5,
+      "km": 7.24,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "two duck pond walks, spin"
+    },
+    {
+      "date": "2026-09-17",
+      "miles": 2.35,
+      "km": 3.78,
+      "type": "walk",
+      "time": null,
+      "comment": "short morning walk and barre"
     }
   ],
-  "totalActivities": 152,
-  "activeDays": 131,
-  "restDays": 8
+  "totalActivities": 157,
+  "activeDays": 136,
+  "restDays": 4
 }

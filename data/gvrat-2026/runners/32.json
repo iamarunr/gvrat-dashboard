@@ -1331,9 +1331,17 @@
       "type": "walk",
       "time": null,
       "comment": "Extra walking at work."
+    },
+    {
+      "date": "2026-09-17",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 137,
   "activeDays": 110,
-  "restDays": 29
+  "restDays": 30
 }

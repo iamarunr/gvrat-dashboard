@@ -1451,9 +1451,41 @@
       "type": "walk",
       "time": null,
       "comment": "Evening walk"
+    },
+    {
+      "date": "2026-09-17",
+      "miles": 0.7,
+      "km": 1.13,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning break walk"
+    },
+    {
+      "date": "2026-09-17",
+      "miles": 3.05,
+      "km": 4.91,
+      "type": "walk",
+      "time": null,
+      "comment": "Helilpad Hike"
+    },
+    {
+      "date": "2026-09-17",
+      "miles": 0.33,
+      "km": 0.53,
+      "type": "walk",
+      "time": null,
+      "comment": "Pre-strength warm up walk"
+    },
+    {
+      "date": "2026-09-17",
+      "miles": 1.02,
+      "km": 1.64,
+      "type": "walk",
+      "time": null,
+      "comment": "afternoon stroll"
     }
   ],
-  "totalActivities": 161,
-  "activeDays": 119,
+  "totalActivities": 165,
+  "activeDays": 120,
   "restDays": 20
 }

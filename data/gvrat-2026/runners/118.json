@@ -1411,9 +1411,33 @@
       "type": "walk",
       "time": null,
       "comment": "To/from dinner"
+    },
+    {
+      "date": "2026-09-17",
+      "miles": 4.31,
+      "km": 6.94,
+      "type": "walk",
+      "time": null,
+      "comment": "Good morning Gatlinburg"
+    },
+    {
+      "date": "2026-09-17",
+      "miles": 5.95,
+      "km": 9.58,
+      "type": "walk",
+      "time": null,
+      "comment": "Best Western to Cataract Falls Out & Back"
+    },
+    {
+      "date": "2026-09-17",
+      "miles": 2.04,
+      "km": 3.28,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk to/from dinner at the Peddler"
     }
   ],
-  "totalActivities": 142,
-  "activeDays": 105,
+  "totalActivities": 145,
+  "activeDays": 106,
   "restDays": 34
 }

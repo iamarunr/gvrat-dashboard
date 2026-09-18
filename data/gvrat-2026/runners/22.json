@@ -1163,9 +1163,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-17",
+      "miles": 6.14,
+      "km": 9.88,
+      "type": "run",
+      "time": null,
+      "comment": "Switchyard Park to Church Lane Bridge."
     }
   ],
-  "totalActivities": 136,
-  "activeDays": 130,
+  "totalActivities": 137,
+  "activeDays": 131,
   "restDays": 9
 }

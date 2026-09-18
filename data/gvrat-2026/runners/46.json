@@ -2395,9 +2395,25 @@
       "type": "run",
       "time": null,
       "comment": "RSD 4119 - treadmill run .. hate it but all the heat and sun has me feeling sick after I run, so I had to go indoors"
+    },
+    {
+      "date": "2026-09-16",
+      "miles": 2.59,
+      "km": 4.17,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-17",
+      "miles": 4.03,
+      "km": 6.49,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4120 - dirt loop Run"
     }
   ],
-  "totalActivities": 299,
-  "activeDays": 139,
+  "totalActivities": 301,
+  "activeDays": 140,
   "restDays": 0
 }

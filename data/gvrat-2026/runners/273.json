@@ -1459,9 +1459,17 @@
       "type": "walk",
       "time": null,
       "comment": "Nyc walking"
+    },
+    {
+      "date": "2026-09-17",
+      "miles": 4.2,
+      "km": 6.76,
+      "type": "walk",
+      "time": null,
+      "comment": "Tercera Island. And airports"
     }
   ],
-  "totalActivities": 167,
-  "activeDays": 124,
+  "totalActivities": 168,
+  "activeDays": 125,
   "restDays": 15
 }
