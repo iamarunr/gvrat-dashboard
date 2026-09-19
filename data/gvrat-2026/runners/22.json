@@ -1171,9 +1171,17 @@
       "type": "run",
       "time": null,
       "comment": "Switchyard Park to Church Lane Bridge."
+    },
+    {
+      "date": "2026-09-18",
+      "miles": 4.12,
+      "km": 6.63,
+      "type": "run",
+      "time": null,
+      "comment": "B-Line North of 10th st."
     }
   ],
-  "totalActivities": 137,
-  "activeDays": 131,
+  "totalActivities": 138,
+  "activeDays": 132,
   "restDays": 9
 }

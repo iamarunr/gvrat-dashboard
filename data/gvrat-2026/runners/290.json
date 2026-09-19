@@ -1102,22 +1102,30 @@
     },
     {
       "date": "2026-09-15",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 7.8,
+      "km": 12.55,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "I\u2019m trying my best to push myself. My body is not cooperating. Doing my best not to quit."
     },
     {
       "date": "2026-09-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.5,
+      "km": 7.24,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "All I could manage today. Limping\u2026"
     },
     {
       "date": "2026-09-17",
+      "miles": 7.0,
+      "km": 11.27,
+      "type": "walk",
+      "time": null,
+      "comment": "Today was rough. West and neighborhood miles. Feel like I\u2019m catching the flu. Body is rundown. \ud83d\ude30\ud83d\ude2d\ud83d\udc94"
+    },
+    {
+      "date": "2026-09-18",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -1125,7 +1133,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 133,
-  "activeDays": 133,
-  "restDays": 7
+  "totalActivities": 136,
+  "activeDays": 136,
+  "restDays": 5
 }

@@ -1483,9 +1483,25 @@
       "type": "walk",
       "time": null,
       "comment": "afternoon stroll"
+    },
+    {
+      "date": "2026-09-18",
+      "miles": 4.31,
+      "km": 6.94,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk"
+    },
+    {
+      "date": "2026-09-18",
+      "miles": 0.72,
+      "km": 1.16,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning break walk"
     }
   ],
-  "totalActivities": 165,
-  "activeDays": 120,
+  "totalActivities": 167,
+  "activeDays": 121,
   "restDays": 20
 }

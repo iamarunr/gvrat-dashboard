@@ -1435,9 +1435,25 @@
       "type": "walk",
       "time": null,
       "comment": "Walk to/from dinner at the Peddler"
+    },
+    {
+      "date": "2026-09-18",
+      "miles": 2.9,
+      "km": 4.67,
+      "type": "walk",
+      "time": null,
+      "comment": "Good morning Gatlinburg"
+    },
+    {
+      "date": "2026-09-18",
+      "miles": 3.86,
+      "km": 6.21,
+      "type": "walk",
+      "time": null,
+      "comment": "Gatlinburg Walkabout"
     }
   ],
-  "totalActivities": 145,
-  "activeDays": 106,
+  "totalActivities": 147,
+  "activeDays": 107,
   "restDays": 34
 }

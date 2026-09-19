@@ -1286,22 +1286,30 @@
     },
     {
       "date": "2026-09-16",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.55,
+      "km": 2.49,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "two dog walks and pumping up walking"
     },
     {
       "date": "2026-09-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 1.62,
+      "km": 2.61,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "two dog walks"
+    },
+    {
+      "date": "2026-09-18",
+      "miles": 1.43,
+      "km": 2.3,
+      "type": "walk",
+      "time": null,
+      "comment": "two dog walks"
     }
   ],
-  "totalActivities": 149,
-  "activeDays": 127,
-  "restDays": 13
+  "totalActivities": 152,
+  "activeDays": 130,
+  "restDays": 11
 }

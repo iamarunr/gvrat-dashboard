@@ -1499,9 +1499,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-18",
+      "miles": 3.83,
+      "km": 6.16,
+      "type": "walk",
+      "time": null,
+      "comment": "Office-Columbia CC Loop"
     }
   ],
-  "totalActivities": 154,
-  "activeDays": 107,
+  "totalActivities": 155,
+  "activeDays": 108,
   "restDays": 33
 }

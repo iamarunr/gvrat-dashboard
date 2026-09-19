@@ -2411,9 +2411,25 @@
       "type": "run",
       "time": null,
       "comment": "RSD 4120 - dirt loop Run"
+    },
+    {
+      "date": "2026-09-17",
+      "miles": 3.27,
+      "km": 5.26,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-18",
+      "miles": 1.02,
+      "km": 1.64,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4121 - short Trail Run"
     }
   ],
-  "totalActivities": 301,
-  "activeDays": 140,
+  "totalActivities": 303,
+  "activeDays": 141,
   "restDays": 0
 }
