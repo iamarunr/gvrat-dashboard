@@ -2427,9 +2427,25 @@
       "type": "run",
       "time": null,
       "comment": "RSD 4121 - short Trail Run"
+    },
+    {
+      "date": "2026-09-18",
+      "miles": 6.48,
+      "km": 10.43,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-19",
+      "miles": 5.03,
+      "km": 8.09,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4122 Greer Hill Mineola Rd Run"
     }
   ],
-  "totalActivities": 303,
-  "activeDays": 141,
+  "totalActivities": 305,
+  "activeDays": 142,
   "restDays": 0
 }

@@ -1267,9 +1267,17 @@
       "type": "run",
       "time": null,
       "comment": "hit & hills tm + walk"
+    },
+    {
+      "date": "2026-09-19",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 80,
   "activeDays": 63,
-  "restDays": 78
+  "restDays": 79
 }

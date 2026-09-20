@@ -1395,9 +1395,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-19",
+      "miles": 1.75,
+      "km": 2.82,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk with P at FM and around pond"
     }
   ],
-  "totalActivities": 122,
-  "activeDays": 89,
+  "totalActivities": 123,
+  "activeDays": 90,
   "restDays": 52
 }

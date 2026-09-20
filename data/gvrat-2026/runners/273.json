@@ -1475,9 +1475,17 @@
       "type": "walk",
       "time": null,
       "comment": "2 hikes and dinner walk"
+    },
+    {
+      "date": "2026-09-19",
+      "miles": 7.1,
+      "km": 11.43,
+      "type": "walk",
+      "time": null,
+      "comment": "4.9 mile hike and the dinner in town and back."
     }
   ],
-  "totalActivities": 169,
-  "activeDays": 126,
+  "totalActivities": 170,
+  "activeDays": 127,
   "restDays": 15
 }

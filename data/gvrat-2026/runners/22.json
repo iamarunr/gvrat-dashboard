@@ -1179,9 +1179,17 @@
       "type": "run",
       "time": null,
       "comment": "B-Line North of 10th st."
+    },
+    {
+      "date": "2026-09-19",
+      "miles": 4.2,
+      "km": 6.76,
+      "type": "run",
+      "time": null,
+      "comment": "Switchyard Park - 2 loops."
     }
   ],
-  "totalActivities": 138,
-  "activeDays": 132,
+  "totalActivities": 139,
+  "activeDays": 133,
   "restDays": 9
 }

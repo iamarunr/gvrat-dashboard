@@ -1179,9 +1179,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-19",
+      "miles": 10.17,
+      "km": 16.37,
+      "type": "walk",
+      "time": null,
+      "comment": "Completed loop;  4/13/25 was the last time I was able to do it\u2026clawing my way back."
     }
   ],
-  "totalActivities": 125,
-  "activeDays": 119,
+  "totalActivities": 126,
+  "activeDays": 120,
   "restDays": 22
 }
