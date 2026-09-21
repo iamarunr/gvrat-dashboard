@@ -1507,9 +1507,25 @@
       "type": "run",
       "time": null,
       "comment": "pre parkrun"
+    },
+    {
+      "date": "2026-09-20",
+      "miles": 13.12,
+      "km": 21.11,
+      "type": "run",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-20",
+      "miles": 1.86,
+      "km": 2.99,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 153,
-  "activeDays": 107,
+  "totalActivities": 155,
+  "activeDays": 108,
   "restDays": 35
 }

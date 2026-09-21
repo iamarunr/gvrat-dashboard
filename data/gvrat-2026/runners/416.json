@@ -1797,6 +1797,14 @@
       "comment": "Night walk with Peach"
     },
     {
+      "date": "2026-09-14",
+      "miles": 3.21,
+      "km": 5.17,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily work miles"
+    },
+    {
       "date": "2026-09-15",
       "miles": 2.19,
       "km": 3.52,
@@ -1845,6 +1853,14 @@
       "comment": "Evening steps \u2614\ufe0f"
     },
     {
+      "date": "2026-09-16",
+      "miles": 1.02,
+      "km": 1.64,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily work miles"
+    },
+    {
       "date": "2026-09-17",
       "miles": 1.62,
       "km": 2.61,
@@ -1859,6 +1875,14 @@
       "type": "walk",
       "time": null,
       "comment": "Walking pad and Big Brother"
+    },
+    {
+      "date": "2026-09-17",
+      "miles": 2.47,
+      "km": 3.98,
+      "type": "walk",
+      "time": null,
+      "comment": "Daily work steps"
     },
     {
       "date": "2026-09-18",
@@ -1899,9 +1923,41 @@
       "type": "walk",
       "time": null,
       "comment": "Night steps"
+    },
+    {
+      "date": "2026-09-20",
+      "miles": 5.58,
+      "km": 8.98,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning steps"
+    },
+    {
+      "date": "2026-09-20",
+      "miles": 2.0,
+      "km": 3.22,
+      "type": "walk",
+      "time": null,
+      "comment": "Shopping steps"
+    },
+    {
+      "date": "2026-09-20",
+      "miles": 3.53,
+      "km": 5.68,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-09-20",
+      "miles": 2.02,
+      "km": 3.25,
+      "type": "walk",
+      "time": null,
+      "comment": "Night steps"
     }
   ],
-  "totalActivities": 231,
-  "activeDays": 136,
+  "totalActivities": 238,
+  "activeDays": 137,
   "restDays": 6
 }

@@ -1126,14 +1126,22 @@
     },
     {
       "date": "2026-09-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 6.8,
+      "km": 10.94,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Incredibly difficult to walk this much. 7 years ago I would have RUN this mileage after a long day at work no problem. \ud83d\ude16"
     },
     {
       "date": "2026-09-19",
+      "miles": 7.6,
+      "km": 12.23,
+      "type": "walk",
+      "time": null,
+      "comment": "Very weak and shaky today. Incredibly slow. Not sure I\u2019ll make the cutoff. Hips are screaming."
+    },
+    {
+      "date": "2026-09-20",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -1141,7 +1149,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 136,
-  "activeDays": 136,
-  "restDays": 6
+  "totalActivities": 138,
+  "activeDays": 138,
+  "restDays": 5
 }

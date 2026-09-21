@@ -1939,9 +1939,25 @@
       "type": "walk",
       "time": null,
       "comment": "tm"
+    },
+    {
+      "date": "2026-09-20",
+      "miles": 4.56,
+      "km": 7.34,
+      "type": "walk",
+      "time": null,
+      "comment": "Wilson park with MP"
+    },
+    {
+      "date": "2026-09-20",
+      "miles": 2.44,
+      "km": 3.93,
+      "type": "walk",
+      "time": null,
+      "comment": "TM"
     }
   ],
-  "totalActivities": 213,
-  "activeDays": 113,
+  "totalActivities": 215,
+  "activeDays": 114,
   "restDays": 29
 }

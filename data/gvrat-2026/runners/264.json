@@ -1510,6 +1510,14 @@
     },
     {
       "date": "2026-09-19",
+      "miles": 7.02,
+      "km": 11.3,
+      "type": "run",
+      "time": null,
+      "comment": "SHMP Long Run: Aspen Hill Park-Needwood"
+    },
+    {
+      "date": "2026-09-20",
       "miles": 0.0,
       "km": 0.0,
       "type": "rest",
@@ -1517,7 +1525,7 @@
       "comment": ""
     }
   ],
-  "totalActivities": 155,
-  "activeDays": 108,
+  "totalActivities": 156,
+  "activeDays": 109,
   "restDays": 34
 }

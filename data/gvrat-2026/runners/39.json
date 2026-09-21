@@ -1323,9 +1323,17 @@
       "type": "walk",
       "time": null,
       "comment": "morning dog walk and evening walk to concert"
+    },
+    {
+      "date": "2026-09-20",
+      "miles": 1.43,
+      "km": 2.3,
+      "type": "walk",
+      "time": null,
+      "comment": "two dog walks"
     }
   ],
-  "totalActivities": 154,
-  "activeDays": 131,
+  "totalActivities": 155,
+  "activeDays": 132,
   "restDays": 11
 }

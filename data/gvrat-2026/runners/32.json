@@ -1355,9 +1355,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-20",
+      "miles": 16.02,
+      "km": 25.78,
+      "type": "run",
+      "time": null,
+      "comment": "Longish run with friends."
     }
   ],
-  "totalActivities": 139,
-  "activeDays": 112,
+  "totalActivities": 140,
+  "activeDays": 113,
   "restDays": 30
 }
