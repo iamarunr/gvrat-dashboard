@@ -1491,9 +1491,17 @@
       "type": "walk",
       "time": null,
       "comment": "Hike and several town walks on Flores"
+    },
+    {
+      "date": "2026-09-21",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 171,
   "activeDays": 128,
-  "restDays": 15
+  "restDays": 16
 }

@@ -1955,9 +1955,25 @@
       "type": "walk",
       "time": null,
       "comment": "TM"
+    },
+    {
+      "date": "2026-09-21",
+      "miles": 3.48,
+      "km": 5.6,
+      "type": "walk",
+      "time": null,
+      "comment": "Sunset is getting earlier."
+    },
+    {
+      "date": "2026-09-21",
+      "miles": 1.52,
+      "km": 2.45,
+      "type": "walk",
+      "time": null,
+      "comment": "Tm finish"
     }
   ],
-  "totalActivities": 215,
-  "activeDays": 114,
+  "totalActivities": 217,
+  "activeDays": 115,
   "restDays": 29
 }

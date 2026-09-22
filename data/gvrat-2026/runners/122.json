@@ -1195,9 +1195,17 @@
       "type": "rest",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-21",
+      "miles": 6.16,
+      "km": 9.91,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning walk before rain."
     }
   ],
-  "totalActivities": 126,
-  "activeDays": 120,
+  "totalActivities": 127,
+  "activeDays": 121,
   "restDays": 23
 }

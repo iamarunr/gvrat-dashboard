@@ -1467,9 +1467,17 @@
       "type": "walk",
       "time": null,
       "comment": "Best Western to Sugarland Out & Back"
+    },
+    {
+      "date": "2026-09-21",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 149,
   "activeDays": 109,
-  "restDays": 34
+  "restDays": 35
 }

@@ -1694,38 +1694,86 @@
     },
     {
       "date": "2026-09-17",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 9.0,
+      "km": 14.48,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "1578' ascent.  9K, Bloods Lake & Bonanza Flats (BLT)"
+    },
+    {
+      "date": "2026-09-17",
+      "miles": 0.59,
+      "km": 0.95,
+      "type": "walk",
+      "time": null,
+      "comment": "92' ascent.  Bonanza Flats"
+    },
+    {
+      "date": "2026-09-17",
+      "miles": 1.0,
+      "km": 1.61,
+      "type": "walk",
+      "time": null,
+      "comment": "364' ascent.  Bonanza Flats-ish"
     },
     {
       "date": "2026-09-18",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.01,
+      "km": 6.45,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "299' ascent.  Deer Creek Reservoir w/ Hayley"
+    },
+    {
+      "date": "2026-09-18",
+      "miles": 4.47,
+      "km": 7.19,
+      "type": "walk",
+      "time": null,
+      "comment": "640' ascent.  Bonanza Flats w/ Hayley & Rick"
     },
     {
       "date": "2026-09-19",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.51,
+      "km": 7.26,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "180' ascent.  Mid Mountain (east) & Deer Crest w/ Hayley & Rick"
+    },
+    {
+      "date": "2026-09-19",
+      "miles": 0.47,
+      "km": 0.76,
+      "type": "walk",
+      "time": null,
+      "comment": "89' ascent.  After brunch walk to scenic lift ride w/ Hayley & Rick"
     },
     {
       "date": "2026-09-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 11.91,
+      "km": 19.17,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "2310' ascent.  Wasatch Crest, Desolation Lake w/ Hayley & Rick"
+    },
+    {
+      "date": "2026-09-21",
+      "miles": 6.01,
+      "km": 9.67,
+      "type": "run",
+      "time": null,
+      "comment": "135' ascent.  Union Pacific RT from Wanship"
+    },
+    {
+      "date": "2026-09-21",
+      "miles": 2.12,
+      "km": 3.41,
+      "type": "walk",
+      "time": null,
+      "comment": "377' ascent.  Shundahai fall colors"
     }
   ],
-  "totalActivities": 211,
-  "activeDays": 139,
-  "restDays": 4
+  "totalActivities": 221,
+  "activeDays": 144,
+  "restDays": 0
 }

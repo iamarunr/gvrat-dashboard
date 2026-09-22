@@ -1267,9 +1267,17 @@
       "type": "walk",
       "time": null,
       "comment": "From U-Dist. SFCC loop"
+    },
+    {
+      "date": "2026-09-21",
+      "miles": 6.21,
+      "km": 9.99,
+      "type": "run",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 99,
-  "activeDays": 84,
+  "totalActivities": 100,
+  "activeDays": 85,
   "restDays": 59
 }

@@ -1523,9 +1523,25 @@
       "type": "walk",
       "time": null,
       "comment": "Walk"
+    },
+    {
+      "date": "2026-09-21",
+      "miles": 4.6,
+      "km": 7.4,
+      "type": "walk",
+      "time": null,
+      "comment": "Telegraph Hike"
+    },
+    {
+      "date": "2026-09-21",
+      "miles": 0.62,
+      "km": 1.0,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning break walk"
     }
   ],
-  "totalActivities": 170,
-  "activeDays": 123,
+  "totalActivities": 172,
+  "activeDays": 124,
   "restDays": 20
 }
