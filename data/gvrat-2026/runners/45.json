@@ -1430,14 +1430,22 @@
     },
     {
       "date": "2026-09-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.1,
+      "km": 6.6,
+      "type": "walk",
       "time": null,
       "comment": ""
+    },
+    {
+      "date": "2026-09-22",
+      "miles": 18.5,
+      "km": 29.77,
+      "type": "walk",
+      "time": null,
+      "comment": "Camino -day 1"
     }
   ],
-  "totalActivities": 178,
-  "activeDays": 143,
-  "restDays": 1
+  "totalActivities": 180,
+  "activeDays": 145,
+  "restDays": 0
 }

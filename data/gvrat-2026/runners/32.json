@@ -1366,14 +1366,22 @@
     },
     {
       "date": "2026-09-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 10.08,
+      "km": 16.22,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "A run with my bro in law."
+    },
+    {
+      "date": "2026-09-22",
+      "miles": 5.06,
+      "km": 8.14,
+      "type": "run",
+      "time": null,
+      "comment": "Run/walk on the mill."
     }
   ],
-  "totalActivities": 140,
-  "activeDays": 113,
-  "restDays": 31
+  "totalActivities": 142,
+  "activeDays": 115,
+  "restDays": 30
 }

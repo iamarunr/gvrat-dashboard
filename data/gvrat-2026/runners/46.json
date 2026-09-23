@@ -2475,9 +2475,25 @@
       "type": "walk",
       "time": null,
       "comment": "RSD 4124 NEYoung Park loop Run"
+    },
+    {
+      "date": "2026-09-21",
+      "miles": 4.11,
+      "km": 6.61,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-22",
+      "miles": 3.54,
+      "km": 5.7,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4125 FPL dirt loop Run"
     }
   ],
-  "totalActivities": 309,
-  "activeDays": 144,
+  "totalActivities": 311,
+  "activeDays": 145,
   "restDays": 0
 }

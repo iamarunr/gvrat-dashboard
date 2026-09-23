@@ -1963,9 +1963,65 @@
       "type": "walk",
       "time": null,
       "comment": "Morning steps"
+    },
+    {
+      "date": "2026-09-21",
+      "miles": 3.26,
+      "km": 5.25,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-09-21",
+      "miles": 3.56,
+      "km": 5.73,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-09-21",
+      "miles": 3.48,
+      "km": 5.6,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
+    },
+    {
+      "date": "2026-09-22",
+      "miles": 1.76,
+      "km": 2.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning steps with Moon Valley Moms"
+    },
+    {
+      "date": "2026-09-22",
+      "miles": 1.26,
+      "km": 2.03,
+      "type": "walk",
+      "time": null,
+      "comment": "Abrazo work steps between cases"
+    },
+    {
+      "date": "2026-09-22",
+      "miles": 1.27,
+      "km": 2.04,
+      "type": "walk",
+      "time": null,
+      "comment": "Afternoon steps between cases"
+    },
+    {
+      "date": "2026-09-22",
+      "miles": 3.35,
+      "km": 5.39,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
     }
   ],
-  "totalActivities": 239,
-  "activeDays": 138,
+  "totalActivities": 246,
+  "activeDays": 139,
   "restDays": 6
 }

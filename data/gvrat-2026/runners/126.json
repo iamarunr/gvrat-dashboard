@@ -1171,9 +1171,17 @@
       "type": "walk",
       "time": null,
       "comment": "Yom Kippur ends"
+    },
+    {
+      "date": "2026-09-22",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 144,
   "activeDays": 142,
-  "restDays": 2
+  "restDays": 3
 }

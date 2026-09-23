@@ -1763,9 +1763,33 @@
       "type": "walk",
       "time": null,
       "comment": "Night walk to finish out the day."
+    },
+    {
+      "date": "2026-09-22",
+      "miles": 1.28,
+      "km": 2.06,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-09-22",
+      "miles": 0.24,
+      "km": 0.39,
+      "type": "walk",
+      "time": null,
+      "comment": "Lap of the Glendale office site."
+    },
+    {
+      "date": "2026-09-22",
+      "miles": 1.52,
+      "km": 2.45,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs."
     }
   ],
-  "totalActivities": 211,
-  "activeDays": 135,
+  "totalActivities": 214,
+  "activeDays": 136,
   "restDays": 9
 }

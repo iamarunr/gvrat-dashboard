@@ -1310,22 +1310,30 @@
     },
     {
       "date": "2026-09-20",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.95,
+      "km": 4.75,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "dog walk, treadmill"
     },
     {
       "date": "2026-09-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.65,
+      "km": 4.26,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "dog walk, cardio day, treadmill"
+    },
+    {
+      "date": "2026-09-22",
+      "miles": 2.5,
+      "km": 4.02,
+      "type": "walk",
+      "time": null,
+      "comment": "morning walk and DMNS walk"
     }
   ],
-  "totalActivities": 159,
-  "activeDays": 138,
-  "restDays": 6
+  "totalActivities": 162,
+  "activeDays": 141,
+  "restDays": 4
 }

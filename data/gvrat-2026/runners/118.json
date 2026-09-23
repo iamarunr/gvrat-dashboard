@@ -1470,14 +1470,30 @@
     },
     {
       "date": "2026-09-21",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 4.19,
+      "km": 6.74,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "Gatlinburg Walkabout"
+    },
+    {
+      "date": "2026-09-21",
+      "miles": 1.32,
+      "km": 2.12,
+      "type": "walk",
+      "time": null,
+      "comment": "Kuwohi"
+    },
+    {
+      "date": "2026-09-22",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking & Working"
     }
   ],
-  "totalActivities": 149,
-  "activeDays": 109,
-  "restDays": 35
+  "totalActivities": 152,
+  "activeDays": 111,
+  "restDays": 34
 }

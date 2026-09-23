@@ -1539,9 +1539,17 @@
       "type": "walk",
       "time": null,
       "comment": "CCT to the Office"
+    },
+    {
+      "date": "2026-09-22",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 158,
   "activeDays": 110,
-  "restDays": 34
+  "restDays": 35
 }
