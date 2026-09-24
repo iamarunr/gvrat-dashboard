@@ -2019,9 +2019,33 @@
       "type": "walk",
       "time": null,
       "comment": "Treadmill"
+    },
+    {
+      "date": "2026-09-23",
+      "miles": 2.57,
+      "km": 4.14,
+      "type": "walk",
+      "time": null,
+      "comment": "Mornin steps with Moon Valley Moms"
+    },
+    {
+      "date": "2026-09-23",
+      "miles": 1.53,
+      "km": 2.46,
+      "type": "walk",
+      "time": null,
+      "comment": "Morning steps at work"
+    },
+    {
+      "date": "2026-09-23",
+      "miles": 3.61,
+      "km": 5.81,
+      "type": "walk",
+      "time": null,
+      "comment": "Treadmill"
     }
   ],
-  "totalActivities": 246,
-  "activeDays": 139,
+  "totalActivities": 249,
+  "activeDays": 140,
   "restDays": 6
 }

@@ -2491,9 +2491,25 @@
       "type": "run",
       "time": null,
       "comment": "RSD 4125 FPL dirt loop Run"
+    },
+    {
+      "date": "2026-09-22",
+      "miles": 4.38,
+      "km": 7.05,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-23",
+      "miles": 7.52,
+      "km": 12.1,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4126 ran/walked the road near the Mineola Nature Preserve"
     }
   ],
-  "totalActivities": 311,
-  "activeDays": 145,
+  "totalActivities": 313,
+  "activeDays": 146,
   "restDays": 0
 }

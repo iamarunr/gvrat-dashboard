@@ -1979,9 +1979,17 @@
       "type": "run",
       "time": null,
       "comment": "BB run with CA"
+    },
+    {
+      "date": "2026-09-23",
+      "miles": 5.31,
+      "km": 8.55,
+      "type": "walk",
+      "time": null,
+      "comment": "Tm all day"
     }
   ],
-  "totalActivities": 218,
-  "activeDays": 116,
+  "totalActivities": 219,
+  "activeDays": 117,
   "restDays": 29
 }

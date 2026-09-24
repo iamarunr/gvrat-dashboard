@@ -1443,9 +1443,17 @@
       "type": "walk",
       "time": null,
       "comment": "Camino -day 1"
+    },
+    {
+      "date": "2026-09-23",
+      "miles": 19.0,
+      "km": 30.58,
+      "type": "run",
+      "time": null,
+      "comment": "Day 2 - Camino de Santiago"
     }
   ],
-  "totalActivities": 180,
-  "activeDays": 145,
+  "totalActivities": 181,
+  "activeDays": 146,
   "restDays": 0
 }
