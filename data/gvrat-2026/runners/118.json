@@ -1499,9 +1499,25 @@
       "type": "walk",
       "time": null,
       "comment": "Walking & Working"
+    },
+    {
+      "date": "2026-09-24",
+      "miles": 2.2,
+      "km": 3.54,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking & Working"
+    },
+    {
+      "date": "2026-09-24",
+      "miles": 4.0,
+      "km": 6.44,
+      "type": "walk",
+      "time": null,
+      "comment": "Gettysburg Walkabout"
     }
   ],
-  "totalActivities": 153,
-  "activeDays": 112,
+  "totalActivities": 155,
+  "activeDays": 113,
   "restDays": 34
 }

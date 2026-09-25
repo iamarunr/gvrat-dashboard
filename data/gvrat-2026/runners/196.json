@@ -1987,9 +1987,17 @@
       "type": "walk",
       "time": null,
       "comment": "Tm all day"
+    },
+    {
+      "date": "2026-09-24",
+      "miles": 2.05,
+      "km": 3.3,
+      "type": "walk",
+      "time": null,
+      "comment": "Early am"
     }
   ],
-  "totalActivities": 219,
-  "activeDays": 117,
+  "totalActivities": 220,
+  "activeDays": 118,
   "restDays": 29
 }

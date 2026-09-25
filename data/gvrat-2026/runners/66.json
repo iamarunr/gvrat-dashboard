@@ -1811,9 +1811,33 @@
       "type": "walk",
       "time": null,
       "comment": "Neighborhood laps."
+    },
+    {
+      "date": "2026-09-24",
+      "miles": 0.99,
+      "km": 1.59,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-09-24",
+      "miles": 1.55,
+      "km": 2.49,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking the dogs."
+    },
+    {
+      "date": "2026-09-24",
+      "miles": 3.52,
+      "km": 5.66,
+      "type": "walk",
+      "time": null,
+      "comment": "Night walk around the neighborhood."
     }
   ],
-  "totalActivities": 217,
-  "activeDays": 137,
+  "totalActivities": 220,
+  "activeDays": 138,
   "restDays": 9
 }
