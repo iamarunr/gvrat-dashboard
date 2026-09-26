@@ -1459,9 +1459,17 @@
       "type": "walk",
       "time": null,
       "comment": "Camino de Santiago - day 3"
+    },
+    {
+      "date": "2026-09-25",
+      "miles": 15.0,
+      "km": 24.14,
+      "type": "walk",
+      "time": null,
+      "comment": "Camino de Santiago - day 4"
     }
   ],
-  "totalActivities": 182,
-  "activeDays": 147,
+  "totalActivities": 183,
+  "activeDays": 148,
   "restDays": 0
 }

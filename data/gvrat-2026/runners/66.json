@@ -1835,9 +1835,17 @@
       "type": "walk",
       "time": null,
       "comment": "Night walk around the neighborhood."
+    },
+    {
+      "date": "2026-09-25",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 220,
   "activeDays": 138,
-  "restDays": 9
+  "restDays": 10
 }

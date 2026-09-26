@@ -1334,22 +1334,38 @@
     },
     {
       "date": "2026-09-23",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 3.06,
+      "km": 4.92,
+      "type": "run",
       "time": null,
-      "comment": ""
+      "comment": "morning run"
+    },
+    {
+      "date": "2026-09-23",
+      "miles": 3.0,
+      "km": 4.83,
+      "type": "walk",
+      "time": null,
+      "comment": "morning walk plus the zoo"
     },
     {
       "date": "2026-09-24",
-      "miles": 0.0,
-      "km": 0.0,
-      "type": "rest",
+      "miles": 2.6,
+      "km": 4.18,
+      "type": "walk",
       "time": null,
-      "comment": ""
+      "comment": "morning walk and pickleball"
+    },
+    {
+      "date": "2026-09-25",
+      "miles": 0.6,
+      "km": 0.97,
+      "type": "walk",
+      "time": null,
+      "comment": "morning treadmill, busy day"
     }
   ],
-  "totalActivities": 162,
-  "activeDays": 141,
-  "restDays": 6
+  "totalActivities": 166,
+  "activeDays": 144,
+  "restDays": 4
 }

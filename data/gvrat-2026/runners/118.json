@@ -1515,9 +1515,25 @@
       "type": "walk",
       "time": null,
       "comment": "Gettysburg Walkabout"
+    },
+    {
+      "date": "2026-09-25",
+      "miles": 6.78,
+      "km": 10.91,
+      "type": "walk",
+      "time": null,
+      "comment": "Walking & Working"
+    },
+    {
+      "date": "2026-09-25",
+      "miles": 10.3,
+      "km": 16.58,
+      "type": "walk",
+      "time": null,
+      "comment": "Cumberland Valley Rail Trail"
     }
   ],
-  "totalActivities": 155,
-  "activeDays": 113,
+  "totalActivities": 157,
+  "activeDays": 114,
   "restDays": 34
 }

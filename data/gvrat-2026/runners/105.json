@@ -1179,9 +1179,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walked a couple of slow miles with Eddie\ud83d\udc15"
+    },
+    {
+      "date": "2026-09-25",
+      "miles": 0.0,
+      "km": 0.0,
+      "type": "rest",
+      "time": null,
+      "comment": ""
     }
   ],
   "totalActivities": 147,
   "activeDays": 147,
-  "restDays": 0
+  "restDays": 1
 }

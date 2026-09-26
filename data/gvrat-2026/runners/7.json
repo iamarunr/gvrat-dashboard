@@ -1587,9 +1587,17 @@
       "type": "walk",
       "time": null,
       "comment": "Walk to the post office"
+    },
+    {
+      "date": "2026-09-25",
+      "miles": 4.07,
+      "km": 6.55,
+      "type": "walk",
+      "time": null,
+      "comment": "Walk"
     }
   ],
-  "totalActivities": 178,
-  "activeDays": 127,
+  "totalActivities": 179,
+  "activeDays": 128,
   "restDays": 20
 }

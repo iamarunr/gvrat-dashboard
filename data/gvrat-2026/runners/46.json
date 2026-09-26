@@ -2523,9 +2523,33 @@
       "type": "run",
       "time": null,
       "comment": "RSD 4127 Rd Run"
+    },
+    {
+      "date": "2026-09-24",
+      "miles": 5.99,
+      "km": 9.64,
+      "type": "walk",
+      "time": null,
+      "comment": ""
+    },
+    {
+      "date": "2026-09-25",
+      "miles": 1.02,
+      "km": 1.64,
+      "type": "run",
+      "time": null,
+      "comment": "RSD 4128 EZ Trail Run"
+    },
+    {
+      "date": "2026-09-25",
+      "miles": 5.07,
+      "km": 8.16,
+      "type": "walk",
+      "time": null,
+      "comment": ""
     }
   ],
-  "totalActivities": 315,
-  "activeDays": 147,
+  "totalActivities": 318,
+  "activeDays": 148,
   "restDays": 0
 }
